@@ -1,10 +1,10 @@
-# Kakobuy Spreadsheet Hub: Central Resource for Replica Market Research
+﻿# Kakobuy Spreadsheet Hub: Central Resource for Replica Market Research
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 ## In This Article
 
-- Overview of the Kakobuy Spreadsheet spreadsheet as a central hub for replica market data
+- Overview of the Kakobuy Spreadsheet as a central hub for replica market data
 - How the hub integrates multiple data sources into a unified resource
 - Centralized features for product research, seller evaluation, and market analysis
 - Using the hub as a starting point for all replica shopping decisions

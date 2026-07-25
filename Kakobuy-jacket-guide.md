@@ -1,4 +1,4 @@
-# Kakobuy Spreadsheet Jacket Guide 2026: Your Data-Driven Playbook for Scoring Premium Outerwear at Warehouse Prices
+﻿# Kakobuy Spreadsheet Jacket Guide 2026: Your Data-Driven Playbook for Scoring Premium Outerwear at Warehouse Prices
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
@@ -112,7 +112,7 @@ Kakobuy Spreadsheet offers exchanges within 7 days of delivery for size swaps, t
 
 Kakobuy Spreadsheet's 2026 jacket lineup is stronger than ever, with over 1,200 SKUs spanning workwear, luxury and performance categories at 55¨C96 % below retail. The data backs it up: 94.6 % quality pass rates, 89.7 % buyer satisfaction and thousands of repeat customers voting with their wallets.
 
-Your next move is simple. Bookmark the <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Kakobuy Spreadsheet spreadsheet</a>, cross-check the prices in this guide, and use our sizing resources before ordering. Whether you grab the $21.26 North Face down jacket or the $78.57 Moncler puffer, you are getting outerwear that performs well above its price point.
+Your next move is simple. Bookmark the <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Kakobuy Spreadsheet</a>, cross-check the prices in this guide, and use our sizing resources before ordering. Whether you grab the $21.26 North Face down jacket or the $78.57 Moncler puffer, you are getting outerwear that performs well above its price point.
 
 Stop overpaying for branded jackets. Start shopping smarter with Kakobuy Spreadsheet in 2026.
 

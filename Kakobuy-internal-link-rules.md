@@ -156,27 +156,27 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 ### Introduction Section
 - **Link count**: 0-1 link
 - **Purpose**: Set context, link to main category or brand page if relevant
-- **Example**: "Kakobuy Spreadsheet offers over 22,000 verified products, including an extensive [Kakobuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection..."
+- **Example**: "Kakobuy Spreadsheet offers over 22,000 verified products, including an extensive [Kakobuy sneakers](/Kakobuy-sneakers/) collection..."
 
 ### Main Section 1 (Core Topic)
 - **Link count**: 1-2 links
 - **Purpose**: Link to related category, brand, or feature pages
-- **Example**: "When shopping for [Kakobuy nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  products, you'll find..."
+- **Example**: "When shopping for [Kakobuy nike](/Kakobuy-nike/) products, you'll find..."
 
 ### Main Section 2 (Benefits/Features)
 - **Link count**: 1-2 links
 - **Purpose**: Link to complementary guides or related products
-- **Example**: "For proper fit, check our [Kakobuy sizing guide param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  before ordering..."
+- **Example**: "For proper fit, check our [Kakobuy sizing guide](/Kakobuy-sizing-guide/) before ordering..."
 
 ### Main Section 3 (How to Use)
 - **Link count**: 0-1 link
 - **Purpose**: Link to process-related guides (shipping, how to use)
-- **Example**: "After ordering, refer to our [Kakobuy shipping guide param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  for delivery timelines..."
+- **Example**: "After ordering, refer to our [Kakobuy shipping guide](/Kakobuy-shipping-guide/) for delivery timelines..."
 
 ### Product Highlights Section
 - **Link count**: 0-1 link
 - **Purpose**: Optional link to brand or category page
-- **Example**: "Explore more [Kakobuy hoodies param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  in our collection..."
+- **Example**: "Explore more [Kakobuy hoodies](/Kakobuy-hoodies/) in our collection..."
 
 ### FAQ Section
 - **Link count**: 0 links

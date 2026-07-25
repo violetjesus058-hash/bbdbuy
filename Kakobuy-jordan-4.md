@@ -1,4 +1,4 @@
-# Kakobuy Spreadsheet Jordan 4 2026: Complete Guide to Buying Jordan 4 Sneakers on Kakobuy Spreadsheet
+﻿# Kakobuy Spreadsheet Jordan 4 2026: Complete Guide to Buying Jordan 4 Sneakers on Kakobuy Spreadsheet
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
@@ -52,7 +52,7 @@ The Jordan 4 tongue features the signature mesh construction with a padded inter
 
 ## QC Photo Review Checklist for Jordan 4
 
-Every order placed through goes on Kakobuy Spreadsheet through a quality control checkpoint where detailed photographs are taken. Here is a model-specific checklist for reviewing Jordan 4 QC photos:
+Every order placed through goes through Kakobuy Spreadsheet a quality control checkpoint where detailed photographs are taken. Here is a model-specific checklist for reviewing Jordan 4 QC photos:
 
 **Exterior Check:**
 - Mesh panels on quarter and tongue: consistent texture, no rough edges or flash

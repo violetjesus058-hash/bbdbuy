@@ -104,7 +104,7 @@ This system replaces fixed templates with **composable content modules** that ad
   - Example: "If your priority is [A], choose [option 1]. If you need [B], go with [option 2]..."
 - **M5c - Checklist**: Action items for the reader
   - Format: Checkbox list
-  - Example: "Before ordering, verify: ¡õ [criterion 1] ¡õ [criterion 2] ¡õ [criterion 3]..."
+  - Example: "Before ordering, verify: ☐ [criterion 1] ☐ [criterion 2] ☐ [criterion 3]..."
 
 **E-E-A-T Integration**:
 - Experience: Provide tested, proven steps

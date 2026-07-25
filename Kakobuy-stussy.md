@@ -1,4 +1,4 @@
-# Kakobuy Spreadsheet Stussy 2026: Complete Guide to OG Streetwear
+﻿# Kakobuy Spreadsheet Stussy 2026: Complete Guide to OG Streetwear
 
 
 
@@ -140,7 +140,7 @@ For those serious about building a Stussy collection or reselling these items, t
 
 
 
-Access the complete dataset through the Kakobuy Spreadsheet spreadsheet to track real-time pricing and product availability. This data-driven approach separates successful buyers from those who rely on guesswork, particularly in a market where quality variations exist across suppliers. Start with the verified Stussy T-shirt listing, then expand into other categories as additional products become available on the platform.
+Access the complete dataset through the Kakobuy Spreadsheet to track real-time pricing and product availability. This data-driven approach separates successful buyers from those who rely on guesswork, particularly in a market where quality variations exist across suppliers. Start with the verified Stussy T-shirt listing, then expand into other categories as additional products become available on the platform.
 
 
 

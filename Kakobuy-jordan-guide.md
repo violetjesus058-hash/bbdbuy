@@ -1,4 +1,4 @@
-# Kakobuy Spreadsheet Jordan Guide 2026: The Complete Buyer's Reference for Air Jordan Products
+﻿# Kakobuy Spreadsheet Jordan Guide 2026: The Complete Buyer's Reference for Air Jordan Products
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
@@ -56,7 +56,7 @@ Quality and batch selection are the two most important factors when ordering Jor
 
 **Batch Quality Breakdown**
 
-The Kakobuy Spreadsheet spreadsheet typically lists multiple batch versions for popular Jordan models. The most common batch designations include:
+The Kakobuy Spreadsheet typically lists multiple batch versions for popular Jordan models. The most common batch designations include:
 
 - **PK (Perfect Knock):** Usually the highest quality tier, with attention to material accuracy and construction details. Recommended for Jordan 4 and Jordan 5 models where mesh texturing, reflective elements, and molded plastic components require precise reproduction.
 - **TOP Batch:** A solid mid-tier option that balances quality and price. Most Jordan 1 Low and Jordan 3 models in the TOP batch receive positive reviews for accurate color blocking and leather quality.
@@ -66,7 +66,7 @@ Quality ratings on the spreadsheet aggregate buyer feedback into a simple percen
 
 **QC Photo Review: Model-Specific Tips**
 
-Every order placed through goes on Kakobuy Spreadsheet through a quality control checkpoint where detailed photographs are taken. For Jordan sneakers, here is what to check for each model:
+Every order placed through goes through Kakobuy Spreadsheet a quality control checkpoint where detailed photographs are taken. For Jordan sneakers, here is what to check for each model:
 
 - **Jordan 1 Low:** Check stitching consistency around the Swoosh, leather quality and color accuracy, sole bonding (the midsole should sit flush with no gaps), and tongue label placement.
 - **Jordan 3:** Focus on elephant print placement and texture accuracy, visible Air window clarity, tongue Jumpman embroidery density, and heel tab shape.

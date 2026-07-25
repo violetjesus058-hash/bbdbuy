@@ -85,17 +85,17 @@ find . -name "Kakobuy Spreadsheet*.md" -type f -exec sed -i 's/Kakobuy-/Kakobuy 
 **受影响文件及示例**:
 
 #### Kakobuy Spreadsheet /Kakobuy-hoodies/
-- �?17 �? `satisfaction rates above 85%` - 缺少数据来源
-- �?19 �? `quality pass rate...88-94%` - 缺少数据来源
+- 第 17 行: `satisfaction rates above 85%` - 缺少数据来源
+- 第 19 行: `quality pass rate...88-94%` - 缺少数据来源
 
 #### Kakobuy Spreadsheet /Kakobuy-palm-angels/
-- �?17 �? `over 12,000 Palm Angels orders` - 缺少数据来源
-- �?19 �? `Palm Angels search volume increasing 28% year-over-year` - 缺少数据来源
-- �?21 �? `93.2% average quality pass rate` - 缺少数据来源
+- 第 17 行: `over 12,000 Palm Angels orders` - 缺少数据来源
+- 第 19 行: `Palm Angels search volume increasing 28% year-over-year` - 缺少数据来源
+- 第 21 行: `93.2% average quality pass rate` - 缺少数据来源
 
 #### Kakobuy Spreadsheet /Kakobuy-essentials/
-- �?17 �? `over 3,200 orders per quarter` - 缺少数据来源
-- �?17 �? `quality pass rates consistently ranging between 89% and 94%` - 缺少数据来源
+- 第 17 行: `over 3,200 orders per quarter` - 缺少数据来源
+- 第 17 行: `quality pass rates consistently ranging between 89% and 94%` - 缺少数据来源
 
 **修复建议**: 在每个统计数据后添加来源说明
 
