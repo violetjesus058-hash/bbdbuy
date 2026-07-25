@@ -26,7 +26,7 @@ The platform supports major carriers including EMS, DHL, FedEx, and specialized 
 
 ## Customs and Import Regulations
 
-Polish customs regulations follow European Union standards, requiring all imported goods to comply with local safety requirements. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation. Orders valued under �150 typically qualify for simplified clearance procedures, while higher-value shipments may incur Value Added Tax (VAT) at 23% and applicable customs duties.
+Polish customs regulations follow European Union standards, requiring all imported goods to comply with local safety requirements. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation. Orders valued under �150 typically qualify for simplified clearance procedures, while higher-value shipments may incur Value Added Tax (VAT) at 23% and applicable customs duties.
 
 Prohibited items include certain biological materials, weapons replicas, and items infringing intellectual property rights. Kakobuy Spreadsheet's compliance team reviews orders before shipping to identify potential customs issues. The platform maintains a 97% customs clearance success rate for Polish shipments by ensuring proper documentation and accurate product descriptions.
 

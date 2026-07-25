@@ -26,7 +26,7 @@ All shipments include tracking numbers that work with Poczta Polska and local co
 
 ## EU Customs Regulations and Tax Updates for 2026
 
-Polish customs regulations in 2026 continue to follow European Union standards, with some updates to streamline the import process. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation. Orders valued under �150 typically qualify for simplified clearance procedures, while higher-value shipments may incur Value Added Tax (VAT) at 23% and applicable customs duties.
+Polish customs regulations in 2026 continue to follow European Union standards, with some updates to streamline the import process. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation. Orders valued under �150 typically qualify for simplified clearance procedures, while higher-value shipments may incur Value Added Tax (VAT) at 23% and applicable customs duties.
 
 The European Union has implemented new digital customs declaration systems in 2026, which Kakobuy Spreadsheet has fully integrated into its platform. This automation has reduced customs clearance times by an average of 2-3 days compared to 2025. The platform maintains a 97% customs clearance success rate for Polish shipments by ensuring proper documentation and accurate product descriptions.
 

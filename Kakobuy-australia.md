@@ -26,7 +26,7 @@ The platform supports major carriers including EMS, DHL, FedEx, and specialized 
 
 ## Customs and Import Regulations
 
-Australian customs regulations require all imported goods to comply with local standards and biosecurity requirements. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation. Orders valued under AUD 1,000 typically qualify for simplified clearance procedures, while higher-value shipments may incur Goods and Services Tax (GST) at 10% of the total value including shipping.
+Australian customs regulations require all imported goods to comply with local standards and biosecurity requirements. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation. Orders valued under AUD 1,000 typically qualify for simplified clearance procedures, while higher-value shipments may incur Goods and Services Tax (GST) at 10% of the total value including shipping.
 
 Prohibited items include certain biological materials, weapons replicas, and items infringing intellectual property rights. Kakobuy Spreadsheet's compliance team reviews orders before shipping to identify potential customs issues. The platform maintains a 97% customs clearance success rate for Australian shipments by ensuring proper documentation and accurate product descriptions.
 

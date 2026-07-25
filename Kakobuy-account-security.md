@@ -46,7 +46,7 @@ Security questions provide additional authentication factors for account recover
 
 ## Recognizing Account Compromise Attempts
 
-Early detection of account compromise enables rapid response minimizing potential damage. Kakobuy Spreadsheet educates customers about common compromise indicators and provides tools for monitoring account security.
+Early detection of account compromise enables rapid response minimizing potential damage. educates customers on Kakobuy Spreadsheet about common compromise indicators and provides tools for monitoring account security.
 
 Unauthorized login notifications alert customers when accounts are accessed from new devices or locations. These notifications include login time, IP address, device type, and geographic location. Customers should immediately investigate any unrecognized login activity. The platform's notification system has helped customers identify and respond to over 3,400 potential compromise attempts in the past year.
 

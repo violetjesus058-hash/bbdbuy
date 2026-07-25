@@ -14,7 +14,7 @@
 
 The Kakobuy Spreadsheet spreadsheet #1 holds a special place in the world of online shopping resources as the original and most trusted product database. With over 20,000 products cataloged across dozens of categories, this spreadsheet established the standard for verified, data-driven product information that has been copied by many but never surpassed. For shoppers who want access to the most reliable, comprehensive, and time-tested resource available, the #1 spreadsheet remains the gold standard.
 
-The term "#1" refers to the spreadsheet's position as the first and most authoritative Kakobuy Spreadsheet product database. When the spreadsheet was first created, it filled a critical gap in the online shopping landscape: the need for verified, data-driven product information that shoppers could trust. Before the #1 spreadsheet, buyers relied on anecdotal reviews, marketing claims, and unverified seller ratings. The #1 spreadsheet changed this by aggregating data from thousands of verified purchases and quality inspections, providing a level of transparency and reliability that had never been available before.
+The term "#1" refers to the spreadsheet's position as the first and most authoritative product database on Kakobuy Spreadsheet. When the spreadsheet was first created, it filled a critical gap in the online shopping landscape: the need for verified, data-driven product information that shoppers could trust. Before the #1 spreadsheet, buyers relied on anecdotal reviews, marketing claims, and unverified seller ratings. The #1 spreadsheet changed this by aggregating data from thousands of verified purchases and quality inspections, providing a level of transparency and reliability that had never been available before.
 
 Over time, the #1 spreadsheet has evolved and expanded, growing from a modest collection of products to the comprehensive database of 20,000+ items it is today. Throughout this evolution, the spreadsheet has maintained its commitment to accuracy, reliability, and user-focused design. Updates are performed at least twice per week, with new products added regularly and existing entries revised based on fresh buyer feedback and quality inspection data. This commitment to continuous improvement has kept the #1 spreadsheet at the forefront of product research resources.
 
@@ -81,7 +81,7 @@ For help discovering new products and sellers, the [Kakobuy spreadsheet finder](
 ## FAQ
 
 ### Why is it called the "#1" spreadsheet?
-The "#1" designation refers to the spreadsheet's position as the first and most authoritative Kakobuy Spreadsheet product database. It established the standard for verified, data-driven product information and remains the most trusted resource available.
+The "#1" designation refers to the spreadsheet's position as the first and most authoritative product database on Kakobuy Spreadsheet. It established the standard for verified, data-driven product information and remains the most trusted resource available.
 
 ### How is the #1 spreadsheet different from imitators?
 The #1 spreadsheet has a proven track record of reliability, comprehensive product coverage, and continuous updates. While imitators may copy its format, they cannot match its depth of data, accuracy of information, or trust built with the shopping community over time.

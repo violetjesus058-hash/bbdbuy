@@ -26,7 +26,7 @@ The platform supports major global carriers including EMS, DHL, FedEx, UPS, and 
 
 ## International Customs and Import Regulations
 
-International customs regulations vary significantly by country and region, requiring careful attention to local import requirements. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation for each destination. Most countries have de minimis thresholds below which orders qualify for simplified clearance procedures. For example, the United States allows imports up to $800 duty-free, while the European Union uses a �150 threshold for simplified procedures.
+International customs regulations vary significantly by country and region, requiring careful attention to local import requirements. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation for each destination. Most countries have de minimis thresholds below which orders qualify for simplified clearance procedures. For example, the United States allows imports up to $800 duty-free, while the European Union uses a �150 threshold for simplified procedures.
 
 Prohibited items vary by country but typically include certain biological materials, weapons replicas, and items infringing intellectual property rights. Kakobuy Spreadsheet's compliance team reviews orders before shipping to identify potential customs issues based on destination country. The platform maintains a 97% customs clearance success rate globally by ensuring proper documentation and accurate product descriptions tailored to each country's requirements.
 

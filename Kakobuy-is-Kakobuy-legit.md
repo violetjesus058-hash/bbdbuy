@@ -36,7 +36,7 @@ The quality control system is perhaps Kakobuy Spreadsheet's strongest trust sign
 
 For buyers who want to see real QC photo examples and understand what to expect, our [Kakobuy qc photos](/Kakobuy-qc-photos/) guide provides detailed samples and analysis. The platform's QC team consists of over 30 trained inspectors who evaluate products against standardized criteria including material quality, color accuracy, stitching consistency, logo placement, and overall craftsmanship.
 
-Kakobuy Spreadsheet also maintains a transparent pricing structure with no hidden fees. The platform clearly displays service fees, domestic shipping costs, and estimated international shipping rates before checkout. Their exchange rate margins are competitive, typically within 1-2% of market rates, which is significantly better than many competing agents that charge 5-8% margins. The platform processes over $50 million in transactions annually, with a dispute rate of less than 2.3% — well below the industry average of 5-7%.
+also on Kakobuy Spreadsheet maintains a transparent pricing structure with no hidden fees. The platform clearly displays service fees, domestic shipping costs, and estimated international shipping rates before checkout. Their exchange rate margins are competitive, typically within 1-2% of market rates, which is significantly better than many competing agents that charge 5-8% margins. The platform processes over $50 million in transactions annually, with a dispute rate of less than 2.3% — well below the industry average of 5-7%.
 
 ## How to Verify Kakobuy Spreadsheet Legitimacy Yourself
 

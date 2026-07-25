@@ -3,7 +3,7 @@
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
-- What the Kakobuy Spreadsheet collectibles category covers (350+ verified items across multiple subcategories)
+- What the collectibles category on Kakobuy Spreadsheet covers (350+ verified items across multiple subcategories)
 - Top-selling collectibles with quality data and pricing across figures, models, and art toys
 - How the quality verification system works for different collectible types
 - Step-by-step ordering guide for new and experienced collectors
@@ -19,7 +19,7 @@ In the sections below, you will explore the major collectible subcategories avai
 
 ## Major Collectible Subcategories on Kakobuy Spreadsheet
 
-The Kakobuy Spreadsheet collectibles category is organized into several distinct subcategories, each with its own community of enthusiasts and quality standards. Understanding these subcategories helps you navigate the platform more effectively and find items that match your collecting goals.
+The collectibles category on Kakobuy Spreadsheet is organized into several distinct subcategories, each with its own community of enthusiasts and quality standards. Understanding these subcategories helps you navigate the platform more effectively and find items that match your collecting goals.
 
 **Designer Art Toys** form the largest subcategory, with over 120 verified listings. This includes Labubu figures, vinyl art toys, blind box series, and limited-edition releases. Prices range from $8.99 to $65.99, and the quality pass rate averages 91%. Blind boxes are particularly popular, with the Labubu Monsters Original Series leading at 450+ orders. Collectors appreciate the thrill of surprise combined with affordable pricing.
 

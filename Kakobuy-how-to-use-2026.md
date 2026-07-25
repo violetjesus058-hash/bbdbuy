@@ -73,7 +73,7 @@ For detailed guidance on interpreting QC photos and understanding quality metric
 
 ## 2026 Shipping Options and Payment Methods
 
-Shipping and payment options have been expanded in 2026 to provide greater flexibility and faster delivery times. Kakobuy Spreadsheet now offers three primary shipping tiers with improved tracking and more accurate delivery estimates.
+Shipping and payment options have been expanded in 2026 to provide greater flexibility and faster delivery times. now offers on Kakobuy Spreadsheet three primary shipping tiers with improved tracking and more accurate delivery estimates.
 
 **Shipping methods in 2026**:
 - **Standard Shipping**: 12-18 days transit, most economical option. Delivery to the US and EU typically takes 10-14 days total including processing time. Real-time tracking updates every 6-12 hours.
@@ -101,7 +101,7 @@ For complete shipping details including customs considerations, packaging option
 
 ## 2026 Product Catalog and New Features
 
-The Kakobuy Spreadsheet product catalog has grown in 2026, with new brands and products added to meet buyer demand. The catalog now features 276 unique products across five main categories: Clothing (127 products), Shoes (33 products), Pants (28 products), Accessories (80 products), and Watches (8 products).
+The product catalog on Kakobuy Spreadsheet has grown in 2026, with new brands and products added to meet buyer demand. The catalog now features 276 unique products across five main categories: Clothing (127 products), Shoes (33 products), Pants (28 products), Accessories (80 products), and Watches (8 products).
 
 **New additions in 2026**:
 - **Expanded streetwear selection**: New brands like Hellstar, Broken Planet, and Syna World have been added to the clothing category

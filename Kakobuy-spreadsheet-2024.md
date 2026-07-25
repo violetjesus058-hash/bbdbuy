@@ -4,7 +4,7 @@
 
 ## In This Article
 
-- Complete archive of 2024 Kakobuy Spreadsheet spreadsheet data with 20,000+ verified products
+- Complete archive of 2024 spreadsheet data on Kakobuy Spreadsheet with 20,000+ verified products
 - Historical quality metrics and seller performance from the entire 2024 year
 - Category breakdown showing fashion, accessories, and electronics performance
 - How to use 2024 data to inform your 2026 purchasing decisions

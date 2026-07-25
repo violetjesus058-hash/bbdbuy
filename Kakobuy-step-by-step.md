@@ -19,7 +19,7 @@ By the end of this guide, you will know exactly how to register, search, order, 
 
 ## Kakobuy Spreadsheet Step by Step: Account Creation and Initial Setup
 
-The first stage of the **Kakobuy Spreadsheet step by step** workflow takes less than five minutes. Head to the Kakobuy Spreadsheet registration page and provide a valid email address, create a secure password, and confirm your account through the verification link. Unlike some competing platforms, Kakobuy Spreadsheet does not require phone verification or identity documents at the registration stage — you can begin browsing immediately.
+The first stage of the **Kakobuy Spreadsheet step by step** workflow takes less than five minutes. Head to the registration page on Kakobuy Spreadsheet and provide a valid email address, create a secure password, and confirm your account through the verification link. Unlike some competing platforms, Kakobuy Spreadsheet does not require phone verification or identity documents at the registration stage — you can begin browsing immediately.
 
 Once logged in, complete your profile by adding your default shipping address and preferred currency. This saves time later during checkout. The platform supports USD, EUR, and GBP, with automatic conversion at competitive rates. Getting your measurements right the first time saves both money and waiting time, so take a moment to review size charts before ordering.
 

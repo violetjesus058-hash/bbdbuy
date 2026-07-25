@@ -26,7 +26,7 @@ The platform supports major carriers including EMS, DHL, FedEx, and specialized 
 
 ## Customs and Import Regulations Across Oceania
 
-Customs regulations in Oceania are particularly strict, especially in Australia and New Zealand, which have comprehensive biosecurity laws. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation for each destination. Australia allows duty-free imports up to AUD 1,000, while New Zealand has a threshold of NZD 1,000. Both countries require accurate declarations for all items, particularly those containing biological materials, wood, or food products.
+Customs regulations in Oceania are particularly strict, especially in Australia and New Zealand, which have comprehensive biosecurity laws. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation for each destination. Australia allows duty-free imports up to AUD 1,000, while New Zealand has a threshold of NZD 1,000. Both countries require accurate declarations for all items, particularly those containing biological materials, wood, or food products.
 
 Kakobuy Spreadsheet's compliance team maintains up-to-date knowledge of import regulations across all Oceanian countries. The platform maintains a 97% customs clearance success rate for Oceanian shipments by ensuring proper documentation and accurate product descriptions tailored to each country's requirements. Special attention is given to biosecurity requirements, with prohibited items including certain plant materials, animal products, and untreated wood.
 
@@ -40,7 +40,7 @@ Use the Kakobuy Spreadsheet spreadsheet to compare products and shipping costs a
 
 Take advantage of Kakobuy Spreadsheet's repackaging services to reduce volumetric weight for bulky items. The warehouse team can remove unnecessary packaging and consolidate items to minimize shipping dimensions. This optimization can significantly reduce shipping costs for larger orders.
 
-Be aware of biosecurity restrictions when ordering items to Australia and New Zealand. Avoid ordering items containing seeds, plant materials, untreated wood, or animal products unless they meet strict import requirements. Kakobuy Spreadsheet's compliance team can advise on specific items that may face restrictions. Consider timing your purchases around Chinese shopping festivals and Oceanian holiday seasons. Kakobuy Spreadsheet often offers special promotions during these periods, including discounted shipping rates and bulk order incentives.
+Be aware of biosecurity restrictions when ordering items to Australia and New Zealand. Avoid ordering items containing seeds, plant materials, untreated wood, or animal products unless they meet strict import requirements. Kakobuy Spreadsheet's compliance team can advise on specific items that may face restrictions. Consider timing your purchases around Chinese shopping festivals and Oceanian holiday seasons. often offers on special promotions on Kakobuy Spreadsheet during these periods, including discounted shipping rates and bulk order incentives.
 
 ## Product Highlights
 

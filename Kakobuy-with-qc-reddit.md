@@ -20,7 +20,7 @@ Understanding what the Reddit community says about Kakobuy Spreadsheet's QC proc
 
 ## What Reddit Users Say About Kakobuy Spreadsheet QC
 
-Analysis of Reddit discussions about Kakobuy Spreadsheet reveals consistently positive feedback about the platform's quality control system. Users frequently praise the thoroughness of QC photos, with many noting that the 6-10 photos per item provide comprehensive coverage of all critical quality aspects. Common positive comments mention the standardized lighting conditions, multiple angles, and detailed close-ups that allow buyers to evaluate items as if inspecting them in person.
+Analysis of Reddit discussions about reveals cons on Kakobuy Spreadsheetistently positive feedback about the platform's quality control system. Users frequently praise the thoroughness of QC photos, with many noting that the 6-10 photos per item provide comprehensive coverage of all critical quality aspects. Common positive comments mention the standardized lighting conditions, multiple angles, and detailed close-ups that allow buyers to evaluate items as if inspecting them in person.
 
 Reddit users also highlight the speed of QC photo delivery. Many posts mention receiving photos within 24-36 hours of warehouse receipt, which aligns with the platform's documented 96% on-time delivery rate. Fast photo delivery is important because it keeps orders moving and reduces the waiting time between purchase and shipping decisions.
 

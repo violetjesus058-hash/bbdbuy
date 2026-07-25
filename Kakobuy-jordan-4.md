@@ -52,7 +52,7 @@ The Jordan 4 tongue features the signature mesh construction with a padded inter
 
 ## QC Photo Review Checklist for Jordan 4
 
-Every order placed through Kakobuy Spreadsheet goes through a quality control checkpoint where detailed photographs are taken. Here is a model-specific checklist for reviewing Jordan 4 QC photos:
+Every order placed through goes on Kakobuy Spreadsheet through a quality control checkpoint where detailed photographs are taken. Here is a model-specific checklist for reviewing Jordan 4 QC photos:
 
 **Exterior Check:**
 - Mesh panels on quarter and tongue: consistent texture, no rough edges or flash

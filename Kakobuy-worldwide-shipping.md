@@ -40,7 +40,7 @@ Latin American destinations including Brazil, Mexico, Argentina, and Chile have 
 
 ## Customs and Documentation for Worldwide Shipping
 
-International shipping requires careful attention to customs regulations and documentation requirements, which vary significantly by country. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation for each destination. The platform's compliance team maintains up-to-date knowledge of import regulations across 150+ countries, ensuring smooth clearance and minimizing delays.
+International shipping requires careful attention to customs regulations and documentation requirements, which vary significantly by country. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation for each destination. The platform's compliance team maintains up-to-date knowledge of import regulations across 150+ countries, ensuring smooth clearance and minimizing delays.
 
 Most countries have de minimis thresholds below which orders qualify for simplified clearance procedures. For example, the United States allows imports up to $800 duty-free, while the European Union uses a �150 threshold. Kakobuy Spreadsheet provides detailed cost breakdowns before checkout, helping customers understand total landed costs including any applicable taxes and duties.
 

@@ -1,6 +1,6 @@
 # Kakobuy Spreadsheet Article Generation Prompt
 
-> This prompt guides AI to generate high-quality, SEO-optimized articles for Kakobuy Spreadsheet platform pages.
+> This prompt guides AI to generate high-quality, SEO-optimized articles for platform page on Kakobuy Spreadsheets.
 > Each article must follow this structure exactly.
 
 ---
@@ -93,7 +93,7 @@ A: [Answer]
 **Related Guides:**
 - [Internal link 1: Related category/brand page]
 - [Internal link 2: Related feature page]
-- [Internal link 3: Kakobuy Spreadsheet main page or spreadsheet]
+- [Internal link 3: main page on Kakobuy Spreadsheet or spreadsheet]
 ```
 
 ---
@@ -219,7 +219,7 @@ Before finalizing each article, verify:
 [Access Kakobuy Spreadsheet](spreadsheet link)
 
 **In This Article:**
-- What Kakobuy Spreadsheet sneakers collection offers (5,000+ verified listings)
+- What sneakers collection on Kakobuy Spreadsheet offers (5,000+ verified listings)
 - Top-selling sneakers with quality data
 - How to choose the right size and batch
 - Step-by-step ordering guide
@@ -228,7 +228,7 @@ Before finalizing each article, verify:
 ## Introduction
 [300-400 words about Kakobuy Spreadsheet sneakers, include data points]
 
-## Top-Selling Kakobuy Spreadsheet Sneakers
+## Top-Selling Sneakers on Kakobuy Spreadsheet
 [400-500 words with 5 specific products, prices, order counts]
 
 ## Quality Verification System

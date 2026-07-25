@@ -104,7 +104,7 @@ For comprehensive sizing information including measurement charts and conversion
 
 Here is a detailed summary of the Balenciaga Track specifications and performance data:
 
-**Balenciaga Track (Black/Grey)**: ~$115.22 | 250+ orders | 93% quality pass rate | Multi-layered sole with 170+ components, mesh and nylon upper with overlapping panels in black and grey tones, pull tab at heel, and the most complex construction in the entire Kakobuy Spreadsheet footwear catalog.
+**Balenciaga Track (Black/Grey)**: ~$115.22 | 250+ orders | 93% quality pass rate | Multi-layered sole with 170+ components, mesh and nylon upper with overlapping panels in black and grey tones, pull tab at heel, and the most complex construction in the entire footwear catalog on Kakobuy Spreadsheet.
 
 **Balenciaga Track (White/Colorful)**: ~$115.22 | 180+ orders | 92% quality pass rate | Same technical construction as the black/grey variant, with white base upper and colorful accent panels across the sole layers and upper details. Slightly lower quality pass rate due to the more visible color blocking requiring precise alignment.
 

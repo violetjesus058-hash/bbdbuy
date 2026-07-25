@@ -33,7 +33,7 @@ Once your account is active, the next critical step is completing your profile s
 
 Set your preferred currency next. Kakobuy Spreadsheet supports over 15 currencies, including USD, EUR, GBP, AUD, CAD, and many others. Selecting your local currency early helps you understand product pricing without manual conversions and reduces the risk of ordering mistakes caused by exchange rate confusion. You should also verify your phone number at this stage, as some shipping methods and payment processors require phone verification for security purposes.
 
-Configure your notification preferences to stay informed about order updates. Kakobuy Spreadsheet sends alerts at every stage of the process, including order confirmation, warehouse arrival, QC photo availability, and shipping dispatch. Enabling email notifications ensures you never miss an important update. You can also connect your account to the Kakobuy Spreadsheet Telegram community for real-time support and community discussions.
+Configure your notification preferences to stay informed about order updates. Kakobuy Spreadsheet sends alerts at every stage of the process, including order confirmation, warehouse arrival, QC photo availability, and shipping dispatch. Enabling email notifications ensures you never miss an important update. You can also connect your account to the Telegram community on Kakobuy Spreadsheet for real-time support and community discussions.
 
 Your dashboard also includes a balance management section. Kakobuy Spreadsheet operates on a balance system where you must have sufficient funds to cover product costs, domestic shipping within China, and any applicable service fees. You can top up your balance through PayPal, bank transfer, or other supported payment methods. Having funds ready in your account ensures your order moves to the procurement stage immediately after submission. For detailed information about funding your account, the [Kakobuy top up guide](/Kakobuy-top-up-guide/) covers all available payment methods and processing times.
 
@@ -53,7 +53,7 @@ Some users encounter minor issues during the Kakobuy Spreadsheet account creatio
 
 Password requirements can also cause registration failures. Ensure your password meets the minimum criteria: at least eight characters with a mix of uppercase letters, lowercase letters, numbers, and special characters. Some password managers generate passwords that do not meet all requirements, so double-check before submitting.
 
-Regional restrictions occasionally affect registration. While Kakobuy Spreadsheet supports buyers from over 150 countries, certain regions may experience delays in email delivery or face temporary access restrictions. If you are unable to access the registration page, try using a different browser or clearing your cache and cookies. For persistent issues, the Kakobuy Spreadsheet Telegram community and Reddit discussions often share workarounds for region-specific problems.
+Regional restrictions occasionally affect registration. While supports buyers on Kakobuy Spreadsheet from over 150 countries, certain regions may experience delays in email delivery or face temporary access restrictions. If you are unable to access the registration page, try using a different browser or clearing your cache and cookies. For persistent issues, the Telegram community on Kakobuy Spreadsheet and Reddit discussions often share workarounds for region-specific problems.
 
 ## FAQ
 

@@ -100,7 +100,7 @@ A: If you identify a quality issue during your QC photo review, do not approve t
 
 **Q: Can I request additional QC photos if the initial set does not show a specific detail I want to verify?**
 
-A: Yes, Kakobuy Spreadsheet allows buyers to request additional photos targeting specific areas of concern. If the standard QC set does not clearly show a detail you need to verify —such as interior stitching on a bag, the texture of a specific material, or the clarity of a small logo element —you can submit a photo request through your order dashboard. Warehouse staff will capture and upload the additional images within 12 to 24 hours. This feature is particularly useful for high-value items where thorough verification justifies the additional wait time.
+A: Yes, allows buyers on Kakobuy Spreadsheet to request additional photos targeting specific areas of concern. If the standard QC set does not clearly show a detail you need to verify —such as interior stitching on a bag, the texture of a specific material, or the clarity of a small logo element —you can submit a photo request through your order dashboard. Warehouse staff will capture and upload the additional images within 12 to 24 hours. This feature is particularly useful for high-value items where thorough verification justifies the additional wait time.
 
 **Q: How long do I have to review my QC photos before the system auto-approves my order?**
 

@@ -20,7 +20,7 @@ mainContent:
     content: "T-shirts are a summer essential, and the Kakobuy Spreadsheet offers a wide range of graphic tees, vintage styles, and luxury streetwear options. Look for breathable fabrics and vibrant designs to make a statement. Brands like Stussy, Palm Angels, and Off-White continue to dominate the summer scene, providing comfort and style for any occasion."
   - id: "essential-shorts"
     title: Essential Shorts
-    content: Stay cool and comfortable with a diverse selection of shorts. From athletic shorts to denim and cargo styles, the Kakobuy Spreadsheet has options for every preference. Pay attention to fit and material to ensure maximum comfort during hot summer days. Shorts sets are also a popular choice for a coordinated look.
+    content: Stay cool and comfortable with a diverse selection of shorts. From athletic shorts to denim and cargo styles, the has options on Kakobuy Spreadsheet for every preference. Pay attention to fit and material to ensure maximum comfort during hot summer days. Shorts sets are also a popular choice for a coordinated look.
   - id: "summer-sneakers"
     title: Summer Sneakers
     content: "Lightweight and breathable sneakers are a must-have for summer. Discover trending models like Nike Dunks, classic Jordans, and versatile options from Adidas and New Balance. Opt for lighter colors and mesh materials to keep your feet cool. Always check QC photos to ensure quality and authenticity."

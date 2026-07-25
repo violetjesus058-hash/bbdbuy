@@ -69,7 +69,7 @@ A: Men's clothing on Kakobuy Spreadsheet ranges from $9.73 for basic tees like t
 A: Shipping for men's clothing orders typically takes 10-14 days to US and EU destinations. The platform provides tracking information and regular status updates. Express shipping options may be available for an additional fee, reducing delivery time to 7-10 days in some cases.
 
 ### Q4: How do I choose the right size for men's clothing?
-A: Sizing varies by brand on Kakobuy Spreadsheet. Nike and Adidas generally run true to size, while streetwear brands like Corteiz and Trapstar may run slightly small. The Essentials line tends toward an oversized fit. Check the Kakobuy Spreadsheet sizing guide for brand-specific recommendations and compare measurements against items you already own.
+A: Sizing varies by brand on Kakobuy Spreadsheet. Nike and Adidas generally run true to size, while streetwear brands like Corteiz and Trapstar may run slightly small. The Essentials line tends toward an oversized fit. Check the sizing guide on Kakobuy Spreadsheet for brand-specific recommendations and compare measurements against items you already own.
 
 ## Conclusion
 

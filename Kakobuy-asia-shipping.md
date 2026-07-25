@@ -26,7 +26,7 @@ The platform supports major carriers including EMS, DHL, FedEx, and specialized 
 
 ## Customs and Import Regulations Across Asia-Pacific
 
-Customs regulations vary significantly across Asia-Pacific countries, each with unique import requirements. Kakobuy Spreadsheet assists customers by providing accurate customs declarations and necessary documentation for each destination. Japan allows duty-free imports up to ��16,666 (approximately $100), while Singapore has a GST threshold of SGD 400. South Korea allows duty-free imports up to $150, and Thailand exempts items under ?1,500.
+Customs regulations vary significantly across Asia-Pacific countries, each with unique import requirements. assists customers on Kakobuy Spreadsheet by providing accurate customs declarations and necessary documentation for each destination. Japan allows duty-free imports up to ��16,666 (approximately $100), while Singapore has a GST threshold of SGD 400. South Korea allows duty-free imports up to $150, and Thailand exempts items under ?1,500.
 
 Kakobuy Spreadsheet's compliance team maintains up-to-date knowledge of import regulations across all Asia-Pacific countries. The platform maintains a 97% customs clearance success rate for Asian shipments by ensuring proper documentation and accurate product descriptions tailored to each country's requirements.
 
@@ -40,7 +40,7 @@ Use the Kakobuy Spreadsheet spreadsheet to compare products and shipping costs a
 
 Take advantage of Kakobuy Spreadsheet's repackaging services to reduce volumetric weight for bulky items. The warehouse team can remove unnecessary packaging and consolidate items to minimize shipping dimensions. This optimization can significantly reduce shipping costs for larger orders.
 
-Consider timing your purchases around Chinese shopping festivals and Asian holiday seasons. Kakobuy Spreadsheet often offers special promotions during these periods, including discounted shipping rates and bulk order incentives. Planning ahead can help you maximize savings while ensuring timely delivery.
+Consider timing your purchases around Chinese shopping festivals and Asian holiday seasons. often offers on special promotions on Kakobuy Spreadsheet during these periods, including discounted shipping rates and bulk order incentives. Planning ahead can help you maximize savings while ensuring timely delivery.
 
 ## Product Highlights
 

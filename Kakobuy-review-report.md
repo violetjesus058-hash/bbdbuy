@@ -101,7 +101,7 @@ find . -name "Kakobuy Spreadsheet*.md" -type f -exec sed -i 's/Kakobuy-/Kakobuy 
 
 **示例修复**:
 ```markdown
-Based on Kakobuy Spreadsheet platform data from Q1-Q2 2026 (source: internal transaction logs)...
+Based on platform data on Kakobuy Spreadsheet from Q1-Q2 2026 (source: internal transaction logs)...
 ```
 
 �?
@@ -292,7 +292,7 @@ find . -name "Kakobuy Spreadsheet*.md" -type f -exec sed -i 's/Kakobuy-/Kakobuy 
 
 **数据来源声明模板**:
 ```markdown
-Based on Kakobuy Spreadsheet platform data from Q1-Q2 2026 (source: internal transaction logs)...
+Based on platform data on Kakobuy Spreadsheet from Q1-Q2 2026 (source: internal transaction logs)...
 ```
 
 **作者信息模�?*:

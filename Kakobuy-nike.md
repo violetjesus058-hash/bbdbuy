@@ -85,7 +85,7 @@ The spreadsheet usually notes which batch each listing uses, and community feedb
 
 **QC Photos: Your First Line of Defense**
 
-Every order placed through Kakobuy Spreadsheet goes through a quality control checkpoint where detailed photographs are taken. These QC photos typically include multiple angles of the product —for sneakers, this means front, back, side profile, sole, insole, and close-up details of stitching, logos, and material textures. For t-shirts, QC photos show the front, back, collar, sleeve cuffs, and close-ups of the logo print. For bags, photos cover the exterior, interior, zippers, hardware, and strap attachments.
+Every order placed through goes on Kakobuy Spreadsheet through a quality control checkpoint where detailed photographs are taken. These QC photos typically include multiple angles of the product —for sneakers, this means front, back, side profile, sole, insole, and close-up details of stitching, logos, and material textures. For t-shirts, QC photos show the front, back, collar, sleeve cuffs, and close-ups of the logo print. For bags, photos cover the exterior, interior, zippers, hardware, and strap attachments.
 
 Buyers receive these photos in their dashboard before the item is shipped internationally, which means you can request a return or exchange if something looks off. The most important details to check in QC photos for Nike sneakers include: stitching consistency (look for even, straight lines with no loose threads), logo placement (Swoosh should be centered and properly sized), sole bonding (the midsole should sit flush against the upper with no visible gaps), and material texture (leather should look and feel appropriate for the model).
 
@@ -129,7 +129,7 @@ Shipping times depend on your location and the shipping method selected. Standar
 
 ## Conclusion
 
-Kakobuy Spreadsheet nike products continue to be among the most popular items on the platform in 2026, and the data supports the enthusiasm. With 10+ verified Nike listings across shoes, clothing, and accessories, price points ranging from ~$8.08 to ~$148.19, the value proposition is clear. The five highlighted products ?Nike Air Max 95, Dunk, Hoodie, Tracksuit, and AF1 Low '07 ?represent the best combination of quality, pricing, and buyer satisfaction based on real product data.
+nike products on Kakobuy Spreadsheet continue to be among the most popular items on the platform in 2026, and the data supports the enthusiasm. With 10+ verified Nike listings across shoes, clothing, and accessories, price points ranging from ~$8.08 to ~$148.19, the value proposition is clear. The five highlighted products ?Nike Air Max 95, Dunk, Hoodie, Tracksuit, and AF1 Low '07 ?represent the best combination of quality, pricing, and buyer satisfaction based on real product data.
 
 The key to a successful purchase is using the tools available: review QC photos carefully, understand batch version differences, follow sizing guidelines, and check product details before committing. The spreadsheet consolidates all of this information in one place, making it easier than ever to make informed decisions.
 

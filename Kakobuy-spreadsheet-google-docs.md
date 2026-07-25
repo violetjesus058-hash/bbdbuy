@@ -22,7 +22,7 @@ The documentation system has evolved to include standardized templates, collabor
 
 ## Creating Research Documents with Google Docs
 
-Creating research documents in Google Docs that link to Kakobuy Spreadsheet spreadsheet data follows best practices for organization and accessibility. Start by creating a document template that includes standard sections: product overview, quality analysis, price comparison, seller evaluation, and purchase recommendation. This template ensures consistency across research documents and makes it easy to compare different products or sellers.
+Creating research documents in Google Docs that link to spreadsheet data on Kakobuy Spreadsheet follows best practices for organization and accessibility. Start by creating a document template that includes standard sections: product overview, quality analysis, price comparison, seller evaluation, and purchase recommendation. This template ensures consistency across research documents and makes it easy to compare different products or sellers.
 
 Link specific spreadsheet data to your research documents by including direct references to product listings, quality ratings, and seller information. Google Docs supports hyperlinks that connect directly to specific spreadsheet cells or ranges, allowing readers to access source data instantly. This linking creates a seamless research experience where quantitative metrics and qualitative analysis work together.
 

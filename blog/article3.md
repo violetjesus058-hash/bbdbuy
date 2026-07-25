@@ -15,7 +15,7 @@ tableOfContents:
 mainContent:
   - id: "what-are-Kakobuy-links"
     title: What are Kakobuy Spreadsheet Links?
-    content: "Kakobuy Spreadsheet links are direct URLs to product listings on Chinese e-commerce platforms like Taobao, 1688, Weidian, and JD, curated and often pre-vetted by the Kakobuy Spreadsheet community. They are typically found within the Kakobuy Spreadsheet, providing a convenient way to access specific items without having to search through the original platforms yourself. These links are designed to be easily copied and pasted into the Kakobuy Spreadsheet agent platform for purchase."
+    content: "Kakobuy Spreadsheet links are direct URLs to product listings on Chinese e-commerce platforms like Taobao, 1688, Weidian, and JD, curated and often pre-vetted by the Kakobuy Spreadsheet community. They are typically found within the Kakobuy Spreadsheet, providing a convenient way to access specific items without having to search through the original platforms yourself. These links are designed to be easily copied and pasted into the agent platform on Kakobuy Spreadsheet for purchase."
   - id: "how-to-use-product-links"
     title: How to Use Product Links
     content: Using Kakobuy Spreadsheet links is straightforward. Once you find a product you like in the spreadsheet, simply copy its Kakobuy Spreadsheet link. Then, paste this link into the designated search or order field on the Kakobuy Spreadsheet agent website. Our system will automatically fetch the product details, allowing you to proceed with your purchase. This eliminates language barriers and complex navigation on Chinese sites.
