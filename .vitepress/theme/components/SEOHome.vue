@@ -1,4 +1,4 @@
-﻿<template>
+<template>
   <div class="seo-home">
     <!-- Hero Section -->
     <section class="hero">
@@ -49,7 +49,7 @@
         <h2>Shopping Platforms</h2>
         <div class="platform-grid">
           <a href="/platform" class="platform-card">
-            <h3>Kakobuy</h3>
+            <h3>Kakobuy Spreadsheet</h3>
             <p>Your gateway to Taobao, 1688, Weidian, and JD.</p>
           </a>
         </div>
@@ -142,8 +142,8 @@
             <p>Learn the importance of QC photos and how to verify product quality before your purchase.</p>
           </a>
           <a href="/blog/article3" class="guide-card">
-            <h3>Kakobuy Link: How To Find And Buy Products Easily</h3>
-            <p>Understand how Kakobuy links work and streamline your shopping process from discovery to delivery.</p>
+            <h3>Kakobuy Spreadsheet Link: How To Find And Buy Products Easily</h3>
+            <p>Understand how Kakobuy Spreadsheet links work and streamline your shopping process from discovery to delivery.</p>
           </a>
         </div>
       </div>
@@ -159,8 +159,8 @@
             <p>Kakobuy Spreadsheet is a curated product discovery and organization tool that collects trending product links from Chinese e-commerce platforms like Taobao, 1688, Weidian, and JD. It helps users quickly find popular styles with QC photo references.</p>
           </div>
           <div class="faq-item">
-            <h3>How does Kakobuy help me shop from China?</h3>
-            <p>Kakobuy acts as a purchasing agent, assisting global users in finding, buying, and shipping products from Chinese platforms. We handle product search, order placement, quality control checks, warehouse storage, and international delivery.</p>
+            <h3>How does Kakobuy Spreadsheet help me shop from China?</h3>
+            <p>Kakobuy Spreadsheet acts as a purchasing agent, assisting global users in finding, buying, and shipping products from Chinese platforms. We handle product search, order placement, quality control checks, warehouse storage, and international delivery.</p>
           </div>
           <div class="faq-item">
             <h3>What kind of products can I find?</h3>
@@ -168,7 +168,7 @@
           </div>
           <div class="faq-item">
             <h3>Is Kakobuy Spreadsheet free to access?</h3>
-            <p>Yes, the Kakobuy Spreadsheet is a free product discovery tool. You can browse curated finds, QC photos, and verified links without any cost. Purchase and shipping services through Kakobuy agent platform will incur standard fees.</p>
+            <p>Yes, the Kakobuy Spreadsheet is a free product discovery tool. You can browse curated finds, QC photos, and verified links without any cost. Purchase and shipping services through Kakobuy Spreadsheet agent platform will incur standard fees.</p>
           </div>
         </div>
       </div>
@@ -206,7 +206,7 @@
           </div>
         </div>
         <div class="footer-bottom">
-          <p>&copy; 2024 Kakobuy. All rights reserved.</p>
+          <p>&copy; 2024 Kakobuy Spreadsheet. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "About Kakobuy - Your Trusted China Shopping Agent"
+title: "About Kakobuy Spreadsheet - Your Trusted China Shopping Agent"
 heroSubtitle: "Discover our mission to simplify cross-border shopping and connect you with the best of Chinese e-commerce."
-introduction: "Welcome to Kakobuy, your dedicated partner for seamless shopping from China. We are a global platform committed to making the vast and exciting world of Chinese e-commerce accessible to everyone. Our mission is to bridge the gap between international shoppers and top Chinese online marketplaces like Taobao, 1688, Weidian, and JD, ensuring a smooth, transparent, and reliable purchasing experience."
+introduction: "Welcome to Kakobuy Spreadsheet, your dedicated partner for seamless shopping from China. We are a global platform committed to making the vast and exciting world of Chinese e-commerce accessible to everyone. Our mission is to bridge the gap between international shoppers and top Chinese online marketplaces like Taobao, 1688, Weidian, and JD, ensuring a smooth, transparent, and reliable purchasing experience."
 mission:
   - title: Our Mission
     content: "To empower global consumers with easy access to trending and high-quality products from China, supported by verified information and exceptional service."

@@ -5,7 +5,7 @@
       <main class="blog-main">
         <div class="blog-header">
           <h1 class="blog-title">Blog</h1>
-          <p class="blog-desc">Guides, reviews, and insights to help you shop smarter on Kakobuy.</p>
+          <p class="blog-desc">Guides, reviews, and insights to help you shop smarter on Kakobuy Spreadsheet.</p>
         </div>
 
         <div
@@ -89,153 +89,153 @@ const articleSeries = [
     "name": "Getting Started",
     "articles": [
       {
-        "title": "Kakobuy Account Creation",
-        "excerpt": "Step-by-step guide to creating your Kakobuy account, including registration, email verification, and profile setup.",
+        "title": "Kakobuy Spreadsheet Account Creation",
+        "excerpt": "Step-by-step guide to creating your Kakobuy Spreadsheet account, including registration, email verification, and profile setup.",
         "link": "/Kakobuy-account-creation/"
       },
       {
-        "title": "Kakobuy Beginner Guide",
-        "excerpt": "Essential beginner guide covering account setup, product browsing, and first purchase on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Beginner Guide",
+        "excerpt": "Essential beginner guide covering account setup, product browsing, and first purchase on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-beginner-guide/"
       },
       {
-        "title": "Kakobuy Buyer Tips",
-        "excerpt": "Essential shopping tips and insider advice to help you make smarter purchases on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Buyer Tips",
+        "excerpt": "Essential shopping tips and insider advice to help you make smarter purchases on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-buyer-tips/"
       },
       {
-        "title": "Kakobuy Common Mistakes",
-        "excerpt": "Avoid these common pitfalls and mistakes that new Kakobuy buyers often make during their first orders.",
+        "title": "Kakobuy Spreadsheet Common Mistakes",
+        "excerpt": "Avoid these common pitfalls and mistakes that new Kakobuy Spreadsheet buyers often make during their first orders.",
         "link": "/Kakobuy-common-mistakes/"
       },
       {
-        "title": "Kakobuy Complete Guide",
+        "title": "Kakobuy Spreadsheet Complete Guide",
         "excerpt": "Comprehensive platform guide covering all features, from registration to order tracking and customer support.",
         "link": "/Kakobuy-complete-guide/"
       },
       {
-        "title": "Kakobuy Complete Platform Guide",
+        "title": "Kakobuy Spreadsheet Complete Platform Guide",
         "excerpt": "Comprehensive platform guide covering all features, from registration to order tracking and customer support.",
         "link": "/Kakobuy-complete-platform-guide/"
       },
       {
-        "title": "Kakobuy Crypto Payment",
-        "excerpt": "Complete guide to using cryptocurrency for payments on Kakobuy, including supported coins and transaction steps.",
+        "title": "Kakobuy Spreadsheet Crypto Payment",
+        "excerpt": "Complete guide to using cryptocurrency for payments on Kakobuy Spreadsheet, including supported coins and transaction steps.",
         "link": "/Kakobuy-crypto-payment/"
       },
       {
-        "title": "Kakobuy Essential Guide",
-        "excerpt": "Essential information every new Kakobuy user needs to know before making a purchase.",
+        "title": "Kakobuy Spreadsheet Essential Guide",
+        "excerpt": "Essential information every new Kakobuy Spreadsheet user needs to know before making a purchase.",
         "link": "/Kakobuy-essential-guide/"
       },
       {
-        "title": "Kakobuy First Purchase Tips",
-        "excerpt": "Step-by-step walkthrough for placing your first order on Kakobuy with confidence.",
+        "title": "Kakobuy Spreadsheet First Purchase Tips",
+        "excerpt": "Step-by-step walkthrough for placing your first order on Kakobuy Spreadsheet with confidence.",
         "link": "/Kakobuy-first-purchase-tips/"
       },
       {
-        "title": "Kakobuy For Beginners",
-        "excerpt": "Complete beginner guide to getting started with Kakobuy, from account creation to first purchase.",
+        "title": "Kakobuy Spreadsheet For Beginners",
+        "excerpt": "Complete beginner guide to getting started with Kakobuy Spreadsheet, from account creation to first purchase.",
         "link": "/Kakobuy-for-beginners/"
       },
       {
-        "title": "Kakobuy Free Guide",
-        "excerpt": "Free resources and guides to help you master the Kakobuy shopping experience.",
+        "title": "Kakobuy Spreadsheet Free Guide",
+        "excerpt": "Free resources and guides to help you master the Kakobuy Spreadsheet shopping experience.",
         "link": "/Kakobuy-free-guide/"
       },
       {
-        "title": "Kakobuy G Shock",
-        "excerpt": "Explore Casio G-Shock watches on Kakobuy with model comparisons, pricing, and quality verification tips.",
+        "title": "Kakobuy Spreadsheet G Shock",
+        "excerpt": "Explore Casio G-Shock watches on Kakobuy Spreadsheet with model comparisons, pricing, and quality verification tips.",
         "link": "/Kakobuy-g-shock/"
       },
       {
-        "title": "Kakobuy How To Use",
+        "title": "Kakobuy Spreadsheet How To Use",
         "excerpt": "Step-by-step platform guide covering account setup, browsing, ordering, and payment.",
         "link": "/Kakobuy-how-to-use/"
       },
       {
-        "title": "Kakobuy How To Use 2026",
-        "excerpt": "Updated 2026 guide to using Kakobuy with new features, interface changes, and latest ordering procedures.",
+        "title": "Kakobuy Spreadsheet How To Use 2026",
+        "excerpt": "Updated 2026 guide to using Kakobuy Spreadsheet with new features, interface changes, and latest ordering procedures.",
         "link": "/Kakobuy-how-to-use-2026/"
       },
       {
-        "title": "Kakobuy Low Price Guide",
-        "excerpt": "Strategies and tips for finding the lowest prices on Kakobuy without compromising on product quality.",
+        "title": "Kakobuy Spreadsheet Low Price Guide",
+        "excerpt": "Strategies and tips for finding the lowest prices on Kakobuy Spreadsheet without compromising on product quality.",
         "link": "/Kakobuy-low-price-guide/"
       },
       {
-        "title": "Kakobuy Money Saving Tips",
-        "excerpt": "Proven money-saving strategies including bulk ordering, coupon codes, and seasonal sales on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Money Saving Tips",
+        "excerpt": "Proven money-saving strategies including bulk ordering, coupon codes, and seasonal sales on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-money-saving-tips/"
       },
       {
-        "title": "Kakobuy Onboarding",
+        "title": "Kakobuy Spreadsheet Onboarding",
         "excerpt": "New user onboarding guide with platform overview, key features, and getting started tips.",
         "link": "/Kakobuy-onboarding/"
       },
       {
-        "title": "Kakobuy Packaging Guide",
-        "excerpt": "Understanding Kakobuy packaging options, consolidation methods, and how to protect your items during shipping.",
+        "title": "Kakobuy Spreadsheet Packaging Guide",
+        "excerpt": "Understanding Kakobuy Spreadsheet packaging options, consolidation methods, and how to protect your items during shipping.",
         "link": "/Kakobuy-packaging-guide/"
       },
       {
-        "title": "Kakobuy Plus Size",
-        "excerpt": "Plus size clothing and apparel options on Kakobuy with sizing charts, fit guides, and brand recommendations.",
+        "title": "Kakobuy Spreadsheet Plus Size",
+        "excerpt": "Plus size clothing and apparel options on Kakobuy Spreadsheet with sizing charts, fit guides, and brand recommendations.",
         "link": "/Kakobuy-plus-size/"
       },
       {
-        "title": "Kakobuy Secure Payment",
-        "excerpt": "Learn about secure payment methods on Kakobuy, including encryption, buyer protection, and fraud prevention.",
+        "title": "Kakobuy Spreadsheet Secure Payment",
+        "excerpt": "Learn about secure payment methods on Kakobuy Spreadsheet, including encryption, buyer protection, and fraud prevention.",
         "link": "/Kakobuy-secure-payment/"
       },
       {
-        "title": "Kakobuy Seller Guide",
-        "excerpt": "Comprehensive guide for sellers on Kakobuy, including listing optimization, pricing strategies, and buyer communication.",
+        "title": "Kakobuy Spreadsheet Seller Guide",
+        "excerpt": "Comprehensive guide for sellers on Kakobuy Spreadsheet, including listing optimization, pricing strategies, and buyer communication.",
         "link": "/Kakobuy-seller-guide/"
       },
       {
-        "title": "Kakobuy Shipping Guide",
+        "title": "Kakobuy Spreadsheet Shipping Guide",
         "excerpt": "Comprehensive overview of shipping methods, delivery times, and costs.",
         "link": "/Kakobuy-shipping-guide/"
       },
       {
-        "title": "Kakobuy Shopping Tips",
-        "excerpt": "Essential shopping tips to help you find quality products, avoid scams, and get the best deals on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Shopping Tips",
+        "excerpt": "Essential shopping tips to help you find quality products, avoid scams, and get the best deals on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-shopping-tips/"
       },
       {
-        "title": "Kakobuy Start Here",
-        "excerpt": "Your starting point for Kakobuy with platform overview, key features, and step-by-step getting started instructions.",
+        "title": "Kakobuy Spreadsheet Start Here",
+        "excerpt": "Your starting point for Kakobuy Spreadsheet with platform overview, key features, and step-by-step getting started instructions.",
         "link": "/Kakobuy-start-here/"
       },
       {
-        "title": "Kakobuy Step By Step",
-        "excerpt": "Step-by-step instructions for navigating the Kakobuy platform and completing your first purchase.",
+        "title": "Kakobuy Spreadsheet Step By Step",
+        "excerpt": "Step-by-step instructions for navigating the Kakobuy Spreadsheet platform and completing your first purchase.",
         "link": "/Kakobuy-step-by-step/"
       },
       {
-        "title": "Kakobuy Tech Gadgets",
-        "excerpt": "Explore tech gadgets available on Kakobuy including electronics, accessories, and smart devices with buyer reviews.",
+        "title": "Kakobuy Spreadsheet Tech Gadgets",
+        "excerpt": "Explore tech gadgets available on Kakobuy Spreadsheet including electronics, accessories, and smart devices with buyer reviews.",
         "link": "/Kakobuy-tech-gadgets/"
       },
       {
-        "title": "Kakobuy Tutorial",
+        "title": "Kakobuy Spreadsheet Tutorial",
         "excerpt": "Comprehensive tutorial covering platform navigation, product search, and checkout process.",
         "link": "/Kakobuy-tutorial/"
       },
       {
-        "title": "Kakobuy Ultimate Guide",
-        "excerpt": "The ultimate comprehensive guide to Kakobuy covering everything from account setup to advanced shopping strategies.",
+        "title": "Kakobuy Spreadsheet Ultimate Guide",
+        "excerpt": "The ultimate comprehensive guide to Kakobuy Spreadsheet covering everything from account setup to advanced shopping strategies.",
         "link": "/Kakobuy-ultimate-guide/"
       },
       {
-        "title": "Kakobuy Walkthrough",
+        "title": "Kakobuy Spreadsheet Walkthrough",
         "excerpt": "Complete platform walkthrough from account creation to successful order placement.",
         "link": "/Kakobuy-walkthrough/"
       },
       {
-        "title": "Kakobuy With Photos",
-        "excerpt": "Guide to requesting and reviewing product photos on Kakobuy to verify quality before making your purchase.",
+        "title": "Kakobuy Spreadsheet With Photos",
+        "excerpt": "Guide to requesting and reviewing product photos on Kakobuy Spreadsheet to verify quality before making your purchase.",
         "link": "/Kakobuy-with-photos/"
       }
     ]
@@ -244,222 +244,222 @@ const articleSeries = [
     "name": "Top Categories - Shoes",
     "articles": [
       {
-        "title": "Kakobuy Air Force 1",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Air Force 1",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-air-force-1/"
       },
       {
-        "title": "Kakobuy Air Max",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Air Max",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-air-max/"
       },
       {
-        "title": "Kakobuy Basketball Gear",
+        "title": "Kakobuy Spreadsheet Basketball Gear",
         "excerpt": "High-performance basketball shoes with ankle support, traction patterns, and player reviews.",
         "link": "/Kakobuy-basketball-gear/"
       },
       {
-        "title": "Kakobuy Basketball Shoes",
+        "title": "Kakobuy Spreadsheet Basketball Shoes",
         "excerpt": "High-performance basketball shoes with ankle support, traction patterns, and player reviews.",
         "link": "/Kakobuy-basketball-shoes/"
       },
       {
-        "title": "Kakobuy Big Size Shoes",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Big Size Shoes",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-big-size-shoes/"
       },
       {
-        "title": "Kakobuy Big Sizes",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Big Sizes",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-big-sizes/"
       },
       {
-        "title": "Kakobuy Budget Shoes",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Budget Shoes",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-budget-shoes/"
       },
       {
-        "title": "Kakobuy Budget Sneakers",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Budget Sneakers",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-budget-sneakers/"
       },
       {
-        "title": "Kakobuy Casual Shoes",
+        "title": "Kakobuy Spreadsheet Casual Shoes",
         "excerpt": "Everyday casual shoes combining comfort, style, and versatility for daily wear.",
         "link": "/Kakobuy-casual-shoes/"
       },
       {
-        "title": "Kakobuy Cheap Shoes",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Cheap Shoes",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-cheap-shoes/"
       },
       {
-        "title": "Kakobuy Cleats",
+        "title": "Kakobuy Spreadsheet Cleats",
         "excerpt": "Sports cleats for various athletic activities with traction data and performance reviews.",
         "link": "/Kakobuy-cleats/"
       },
       {
-        "title": "Kakobuy Daily Wear Shoes",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Daily Wear Shoes",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-daily-wear-shoes/"
       },
       {
-        "title": "Kakobuy Dc Shoes",
+        "title": "Kakobuy Spreadsheet Dc Shoes",
         "excerpt": "DC Shoes collection with skate-specific features, durability data, and style options.",
         "link": "/Kakobuy-dc-shoes/"
       },
       {
-        "title": "Kakobuy Football Boots",
+        "title": "Kakobuy Spreadsheet Football Boots",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
         "link": "/Kakobuy-football-boots/"
       },
       {
-        "title": "Kakobuy Football Shoes",
+        "title": "Kakobuy Spreadsheet Football Shoes",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
         "link": "/Kakobuy-football-shoes/"
       },
       {
-        "title": "Kakobuy Footwear",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Footwear",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-footwear/"
       },
       {
-        "title": "Kakobuy Golf Gear",
+        "title": "Kakobuy Spreadsheet Golf Gear",
         "excerpt": "Premium golf shoes with spike options, waterproof technology, and comfort ratings.",
         "link": "/Kakobuy-golf-gear/"
       },
       {
-        "title": "Kakobuy Golf Shoes",
+        "title": "Kakobuy Spreadsheet Golf Shoes",
         "excerpt": "Premium golf shoes with spike options, waterproof technology, and comfort ratings.",
         "link": "/Kakobuy-golf-shoes/"
       },
       {
-        "title": "Kakobuy Heels",
+        "title": "Kakobuy Spreadsheet Heels",
         "excerpt": "Stylish heels collection with comfort features, height options, and occasion recommendations.",
         "link": "/Kakobuy-heels/"
       },
       {
-        "title": "Kakobuy Hiking Shoes",
+        "title": "Kakobuy Spreadsheet Hiking Shoes",
         "excerpt": "Durable hiking shoes with waterproof features, grip performance, and trail testing data.",
         "link": "/Kakobuy-hiking-shoes/"
       },
       {
-        "title": "Kakobuy Junior Shoes",
+        "title": "Kakobuy Spreadsheet Junior Shoes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
         "link": "/Kakobuy-junior-shoes/"
       },
       {
-        "title": "Kakobuy Junior Sizes",
+        "title": "Kakobuy Spreadsheet Junior Sizes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
         "link": "/Kakobuy-junior-sizes/"
       },
       {
-        "title": "Kakobuy Kids Shoes",
+        "title": "Kakobuy Spreadsheet Kids Shoes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
         "link": "/Kakobuy-kids-shoes/"
       },
       {
-        "title": "Kakobuy Kids Sizes",
+        "title": "Kakobuy Spreadsheet Kids Sizes",
         "excerpt": "Youth footwear collection with proper support features, durability data, and sizing charts.",
         "link": "/Kakobuy-kids-sizes/"
       },
       {
-        "title": "Kakobuy Men Shoes",
+        "title": "Kakobuy Spreadsheet Men Shoes",
         "excerpt": "Men footwear selection covering casual, athletic, and formal styles with quality data.",
         "link": "/Kakobuy-men-shoes/"
       },
       {
-        "title": "Kakobuy Outdoor Shoes",
+        "title": "Kakobuy Spreadsheet Outdoor Shoes",
         "excerpt": "Outdoor footwear built for adventure with durable materials and all-terrain performance.",
         "link": "/Kakobuy-outdoor-shoes/"
       },
       {
-        "title": "Kakobuy Running Gear",
-        "excerpt": "Top-rated running shoes on Kakobuy with cushioning specs, durability data, and real buyer feedback.",
+        "title": "Kakobuy Spreadsheet Running Gear",
+        "excerpt": "Top-rated running shoes on Kakobuy Spreadsheet with cushioning specs, durability data, and real buyer feedback.",
         "link": "/Kakobuy-running-gear/"
       },
       {
-        "title": "Kakobuy Running Shoes",
-        "excerpt": "Top-rated running shoes on Kakobuy with cushioning specs, durability data, and real buyer feedback.",
+        "title": "Kakobuy Spreadsheet Running Shoes",
+        "excerpt": "Top-rated running shoes on Kakobuy Spreadsheet with cushioning specs, durability data, and real buyer feedback.",
         "link": "/Kakobuy-running-shoes/"
       },
       {
-        "title": "Kakobuy Shoes",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Shoes",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-shoes/"
       },
       {
-        "title": "Kakobuy Shoes 2026",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Shoes 2026",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-shoes-2026/"
       },
       {
-        "title": "Kakobuy Slides",
+        "title": "Kakobuy Spreadsheet Slides",
         "excerpt": "Comfortable slides and sandals for casual wear with cushioning data and durability ratings.",
         "link": "/Kakobuy-slides/"
       },
       {
-        "title": "Kakobuy Sneakers",
-        "excerpt": "Complete guide to sneakers available on Kakobuy, including Nike, Jordan, Adidas, and more.",
+        "title": "Kakobuy Spreadsheet Sneakers",
+        "excerpt": "Complete guide to sneakers available on Kakobuy Spreadsheet, including Nike, Jordan, Adidas, and more.",
         "link": "/Kakobuy-sneakers/"
       },
       {
-        "title": "Kakobuy Sneakers 2026",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Sneakers 2026",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-sneakers-2026/"
       },
       {
-        "title": "Kakobuy Sneakers Guide",
-        "excerpt": "Comprehensive guide to shoes available on Kakobuy with quality data, sizing tips, and buyer reviews.",
+        "title": "Kakobuy Spreadsheet Sneakers Guide",
+        "excerpt": "Comprehensive guide to shoes available on Kakobuy Spreadsheet with quality data, sizing tips, and buyer reviews.",
         "link": "/Kakobuy-sneakers-guide/"
       },
       {
-        "title": "Kakobuy Soccer Gear",
+        "title": "Kakobuy Spreadsheet Soccer Gear",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
         "link": "/Kakobuy-soccer-gear/"
       },
       {
-        "title": "Kakobuy Soccer Shoes",
+        "title": "Kakobuy Spreadsheet Soccer Shoes",
         "excerpt": "Professional soccer and football boots with stud configurations, fit guides, and quality ratings.",
         "link": "/Kakobuy-soccer-shoes/"
       },
       {
-        "title": "Kakobuy Streetwear Shoes",
+        "title": "Kakobuy Spreadsheet Streetwear Shoes",
         "excerpt": "Streetwear-inspired sneakers with style trends, quality verification, and community feedback.",
         "link": "/Kakobuy-streetwear-shoes/"
       },
       {
-        "title": "Kakobuy Tennis Gear",
+        "title": "Kakobuy Spreadsheet Tennis Gear",
         "excerpt": "Tennis shoes with court-specific traction, support features, and player performance data.",
         "link": "/Kakobuy-tennis-gear/"
       },
       {
-        "title": "Kakobuy Tennis Shoes",
+        "title": "Kakobuy Spreadsheet Tennis Shoes",
         "excerpt": "Tennis shoes with court-specific traction, support features, and player performance data.",
         "link": "/Kakobuy-tennis-shoes/"
       },
       {
-        "title": "Kakobuy Vapormax",
+        "title": "Kakobuy Spreadsheet Vapormax",
         "excerpt": "Nike VaporMax with air sole technology, comfort ratings, and style variations guide.",
         "link": "/Kakobuy-vapormax/"
       },
       {
-        "title": "Kakobuy Women Shoes",
+        "title": "Kakobuy Spreadsheet Women Shoes",
         "excerpt": "Women-specific shoe collection with proper fit, style options, and comfort ratings.",
         "link": "/Kakobuy-women-shoes/"
       },
       {
-        "title": "Kakobuy Women Sizes",
+        "title": "Kakobuy Spreadsheet Women Sizes",
         "excerpt": "Women-specific shoe collection with proper fit, style options, and comfort ratings.",
         "link": "/Kakobuy-women-sizes/"
       },
       {
-        "title": "Kakobuy Xxl Shoes",
+        "title": "Kakobuy Spreadsheet Xxl Shoes",
         "excerpt": "Extended size footwear options with quality data, availability, and fit recommendations.",
         "link": "/Kakobuy-xxl-shoes/"
       },
       {
-        "title": "Kakobuy Xxl Sizes",
+        "title": "Kakobuy Spreadsheet Xxl Sizes",
         "excerpt": "Extended size footwear options with quality data, availability, and fit recommendations.",
         "link": "/Kakobuy-xxl-sizes/"
       }
@@ -469,237 +469,237 @@ const articleSeries = [
     "name": "Top Categories - Clothing",
     "articles": [
       {
-        "title": "Kakobuy Budget Clothes",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Budget Clothes",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-budget-clothes/"
       },
       {
-        "title": "Kakobuy Budget T-Shirts",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Budget T-Shirts",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-budget-t-shirts/"
       },
       {
-        "title": "Kakobuy Cheap Clothes",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Cheap Clothes",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-cheap-clothes/"
       },
       {
-        "title": "Kakobuy Cheap Hoodies",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Cheap Hoodies",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-cheap-hoodies/"
       },
       {
-        "title": "Kakobuy Cheap T-Shirts",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Cheap T-Shirts",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-cheap-t-shirts/"
       },
       {
-        "title": "Kakobuy Clothes",
+        "title": "Kakobuy Spreadsheet Clothes",
         "excerpt": "Explore streetwear, hoodies, t-shirts, jeans, and seasonal clothing collections.",
         "link": "/Kakobuy-clothes/"
       },
       {
-        "title": "Kakobuy Clothes 2026",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Clothes 2026",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-clothes-2026/"
       },
       {
-        "title": "Kakobuy Clothing Guide",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Clothing Guide",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-clothing-guide/"
       },
       {
-        "title": "Kakobuy Fall Clothes",
+        "title": "Kakobuy Spreadsheet Fall Clothes",
         "excerpt": "Cold weather clothing with insulation data, layering tips, and quality ratings.",
         "link": "/Kakobuy-fall-clothes/"
       },
       {
-        "title": "Kakobuy Fashion Clothes",
+        "title": "Kakobuy Spreadsheet Fashion Clothes",
         "excerpt": "Fashion-forward clothing pieces with trend analysis, quality data, and styling tips.",
         "link": "/Kakobuy-fashion-clothes/"
       },
       {
-        "title": "Kakobuy Football T-Shirt",
+        "title": "Kakobuy Spreadsheet Football T-Shirt",
         "excerpt": "Quality t-shirts covering fabric types, print durability, and sizing accuracy data.",
         "link": "/Kakobuy-football-t-shirt/"
       },
       {
-        "title": "Kakobuy Girls Clothes",
+        "title": "Kakobuy Spreadsheet Girls Clothes",
         "excerpt": "Women clothing collection with proper fit, style trends, and quality verification.",
         "link": "/Kakobuy-girls-clothes/"
       },
       {
-        "title": "Kakobuy Gym Clothes",
+        "title": "Kakobuy Spreadsheet Gym Clothes",
         "excerpt": "Gym clothing with moisture-wicking technology, flexibility data, and durability ratings.",
         "link": "/Kakobuy-gym-clothes/"
       },
       {
-        "title": "Kakobuy Hats",
+        "title": "Kakobuy Spreadsheet Hats",
         "excerpt": "Headwear collection including caps, beanies, and bucket hats with quality data.",
         "link": "/Kakobuy-hats/"
       },
       {
-        "title": "Kakobuy Hats Guide",
+        "title": "Kakobuy Spreadsheet Hats Guide",
         "excerpt": "Headwear collection including caps, beanies, and bucket hats with quality data.",
         "link": "/Kakobuy-hats-guide/"
       },
       {
-        "title": "Kakobuy Headwear",
+        "title": "Kakobuy Spreadsheet Headwear",
         "excerpt": "Headwear collection including caps, beanies, and bucket hats with quality data.",
         "link": "/Kakobuy-headwear/"
       },
       {
-        "title": "Kakobuy Hoodie",
+        "title": "Kakobuy Spreadsheet Hoodie",
         "excerpt": "Premium hoodies from top brands with fabric weight, fit guide, and quality comparisons.",
         "link": "/Kakobuy-hoodie/"
       },
       {
-        "title": "Kakobuy Hoodie Guide",
+        "title": "Kakobuy Spreadsheet Hoodie Guide",
         "excerpt": "Premium hoodies from top brands with fabric weight, fit guide, and quality comparisons.",
         "link": "/Kakobuy-hoodie-guide/"
       },
       {
-        "title": "Kakobuy Hoodies",
+        "title": "Kakobuy Spreadsheet Hoodies",
         "excerpt": "Premium hoodies from top brands with quality specs, pricing, and sizing information.",
         "link": "/Kakobuy-hoodies/"
       },
       {
-        "title": "Kakobuy Jacket",
+        "title": "Kakobuy Spreadsheet Jacket",
         "excerpt": "Jackets collection covering materials, weather resistance, and style versatility.",
         "link": "/Kakobuy-jacket/"
       },
       {
-        "title": "Kakobuy Jacket Guide",
+        "title": "Kakobuy Spreadsheet Jacket Guide",
         "excerpt": "Jackets collection covering materials, weather resistance, and style versatility.",
         "link": "/Kakobuy-jacket-guide/"
       },
       {
-        "title": "Kakobuy Jackets",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Jackets",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-jackets/"
       },
       {
-        "title": "Kakobuy Jeans",
+        "title": "Kakobuy Spreadsheet Jeans",
         "excerpt": "Denim jeans guide with fit types, fabric composition, and quality verification tips.",
         "link": "/Kakobuy-jeans/"
       },
       {
-        "title": "Kakobuy Jeans Guide",
+        "title": "Kakobuy Spreadsheet Jeans Guide",
         "excerpt": "Denim jeans guide with fit types, fabric composition, and quality verification tips.",
         "link": "/Kakobuy-jeans-guide/"
       },
       {
-        "title": "Kakobuy Jorts",
+        "title": "Kakobuy Spreadsheet Jorts",
         "excerpt": "Denim jorts with length options, wash variations, and quality verification guide.",
         "link": "/Kakobuy-jorts/"
       },
       {
-        "title": "Kakobuy Kids Clothes",
+        "title": "Kakobuy Spreadsheet Kids Clothes",
         "excerpt": "Kids clothing with durable materials, safety standards, and size guide information.",
         "link": "/Kakobuy-kids-clothes/"
       },
       {
-        "title": "Kakobuy Men Clothes",
+        "title": "Kakobuy Spreadsheet Men Clothes",
         "excerpt": "Men clothing selection covering casual, athletic, and streetwear with quality data.",
         "link": "/Kakobuy-men-clothes/"
       },
       {
-        "title": "Kakobuy Pants",
+        "title": "Kakobuy Spreadsheet Pants",
         "excerpt": "Pants selection covering casual, athletic, and streetwear styles with quality ratings.",
         "link": "/Kakobuy-pants/"
       },
       {
-        "title": "Kakobuy Polo",
+        "title": "Kakobuy Spreadsheet Polo",
         "excerpt": "Polo shirts from classic brands with collar quality, fabric weight, and fit data.",
         "link": "/Kakobuy-polo/"
       },
       {
-        "title": "Kakobuy Polo Shirt",
+        "title": "Kakobuy Spreadsheet Polo Shirt",
         "excerpt": "Shirts collection including casual, formal, and streetwear options with fabric details.",
         "link": "/Kakobuy-polo-shirt/"
       },
       {
-        "title": "Kakobuy Purple Jeans",
+        "title": "Kakobuy Spreadsheet Purple Jeans",
         "excerpt": "Denim jeans guide with fit types, fabric composition, and quality verification tips.",
         "link": "/Kakobuy-purple-jeans/"
       },
       {
-        "title": "Kakobuy Shirt",
+        "title": "Kakobuy Spreadsheet Shirt",
         "excerpt": "Shirts collection including casual, formal, and streetwear options with fabric details.",
         "link": "/Kakobuy-shirt/"
       },
       {
-        "title": "Kakobuy Shirts",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Shirts",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-shirts/"
       },
       {
-        "title": "Kakobuy Shorts",
+        "title": "Kakobuy Spreadsheet Shorts",
         "excerpt": "Shorts collection for various activities with length options, fabric data, and fit guide.",
         "link": "/Kakobuy-shorts/"
       },
       {
-        "title": "Kakobuy Sports Clothes",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Sports Clothes",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-sports-clothes/"
       },
       {
-        "title": "Kakobuy Spring Clothes",
+        "title": "Kakobuy Spreadsheet Spring Clothes",
         "excerpt": "Warm weather clothing with breathable fabrics, UV protection, and style options.",
         "link": "/Kakobuy-spring-clothes/"
       },
       {
-        "title": "Kakobuy Summer Clothes",
+        "title": "Kakobuy Spreadsheet Summer Clothes",
         "excerpt": "Warm weather clothing with breathable fabrics, UV protection, and style options.",
         "link": "/Kakobuy-summer-clothes/"
       },
       {
-        "title": "Kakobuy Sweatpants",
+        "title": "Kakobuy Spreadsheet Sweatpants",
         "excerpt": "Comfortable sweatpants with fleece options, elastic quality, and style variations.",
         "link": "/Kakobuy-sweatpants/"
       },
       {
-        "title": "Kakobuy T-Shirt",
+        "title": "Kakobuy Spreadsheet T-Shirt",
         "excerpt": "Quality t-shirts covering fabric types, print durability, and sizing accuracy data.",
         "link": "/Kakobuy-t-shirt/"
       },
       {
-        "title": "Kakobuy T-Shirt Guide",
+        "title": "Kakobuy Spreadsheet T-Shirt Guide",
         "excerpt": "Quality t-shirts covering fabric types, print durability, and sizing accuracy data.",
         "link": "/Kakobuy-t-shirt-guide/"
       },
       {
-        "title": "Kakobuy T-Shirts",
+        "title": "Kakobuy Spreadsheet T-Shirts",
         "excerpt": "Branded t-shirts guide covering fabrics, fits, and popular streetwear options.",
         "link": "/Kakobuy-t-shirts/"
       },
       {
-        "title": "Kakobuy Tech Fleece",
-        "excerpt": "Explore clothing options on Kakobuy with quality comparisons, sizing guides, and style recommendations.",
+        "title": "Kakobuy Spreadsheet Tech Fleece",
+        "excerpt": "Explore clothing options on Kakobuy Spreadsheet with quality comparisons, sizing guides, and style recommendations.",
         "link": "/Kakobuy-tech-fleece/"
       },
       {
-        "title": "Kakobuy Tracksuit",
+        "title": "Kakobuy Spreadsheet Tracksuit",
         "excerpt": "Complete tracksuits with matching sets, fabric quality, and athletic performance data.",
         "link": "/Kakobuy-tracksuit/"
       },
       {
-        "title": "Kakobuy Tracksuit Guide",
+        "title": "Kakobuy Spreadsheet Tracksuit Guide",
         "excerpt": "Complete tracksuits with matching sets, fabric quality, and athletic performance data.",
         "link": "/Kakobuy-tracksuit-guide/"
       },
       {
-        "title": "Kakobuy Vest",
+        "title": "Kakobuy Spreadsheet Vest",
         "excerpt": "Vests collection for layering with insulation data, fit guide, and style options.",
         "link": "/Kakobuy-vest/"
       },
       {
-        "title": "Kakobuy Winter Clothes",
+        "title": "Kakobuy Spreadsheet Winter Clothes",
         "excerpt": "Cold weather clothing with insulation data, layering tips, and quality ratings.",
         "link": "/Kakobuy-winter-clothes/"
       },
       {
-        "title": "Kakobuy Women Clothes",
+        "title": "Kakobuy Spreadsheet Women Clothes",
         "excerpt": "Women clothing collection with proper fit, style trends, and quality verification.",
         "link": "/Kakobuy-women-clothes/"
       }
@@ -709,147 +709,147 @@ const articleSeries = [
     "name": "Top Categories - Accessories",
     "articles": [
       {
-        "title": "Kakobuy Accessories",
+        "title": "Kakobuy Spreadsheet Accessories",
         "excerpt": "Hats, sunglasses, jewelry, socks, and essential accessories to complete your style.",
         "link": "/Kakobuy-accessories/"
       },
       {
-        "title": "Kakobuy Accessories Guide",
+        "title": "Kakobuy Spreadsheet Accessories Guide",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-accessories-guide/"
       },
       {
-        "title": "Kakobuy Apple Watch",
+        "title": "Kakobuy Spreadsheet Apple Watch",
         "excerpt": "Watches with movement types, water resistance data, and style comparisons.",
         "link": "/Kakobuy-apple-watch/"
       },
       {
-        "title": "Kakobuy Backpack",
+        "title": "Kakobuy Spreadsheet Backpack",
         "excerpt": "Durable backpacks with capacity specs, compartment layout, and comfort ratings.",
         "link": "/Kakobuy-backpack/"
       },
       {
-        "title": "Kakobuy Bags",
+        "title": "Kakobuy Spreadsheet Bags",
         "excerpt": "Backpacks, handbags, wallets, and crossbody bags with quality comparisons.",
         "link": "/Kakobuy-bags/"
       },
       {
-        "title": "Kakobuy Bags Guide",
+        "title": "Kakobuy Spreadsheet Bags Guide",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-bags-guide/"
       },
       {
-        "title": "Kakobuy Belt",
+        "title": "Kakobuy Spreadsheet Belt",
         "excerpt": "Belts with buckle quality, material options, and sizing guide for proper fit.",
         "link": "/Kakobuy-belt/"
       },
       {
-        "title": "Kakobuy Budget Accessories",
+        "title": "Kakobuy Spreadsheet Budget Accessories",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-budget-accessories/"
       },
       {
-        "title": "Kakobuy Budget Bags",
+        "title": "Kakobuy Spreadsheet Budget Bags",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-budget-bags/"
       },
       {
-        "title": "Kakobuy Caps",
+        "title": "Kakobuy Spreadsheet Caps",
         "excerpt": "Caps collection with fit adjustments, material quality, and style variations.",
         "link": "/Kakobuy-caps/"
       },
       {
-        "title": "Kakobuy Cheap Accessories",
+        "title": "Kakobuy Spreadsheet Cheap Accessories",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-cheap-accessories/"
       },
       {
-        "title": "Kakobuy Cheap Bags",
+        "title": "Kakobuy Spreadsheet Cheap Bags",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-cheap-bags/"
       },
       {
-        "title": "Kakobuy Earrings",
+        "title": "Kakobuy Spreadsheet Earrings",
         "excerpt": "Earrings with material safety, design options, and comfort ratings for daily wear.",
         "link": "/Kakobuy-earrings/"
       },
       {
-        "title": "Kakobuy Glasses",
+        "title": "Kakobuy Spreadsheet Glasses",
         "excerpt": "Sunglasses with UV protection data, frame quality, and style options guide.",
         "link": "/Kakobuy-glasses/"
       },
       {
-        "title": "Kakobuy Gloves",
+        "title": "Kakobuy Spreadsheet Gloves",
         "excerpt": "Gloves collection with insulation data, grip performance, and touchscreen compatibility.",
         "link": "/Kakobuy-gloves/"
       },
       {
-        "title": "Kakobuy Handbag",
+        "title": "Kakobuy Spreadsheet Handbag",
         "excerpt": "Handbags and purses with material quality, size options, and style versatility.",
         "link": "/Kakobuy-handbag/"
       },
       {
-        "title": "Kakobuy Iphone Case",
+        "title": "Kakobuy Spreadsheet Iphone Case",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-iphone-case/"
       },
       {
-        "title": "Kakobuy Jewelry",
+        "title": "Kakobuy Spreadsheet Jewelry",
         "excerpt": "Jewelry collection with material quality, hypoallergenic data, and style variations.",
         "link": "/Kakobuy-jewelry/"
       },
       {
-        "title": "Kakobuy LV Bag",
+        "title": "Kakobuy Spreadsheet LV Bag",
         "excerpt": "Designer bags with authentication tips, material quality, and value comparisons.",
         "link": "/Kakobuy-lv-bag/"
       },
       {
-        "title": "Kakobuy Mobile Accessories",
+        "title": "Kakobuy Spreadsheet Mobile Accessories",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-mobile-accessories/"
       },
       {
-        "title": "Kakobuy Phone Accessories",
+        "title": "Kakobuy Spreadsheet Phone Accessories",
         "excerpt": "Phone accessories with compatibility data, protection ratings, and quality verification.",
         "link": "/Kakobuy-phone-accessories/"
       },
       {
-        "title": "Kakobuy Phone Case",
+        "title": "Kakobuy Spreadsheet Phone Case",
         "excerpt": "Phone accessories with compatibility data, protection ratings, and quality verification.",
         "link": "/Kakobuy-phone-case/"
       },
       {
-        "title": "Kakobuy Purse",
+        "title": "Kakobuy Spreadsheet Purse",
         "excerpt": "Handbags and purses with material quality, size options, and style versatility.",
         "link": "/Kakobuy-purse/"
       },
       {
-        "title": "Kakobuy Socks",
+        "title": "Kakobuy Spreadsheet Socks",
         "excerpt": "Quality socks with material composition, cushioning data, and durability ratings.",
         "link": "/Kakobuy-socks/"
       },
       {
-        "title": "Kakobuy Sunglasses",
+        "title": "Kakobuy Spreadsheet Sunglasses",
         "excerpt": "Sunglasses with UV protection data, frame quality, and style options guide.",
         "link": "/Kakobuy-sunglasses/"
       },
       {
-        "title": "Kakobuy Wallet",
+        "title": "Kakobuy Spreadsheet Wallet",
         "excerpt": "Wallets collection with card capacity, material durability, and design options.",
         "link": "/Kakobuy-wallet/"
       },
       {
-        "title": "Kakobuy Watch",
+        "title": "Kakobuy Spreadsheet Watch",
         "excerpt": "Watches with movement types, water resistance data, and style comparisons.",
         "link": "/Kakobuy-watch/"
       },
       {
-        "title": "Kakobuy Watches",
+        "title": "Kakobuy Spreadsheet Watches",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-watches/"
       },
       {
-        "title": "Kakobuy Watches Guide",
+        "title": "Kakobuy Spreadsheet Watches Guide",
         "excerpt": "Quality bags and accessories guide with product comparisons and buyer satisfaction data.",
         "link": "/Kakobuy-watches-guide/"
       }
@@ -859,227 +859,227 @@ const articleSeries = [
     "name": "Popular Brands - Sports",
     "articles": [
       {
-        "title": "Kakobuy Adidas",
+        "title": "Kakobuy Spreadsheet Adidas",
         "excerpt": "Adidas sneakers including Samba, Gazelle, Superstar, and Yeezy collections.",
         "link": "/Kakobuy-adidas/"
       },
       {
-        "title": "Kakobuy Adidas Guide",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Adidas Guide",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-adidas-guide/"
       },
       {
-        "title": "Kakobuy Adidas Superstar",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Adidas Superstar",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-adidas-superstar/"
       },
       {
-        "title": "Kakobuy Alo",
+        "title": "Kakobuy Spreadsheet Alo",
         "excerpt": "Alo yoga wear with performance fabrics, fit guide, and athleisure style options.",
         "link": "/Kakobuy-alo/"
       },
       {
-        "title": "Kakobuy Arcteryx",
+        "title": "Kakobuy Spreadsheet Arcteryx",
         "excerpt": "Arc'teryx technical gear with weather protection, durability data, and outdoor performance.",
         "link": "/Kakobuy-arcteryx/"
       },
       {
-        "title": "Kakobuy BAPE",
+        "title": "Kakobuy Spreadsheet BAPE",
         "excerpt": "BAPE streetwear with ape head designs, quality data, and authentication tips.",
         "link": "/Kakobuy-bape/"
       },
       {
-        "title": "Kakobuy Carhartt",
+        "title": "Kakobuy Spreadsheet Carhartt",
         "excerpt": "Carhartt workwear with durability data, material quality, and rugged style options.",
         "link": "/Kakobuy-carhartt/"
       },
       {
-        "title": "Kakobuy Casablanca",
+        "title": "Kakobuy Spreadsheet Casablanca",
         "excerpt": "Casablanca collection with vibrant patterns, quality ratings, and style versatility.",
         "link": "/Kakobuy-casablanca/"
       },
       {
-        "title": "Kakobuy Chrome Hearts",
+        "title": "Kakobuy Spreadsheet Chrome Hearts",
         "excerpt": "Premium Chrome Hearts hoodies, t-shirts, jeans, and accessories guide.",
         "link": "/Kakobuy-chrome-hearts/"
       },
       {
-        "title": "Kakobuy Corteiz",
+        "title": "Kakobuy Spreadsheet Corteiz",
         "excerpt": "Corteiz streetwear with exclusive designs, quality data, and community feedback.",
         "link": "/Kakobuy-corteiz/"
       },
       {
-        "title": "Kakobuy Denim Tears",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Denim Tears",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-denim-tears/"
       },
       {
-        "title": "Kakobuy EA7",
+        "title": "Kakobuy Spreadsheet EA7",
         "excerpt": "Emporio Armani EA7 athletic wear with performance data and luxury sport style.",
         "link": "/Kakobuy-ea7/"
       },
       {
-        "title": "Kakobuy Ed Hardy",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Ed Hardy",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-ed-hardy/"
       },
       {
-        "title": "Kakobuy Eric Emanuel",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Eric Emanuel",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-eric-emanuel/"
       },
       {
-        "title": "Kakobuy Essentials",
+        "title": "Kakobuy Spreadsheet Essentials",
         "excerpt": "Fear of God Essentials collection: hoodies, t-shirts, joggers, and shorts.",
         "link": "/Kakobuy-essentials/"
       },
       {
-        "title": "Kakobuy Gallery Dept",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Gallery Dept",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-gallery-dept/"
       },
       {
-        "title": "Kakobuy Gymshark",
+        "title": "Kakobuy Spreadsheet Gymshark",
         "excerpt": "Gymshark athletic wear with performance fabrics, fit guide, and workout recommendations.",
         "link": "/Kakobuy-gymshark/"
       },
       {
-        "title": "Kakobuy Hellstar",
+        "title": "Kakobuy Spreadsheet Hellstar",
         "excerpt": "Hellstar streetwear with edgy designs, quality ratings, and sizing information.",
         "link": "/Kakobuy-hellstar/"
       },
       {
-        "title": "Kakobuy Jordan",
+        "title": "Kakobuy Spreadsheet Jordan",
         "excerpt": "Jordan 1, 3, 4, 5, 11 and more with quality data and sizing tips.",
         "link": "/Kakobuy-jordan/"
       },
       {
-        "title": "Kakobuy Juicy Couture",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Juicy Couture",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-juicy-couture/"
       },
       {
-        "title": "Kakobuy Lacoste",
+        "title": "Kakobuy Spreadsheet Lacoste",
         "excerpt": "Lacoste collection with polo heritage, quality data, and French sportswear style.",
         "link": "/Kakobuy-lacoste/"
       },
       {
-        "title": "Kakobuy Mertra",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Mertra",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-mertra/"
       },
       {
-        "title": "Kakobuy Moncler",
+        "title": "Kakobuy Spreadsheet Moncler",
         "excerpt": "Moncler luxury puffers with down fill data, quality verification, and style guide.",
         "link": "/Kakobuy-moncler/"
       },
       {
-        "title": "Kakobuy Nike",
+        "title": "Kakobuy Spreadsheet Nike",
         "excerpt": "Complete Nike collection guide: Air Force 1, Air Max, Dunk, TN, and tech fleece.",
         "link": "/Kakobuy-nike/"
       },
       {
-        "title": "Kakobuy Nike Air Force 1",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Nike Air Force 1",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-nike-air-force-1/"
       },
       {
-        "title": "Kakobuy Nike Air Max",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Nike Air Max",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-nike-air-max/"
       },
       {
-        "title": "Kakobuy Nike Tn",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Nike Tn",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-nike-tn/"
       },
       {
-        "title": "Kakobuy Nocta",
+        "title": "Kakobuy Spreadsheet Nocta",
         "excerpt": "Drake's Nocta collection with Nike collaboration, quality data, and limited edition guide.",
         "link": "/Kakobuy-nocta/"
       },
       {
-        "title": "Kakobuy North Face",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet North Face",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-north-face/"
       },
       {
-        "title": "Kakobuy Oakley",
+        "title": "Kakobuy Spreadsheet Oakley",
         "excerpt": "Oakley eyewear with lens technology, UV protection data, and sport-specific options.",
         "link": "/Kakobuy-oakley/"
       },
       {
-        "title": "Kakobuy Palm Angels",
+        "title": "Kakobuy Spreadsheet Palm Angels",
         "excerpt": "Luxury streetwear from Palm Angels with hoodies, tracksuits, and jeans.",
         "link": "/Kakobuy-palm-angels/"
       },
       {
-        "title": "Kakobuy Polo Ralph Lauren",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Polo Ralph Lauren",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-polo-ralph-lauren/"
       },
       {
-        "title": "Kakobuy Ralph Lauren",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Ralph Lauren",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-ralph-lauren/"
       },
       {
-        "title": "Kakobuy Sp5der",
+        "title": "Kakobuy Spreadsheet Sp5der",
         "excerpt": "Sp5der collection with web designs, quality data, and streetwear style guide.",
         "link": "/Kakobuy-sp5der/"
       },
       {
-        "title": "Kakobuy Spider",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Spider",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-spider/"
       },
       {
-        "title": "Kakobuy Stussy",
+        "title": "Kakobuy Spreadsheet Stussy",
         "excerpt": "Stussy streetwear collection with authentic designs, quality data, and style guide.",
         "link": "/Kakobuy-stussy/"
       },
       {
-        "title": "Kakobuy Supreme",
+        "title": "Kakobuy Spreadsheet Supreme",
         "excerpt": "Supreme collection with box logo items, quality verification, and release tracking.",
         "link": "/Kakobuy-supreme/"
       },
       {
-        "title": "Kakobuy Supreme Hoodie",
+        "title": "Kakobuy Spreadsheet Supreme Hoodie",
         "excerpt": "Supreme collection with box logo items, quality verification, and release tracking.",
         "link": "/Kakobuy-supreme-hoodie/"
       },
       {
-        "title": "Kakobuy The North Face",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet The North Face",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-the-north-face/"
       },
       {
-        "title": "Kakobuy Trapstar",
+        "title": "Kakobuy Spreadsheet Trapstar",
         "excerpt": "Trapstar collection with London street style, quality ratings, and sizing guide.",
         "link": "/Kakobuy-trapstar/"
       },
       {
-        "title": "Kakobuy True Religion",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet True Religion",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-true-religion/"
       },
       {
-        "title": "Kakobuy Venum",
+        "title": "Kakobuy Spreadsheet Venum",
         "excerpt": "Venum fight gear with MMA quality data, durability ratings, and performance specs.",
         "link": "/Kakobuy-venum/"
       },
       {
-        "title": "Kakobuy Vivienne Westwood",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Vivienne Westwood",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-vivienne-westwood/"
       },
       {
-        "title": "Kakobuy Vlone",
+        "title": "Kakobuy Spreadsheet Vlone",
         "excerpt": "Vlone streetwear with orange logo, quality verification, and authentication tips.",
         "link": "/Kakobuy-vlone/"
       },
       {
-        "title": "Kakobuy Youngla",
+        "title": "Kakobuy Spreadsheet Youngla",
         "excerpt": "YoungLA gym clothing with muscle fit designs, quality data, and style options.",
         "link": "/Kakobuy-youngla/"
       }
@@ -1089,188 +1089,188 @@ const articleSeries = [
     "name": "Popular Brands - Luxury",
     "articles": [
       {
-        "title": "Kakobuy Alexander Mcqueen",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Alexander Mcqueen",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-alexander-mcqueen/"
       },
       {
-        "title": "Kakobuy Ami",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Ami",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-ami/"
       },
       {
-        "title": "Kakobuy Amiri",
+        "title": "Kakobuy Spreadsheet Amiri",
         "excerpt": "Amiri luxury streetwear with distressed denim, quality data, and pricing guide.",
         "link": "/Kakobuy-amiri/"
       },
       {
-        "title": "Kakobuy Audemars Piguet",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Audemars Piguet",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-audemars-piguet/"
       },
       {
-        "title": "Kakobuy Balenciaga",
+        "title": "Kakobuy Spreadsheet Balenciaga",
         "excerpt": "Balenciaga streetwear-luxury with oversized fits, quality data, and style guide.",
         "link": "/Kakobuy-balenciaga/"
       },
       {
-        "title": "Kakobuy Balenciaga Slides",
+        "title": "Kakobuy Spreadsheet Balenciaga Slides",
         "excerpt": "Balenciaga streetwear-luxury with oversized fits, quality data, and style guide.",
         "link": "/Kakobuy-balenciaga-slides/"
       },
       {
-        "title": "Kakobuy Balenciaga Track",
+        "title": "Kakobuy Spreadsheet Balenciaga Track",
         "excerpt": "Balenciaga streetwear-luxury with oversized fits, quality data, and style guide.",
         "link": "/Kakobuy-balenciaga-track/"
       },
       {
-        "title": "Kakobuy Burberry",
+        "title": "Kakobuy Spreadsheet Burberry",
         "excerpt": "Burberry collection with check pattern, quality data, and British heritage style.",
         "link": "/Kakobuy-burberry/"
       },
       {
-        "title": "Kakobuy Burberry Hoodie",
+        "title": "Kakobuy Spreadsheet Burberry Hoodie",
         "excerpt": "Burberry collection with check pattern, quality data, and British heritage style.",
         "link": "/Kakobuy-burberry-hoodie/"
       },
       {
-        "title": "Kakobuy Cartier",
+        "title": "Kakobuy Spreadsheet Cartier",
         "excerpt": "Cartier luxury watches and jewelry with authentication tips and quality verification.",
         "link": "/Kakobuy-cartier/"
       },
       {
-        "title": "Kakobuy Celine",
+        "title": "Kakobuy Spreadsheet Celine",
         "excerpt": "Celine collection with minimalist luxury, quality verification, and Parisian style.",
         "link": "/Kakobuy-celine/"
       },
       {
-        "title": "Kakobuy Chanel",
+        "title": "Kakobuy Spreadsheet Chanel",
         "excerpt": "Chanel luxury pieces with quilted patterns, authentication tips, and investment value.",
         "link": "/Kakobuy-chanel/"
       },
       {
-        "title": "Kakobuy Dior",
+        "title": "Kakobuy Spreadsheet Dior",
         "excerpt": "Dior collection with oblique pattern, quality verification, and style comparisons.",
         "link": "/Kakobuy-dior/"
       },
       {
-        "title": "Kakobuy Dior B30",
+        "title": "Kakobuy Spreadsheet Dior B30",
         "excerpt": "Dior collection with oblique pattern, quality verification, and style comparisons.",
         "link": "/Kakobuy-dior-b30/"
       },
       {
-        "title": "Kakobuy Fendi",
+        "title": "Kakobuy Spreadsheet Fendi",
         "excerpt": "Fendi collection with FF monogram, quality ratings, and style versatility guide.",
         "link": "/Kakobuy-fendi/"
       },
       {
-        "title": "Kakobuy Givenchy",
+        "title": "Kakobuy Spreadsheet Givenchy",
         "excerpt": "Givenchy pieces with edgy designs, quality verification, and streetwear-luxury fusion.",
         "link": "/Kakobuy-givenchy/"
       },
       {
-        "title": "Kakobuy Gucci",
-        "excerpt": "Complete Gucci collection on Kakobuy including Ace sneakers, belts, bags, and seasonal apparel.",
+        "title": "Kakobuy Spreadsheet Gucci",
+        "excerpt": "Complete Gucci collection on Kakobuy Spreadsheet including Ace sneakers, belts, bags, and seasonal apparel.",
         "link": "/Kakobuy-gucci/"
       },
       {
-        "title": "Kakobuy Hermes",
+        "title": "Kakobuy Spreadsheet Hermes",
         "excerpt": "Hermes luxury goods with craftsmanship data, authentication guide, and investment value.",
         "link": "/Kakobuy-hermes/"
       },
       {
-        "title": "Kakobuy Isabel Marant",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Isabel Marant",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-isabel-marant/"
       },
       {
-        "title": "Kakobuy Kenzo",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Kenzo",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-kenzo/"
       },
       {
-        "title": "Kakobuy Lanvin",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Lanvin",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-lanvin/"
       },
       {
-        "title": "Kakobuy Louboutin",
+        "title": "Kakobuy Spreadsheet Louboutin",
         "excerpt": "Christian Louboutin shoes with red sole authentication, quality data, and sizing guide.",
         "link": "/Kakobuy-louboutin/"
       },
       {
-        "title": "Kakobuy Louis Vuitton",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Louis Vuitton",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-louis-vuitton/"
       },
       {
-        "title": "Kakobuy LV Skate",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet LV Skate",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-lv-skate/"
       },
       {
-        "title": "Kakobuy Michael Kors",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Michael Kors",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-michael-kors/"
       },
       {
-        "title": "Kakobuy Miu Miu",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Miu Miu",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-miu-miu/"
       },
       {
-        "title": "Kakobuy Off White",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Off White",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-off-white/"
       },
       {
-        "title": "Kakobuy Prada",
+        "title": "Kakobuy Spreadsheet Prada",
         "excerpt": "Prada luxury items with nylon collection, leather quality, and authentication guide.",
         "link": "/Kakobuy-prada/"
       },
       {
-        "title": "Kakobuy Rick Owens",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Rick Owens",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-rick-owens/"
       },
       {
-        "title": "Kakobuy Rolex",
+        "title": "Kakobuy Spreadsheet Rolex",
         "excerpt": "Rolex watches with movement specifications, authentication tips, and investment value.",
         "link": "/Kakobuy-rolex/"
       },
       {
-        "title": "Kakobuy Tissot",
+        "title": "Kakobuy Spreadsheet Tissot",
         "excerpt": "Tissot watches with Swiss movement data, style options, and value comparisons.",
         "link": "/Kakobuy-tissot/"
       },
       {
-        "title": "Kakobuy Tommy Hilfiger",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Tommy Hilfiger",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-tommy-hilfiger/"
       },
       {
-        "title": "Kakobuy Valentino",
+        "title": "Kakobuy Spreadsheet Valentino",
         "excerpt": "Valentino luxury items with rockstud details, quality data, and authentication guide.",
         "link": "/Kakobuy-valentino/"
       },
       {
-        "title": "Kakobuy Versace",
+        "title": "Kakobuy Spreadsheet Versace",
         "excerpt": "Versace collection with medusa logo, quality verification, and Italian craftsmanship.",
         "link": "/Kakobuy-versace/"
       },
       {
-        "title": "Kakobuy Victoria Secret",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Victoria Secret",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-victoria-secret/"
       },
       {
-        "title": "Kakobuy YSL",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet YSL",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-ysl/"
       },
       {
-        "title": "Kakobuy Zara",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Zara",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-zara/"
       }
     ]
@@ -1279,117 +1279,117 @@ const articleSeries = [
     "name": "Popular Brands - Other",
     "articles": [
       {
-        "title": "Kakobuy Alpha Industries",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Alpha Industries",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-alpha-industries/"
       },
       {
-        "title": "Kakobuy Asics",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Asics",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-asics/"
       },
       {
-        "title": "Kakobuy CDG",
+        "title": "Kakobuy Spreadsheet CDG",
         "excerpt": "Comme des Garcons with avant-garde designs, quality verification, and authentication guide.",
         "link": "/Kakobuy-cdg/"
       },
       {
-        "title": "Kakobuy Coach",
+        "title": "Kakobuy Spreadsheet Coach",
         "excerpt": "Coach bags and accessories with leather quality, durability data, and style guide.",
         "link": "/Kakobuy-coach/"
       },
       {
-        "title": "Kakobuy Coach Bag",
+        "title": "Kakobuy Spreadsheet Coach Bag",
         "excerpt": "Coach bags and accessories with leather quality, durability data, and style guide.",
         "link": "/Kakobuy-coach-bag/"
       },
       {
-        "title": "Kakobuy Cp Company",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Cp Company",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-cp-company/"
       },
       {
-        "title": "Kakobuy Crocs",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Crocs",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-crocs/"
       },
       {
-        "title": "Kakobuy Diesel",
+        "title": "Kakobuy Spreadsheet Diesel",
         "excerpt": "Diesel collection with Italian denim, quality ratings, and edgy style guide.",
         "link": "/Kakobuy-diesel/"
       },
       {
-        "title": "Kakobuy Dyson",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Dyson",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-dyson/"
       },
       {
-        "title": "Kakobuy Hot Wheels",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Hot Wheels",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-hot-wheels/"
       },
       {
-        "title": "Kakobuy JBL",
+        "title": "Kakobuy Spreadsheet JBL",
         "excerpt": "JBL audio products with sound quality data, battery life, and feature comparisons.",
         "link": "/Kakobuy-jbl/"
       },
       {
-        "title": "Kakobuy JBL Speaker",
+        "title": "Kakobuy Spreadsheet JBL Speaker",
         "excerpt": "JBL audio products with sound quality data, battery life, and feature comparisons.",
         "link": "/Kakobuy-jbl-speaker/"
       },
       {
-        "title": "Kakobuy Jeremy Scott",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Jeremy Scott",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-jeremy-scott/"
       },
       {
-        "title": "Kakobuy Kobe",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Kobe",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-kobe/"
       },
       {
-        "title": "Kakobuy Kobe 6",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Kobe 6",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-kobe-6/"
       },
       {
-        "title": "Kakobuy Labubu",
+        "title": "Kakobuy Spreadsheet Labubu",
         "excerpt": "Labubu collectibles with character designs, quality data, and collector guide.",
         "link": "/Kakobuy-labubu/"
       },
       {
-        "title": "Kakobuy Lego",
+        "title": "Kakobuy Spreadsheet Lego",
         "excerpt": "Lego sets with piece counts, age recommendations, and collector value guide.",
         "link": "/Kakobuy-lego/"
       },
       {
-        "title": "Kakobuy New Balance",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet New Balance",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-new-balance/"
       },
       {
-        "title": "Kakobuy New Balance 9060",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet New Balance 9060",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-new-balance-9060/"
       },
       {
-        "title": "Kakobuy Timberland",
+        "title": "Kakobuy Spreadsheet Timberland",
         "excerpt": "Timberland boots with waterproof data, durability ratings, and classic style guide.",
         "link": "/Kakobuy-timberland/"
       },
       {
-        "title": "Kakobuy UGG Lowmel",
+        "title": "Kakobuy Spreadsheet UGG Lowmel",
         "excerpt": "UGG footwear with sheepskin quality, comfort ratings, and style variations.",
         "link": "/Kakobuy-ugg-lowmel/"
       },
       {
-        "title": "Kakobuy Vans",
-        "excerpt": "Complete brand guide on Kakobuy with product range, quality data, and pricing information.",
+        "title": "Kakobuy Spreadsheet Vans",
+        "excerpt": "Complete brand guide on Kakobuy Spreadsheet with product range, quality data, and pricing information.",
         "link": "/Kakobuy-vans/"
       },
       {
-        "title": "Kakobuy Yeezy",
+        "title": "Kakobuy Spreadsheet Yeezy",
         "excerpt": "Yeezy collection with Boost technology, quality verification, and sizing accuracy.",
         "link": "/Kakobuy-yeezy/"
       }
@@ -1399,172 +1399,172 @@ const articleSeries = [
     "name": "Save Money",
     "articles": [
       {
-        "title": "Kakobuy Affordable Fashion",
+        "title": "Kakobuy Spreadsheet Affordable Fashion",
         "excerpt": "Affordable fashion and luxury alternatives with quality verification and style guide.",
         "link": "/Kakobuy-affordable-fashion/"
       },
       {
-        "title": "Kakobuy Affordable Luxury",
+        "title": "Kakobuy Spreadsheet Affordable Luxury",
         "excerpt": "Affordable fashion and luxury alternatives with quality verification and style guide.",
         "link": "/Kakobuy-affordable-luxury/"
       },
       {
-        "title": "Kakobuy Bargain Guide",
+        "title": "Kakobuy Spreadsheet Bargain Guide",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-bargain-guide/"
       },
       {
-        "title": "Kakobuy Best Deals",
+        "title": "Kakobuy Spreadsheet Best Deals",
         "excerpt": "Curated list of the best value products across all categories.",
         "link": "/Kakobuy-best-deals/"
       },
       {
-        "title": "Kakobuy Best Value",
+        "title": "Kakobuy Spreadsheet Best Value",
         "excerpt": "Best value products combining quality and price with buyer satisfaction data.",
         "link": "/Kakobuy-best-value/"
       },
       {
-        "title": "Kakobuy Budget Guide",
+        "title": "Kakobuy Spreadsheet Budget Guide",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
         "link": "/Kakobuy-budget-guide/"
       },
       {
-        "title": "Kakobuy Budget Hoodies",
+        "title": "Kakobuy Spreadsheet Budget Hoodies",
         "excerpt": "Quality hoodies at budget-friendly prices with detailed specifications.",
         "link": "/Kakobuy-budget-hoodies/"
       },
       {
-        "title": "Kakobuy Budget Luxury",
+        "title": "Kakobuy Spreadsheet Budget Luxury",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
         "link": "/Kakobuy-budget-luxury/"
       },
       {
-        "title": "Kakobuy Budget Picks",
+        "title": "Kakobuy Spreadsheet Budget Picks",
         "excerpt": "Best products under $25 with quality data and buyer satisfaction ratings.",
         "link": "/Kakobuy-budget-picks/"
       },
       {
-        "title": "Kakobuy Budget Shopping",
+        "title": "Kakobuy Spreadsheet Budget Shopping",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
         "link": "/Kakobuy-budget-shopping/"
       },
       {
-        "title": "Kakobuy Budget Streetwear",
+        "title": "Kakobuy Spreadsheet Budget Streetwear",
         "excerpt": "Budget-friendly products under $50 with quality data and buyer satisfaction.",
         "link": "/Kakobuy-budget-streetwear/"
       },
       {
-        "title": "Kakobuy Cheap Finds",
+        "title": "Kakobuy Spreadsheet Cheap Finds",
         "excerpt": "Affordable options across categories with quality comparisons and value ratings.",
         "link": "/Kakobuy-cheap-finds/"
       },
       {
-        "title": "Kakobuy Cheap Luxury",
+        "title": "Kakobuy Spreadsheet Cheap Luxury",
         "excerpt": "Affordable options across categories with quality comparisons and value ratings.",
         "link": "/Kakobuy-cheap-luxury/"
       },
       {
-        "title": "Kakobuy Cheap Sneakers",
+        "title": "Kakobuy Spreadsheet Cheap Sneakers",
         "excerpt": "Affordable sneaker options with quality comparisons and buyer reviews.",
         "link": "/Kakobuy-cheap-sneakers/"
       },
       {
-        "title": "Kakobuy Cheap Streetwear",
+        "title": "Kakobuy Spreadsheet Cheap Streetwear",
         "excerpt": "Affordable options across categories with quality comparisons and value ratings.",
         "link": "/Kakobuy-cheap-streetwear/"
       },
       {
-        "title": "Kakobuy Cheapest Products",
+        "title": "Kakobuy Spreadsheet Cheapest Products",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-cheapest-products/"
       },
       {
-        "title": "Kakobuy Cost Effective",
+        "title": "Kakobuy Spreadsheet Cost Effective",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-cost-effective/"
       },
       {
-        "title": "Kakobuy Coupon",
-        "excerpt": "Latest discount codes, coupon strategies, and seasonal deals on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Coupon",
+        "excerpt": "Latest discount codes, coupon strategies, and seasonal deals on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-coupon/"
       },
       {
-        "title": "Kakobuy Coupon Code",
-        "excerpt": "Latest coupon codes and discount strategies to save on your Kakobuy purchases.",
+        "title": "Kakobuy Spreadsheet Coupon Code",
+        "excerpt": "Latest coupon codes and discount strategies to save on your Kakobuy Spreadsheet purchases.",
         "link": "/Kakobuy-coupon-code/"
       },
       {
-        "title": "Kakobuy Coupon Guide",
-        "excerpt": "Latest coupon codes and discount strategies to save on your Kakobuy purchases.",
+        "title": "Kakobuy Spreadsheet Coupon Guide",
+        "excerpt": "Latest coupon codes and discount strategies to save on your Kakobuy Spreadsheet purchases.",
         "link": "/Kakobuy-coupon-guide/"
       },
       {
-        "title": "Kakobuy Deal Hunter",
-        "excerpt": "Best deals and limited-time offers across all product categories on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Deal Hunter",
+        "excerpt": "Best deals and limited-time offers across all product categories on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-deal-hunter/"
       },
       {
-        "title": "Kakobuy Discount Guide",
-        "excerpt": "Discount strategies and promo codes to reduce your Kakobuy shopping costs.",
+        "title": "Kakobuy Spreadsheet Discount Guide",
+        "excerpt": "Discount strategies and promo codes to reduce your Kakobuy Spreadsheet shopping costs.",
         "link": "/Kakobuy-discount-guide/"
       },
       {
-        "title": "Kakobuy Holiday Deals",
+        "title": "Kakobuy Spreadsheet Holiday Deals",
         "excerpt": "Holiday shopping deals with seasonal discounts, gift ideas, and savings tips.",
         "link": "/Kakobuy-holiday-deals/"
       },
       {
-        "title": "Kakobuy Luxury Finds",
+        "title": "Kakobuy Spreadsheet Luxury Finds",
         "excerpt": "Hidden gems and underrated products with excellent quality-to-price ratios.",
         "link": "/Kakobuy-luxury-finds/"
       },
       {
-        "title": "Kakobuy Premium Quality",
+        "title": "Kakobuy Spreadsheet Premium Quality",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-premium-quality/"
       },
       {
-        "title": "Kakobuy Sale Guide",
+        "title": "Kakobuy Spreadsheet Sale Guide",
         "excerpt": "Seasonal sales and clearance events with maximum savings opportunities.",
         "link": "/Kakobuy-sale-guide/"
       },
       {
-        "title": "Kakobuy Save Money",
+        "title": "Kakobuy Spreadsheet Save Money",
         "excerpt": "Complete money-saving guide with shopping hacks and bulk buying tips.",
         "link": "/Kakobuy-save-money/"
       },
       {
-        "title": "Kakobuy Seasonal Deals",
+        "title": "Kakobuy Spreadsheet Seasonal Deals",
         "excerpt": "Seasonal promotions and clearance events with maximum savings opportunities.",
         "link": "/Kakobuy-seasonal-deals/"
       },
       {
-        "title": "Kakobuy Shopping Hacks",
+        "title": "Kakobuy Spreadsheet Shopping Hacks",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-shopping-hacks/"
       },
       {
-        "title": "Kakobuy Summer Deals",
+        "title": "Kakobuy Spreadsheet Summer Deals",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-summer-deals/"
       },
       {
-        "title": "Kakobuy Value Shopping",
+        "title": "Kakobuy Spreadsheet Value Shopping",
         "excerpt": "Best value products combining quality and price with buyer satisfaction data.",
         "link": "/Kakobuy-value-shopping/"
       },
       {
-        "title": "Kakobuy Wholesale Guide",
+        "title": "Kakobuy Spreadsheet Wholesale Guide",
         "excerpt": "Wholesale buying guide with bulk discounts, minimum orders, and reseller tips.",
         "link": "/Kakobuy-wholesale-guide/"
       },
       {
-        "title": "Kakobuy Winter Deals",
+        "title": "Kakobuy Spreadsheet Winter Deals",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-winter-deals/"
       },
       {
-        "title": "Kakobuy With Sales",
+        "title": "Kakobuy Spreadsheet With Sales",
         "excerpt": "Money-saving guide with budget-friendly products, discount strategies, and shopping tips.",
         "link": "/Kakobuy-with-sales/"
       }
@@ -1574,237 +1574,237 @@ const articleSeries = [
     "name": "Trust & Safety",
     "articles": [
       {
-        "title": "Kakobuy Account Security",
-        "excerpt": "Security measures and safe shopping practices to protect your Kakobuy experience.",
+        "title": "Kakobuy Spreadsheet Account Security",
+        "excerpt": "Security measures and safe shopping practices to protect your Kakobuy Spreadsheet experience.",
         "link": "/Kakobuy-account-security/"
       },
       {
-        "title": "Kakobuy Authentic Check",
+        "title": "Kakobuy Spreadsheet Authentic Check",
         "excerpt": "Verification guides to authenticate products and ensure quality before purchase.",
         "link": "/Kakobuy-authentic-check/"
       },
       {
-        "title": "Kakobuy Best Quality",
+        "title": "Kakobuy Spreadsheet Best Quality",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-best-quality/"
       },
       {
-        "title": "Kakobuy Buyer Protection",
+        "title": "Kakobuy Spreadsheet Buyer Protection",
         "excerpt": "Buyer protection policies with dispute resolution, refund processes, and safety guarantees.",
         "link": "/Kakobuy-buyer-protection/"
       },
       {
-        "title": "Kakobuy Credit Card Safety",
+        "title": "Kakobuy Spreadsheet Credit Card Safety",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-credit-card-safety/"
       },
       {
-        "title": "Kakobuy Customer Reviews",
+        "title": "Kakobuy Spreadsheet Customer Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-customer-reviews/"
       },
       {
-        "title": "Kakobuy Data Security",
-        "excerpt": "Security measures and safe shopping practices to protect your Kakobuy experience.",
+        "title": "Kakobuy Spreadsheet Data Security",
+        "excerpt": "Security measures and safe shopping practices to protect your Kakobuy Spreadsheet experience.",
         "link": "/Kakobuy-data-security/"
       },
       {
-        "title": "Kakobuy Fake Check",
+        "title": "Kakobuy Spreadsheet Fake Check",
         "excerpt": "Verification guides to authenticate products and ensure quality before purchase.",
         "link": "/Kakobuy-fake-check/"
       },
       {
-        "title": "Kakobuy Good Quality",
+        "title": "Kakobuy Spreadsheet Good Quality",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-good-quality/"
       },
       {
-        "title": "Kakobuy High Quality",
+        "title": "Kakobuy Spreadsheet High Quality",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-high-quality/"
       },
       {
-        "title": "Kakobuy Legit Check",
+        "title": "Kakobuy Spreadsheet Legit Check",
         "excerpt": "Step-by-step quality verification and authenticity checking guide.",
         "link": "/Kakobuy-legit-check/"
       },
       {
-        "title": "Kakobuy Legit Check Guide",
+        "title": "Kakobuy Spreadsheet Legit Check Guide",
         "excerpt": "Platform legitimacy analysis with user reviews, transaction data, and trust indicators.",
         "link": "/Kakobuy-legit-check-guide/"
       },
       {
-        "title": "Kakobuy Legit Guide",
+        "title": "Kakobuy Spreadsheet Legit Guide",
         "excerpt": "Platform legitimacy analysis with user reviews, transaction data, and trust indicators.",
         "link": "/Kakobuy-legit-guide/"
       },
       {
-        "title": "Kakobuy Legitimacy",
+        "title": "Kakobuy Spreadsheet Legitimacy",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-legitimacy/"
       },
       {
-        "title": "Kakobuy Original Guide",
+        "title": "Kakobuy Spreadsheet Original Guide",
         "excerpt": "Original product identification with quality indicators, packaging checks, and verification tips.",
         "link": "/Kakobuy-original-guide/"
       },
       {
-        "title": "Kakobuy Original Products",
+        "title": "Kakobuy Spreadsheet Original Products",
         "excerpt": "Original product identification with quality indicators, packaging checks, and verification tips.",
         "link": "/Kakobuy-original-products/"
       },
       {
-        "title": "Kakobuy Payment Safety",
+        "title": "Kakobuy Spreadsheet Payment Safety",
         "excerpt": "Payment security with encryption data, safe methods, and transaction protection.",
         "link": "/Kakobuy-payment-safety/"
       },
       {
-        "title": "Kakobuy Paypal Guide",
+        "title": "Kakobuy Spreadsheet Paypal Guide",
         "excerpt": "PayPal payment guide with buyer protection, dispute process, and safety tips.",
         "link": "/Kakobuy-paypal-guide/"
       },
       {
-        "title": "Kakobuy Privacy Guide",
+        "title": "Kakobuy Spreadsheet Privacy Guide",
         "excerpt": "Privacy protection measures with data security, account settings, and safe practices.",
         "link": "/Kakobuy-privacy-guide/"
       },
       {
-        "title": "Kakobuy QC Guide",
+        "title": "Kakobuy Spreadsheet QC Guide",
         "excerpt": "Quality control process with inspection standards, photo verification, and approval tips.",
         "link": "/Kakobuy-qc-guide/"
       },
       {
-        "title": "Kakobuy QC Photos",
+        "title": "Kakobuy Spreadsheet QC Photos",
         "excerpt": "How to read quality check photos and verify product condition before shipping.",
         "link": "/Kakobuy-qc-photos/"
       },
       {
-        "title": "Kakobuy Quality Check",
+        "title": "Kakobuy Spreadsheet Quality Check",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-quality-check/"
       },
       {
-        "title": "Kakobuy Quality Control",
+        "title": "Kakobuy Spreadsheet Quality Control",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-quality-control/"
       },
       {
-        "title": "Kakobuy Quality Guide",
+        "title": "Kakobuy Spreadsheet Quality Guide",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-quality-guide/"
       },
       {
-        "title": "Kakobuy Quality Verification",
+        "title": "Kakobuy Spreadsheet Quality Verification",
         "excerpt": "Quality verification methods with inspection tips, material checks, and satisfaction data.",
         "link": "/Kakobuy-quality-verification/"
       },
       {
-        "title": "Kakobuy Reddit",
+        "title": "Kakobuy Spreadsheet Reddit",
         "excerpt": "Real user experiences and discussions from the Reddit community.",
         "link": "/Kakobuy-reddit/"
       },
       {
-        "title": "Kakobuy Refund Guide",
+        "title": "Kakobuy Spreadsheet Refund Guide",
         "excerpt": "Refund process guide with eligibility criteria, timeline, and successful claim tips.",
         "link": "/Kakobuy-refund-guide/"
       },
       {
-        "title": "Kakobuy Reliable",
+        "title": "Kakobuy Spreadsheet Reliable",
         "excerpt": "Platform reliability assessment with user testimonials, service record, and trust data.",
         "link": "/Kakobuy-reliable/"
       },
       {
-        "title": "Kakobuy Return Policy",
+        "title": "Kakobuy Spreadsheet Return Policy",
         "excerpt": "Return policy details with conditions, procedures, and customer experience data.",
         "link": "/Kakobuy-return-policy/"
       },
       {
-        "title": "Kakobuy Review Guide",
+        "title": "Kakobuy Spreadsheet Review Guide",
         "excerpt": "Aggregated user reviews with satisfaction ratings, common feedback, and reliability data.",
         "link": "/Kakobuy-review-guide/"
       },
       {
-        "title": "Kakobuy Reviews",
+        "title": "Kakobuy Spreadsheet Reviews",
         "excerpt": "Aggregated user reviews and satisfaction ratings across all product categories.",
         "link": "/Kakobuy-reviews/"
       },
       {
-        "title": "Kakobuy Safe Shopping",
-        "excerpt": "Security measures and safe shopping practices to protect your Kakobuy experience.",
+        "title": "Kakobuy Spreadsheet Safe Shopping",
+        "excerpt": "Security measures and safe shopping practices to protect your Kakobuy Spreadsheet experience.",
         "link": "/Kakobuy-safe-shopping/"
       },
       {
-        "title": "Kakobuy Safety Guide",
+        "title": "Kakobuy Spreadsheet Safety Guide",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-safety-guide/"
       },
       {
-        "title": "Kakobuy Scam Check",
+        "title": "Kakobuy Spreadsheet Scam Check",
         "excerpt": "Verification guides to authenticate products and ensure quality before purchase.",
         "link": "/Kakobuy-scam-check/"
       },
       {
-        "title": "Kakobuy Seller Ratings",
+        "title": "Kakobuy Spreadsheet Seller Ratings",
         "excerpt": "Seller evaluation with ratings, transaction history, and reliability indicators.",
         "link": "/Kakobuy-seller-ratings/"
       },
       {
-        "title": "Kakobuy Trust Guide",
+        "title": "Kakobuy Spreadsheet Trust Guide",
         "excerpt": "Trust evaluation with platform reliability data, user feedback, and safety record.",
         "link": "/Kakobuy-trust-guide/"
       },
       {
-        "title": "Kakobuy Trustpilot",
+        "title": "Kakobuy Spreadsheet Trustpilot",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-trustpilot/"
       },
       {
-        "title": "Kakobuy Trustpilot Reviews",
+        "title": "Kakobuy Spreadsheet Trustpilot Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-trustpilot-reviews/"
       },
       {
-        "title": "Kakobuy Trustworthy",
+        "title": "Kakobuy Spreadsheet Trustworthy",
         "excerpt": "Platform reliability assessment with user testimonials, service record, and trust data.",
         "link": "/Kakobuy-trustworthy/"
       },
       {
-        "title": "Kakobuy User Reviews",
+        "title": "Kakobuy Spreadsheet User Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-user-reviews/"
       },
       {
-        "title": "Kakobuy Verified Products",
+        "title": "Kakobuy Spreadsheet Verified Products",
         "excerpt": "Verified products and sellers with quality assurance data and reliability ratings.",
         "link": "/Kakobuy-verified-products/"
       },
       {
-        "title": "Kakobuy Verified Sellers",
+        "title": "Kakobuy Spreadsheet Verified Sellers",
         "excerpt": "Verified products and sellers with quality assurance data and reliability ratings.",
         "link": "/Kakobuy-verified-sellers/"
       },
       {
-        "title": "Kakobuy Warranty Guide",
+        "title": "Kakobuy Spreadsheet Warranty Guide",
         "excerpt": "Warranty information with coverage details, claim process, and protection options.",
         "link": "/Kakobuy-warranty-guide/"
       },
       {
-        "title": "Kakobuy With QC",
+        "title": "Kakobuy Spreadsheet With QC",
         "excerpt": "Quality control process with inspection standards, photo verification, and approval tips.",
         "link": "/Kakobuy-with-qc/"
       },
       {
-        "title": "Kakobuy With QC Photos",
+        "title": "Kakobuy Spreadsheet With QC Photos",
         "excerpt": "Quality control process with inspection standards, photo verification, and approval tips.",
         "link": "/Kakobuy-with-qc-photos/"
       },
       {
-        "title": "Kakobuy With Reviews",
+        "title": "Kakobuy Spreadsheet With Reviews",
         "excerpt": "Trust and safety guide covering quality verification, user reviews, and platform reliability.",
         "link": "/Kakobuy-with-reviews/"
       },
       {
-        "title": "Is Kakobuy Legit",
+        "title": "Is Kakobuy Spreadsheet Legit",
         "excerpt": "Comprehensive trust analysis with user reviews and platform reliability data.",
         "link": "/is-Kakobuy-legit/"
       }
@@ -2140,7 +2140,7 @@ const articleSeries = [
       },
       {
         "title": "Kakobuy Spreadsheet Link",
-        "excerpt": "How to access and navigate the Kakobuy spreadsheet effectively.",
+        "excerpt": "How to access and navigate the Kakobuy Spreadsheet spreadsheet effectively.",
         "link": "/Kakobuy-spreadsheet-link/"
       },
       {
@@ -2414,172 +2414,172 @@ const articleSeries = [
     "name": "Regional & International",
     "articles": [
       {
-        "title": "Kakobuy Africa Shipping",
+        "title": "Kakobuy Spreadsheet Africa Shipping",
         "excerpt": "African shipping guide with delivery options, customs procedures, and regional coverage.",
         "link": "/Kakobuy-africa-shipping/"
       },
       {
-        "title": "Kakobuy Asia Shipping",
+        "title": "Kakobuy Spreadsheet Asia Shipping",
         "excerpt": "Asian shipping information with delivery times, customs handling, and regional options.",
         "link": "/Kakobuy-asia-shipping/"
       },
       {
-        "title": "Kakobuy Australia",
+        "title": "Kakobuy Spreadsheet Australia",
         "excerpt": "Australian shipping guide with delivery times and customs handling.",
         "link": "/Kakobuy-australia/"
       },
       {
-        "title": "Kakobuy Australia Guide",
+        "title": "Kakobuy Spreadsheet Australia Guide",
         "excerpt": "Australian buyer information with shipping methods, customs handling, and delivery times.",
         "link": "/Kakobuy-australia-guide/"
       },
       {
-        "title": "Kakobuy Canada",
+        "title": "Kakobuy Spreadsheet Canada",
         "excerpt": "Canadian buyer guide with shipping options and duty information.",
         "link": "/Kakobuy-canada/"
       },
       {
-        "title": "Kakobuy Canada Goose",
+        "title": "Kakobuy Spreadsheet Canada Goose",
         "excerpt": "Canadian shopping guide with shipping options, duty fees, and delivery estimates.",
         "link": "/Kakobuy-canada-goose/"
       },
       {
-        "title": "Kakobuy Canada Guide",
+        "title": "Kakobuy Spreadsheet Canada Guide",
         "excerpt": "Canadian shopping guide with shipping options, duty fees, and delivery estimates.",
         "link": "/Kakobuy-canada-guide/"
       },
       {
-        "title": "Kakobuy Economy Shipping",
+        "title": "Kakobuy Spreadsheet Economy Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-economy-shipping/"
       },
       {
-        "title": "Kakobuy Ems Shipping",
+        "title": "Kakobuy Spreadsheet Ems Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-ems-shipping/"
       },
       {
-        "title": "Kakobuy Eu Shipping",
+        "title": "Kakobuy Spreadsheet Eu Shipping",
         "excerpt": "European Union shipping guide with customs regulations, VAT information, and delivery options.",
         "link": "/Kakobuy-eu-shipping/"
       },
       {
-        "title": "Kakobuy Euro Shipping",
+        "title": "Kakobuy Spreadsheet Euro Shipping",
         "excerpt": "European Union shipping guide with customs regulations, VAT information, and delivery options.",
         "link": "/Kakobuy-euro-shipping/"
       },
       {
-        "title": "Kakobuy Europe",
+        "title": "Kakobuy Spreadsheet Europe",
         "excerpt": "European buyer guide covering EU countries and shipping regulations.",
         "link": "/Kakobuy-europe/"
       },
       {
-        "title": "Kakobuy Express Shipping",
+        "title": "Kakobuy Spreadsheet Express Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-express-shipping/"
       },
       {
-        "title": "Kakobuy Free Shipping",
+        "title": "Kakobuy Spreadsheet Free Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-free-shipping/"
       },
       {
-        "title": "Kakobuy Global Shipping",
+        "title": "Kakobuy Spreadsheet Global Shipping",
         "excerpt": "Global shipping coverage with international delivery options, customs info, and tracking.",
         "link": "/Kakobuy-global-shipping/"
       },
       {
-        "title": "Kakobuy International",
+        "title": "Kakobuy Spreadsheet International",
         "excerpt": "Global shipping coverage with international delivery options, customs info, and tracking.",
         "link": "/Kakobuy-international/"
       },
       {
-        "title": "Kakobuy International Shipping",
+        "title": "Kakobuy Spreadsheet International Shipping",
         "excerpt": "Global shipping guide covering all supported countries and regions.",
         "link": "/Kakobuy-international-shipping/"
       },
       {
-        "title": "Kakobuy Kukirin",
+        "title": "Kakobuy Spreadsheet Kukirin",
         "excerpt": "Regional shipping guide with delivery options, customs information, and local payment methods.",
         "link": "/Kakobuy-kukirin/"
       },
       {
-        "title": "Kakobuy Latin America Shipping",
+        "title": "Kakobuy Spreadsheet Latin America Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-latin-america-shipping/"
       },
       {
-        "title": "Kakobuy Middle East Shipping",
+        "title": "Kakobuy Spreadsheet Middle East Shipping",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-middle-east-shipping/"
       },
       {
-        "title": "Kakobuy Oceania Shipping",
+        "title": "Kakobuy Spreadsheet Oceania Shipping",
         "excerpt": "Oceania shipping guide with delivery times, customs handling, and regional information.",
         "link": "/Kakobuy-oceania-shipping/"
       },
       {
-        "title": "Kakobuy Poland",
+        "title": "Kakobuy Spreadsheet Poland",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
         "link": "/Kakobuy-poland/"
       },
       {
-        "title": "Kakobuy Poland Guide",
+        "title": "Kakobuy Spreadsheet Poland Guide",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
         "link": "/Kakobuy-poland-guide/"
       },
       {
-        "title": "Kakobuy Polska",
+        "title": "Kakobuy Spreadsheet Polska",
         "excerpt": "Polish buyer guide with local payment methods and shipping options.",
         "link": "/Kakobuy-polska/"
       },
       {
-        "title": "Kakobuy Polska 2026",
+        "title": "Kakobuy Spreadsheet Polska 2026",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
         "link": "/Kakobuy-polska-2026/"
       },
       {
-        "title": "Kakobuy Polska Guide",
+        "title": "Kakobuy Spreadsheet Polska Guide",
         "excerpt": "Polish buyer guide with local payment methods, shipping options, and customs information.",
         "link": "/Kakobuy-polska-guide/"
       },
       {
-        "title": "Kakobuy Romania",
+        "title": "Kakobuy Spreadsheet Romania",
         "excerpt": "Romanian shopping information with delivery options, customs duties, and payment methods.",
         "link": "/Kakobuy-romania/"
       },
       {
-        "title": "Kakobuy Romania Guide",
+        "title": "Kakobuy Spreadsheet Romania Guide",
         "excerpt": "Romanian shopping information with delivery options, customs duties, and payment methods.",
         "link": "/Kakobuy-romania-guide/"
       },
       {
-        "title": "Kakobuy Shipping Costs",
+        "title": "Kakobuy Spreadsheet Shipping Costs",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-shipping-costs/"
       },
       {
-        "title": "Kakobuy Shipping Times",
+        "title": "Kakobuy Spreadsheet Shipping Times",
         "excerpt": "Shipping methods guide with delivery times, cost comparisons, and tracking options.",
         "link": "/Kakobuy-shipping-times/"
       },
       {
-        "title": "Kakobuy Uk",
+        "title": "Kakobuy Spreadsheet Uk",
         "excerpt": "Complete guide for UK buyers including shipping, customs, and payment methods.",
         "link": "/Kakobuy-uk/"
       },
       {
-        "title": "Kakobuy Uk Guide",
+        "title": "Kakobuy Spreadsheet Uk Guide",
         "excerpt": "UK buyer guide with shipping times, customs duties, and local payment options.",
         "link": "/Kakobuy-uk-guide/"
       },
       {
-        "title": "Kakobuy Us Shipping",
+        "title": "Kakobuy Spreadsheet Us Shipping",
         "excerpt": "US shipping guide with delivery options, tracking information, and estimated times.",
         "link": "/Kakobuy-us-shipping/"
       },
       {
-        "title": "Kakobuy Worldwide Shipping",
+        "title": "Kakobuy Spreadsheet Worldwide Shipping",
         "excerpt": "Global shipping coverage with international delivery options, customs info, and tracking.",
         "link": "/Kakobuy-worldwide-shipping/"
       }
@@ -2589,147 +2589,147 @@ const articleSeries = [
     "name": "Product Guides",
     "articles": [
       {
-        "title": "Kakobuy Airpods",
+        "title": "Kakobuy Spreadsheet Airpods",
         "excerpt": "Apple products guide with model comparisons, quality data, and authentication tips.",
         "link": "/Kakobuy-airpods/"
       },
       {
-        "title": "Kakobuy Collectibles",
+        "title": "Kakobuy Spreadsheet Collectibles",
         "excerpt": "Collectibles guide with rarity data, condition ratings, and investment value.",
         "link": "/Kakobuy-collectibles/"
       },
       {
-        "title": "Kakobuy Cosmetics",
+        "title": "Kakobuy Spreadsheet Cosmetics",
         "excerpt": "Cosmetics collection with ingredient data, quality verification, and beauty guide.",
         "link": "/Kakobuy-cosmetics/"
       },
       {
-        "title": "Kakobuy Dress",
+        "title": "Kakobuy Spreadsheet Dress",
         "excerpt": "Dress selection with style options, fabric quality, and occasion recommendations.",
         "link": "/Kakobuy-dress/"
       },
       {
-        "title": "Kakobuy Electronics",
+        "title": "Kakobuy Spreadsheet Electronics",
         "excerpt": "Electronics collection with specifications, quality verification, and performance data.",
         "link": "/Kakobuy-electronics/"
       },
       {
-        "title": "Kakobuy Electronics Guide",
+        "title": "Kakobuy Spreadsheet Electronics Guide",
         "excerpt": "Electronics collection with specifications, quality verification, and performance data.",
         "link": "/Kakobuy-electronics-guide/"
       },
       {
-        "title": "Kakobuy Fishing Gear",
+        "title": "Kakobuy Spreadsheet Fishing Gear",
         "excerpt": "Fishing equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-fishing-gear/"
       },
       {
-        "title": "Kakobuy Football Jersey",
+        "title": "Kakobuy Spreadsheet Football Jersey",
         "excerpt": "Football gear with position-specific recommendations, quality data, and performance ratings.",
         "link": "/Kakobuy-football-jersey/"
       },
       {
-        "title": "Kakobuy Football Kits",
+        "title": "Kakobuy Spreadsheet Football Kits",
         "excerpt": "Football gear with position-specific recommendations, quality data, and performance ratings.",
         "link": "/Kakobuy-football-kits/"
       },
       {
-        "title": "Kakobuy Fragrance",
+        "title": "Kakobuy Spreadsheet Fragrance",
         "excerpt": "Fragrance guide with scent profiles, longevity data, and authenticity tips.",
         "link": "/Kakobuy-fragrance/"
       },
       {
-        "title": "Kakobuy Gym Gear",
+        "title": "Kakobuy Spreadsheet Gym Gear",
         "excerpt": "Gym equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-gym-gear/"
       },
       {
-        "title": "Kakobuy Ipad",
+        "title": "Kakobuy Spreadsheet Ipad",
         "excerpt": "Apple products guide with model comparisons, quality data, and authentication tips.",
         "link": "/Kakobuy-ipad/"
       },
       {
-        "title": "Kakobuy Iphone",
+        "title": "Kakobuy Spreadsheet Iphone",
         "excerpt": "Apple products guide with model comparisons, quality data, and authentication tips.",
         "link": "/Kakobuy-iphone/"
       },
       {
-        "title": "Kakobuy Makeup",
+        "title": "Kakobuy Spreadsheet Makeup",
         "excerpt": "Cosmetics collection with ingredient data, quality verification, and beauty guide.",
         "link": "/Kakobuy-makeup/"
       },
       {
-        "title": "Kakobuy MMA Gear",
+        "title": "Kakobuy Spreadsheet MMA Gear",
         "excerpt": "Mma equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-mma-gear/"
       },
       {
-        "title": "Kakobuy Motocross Gear",
+        "title": "Kakobuy Spreadsheet Motocross Gear",
         "excerpt": "Motocross equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-motocross-gear/"
       },
       {
-        "title": "Kakobuy Motorcycle Gear",
+        "title": "Kakobuy Spreadsheet Motorcycle Gear",
         "excerpt": "Motorcycle equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-motorcycle-gear/"
       },
       {
-        "title": "Kakobuy MTB Gear",
+        "title": "Kakobuy Spreadsheet MTB Gear",
         "excerpt": "Mtb equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-mtb-gear/"
       },
       {
-        "title": "Kakobuy Outdoor Gear",
+        "title": "Kakobuy Spreadsheet Outdoor Gear",
         "excerpt": "Outdoor equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-outdoor-gear/"
       },
       {
-        "title": "Kakobuy Perfume",
+        "title": "Kakobuy Spreadsheet Perfume",
         "excerpt": "Fragrance guide with scent profiles, longevity data, and authenticity tips.",
         "link": "/Kakobuy-perfume/"
       },
       {
-        "title": "Kakobuy Phone",
+        "title": "Kakobuy Spreadsheet Phone",
         "excerpt": "Phone selection with specifications, carrier compatibility, and quality verification.",
         "link": "/Kakobuy-phone/"
       },
       {
-        "title": "Kakobuy Room Decor",
-        "excerpt": "Product guide covering electronics, gadgets, and specialty items available on Kakobuy.",
+        "title": "Kakobuy Spreadsheet Room Decor",
+        "excerpt": "Product guide covering electronics, gadgets, and specialty items available on Kakobuy Spreadsheet.",
         "link": "/Kakobuy-room-decor/"
       },
       {
-        "title": "Kakobuy Size Chart",
+        "title": "Kakobuy Spreadsheet Size Chart",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
         "link": "/Kakobuy-size-chart/"
       },
       {
-        "title": "Kakobuy Size Conversion",
+        "title": "Kakobuy Spreadsheet Size Conversion",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
         "link": "/Kakobuy-size-conversion/"
       },
       {
-        "title": "Kakobuy Size Guide",
+        "title": "Kakobuy Spreadsheet Size Guide",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
         "link": "/Kakobuy-size-guide/"
       },
       {
-        "title": "Kakobuy Sizing Chart",
+        "title": "Kakobuy Spreadsheet Sizing Chart",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
         "link": "/Kakobuy-sizing-chart/"
       },
       {
-        "title": "Kakobuy Sizing Guide",
+        "title": "Kakobuy Spreadsheet Sizing Guide",
         "excerpt": "Comprehensive sizing guide with measurement charts, conversion data, and fit tips.",
         "link": "/Kakobuy-sizing-guide/"
       },
       {
-        "title": "Kakobuy Sports Gear",
+        "title": "Kakobuy Spreadsheet Sports Gear",
         "excerpt": "Sports equipment guide with performance data, quality ratings, and buyer recommendations.",
         "link": "/Kakobuy-sports-gear/"
       },
       {
-        "title": "Kakobuy Underwear",
+        "title": "Kakobuy Spreadsheet Underwear",
         "excerpt": "Underwear collection with material quality, comfort ratings, and sizing guide.",
         "link": "/Kakobuy-underwear/"
       }
@@ -2739,97 +2739,97 @@ const articleSeries = [
     "name": "Platform Comparisons",
     "articles": [
       {
-        "title": "Kakobuy Alternative",
+        "title": "Kakobuy Spreadsheet Alternative",
         "excerpt": "Alternative platforms comparison with pricing, shipping options, and service quality.",
         "link": "/Kakobuy-alternative/"
       },
       {
-        "title": "Kakobuy Alternatives",
+        "title": "Kakobuy Spreadsheet Alternatives",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
         "link": "/Kakobuy-alternatives/"
       },
       {
-        "title": "Kakobuy Best Alternative",
+        "title": "Kakobuy Spreadsheet Best Alternative",
         "excerpt": "Alternative platforms comparison with pricing, shipping options, and service quality.",
         "link": "/Kakobuy-best-alternative/"
       },
       {
-        "title": "Kakobuy Best Sellers",
+        "title": "Kakobuy Spreadsheet Best Sellers",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
         "link": "/Kakobuy-best-sellers/"
       },
       {
-        "title": "Kakobuy Bulk Buying",
+        "title": "Kakobuy Spreadsheet Bulk Buying",
         "excerpt": "Bulk buying guide with quantity discounts, shipping optimization, and cost analysis.",
         "link": "/Kakobuy-bulk-buying/"
       },
       {
-        "title": "Kakobuy Comparison Guide",
+        "title": "Kakobuy Spreadsheet Comparison Guide",
         "excerpt": "Platform comparison guide with feature analysis, pricing data, and user experience.",
         "link": "/Kakobuy-comparison-guide/"
       },
       {
-        "title": "Kakobuy Competitor Comparison",
+        "title": "Kakobuy Spreadsheet Competitor Comparison",
         "excerpt": "Platform comparison guide with feature analysis, pricing data, and user experience.",
         "link": "/Kakobuy-competitor-comparison/"
       },
       {
-        "title": "Kakobuy Exchange Guide",
+        "title": "Kakobuy Spreadsheet Exchange Guide",
         "excerpt": "Exchange process guide with procedures, timelines, and successful request tips.",
         "link": "/Kakobuy-exchange-guide/"
       },
       {
-        "title": "Kakobuy For Resellers",
+        "title": "Kakobuy Spreadsheet For Resellers",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
         "link": "/Kakobuy-for-resellers/"
       },
       {
-        "title": "Kakobuy Platform Comparison",
+        "title": "Kakobuy Spreadsheet Platform Comparison",
         "excerpt": "Platform comparison guide with feature analysis, pricing data, and user experience.",
         "link": "/Kakobuy-platform-comparison/"
       },
       {
-        "title": "Kakobuy Profit Guide",
+        "title": "Kakobuy Spreadsheet Profit Guide",
         "excerpt": "Reselling guide with profit margins, sourcing tips, and market analysis.",
         "link": "/Kakobuy-profit-guide/"
       },
       {
-        "title": "Kakobuy Reselling Guide",
+        "title": "Kakobuy Spreadsheet Reselling Guide",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
         "link": "/Kakobuy-reselling-guide/"
       },
       {
-        "title": "Kakobuy Reselling Tips",
+        "title": "Kakobuy Spreadsheet Reselling Tips",
         "excerpt": "Platform comparison guide covering pricing, shipping, quality, and service differences.",
         "link": "/Kakobuy-reselling-tips/"
       },
       {
-        "title": "Kakobuy Vs Hoobuy",
-        "excerpt": "Detailed comparison between Kakobuy and Hoobuy covering pricing, shipping, and quality.",
+        "title": "Kakobuy Spreadsheet Vs Hoobuy",
+        "excerpt": "Detailed comparison between Kakobuy Spreadsheet and Hoobuy covering pricing, shipping, and quality.",
         "link": "/Kakobuy-vs-hoobuy/"
       },
       {
-        "title": "Kakobuy Vs Litbuy",
-        "excerpt": "Detailed comparison between Kakobuy and Litbuy covering pricing, shipping, and quality.",
+        "title": "Kakobuy Spreadsheet Vs Litbuy",
+        "excerpt": "Detailed comparison between Kakobuy Spreadsheet and Litbuy covering pricing, shipping, and quality.",
         "link": "/Kakobuy-vs-litbuy/"
       },
       {
-        "title": "Kakobuy Vs Oopbuy",
-        "excerpt": "Detailed comparison between Kakobuy and Oopbuy covering pricing, shipping, and quality.",
+        "title": "Kakobuy Spreadsheet Vs Oopbuy",
+        "excerpt": "Detailed comparison between Kakobuy Spreadsheet and Oopbuy covering pricing, shipping, and quality.",
         "link": "/Kakobuy-vs-oopbuy/"
       },
       {
-        "title": "Kakobuy Vs Pandabuy",
-        "excerpt": "Detailed comparison between Kakobuy and Pandabuy covering pricing, shipping, and quality.",
+        "title": "Kakobuy Spreadsheet Vs Pandabuy",
+        "excerpt": "Detailed comparison between Kakobuy Spreadsheet and Pandabuy covering pricing, shipping, and quality.",
         "link": "/Kakobuy-vs-pandabuy/"
       },
       {
-        "title": "Kakobuy Vs Usfans",
-        "excerpt": "Detailed comparison between Kakobuy and Usfans covering pricing, shipping, and quality.",
+        "title": "Kakobuy Spreadsheet Vs Usfans",
+        "excerpt": "Detailed comparison between Kakobuy Spreadsheet and Usfans covering pricing, shipping, and quality.",
         "link": "/Kakobuy-vs-usfans/"
       },
       {
-        "title": "Kakobuy Yupoo",
+        "title": "Kakobuy Spreadsheet Yupoo",
         "excerpt": "Yupoo album navigation with product sourcing, image verification, and ordering tips.",
         "link": "/Kakobuy-yupoo/"
       }
@@ -2839,62 +2839,62 @@ const articleSeries = [
     "name": "Community & Social",
     "articles": [
       {
-        "title": "Kakobuy Community Guide",
+        "title": "Kakobuy Spreadsheet Community Guide",
         "excerpt": "Community guide with engagement tips, discussion platforms, and user resources.",
         "link": "/Kakobuy-community-guide/"
       },
       {
-        "title": "Kakobuy Discord",
+        "title": "Kakobuy Spreadsheet Discord",
         "excerpt": "Discord community guide with server access, discussion channels, and member tips.",
         "link": "/Kakobuy-discord/"
       },
       {
-        "title": "Kakobuy Discord Community",
+        "title": "Kakobuy Spreadsheet Discord Community",
         "excerpt": "Discord community guide with server access, discussion channels, and member tips.",
         "link": "/Kakobuy-discord-community/"
       },
       {
-        "title": "Kakobuy Instagram",
+        "title": "Kakobuy Spreadsheet Instagram",
         "excerpt": "Instagram presence with style inspiration, product showcases, and community engagement.",
         "link": "/Kakobuy-instagram/"
       },
       {
-        "title": "Kakobuy Reddit 2025",
+        "title": "Kakobuy Spreadsheet Reddit 2025",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
         "link": "/Kakobuy-reddit-2025/"
       },
       {
-        "title": "Kakobuy Reddit 2026",
+        "title": "Kakobuy Spreadsheet Reddit 2026",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
         "link": "/Kakobuy-reddit-2026/"
       },
       {
-        "title": "Kakobuy Reddit Guide",
+        "title": "Kakobuy Spreadsheet Reddit Guide",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
         "link": "/Kakobuy-reddit-guide/"
       },
       {
-        "title": "Kakobuy Reddit Reviews",
+        "title": "Kakobuy Spreadsheet Reddit Reviews",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
         "link": "/Kakobuy-reddit-reviews/"
       },
       {
-        "title": "Kakobuy Telegram",
+        "title": "Kakobuy Spreadsheet Telegram",
         "excerpt": "Telegram group information with deal alerts, community chat, and update notifications.",
         "link": "/Kakobuy-telegram/"
       },
       {
-        "title": "Kakobuy Telegram Guide",
+        "title": "Kakobuy Spreadsheet Telegram Guide",
         "excerpt": "Telegram group information with deal alerts, community chat, and update notifications.",
         "link": "/Kakobuy-telegram-guide/"
       },
       {
-        "title": "Kakobuy Tiktok",
+        "title": "Kakobuy Spreadsheet Tiktok",
         "excerpt": "TikTok content with product reviews, unboxing videos, and trending items.",
         "link": "/Kakobuy-tiktok/"
       },
       {
-        "title": "Kakobuy With QC Reddit",
+        "title": "Kakobuy Spreadsheet With QC Reddit",
         "excerpt": "Reddit community insights with user discussions, recommendations, and real experiences.",
         "link": "/Kakobuy-with-qc-reddit/"
       }
@@ -2904,52 +2904,52 @@ const articleSeries = [
     "name": "Batch & Quality",
     "articles": [
       {
-        "title": "Kakobuy 2025 Best Batch",
+        "title": "Kakobuy Spreadsheet 2025 Best Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-2025-best-batch/"
       },
       {
-        "title": "Kakobuy 2026 Best Batch",
+        "title": "Kakobuy Spreadsheet 2026 Best Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-2026-best-batch/"
       },
       {
-        "title": "Kakobuy Batch Comparison",
+        "title": "Kakobuy Spreadsheet Batch Comparison",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-batch-comparison/"
       },
       {
-        "title": "Kakobuy Batch Guide",
+        "title": "Kakobuy Spreadsheet Batch Guide",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-batch-guide/"
       },
       {
-        "title": "Kakobuy Batch Quality",
+        "title": "Kakobuy Spreadsheet Batch Quality",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-batch-quality/"
       },
       {
-        "title": "Kakobuy Batch Tracker",
+        "title": "Kakobuy Spreadsheet Batch Tracker",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-batch-tracker/"
       },
       {
-        "title": "Kakobuy Batch Version",
+        "title": "Kakobuy Spreadsheet Batch Version",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-batch-version/"
       },
       {
-        "title": "Kakobuy Best Batch",
+        "title": "Kakobuy Spreadsheet Best Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-best-batch/"
       },
       {
-        "title": "Kakobuy Budget Batch",
+        "title": "Kakobuy Spreadsheet Budget Batch",
         "excerpt": "Batch version guide with quality comparisons, version history, and buyer recommendations.",
         "link": "/Kakobuy-budget-batch/"
       },
       {
-        "title": "Kakobuy Unboxing",
+        "title": "Kakobuy Spreadsheet Unboxing",
         "excerpt": "Unboxing experience with packaging quality, first impressions, and product verification.",
         "link": "/Kakobuy-unboxing/"
       }
@@ -2961,7 +2961,7 @@ const recommendedSeries = [
   {
     name: 'Getting Started',
     articles: [
-      { title: 'Kakobuy for Beginners', link: '/Kakobuy-for-beginners/' },
+      { title: 'Kakobuy Spreadsheet for Beginners', link: '/Kakobuy-for-beginners/' },
       { title: 'How to Use', link: '/Kakobuy-how-to-use/' },
       { title: 'Shipping Guide', link: '/Kakobuy-shipping-guide/' },
     ],
@@ -2993,7 +2993,7 @@ const recommendedSeries = [
   {
     name: 'Trust & Safety',
     articles: [
-      { title: 'Is Kakobuy Legit?', link: '/is-Kakobuy-legit/' },
+      { title: 'Is Kakobuy Spreadsheet Legit?', link: '/is-Kakobuy-legit/' },
       { title: 'Legit Check', link: '/Kakobuy-legit-check/' },
       { title: 'QC Photos', link: '/Kakobuy-qc-photos/' },
     ],

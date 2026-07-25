@@ -1,4 +1,4 @@
-﻿# Kakobuy for Beginners 2026: Step-by-Step Getting Started Tutorial
+# Kakobuy Spreadsheet for Beginners 2026: Step-by-Step Getting Started Tutorial
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
@@ -8,43 +8,43 @@
 
 Before diving into the details, here's what you'll accomplish in this tutorial:
 
-- ✅ Create and verify your Kakobuy account
+- ✅ Create and verify your Kakobuy Spreadsheet account
 - ✅ Navigate the platform interface and search functionality
 - ✅ Place your first order with confidence
 - ✅ Review quality control photos effectively
 - ✅ Select appropriate shipping methods
 - ✅ Track your order to delivery
 
-## Step 1: Understanding How Kakobuy Works
+## Step 1: Understanding How Kakobuy Spreadsheet Works
 
-Kakobuy operates as a shopping agent service that bridges the gap between international customers and Chinese online marketplaces. The platform essentially acts as your representative, purchasing items on your behalf from sellers who may not ship internationally or accept foreign payment methods.
+Kakobuy Spreadsheet operates as a shopping agent service that bridges the gap between international customers and Chinese online marketplaces. The platform essentially acts as your representative, purchasing items on your behalf from sellers who may not ship internationally or accept foreign payment methods.
 
 **The Basic Workflow:**
 
 1. You find products you want from supported marketplaces
-2. Submit purchase requests through Kakobuy
-3. Kakobuy handles payment to sellers and receives items at their warehouse
+2. Submit purchase requests through Kakobuy Spreadsheet
+3. Kakobuy Spreadsheet handles payment to sellers and receives items at their warehouse
 4. Quality check photos are taken and uploaded to your account
 5. You review and approve items for international shipping
-6. Kakobuy ships your consolidated package to your address
+6. Kakobuy Spreadsheet ships your consolidated package to your address
 
 The service charges a small commission on purchases, typically ranging from 0% to 5% depending on the seller and product category. This fee structure is transparent and clearly displayed before you commit to any purchase.
 
 **Key Features for Beginners:**
 
-- **Quality Control System**: Before items are shipped internationally, Kakobuy provides detailed quality check photos showing exactly what you're receiving. This step is crucial for beginners who might be unfamiliar with sizing, colors, or product variations common in Asian markets.
-- **Free Storage**: Kakobuy offers free storage for up to 60 days, allowing you to consolidate multiple purchases into a single shipment. This can significantly reduce shipping costs, especially for smaller items.
+- **Quality Control System**: Before items are shipped internationally, Kakobuy Spreadsheet provides detailed quality check photos showing exactly what you're receiving. This step is crucial for beginners who might be unfamiliar with sizing, colors, or product variations common in Asian markets.
+- **Free Storage**: Kakobuy Spreadsheet offers free storage for up to 60 days, allowing you to consolidate multiple purchases into a single shipment. This can significantly reduce shipping costs, especially for smaller items.
 - **Marketplace Integration**: The platform integrates with major Chinese marketplaces including Taobao, Weidian, and 1688, giving you access to millions of products.
 
 For those new to proxy shopping, understanding these fundamentals will save you time and money in the long run. Check out our [Kakobuy how to use](/Kakobuy-how-to-use/) guide for more detailed navigation instructions.
 
 ## Step 2: Creating Your Account
 
-Getting started with Kakobuy is straightforward, but following the right steps ensures a smooth experience from day one.
+Getting started with Kakobuy Spreadsheet is straightforward, but following the right steps ensures a smooth experience from day one.
 
 **Registration Process:**
 
-1. Visit the Kakobuy website and click on the registration button
+1. Visit the Kakobuy Spreadsheet website and click on the registration button
 2. Provide a valid email address and create a secure password
 3. Verify your account through the confirmation link sent to your inbox
 4. Complete your profile by adding your shipping address and preferred payment methods
@@ -84,9 +84,9 @@ Placing your first order is an exciting milestone. Here's what happens after you
 
 **Order Processing Timeline:**
 
-1. **Payment Confirmation**: The payment process is secure and encrypted. Once confirmed, Kakobuy begins processing your order.
-2. **Seller Purchase**: Kakobuy purchases the item from the seller (2-5 days)
-3. **Warehouse Receipt**: Item arrives at Kakobuy's warehouse
+1. **Payment Confirmation**: The payment process is secure and encrypted. Once confirmed, Kakobuy Spreadsheet begins processing your order.
+2. **Seller Purchase**: Kakobuy Spreadsheet purchases the item from the seller (2-5 days)
+3. **Warehouse Receipt**: Item arrives at Kakobuy Spreadsheet's warehouse
 4. **Quality Check**: Photos are uploaded to your account within 24 hours
 5. **Your Review**: Examine photos carefully for color, size, and condition
 6. **Shipping Selection**: Choose your preferred international shipping method
@@ -152,15 +152,15 @@ Once you've successfully completed your first order, you'll be ready to explore 
 
 **Q: How long does the entire process take from order to delivery?**
 
-A: The timeline varies based on several factors, but typically ranges from 2 to 6 weeks. After you place your order, it takes 2-5 days for Kakobuy to purchase the item and receive it at their warehouse. Quality check photos are uploaded within 24 hours of warehouse receipt. International shipping then takes 1-4 weeks depending on your chosen method and destination. Express shipping options can reduce this to 7-10 days total.
+A: The timeline varies based on several factors, but typically ranges from 2 to 6 weeks. After you place your order, it takes 2-5 days for Kakobuy Spreadsheet to purchase the item and receive it at their warehouse. Quality check photos are uploaded within 24 hours of warehouse receipt. International shipping then takes 1-4 weeks depending on your chosen method and destination. Express shipping options can reduce this to 7-10 days total.
 
 **Q: What payment methods are accepted?**
 
-A: Kakobuy accepts multiple payment methods to accommodate international customers. These include PayPal, which offers buyer protection and is recommended for beginners, major credit cards like Visa and Mastercard, and various digital wallets. All transactions are processed through secure, encrypted channels to protect your financial information.
+A: Kakobuy Spreadsheet accepts multiple payment methods to accommodate international customers. These include PayPal, which offers buyer protection and is recommended for beginners, major credit cards like Visa and Mastercard, and various digital wallets. All transactions are processed through secure, encrypted channels to protect your financial information.
 
 **Q: Can I return items if they don't match the description?**
 
-A: Yes, returns are possible if items don't match the description or have defects. The quality check photo stage is your primary opportunity to identify issues. If you notice problems in the QC photos, you can request a return before the item ships internationally. Return policies vary by seller, but Kakobuy facilitates the process and advocates on your behalf.
+A: Yes, returns are possible if items don't match the description or have defects. The quality check photo stage is your primary opportunity to identify issues. If you notice problems in the QC photos, you can request a return before the item ships internationally. Return policies vary by seller, but Kakobuy Spreadsheet facilitates the process and advocates on your behalf.
 
 **Q: How are shipping costs calculated?**
 

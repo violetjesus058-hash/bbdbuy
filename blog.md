@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Blog - Kakobuy Guides & Reviews"
-description: "Browse all Kakobuy guides, reviews, brand deep dives, and shopping tips."
+title: "Blog - Kakobuy Spreadsheet Guides & Reviews"
+description: "Browse all Kakobuy Spreadsheet guides, reviews, brand deep dives, and shopping tips."
 ---
 
 <script setup>

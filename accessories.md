@@ -1,10 +1,10 @@
 ---
 layout: home
 categoryName: Accessories
-title: Accessories Guide - Belts, Wallets, Sunglasses & Jewelry | Kakobuy
-description: Complete guide to buying accessories on Kakobuy. Belts, wallets, sunglasses, jewelry, scarves. Material quality, matching tips, and style advice.
+title: Accessories Guide - Belts, Wallets, Sunglasses & Jewelry | Kakobuy Spreadsheet
+description: Complete guide to buying accessories on Kakobuy Spreadsheet. Belts, wallets, sunglasses, jewelry, scarves. Material quality, matching tips, and style advice.
 heroSubtitle: "Belts, Wallets, Sunglasses & Jewelry — Style Matching and Quality Guide"
-introText: "Accessories complete your outfit and express personal style. Small details like belt buckles, wallet stitching, sunglass frames, and jewelry finishes make significant visual impact. Understanding material quality and craftsmanship helps you choose accessories that last and complement your wardrobe. This guide covers what to look for when browsing accessories on Kakobuy, from leather grades and metal finishes to UV protection and hypoallergenic materials."
+introText: "Accessories complete your outfit and express personal style. Small details like belt buckles, wallet stitching, sunglass frames, and jewelry finishes make significant visual impact. Understanding material quality and craftsmanship helps you choose accessories that last and complement your wardrobe. This guide covers what to look for when browsing accessories on Kakobuy Spreadsheet, from leather grades and metal finishes to UV protection and hypoallergenic materials."
 editorNotes:
   - title: Leather Grades for Belts and Wallets
     content: "Full-grain leather is the highest quality, showing natural markings and developing patina over time. Top-grain leather is sanded for uniform appearance. Genuine leather is lower grade but still durable. Check QC photos for consistent texture, clean edge finishing, and solid stitching at stress points."
@@ -38,13 +38,13 @@ faq:
   - question: How do I choose accessories that match my style?
     answer: "Start with neutral basics: black or brown leather belt matching your shoes, simple wallet in classic color, versatile sunglasses shape for your face. Add statement pieces gradually. Metal finishes should coordinate (all gold-tone or all silver-tone) for cohesive look."
 relatedArticles:
-  - title: "Kakobuy Accessories Guide — Belts, Wallets, Sunglasses & Jewelry"
+  - title: "Kakobuy Spreadsheet Accessories Guide — Belts, Wallets, Sunglasses & Jewelry"
     link: /Kakobuy-accessories/
-    desc: Complete buying guide for accessories on Kakobuy
-  - title: "Kakobuy QC Photos — How to Check Product Quality"
+    desc: Complete buying guide for accessories on Kakobuy Spreadsheet
+  - title: "Kakobuy Spreadsheet QC Photos — How to Check Product Quality"
     link: /Kakobuy-qc-photos/
     desc: Learn to inspect accessories using quality control photos
-  - title: "Kakobuy Legit Check — Authentication Guide"
+  - title: "Kakobuy Spreadsheet Legit Check — Authentication Guide"
     link: /Kakobuy-legit-check/
     desc: Verify accessory authenticity and quality markers
 ---

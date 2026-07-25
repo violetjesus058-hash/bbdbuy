@@ -1,6 +1,6 @@
-﻿# Kakobuy Article Generation Prompt
+# Kakobuy Spreadsheet Article Generation Prompt
 
-> This prompt guides AI to generate high-quality, SEO-optimized articles for Kakobuy platform pages.
+> This prompt guides AI to generate high-quality, SEO-optimized articles for Kakobuy Spreadsheet platform pages.
 > Each article must follow this structure exactly.
 
 ---
@@ -22,7 +22,7 @@
 ## Introduction
 
 [300-400 words]
-- Paragraph 1: Introduce the topic, include keyword naturally, mention Kakobuy
+- Paragraph 1: Introduce the topic, include keyword naturally, mention Kakobuy Spreadsheet
 - Paragraph 2: Explain what this page covers, include data points (product count, price range, satisfaction rate)
 - Paragraph 3: Transition to main content, mention what readers will learn
 
@@ -93,7 +93,7 @@ A: [Answer]
 **Related Guides:**
 - [Internal link 1: Related category/brand page]
 - [Internal link 2: Related feature page]
-- [Internal link 3: Kakobuy main page or spreadsheet]
+- [Internal link 3: Kakobuy Spreadsheet main page or spreadsheet]
 ```
 
 ---
@@ -159,7 +159,7 @@ Choose from these common question types:
 
 ### 8. Conclusion Elements
 - Summarize 2-3 key benefits
-- Reinforce Kakobuy's value proposition
+- Reinforce Kakobuy Spreadsheet's value proposition
 - Include a clear call to action
 - Mention the spreadsheet one final time
 
@@ -211,30 +211,30 @@ Before finalizing each article, verify:
 
 ## Example Article Outline
 
-**Topic**: Kakobuy sneakers
+**Topic**: Kakobuy Spreadsheet sneakers
 
 ```markdown
-# Kakobuy Sneakers 2026: Complete Guide to Verified Footwear
+# Kakobuy Spreadsheet Sneakers 2026: Complete Guide to Verified Footwear
 
 [Access Kakobuy Spreadsheet](spreadsheet link)
 
 **In This Article:**
-- What Kakobuy sneakers collection offers (5,000+ verified listings)
+- What Kakobuy Spreadsheet sneakers collection offers (5,000+ verified listings)
 - Top-selling sneakers with quality data
 - How to choose the right size and batch
 - Step-by-step ordering guide
 - FAQ about sneaker quality and shipping
 
 ## Introduction
-[300-400 words about Kakobuy sneakers, include data points]
+[300-400 words about Kakobuy Spreadsheet sneakers, include data points]
 
-## Top-Selling Kakobuy Sneakers
+## Top-Selling Kakobuy Spreadsheet Sneakers
 [400-500 words with 5 specific products, prices, order counts]
 
 ## Quality Verification System
 [400-500 words about QC photos, batch versions, quality ratings]
 
-## Sizing Guide for Kakobuy Sneakers
+## Sizing Guide for Kakobuy Spreadsheet Sneakers
 [300-400 words with brand-specific sizing tips]
 
 ## Product Highlights
@@ -258,7 +258,7 @@ Before finalizing each article, verify:
 
 ## Final Notes
 
-1. **Originality is critical**: Do not copy from existing Kakobuy articles
+1. **Originality is critical**: Do not copy from existing Kakobuy Spreadsheet articles
 2. **Data-driven**: Every claim needs supporting numbers
 3. **Buyer-focused**: Address real concerns and questions
 4. **SEO-optimized**: Follow keyword and structure guidelines exactly

@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>Contact Us</h1>
-        <p>Get in touch with the Kakobuy team</p>
+        <p>Get in touch with the Kakobuy Spreadsheet team</p>
       </div>
     </section>
 
@@ -59,7 +59,7 @@
     <!-- Footer -->
     <footer class="footer">
       <div class="container">
-        <p>&copy; 2024 Kakobuy. All rights reserved.</p>
+        <p>&copy; 2024 Kakobuy Spreadsheet. All rights reserved.</p>
       </div>
     </footer>
   </div>

@@ -1,10 +1,10 @@
 ---
 layout: home
 categoryName: Bags
-title: Bags Guide - Backpacks, Handbags & Travel Bags | Kakobuy
-description: Complete guide to buying bags on Kakobuy. Backpacks, travel bags, handbags, crossbody bags. Material quality, hardware checks, and sizing tips.
+title: Bags Guide - Backpacks, Handbags & Travel Bags | Kakobuy Spreadsheet
+description: Complete guide to buying bags on Kakobuy Spreadsheet. Backpacks, travel bags, handbags, crossbody bags. Material quality, hardware checks, and sizing tips.
 heroSubtitle: "Backpacks, Travel Bags & Handbags — Material Quality and Buying Guide"
-introText: "Bags are one of the most practical fashion purchases you can make. Whether you need a durable backpack for daily carry, a spacious travel bag for weekends away, or a stylish handbag for everyday use, understanding material quality and construction details helps you make better choices. This guide covers what to look for when browsing bags on Kakobuy, from leather and canvas durability to zipper quality and stitching standards."
+introText: "Bags are one of the most practical fashion purchases you can make. Whether you need a durable backpack for daily carry, a spacious travel bag for weekends away, or a stylish handbag for everyday use, understanding material quality and construction details helps you make better choices. This guide covers what to look for when browsing bags on Kakobuy Spreadsheet, from leather and canvas durability to zipper quality and stitching standards."
 editorNotes:
   - title: Material Selection Matters
     content: "Bags come in various materials — full-grain leather for durability, canvas for lightweight carry, nylon for water resistance, and synthetic blends for affordability. Each material has different care requirements and lifespan expectations. Check material composition in product descriptions and QC photos."
@@ -37,10 +37,10 @@ faq:
   - question: How do I choose the right bag size?
     answer: "Consider what you carry daily. For laptops, check compartment dimensions against your device. For travel, verify airline carry-on size limits. For everyday use, medium-sized bags (12-15L capacity) work for most people. Always check product dimensions, not just photos."
 relatedArticles:
-  - title: "Kakobuy Bags Guide — Backpacks, Handbags & Travel Bags"
+  - title: "Kakobuy Spreadsheet Bags Guide — Backpacks, Handbags & Travel Bags"
     link: /Kakobuy-bags/
-    desc: Complete buying guide for bags on Kakobuy
-  - title: "Kakobuy QC Photos — How to Check Product Quality"
+    desc: Complete buying guide for bags on Kakobuy Spreadsheet
+  - title: "Kakobuy Spreadsheet QC Photos — How to Check Product Quality"
     link: /Kakobuy-qc-photos/
     desc: Learn to inspect bags using quality control photos
   - title: "Kakobuy Spreadsheet — Product Database"

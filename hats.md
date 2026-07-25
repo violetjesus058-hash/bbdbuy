@@ -1,5 +1,5 @@
 ---
-title: Hats Guide - Caps, Beanies & More | Kakobuy
+title: Hats Guide - Caps, Beanies & More | Kakobuy Spreadsheet
 description: Complete guide to hats including snapbacks, beanies, bucket hats, dad hats and fitted caps. Quality specs, pricing, and logistics info.
 ---
 

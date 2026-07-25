@@ -1,5 +1,5 @@
 ---
-title: Clothes Guide - Streetwear, Outerwear & More | Kakobuy
+title: Clothes Guide - Streetwear, Outerwear & More | Kakobuy Spreadsheet
 description: Complete guide to clothing including t-shirts, hoodies, jackets, pants and shorts. Quality specs, pricing, and logistics info.
 ---
 

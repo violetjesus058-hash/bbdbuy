@@ -1,4 +1,4 @@
-# Kakobuy Product Reference Guide
+# Kakobuy Spreadsheet Product Reference Guide
 
 
 > Total Unique Products: 276
@@ -546,4 +546,4 @@
 
 ---
 
-*Note: Prices are approximate and subject to change. Actual prices may vary based on size, color, batch version, and availability. Always verify current pricing on the Kakobuy platform before making purchasing decisions.*
+*Note: Prices are approximate and subject to change. Actual prices may vary based on size, color, batch version, and availability. Always verify current pricing on the Kakobuy Spreadsheet platform before making purchasing decisions.*

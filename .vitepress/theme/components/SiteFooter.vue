@@ -1,7 +1,7 @@
 <template>
   <footer class="site-footer">
     <p class="site-footer-line">
-      Kakobuy - Your Trusted Fashion &amp; Lifestyle Guide |
+      Kakobuy Spreadsheet - Your Trusted Fashion &amp; Lifestyle Guide |
       <a href="https://Kakobuylinki.com/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
     </p>
     <p class="site-footer-line">

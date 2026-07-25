@@ -3,9 +3,9 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-inner">
-        <h1 class="hero-title">Your Independent Kakobuy Resource Hub</h1>
+        <h1 class="hero-title">Your Independent Kakobuy Spreadsheet Resource Hub</h1>
         <p class="hero-subtitle">Product Guides, Category Breakdowns & Buying Tips — All in One Place</p>
-        <p class="hero-desc">Navigate the Kakobuy platform with confidence. We organize product information, sizing guides, quality checks, and purchasing resources so you can make informed decisions without searching through scattered forums.</p>
+        <p class="hero-desc">Navigate the Kakobuy Spreadsheet platform with confidence. We organize product information, sizing guides, quality checks, and purchasing resources so you can make informed decisions without searching through scattered forums.</p>
         <!-- Category Buttons -->
         <div class="hero-buttons">
           <a
@@ -36,7 +36,7 @@
         <div class="intro-grid">
           <div class="intro-card">
             <div class="intro-icon"></div>
-            <h3>Kakobuy Guide</h3>
+            <h3>Kakobuy Spreadsheet Guide</h3>
             <p>Step-by-step resources for navigating the platform — from <a href="/Kakobuy-for-beginners/">getting started</a> to <a href="/Kakobuy-how-to-use/">placing your first order</a> and understanding <a href="/Kakobuy-shipping-guide/">shipping options</a>.</p>
           </div>
           <div class="intro-card">
@@ -92,8 +92,8 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Getting Started</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-for-beginners/">Kakobuy for Beginners — Complete Starter Guide</a></li>
-              <li><a href="/Kakobuy-how-to-use/">How to Use Kakobuy — Step by Step</a></li>
+              <li><a href="/Kakobuy-for-beginners/">Kakobuy Spreadsheet for Beginners — Complete Starter Guide</a></li>
+              <li><a href="/Kakobuy-how-to-use/">How to Use Kakobuy Spreadsheet — Step by Step</a></li>
               <li><a href="/Kakobuy-account-creation/">Account Creation & Setup Guide</a></li>
               <li><a href="/Kakobuy-shipping-guide/">Shipping Guide — Methods & Times</a></li>
               <li><a href="/Kakobuy-payment-guide/">Payment Guide — Safe Checkout Tips</a></li>
@@ -136,7 +136,7 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Trust & Safety</h3>
             <ul class="article-nav-list">
-              <li><a href="/is-Kakobuy-legit/">Is Kakobuy Legit? — Full Review</a></li>
+              <li><a href="/is-Kakobuy-legit/">Is Kakobuy Spreadsheet Legit? — Full Review</a></li>
               <li><a href="/Kakobuy-legit-check/">Legit Check Guide</a></li>
               <li><a href="/Kakobuy-qc-photos/">QC Photos — What to Look For</a></li>
               <li><a href="/Kakobuy-reviews/">User Reviews & Ratings</a></li>
@@ -147,10 +147,10 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Regional & International</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-uk/">Kakobuy UK — Shipping & Tips</a></li>
-              <li><a href="/Kakobuy-canada/">Kakobuy Canada — Complete Guide</a></li>
-              <li><a href="/Kakobuy-australia/">Kakobuy Australia — Local Info</a></li>
-              <li><a href="/Kakobuy-europe/">Kakobuy Europe — EU Shipping</a></li>
+              <li><a href="/Kakobuy-uk/">Kakobuy Spreadsheet UK — Shipping & Tips</a></li>
+              <li><a href="/Kakobuy-canada/">Kakobuy Spreadsheet Canada — Complete Guide</a></li>
+              <li><a href="/Kakobuy-australia/">Kakobuy Spreadsheet Australia — Local Info</a></li>
+              <li><a href="/Kakobuy-europe/">Kakobuy Spreadsheet Europe — EU Shipping</a></li>
               <li><a href="/Kakobuy-international-shipping/">International Shipping Guide</a></li>
             </ul>
           </div>

@@ -12,24 +12,24 @@ tableOfContents:
     title: Best Categories to Explore
   - id: "how-to-choose-products"
     title: How to Choose Products
-  - id: "beginner-guide-to-Kakobuy"
-    title: Beginner's Guide to Kakobuy
+  - id: "beginner-guide-to-Kakobuy Spreadsheet"
+    title: Beginner's Guide to Kakobuy Spreadsheet
 mainContent:
   - id: "what-is-Kakobuy-spreadsheet"
     title: What is Kakobuy Spreadsheet?
     content: "Kakobuy Spreadsheet is a meticulously curated database of trending products from Chinese e-commerce giants like Taobao, 1688, Weidian, and JD. It's your go-to resource for discovering popular streetwear, sneakers, luxury-inspired fashion, and accessories, all organized for easy navigation. Each listing includes essential details like QC photos, pricing, and direct purchase links."
   - id: "how-does-it-work"
     title: How Does It Work?
-    content: The spreadsheet acts as a bridge between global shoppers and the vast Chinese market. Kakobuy, as your purchasing agent, handles the entire process. You browse the spreadsheet, select your desired items, and Kakobuy takes care of purchasing, quality control, warehousing, and international shipping. It simplifies complex logistics into a seamless shopping experience.
+    content: The spreadsheet acts as a bridge between global shoppers and the vast Chinese market. Kakobuy Spreadsheet, as your purchasing agent, handles the entire process. You browse the spreadsheet, select your desired items, and Kakobuy Spreadsheet takes care of purchasing, quality control, warehousing, and international shipping. It simplifies complex logistics into a seamless shopping experience.
   - id: "best-categories-to-explore"
     title: Best Categories to Explore
     content: "The Kakobuy Spreadsheet covers a wide array of categories. For fashion enthusiasts, the 'Sneakers' and 'Hoodies' sections are constantly updated with the latest drops. 'Jackets' and 'T-Shirts' offer seasonal trends and classic styles, while 'Accessories' provides everything from watches to bags to complete your look. Each category is designed for easy product discovery."
   - id: "how-to-choose-products"
     title: How to Choose Products?
     content: When selecting products from the spreadsheet, pay close attention to the provided QC photos, material descriptions, and sizing charts. Compare prices, read any available notes, and consider the overall value. The goal is to make informed decisions before your items are even shipped from the warehouse.
-  - id: "beginner-guide-to-Kakobuy"
-    title: Beginner's Guide to Kakobuy
-    content: If you're new to Kakobuy, start by exploring the 'How It Works' section on our platform page. Familiarize yourself with the process of using the spreadsheet, placing orders, and understanding QC reports. Our friendly support team is always ready to assist you with any questions.
+  - id: "beginner-guide-to-Kakobuy Spreadsheet"
+    title: Beginner's Guide to Kakobuy Spreadsheet
+    content: If you're new to Kakobuy Spreadsheet, start by exploring the 'How It Works' section on our platform page. Familiarize yourself with the process of using the spreadsheet, placing orders, and understanding QC reports. Our friendly support team is always ready to assist you with any questions.
 faq:
   - question: Is the Kakobuy Spreadsheet free to access?
     answer: Yes, the Kakobuy Spreadsheet is completely free to access and browse. You only pay for the products you purchase and the associated agent and shipping fees.
@@ -41,8 +41,8 @@ relatedArticles:
   - title: "Kakobuy Spreadsheet With QC: How To Check Product Quality Before Buying"
     description: Learn the importance of QC photos and how to use them to verify product quality.
     link: /blog/article2
-  - title: "Kakobuy Link: How To Find And Buy Products Easily"
-    description: "A step-by-step guide on using Kakobuy links to streamline your purchasing process."
+  - title: "Kakobuy Spreadsheet Link: How To Find And Buy Products Easily"
+    description: "A step-by-step guide on using Kakobuy Spreadsheet links to streamline your purchasing process."
     link: /blog/article3
 ---
 

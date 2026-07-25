@@ -1,5 +1,5 @@
 ---
-title: Shoes Guide - Sneakers, Boots & More | Kakobuy
+title: Shoes Guide - Sneakers, Boots & More | Kakobuy Spreadsheet
 description: Complete guide to shoes including running, basketball, casual sneakers, boots and slides. Quality specs, pricing, and logistics info.
 ---
 

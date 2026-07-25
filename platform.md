@@ -1,8 +1,8 @@
 ---
 layout: home
-platformName: Kakobuy
+platformName: Kakobuy Spreadsheet
 heroSubtitle: Your Ultimate China Shopping Agent for Global Shoppers.
-overviewText: "Kakobuy is a leading China shopping agent platform dedicated to helping global consumers effortlessly find, purchase, and ship products from top Chinese e-commerce sites like Taobao, 1688, Weidian, and JD. We streamline the entire process, offering comprehensive services from product discovery to international delivery."
+overviewText: "Kakobuy Spreadsheet is a leading China shopping agent platform dedicated to helping global consumers effortlessly find, purchase, and ship products from top Chinese e-commerce sites like Taobao, 1688, Weidian, and JD. We streamline the entire process, offering comprehensive services from product discovery to international delivery."
 advantages:
   - title: One Platform For China Shopping
     content: "Integrate multiple Chinese supply channels: Taobao, 1688, Weidian, JD. No need to register multiple platforms separately."
@@ -22,8 +22,8 @@ howItWorks:
   - title: Compare Products
     content: Utilize QC photos and detailed product information to compare items and make informed decisions.
   - title: Select Your Favorites
-    content: Choose the products you love and add them to your Kakobuy order.
-  - title: Purchase Through Kakobuy
+    content: Choose the products you love and add them to your Kakobuy Spreadsheet order.
+  - title: Purchase Through Kakobuy Spreadsheet
     content: Complete your purchase through our agent platform, and we handle the rest, from buying to shipping.
 recommendedCategories:
   - title: Clothes
@@ -37,11 +37,11 @@ recommendedCategories:
   - title: Accessories
     description: Complete your outfit with trending hats, belts, sunglasses, and jewelry.
 faq:
-  - question: What is Kakobuy and how does it work?
-    answer: "Kakobuy is a China shopping agent platform that helps global users buy products from Chinese e-commerce sites. You provide us with product links, we purchase, perform QC, store, and ship them internationally to you."
-  - question: Which Chinese platforms does Kakobuy support?
-    answer: "Kakobuy supports major Chinese e-commerce platforms including Taobao, 1688, Weidian, and JD, offering you a vast selection of products."
-  - question: How does Kakobuy ensure product quality?
+  - question: What is Kakobuy Spreadsheet and how does it work?
+    answer: "Kakobuy Spreadsheet is a China shopping agent platform that helps global users buy products from Chinese e-commerce sites. You provide us with product links, we purchase, perform QC, store, and ship them internationally to you."
+  - question: Which Chinese platforms does Kakobuy Spreadsheet support?
+    answer: "Kakobuy Spreadsheet supports major Chinese e-commerce platforms including Taobao, 1688, Weidian, and JD, offering you a vast selection of products."
+  - question: How does Kakobuy Spreadsheet ensure product quality?
     answer: We offer QC (Quality Control) verification. Before shipping, we provide detailed warehouse photos of your actual items, allowing you to inspect product details and quality conditions.
 relatedArticles:
   - title: "Kakobuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"

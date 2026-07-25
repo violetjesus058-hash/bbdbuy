@@ -284,7 +284,7 @@ This system replaces fixed templates with **composable content modules** that ad
 ### Slot Definitions
 
 ```
-{{PLATFORM}} = Target platform name (e.g., Kakobuy, Oopbuy, Litbuy)
+{{PLATFORM}} = Target platform name (e.g., Kakobuy Spreadsheet, Oopbuy, Litbuy)
 {{BRAND}} = Target brand name (e.g., Nike, Jordan, Adidas, Chrome Hearts)
 {{CATEGORY}} = Product category (e.g., sneakers, hoodies, jerseys, watches)
 {{AUDIENCE}} = Target audience (e.g., beginners, resellers, budget shoppers, EU buyers)
@@ -302,7 +302,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Topic**: "Best Nike Reps Under $50: Budget-Friendly Finds That Don't Disappoint"
 
 **Slot Values**:
-- {{PLATFORM}} = Kakobuy
+- {{PLATFORM}} = Kakobuy Spreadsheet
 - {{BRAND}} = Nike
 - {{CATEGORY}} = sneakers
 - {{AUDIENCE}} = budget shoppers

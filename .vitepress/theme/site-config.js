@@ -1,5 +1,5 @@
 // ============================================================
-// Kakobuy Site Configuration
+// Kakobuy Spreadsheet Site Configuration
 // Kakobuylinki.com - Fashion Finds Resource & Buying Guide
 // ============================================================
 
@@ -7,12 +7,12 @@ export const siteConfig = {
 
   // ---- Brand ----
   brand: {
-    name: 'Kakobuy',
+    name: 'Kakobuy Spreadsheet',
     tagline: 'Fashion Finds Resource & Buying Guide',
-    description: 'Independent resource for Kakobuy shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
+    description: 'Independent resource for Kakobuy Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
-    logoText: 'Kakobuy',
+    logoText: 'Kakobuy Spreadsheet',
   },
 
   // ---- Navigation ----
@@ -56,9 +56,9 @@ export const siteConfig = {
   // ---- SEO Defaults ----
   seo: {
     hostname: 'https://kakobuylinki.com',
-    title: 'Kakobuy Guide 2026 - Fashion Finds, Product Database & Buying Tips',
-    description: 'Independent Kakobuy resource with product guides, category breakdowns, sizing tips, and spreadsheet access. Updated July 2026.',
-    keywords: ['kakobuy guide', 'kakobuy spreadsheet', 'fashion finds', 'sneaker guide', 'streetwear guide', 'buying guide', 'product database', 'qc photos', 'sizing tips'],
+    title: 'Kakobuy Spreadsheet Guide 2026 - Fashion Finds, Product Database & Buying Tips',
+    description: 'Independent Kakobuy Spreadsheet resource with product guides, category breakdowns, sizing tips, and spreadsheet access. Updated July 2026.',
+    keywords: ['kakobuy spreadsheet guide', 'kakobuy spreadsheet', 'fashion finds', 'sneaker guide', 'streetwear guide', 'buying guide', 'product database', 'qc photos', 'sizing tips'],
     ga4: 'G-XTJTTBZTPM',
   },
 

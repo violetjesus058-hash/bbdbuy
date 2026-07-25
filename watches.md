@@ -1,10 +1,10 @@
 ---
 layout: home
 categoryName: Watches
-title: Watches Guide - Luxury & Everyday Timepieces | Kakobuy
-description: Complete guide to watches on Kakobuy. Luxury-inspired watches, everyday timepieces, smartwatches. Movement types, case materials, and buying tips.
+title: Watches Guide - Luxury & Everyday Timepieces | Kakobuy Spreadsheet
+description: Complete guide to watches on Kakobuy Spreadsheet. Luxury-inspired watches, everyday timepieces, smartwatches. Movement types, case materials, and buying tips.
 heroSubtitle: "Luxury-Inspired and Everyday Timepieces — Movement and Material Guide"
-introText: "Watches combine functionality with personal style. Whether you prefer mechanical precision, quartz reliability, or smart features, understanding movement types and case materials helps you make informed choices. This guide covers what to look for when browsing watches on Kakobuy, from movement accuracy and case finishing to dial clarity and strap quality."
+introText: "Watches combine functionality with personal style. Whether you prefer mechanical precision, quartz reliability, or smart features, understanding movement types and case materials helps you make informed choices. This guide covers what to look for when browsing watches on Kakobuy Spreadsheet, from movement accuracy and case finishing to dial clarity and strap quality."
 editorNotes:
   - title: Movement Types Explained
     content: "Quartz movements offer accuracy and low maintenance. Automatic (self-winding) movements showcase mechanical craftsmanship. Manual-wind movements require daily winding but offer traditional appeal. Check movement type in product descriptions and verify smooth second-hand motion in QC photos for automatic watches."
@@ -37,13 +37,13 @@ faq:
   - question: How do I verify water resistance claims?
     answer: "Check rating specifications: 30m means splash resistant only, 100m suitable for swimming, 200m+ for diving. Verify crown is screw-down for higher ratings. Check case back gasket visibility in photos. Note that water resistance decreases over time and requires maintenance."
 relatedArticles:
-  - title: "Kakobuy Watches Guide — Movement Types and Case Materials"
+  - title: "Kakobuy Spreadsheet Watches Guide — Movement Types and Case Materials"
     link: /Kakobuy-watches/
     desc: Complete guide to watch movements and materials
-  - title: "Kakobuy QC Photos — How to Inspect Watch Quality"
+  - title: "Kakobuy Spreadsheet QC Photos — How to Inspect Watch Quality"
     link: /Kakobuy-qc-photos/
     desc: Learn to check watch details in quality photos
-  - title: "Kakobuy Legit Check — Verifying Watch Authenticity"
+  - title: "Kakobuy Spreadsheet Legit Check — Verifying Watch Authenticity"
     link: /Kakobuy-legit-check/
     desc: Authentication markers for luxury-inspired watches
 ---

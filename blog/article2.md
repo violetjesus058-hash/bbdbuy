@@ -15,7 +15,7 @@ tableOfContents:
 mainContent:
   - id: "what-is-qc"
     title: What is QC?
-    content: QC, or Quality Control, refers to the process of ensuring that products meet specific quality standards. In the context of Kakobuy, it involves a thorough inspection of your purchased items at our warehouse before they are shipped internationally. This includes checking for defects, correct sizing, color accuracy, and overall condition against the product description.
+    content: QC, or Quality Control, refers to the process of ensuring that products meet specific quality standards. In the context of Kakobuy Spreadsheet, it involves a thorough inspection of your purchased items at our warehouse before they are shipped internationally. This includes checking for defects, correct sizing, color accuracy, and overall condition against the product description.
   - id: "why-qc-photos-matter"
     title: Why QC Photos Matter
     content: "QC photos are your eyes on the ground. They provide visual proof of your product's condition, allowing you to verify its authenticity and quality before international shipping. This transparency significantly reduces the risk of receiving unsatisfactory items, saving you time, money, and hassle. It's a critical step for confident cross-border shopping."
@@ -27,17 +27,17 @@ mainContent:
     content: "A common mistake is rushing through QC photos or not knowing what to look for. Avoid assuming quality based on a single image; always scrutinize details. Another pitfall is not comparing the item to the original listing. Also, be aware of lighting conditions in QC photos, which can sometimes alter perceived colors. Always cross-reference with product descriptions."
 faq:
   - question: What if I find a defect in the QC photos?
-    answer: If you find a defect or discrepancy in the QC photos, you can request an exchange or return through Kakobuy. We will communicate with the seller on your behalf to resolve the issue before shipping.
+    answer: If you find a defect or discrepancy in the QC photos, you can request an exchange or return through Kakobuy Spreadsheet. We will communicate with the seller on your behalf to resolve the issue before shipping.
   - question: Are QC photos always provided for every item?
-    answer: Yes, Kakobuy provides QC photos for all items purchased through our agent service, ensuring you have full visibility into your order before it leaves our warehouse.
+    answer: Yes, Kakobuy Spreadsheet provides QC photos for all items purchased through our agent service, ensuring you have full visibility into your order before it leaves our warehouse.
   - question: "Can I request specific angles or close-ups in QC photos?"
     answer: "Yes, you can often request additional specific photos or close-ups if you need to inspect a particular detail. Our team will do their best to accommodate your request."
 relatedArticles:
   - title: "Kakobuy Spreadsheet 2026: The Ultimate Guide To Find Trending Products"
     description: Get started with Kakobuy Spreadsheet and discover how to navigate its vast collection.
     link: /blog/article1
-  - title: "Kakobuy Link: How To Find And Buy Products Easily"
-    description: Learn how to use Kakobuy links to streamline your purchasing process from spreadsheet to delivery.
+  - title: "Kakobuy Spreadsheet Link: How To Find And Buy Products Easily"
+    description: Learn how to use Kakobuy Spreadsheet links to streamline your purchasing process from spreadsheet to delivery.
     link: /blog/article3
 ---
 

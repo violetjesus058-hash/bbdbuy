@@ -1,6 +1,6 @@
-# Kakobuy Internal Linking Rules
+# Kakobuy Spreadsheet Internal Linking Rules
 
-> This document defines the internal linking structure for all 37 Kakobuy articles.
+> This document defines the internal linking structure for all 37 Kakobuy Spreadsheet articles.
 > AI must follow these rules exactly when generating articles.
 
 ---
@@ -33,68 +33,68 @@
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Kakobuy sneakers | Kakobuy nike | Kakobuy jordan | Kakobuy sizing guide | Kakobuy nike | Kakobuy jordan | Kakobuy sizing guide |
-| Kakobuy hoodies | Kakobuy chrome hearts | Kakobuy essentials | Kakobuy palm angels | Kakobuy chrome hearts | Kakobuy essentials | Kakobuy palm angels |
-| Kakobuy watches | Kakobuy legit check | Kakobuy luxury finds | Kakobuy reviews | Kakobuy legit check | Kakobuy luxury finds | Kakobuy reviews |
-| Kakobuy bags | Kakobuy accessories | Kakobuy nike | Kakobuy chrome hearts | Kakobuy accessories | Kakobuy nike | Kakobuy chrome hearts |
-| Kakobuy jeans | Kakobuy sizing guide | Kakobuy palm angels | Kakobuy t-shirts | Kakobuy sizing guide | Kakobuy palm angels | Kakobuy t-shirts |
-| Kakobuy t-shirts | Kakobuy stussy | Kakobuy palm angels | Kakobuy essentials | Kakobuy stussy | Kakobuy palm angels | Kakobuy essentials |
-| Kakobuy accessories | Kakobuy bags | Kakobuy nike | Kakobuy budget picks | Kakobuy bags | Kakobuy nike | Kakobuy budget picks |
+| Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet jordan | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet jordan | Kakobuy Spreadsheet sizing guide |
+| Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet chrome hearts | Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet chrome hearts | Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet palm angels |
+| Kakobuy Spreadsheet watches | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet luxury finds | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet luxury finds | Kakobuy Spreadsheet reviews |
+| Kakobuy Spreadsheet bags | Kakobuy Spreadsheet accessories | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet chrome hearts | Kakobuy Spreadsheet accessories | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet chrome hearts |
+| Kakobuy Spreadsheet jeans | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet t-shirts |
+| Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet stussy | Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet stussy | Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet essentials |
+| Kakobuy Spreadsheet accessories | Kakobuy Spreadsheet bags | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet bags | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet budget picks |
 
 ### Brand Pages (7 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Kakobuy nike | Kakobuy sneakers | Kakobuy t-shirts | Kakobuy bags | Kakobuy sneakers | Kakobuy t-shirts | Kakobuy bags |
-| Kakobuy jordan | Kakobuy sneakers | Kakobuy nike | Kakobuy qc photos | Kakobuy sneakers | Kakobuy nike | Kakobuy qc photos |
-| Kakobuy adidas | Kakobuy sneakers | Kakobuy t-shirts | Kakobuy sizing guide | Kakobuy sneakers | Kakobuy t-shirts | Kakobuy sizing guide |
-| Kakobuy chrome hearts | Kakobuy hoodies | Kakobuy luxury finds | Kakobuy accessories | Kakobuy hoodies | Kakobuy luxury finds | Kakobuy accessories |
-| Kakobuy essentials | Kakobuy hoodies | Kakobuy t-shirts | Kakobuy budget picks | Kakobuy hoodies | Kakobuy t-shirts | Kakobuy budget picks |
-| Kakobuy palm angels | Kakobuy hoodies | Kakobuy t-shirts | Kakobuy jeans | Kakobuy hoodies | Kakobuy t-shirts | Kakobuy jeans |
-| Kakobuy stussy | Kakobuy t-shirts | Kakobuy hoodies | Kakobuy accessories | Kakobuy t-shirts | Kakobuy hoodies | Kakobuy accessories |
+| Kakobuy Spreadsheet nike | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet bags | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet bags |
+| Kakobuy Spreadsheet jordan | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet qc photos | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet qc photos |
+| Kakobuy Spreadsheet adidas | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet sizing guide |
+| Kakobuy Spreadsheet chrome hearts | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet luxury finds | Kakobuy Spreadsheet accessories | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet luxury finds | Kakobuy Spreadsheet accessories |
+| Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet budget picks |
+| Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet jeans | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet jeans |
+| Kakobuy Spreadsheet stussy | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet accessories | Kakobuy Spreadsheet t-shirts | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet accessories |
 
 ### Feature Pages (7 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Kakobuy qc photos | Kakobuy legit check | Kakobuy reviews | Kakobuy spreadsheet best | Kakobuy legit check | Kakobuy reviews | Kakobuy spreadsheet best |
-| Kakobuy shipping guide | Kakobuy how to use | Kakobuy reviews | Kakobuy spreadsheet best | Kakobuy how to use | Kakobuy reviews | Kakobuy spreadsheet best |
-| Kakobuy sizing guide | Kakobuy sneakers | Kakobuy hoodies | Kakobuy jeans | Kakobuy sneakers | Kakobuy hoodies | Kakobuy jeans |
-| Kakobuy reviews | Kakobuy legit check | Kakobuy spreadsheet best | Kakobuy qc photos | Kakobuy legit check | Kakobuy spreadsheet best | Kakobuy qc photos |
-| Kakobuy legit check | Kakobuy qc photos | Kakobuy reviews | Kakobuy spreadsheet best | Kakobuy qc photos | Kakobuy reviews | Kakobuy spreadsheet best |
-| Kakobuy coupon | Kakobuy budget picks | Kakobuy spreadsheet best | Kakobuy essentials | Kakobuy budget picks | Kakobuy spreadsheet best | Kakobuy essentials |
-| Kakobuy how to use | Kakobuy shipping guide | Kakobuy sizing guide | Kakobuy for beginners | Kakobuy shipping guide | Kakobuy sizing guide | Kakobuy for beginners |
+| Kakobuy Spreadsheet qc photos | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best |
+| Kakobuy Spreadsheet shipping guide | Kakobuy Spreadsheet how to use | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet how to use | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best |
+| Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet jeans | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet hoodies | Kakobuy Spreadsheet jeans |
+| Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet qc photos | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet qc photos |
+| Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet qc photos | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet qc photos | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best |
+| Kakobuy Spreadsheet coupon | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet essentials |
+| Kakobuy Spreadsheet how to use | Kakobuy Spreadsheet shipping guide | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet for beginners | Kakobuy Spreadsheet shipping guide | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet for beginners |
 
 ### Comparison Pages (4 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Kakobuy vs Kakobuy | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative |
-| Kakobuy vs oopbuy | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative |
-| Kakobuy vs litbuy | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative |
-| Kakobuy vs usfans | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy alternative |
+| Kakobuy Spreadsheet vs Kakobuy Spreadsheet | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative |
+| Kakobuy Spreadsheet vs oopbuy | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative |
+| Kakobuy Spreadsheet vs litbuy | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative |
+| Kakobuy Spreadsheet vs usfans | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet alternative |
 
 ### Scenario Pages (4 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Kakobuy for beginners | Kakobuy how to use | Kakobuy shipping guide | Kakobuy sizing guide | Kakobuy how to use | Kakobuy shipping guide | Kakobuy sizing guide |
-| Kakobuy for resellers | Kakobuy spreadsheet best | Kakobuy budget picks | Kakobuy best sellers | Kakobuy spreadsheet best | Kakobuy budget picks | Kakobuy best sellers |
-| Kakobuy budget picks | Kakobuy coupon | Kakobuy essentials | Kakobuy spreadsheet best | Kakobuy coupon | Kakobuy essentials | Kakobuy spreadsheet best |
-| Kakobuy luxury finds | Kakobuy chrome hearts | Kakobuy watches | Kakobuy palm angels | Kakobuy chrome hearts | Kakobuy watches | Kakobuy palm angels |
+| Kakobuy Spreadsheet for beginners | Kakobuy Spreadsheet how to use | Kakobuy Spreadsheet shipping guide | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet how to use | Kakobuy Spreadsheet shipping guide | Kakobuy Spreadsheet sizing guide |
+| Kakobuy Spreadsheet for resellers | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet best sellers | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet best sellers |
+| Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet coupon | Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet coupon | Kakobuy Spreadsheet essentials | Kakobuy Spreadsheet spreadsheet best |
+| Kakobuy Spreadsheet luxury finds | Kakobuy Spreadsheet chrome hearts | Kakobuy Spreadsheet watches | Kakobuy Spreadsheet palm angels | Kakobuy Spreadsheet chrome hearts | Kakobuy Spreadsheet watches | Kakobuy Spreadsheet palm angels |
 
 ### Long-tail Pages (8 pages)
 
 | Page | In-text Link 1 | In-text Link 2 | In-text Link 3 | Related Guide 1 | Related Guide 2 | Related Guide 3 |
 |------|----------------|----------------|----------------|-----------------|-----------------|-----------------|
-| Kakobuy spreadsheet nike | Kakobuy nike | Kakobuy spreadsheet best | Kakobuy sneakers | Kakobuy nike | Kakobuy spreadsheet best | Kakobuy sneakers |
-| Kakobuy spreadsheet jordan | Kakobuy jordan | Kakobuy spreadsheet best | Kakobuy sneakers | Kakobuy jordan | Kakobuy spreadsheet best | Kakobuy sneakers |
-| Kakobuy spreadsheet shoes | Kakobuy sneakers | Kakobuy spreadsheet best | Kakobuy sizing guide | Kakobuy sneakers | Kakobuy spreadsheet best | Kakobuy sizing guide |
-| Kakobuy telegram | Kakobuy reddit | Kakobuy reviews | Kakobuy spreadsheet best | Kakobuy reddit | Kakobuy reviews | Kakobuy spreadsheet best |
-| Kakobuy reddit | Kakobuy reviews | Kakobuy telegram | Kakobuy spreadsheet best | Kakobuy reviews | Kakobuy telegram | Kakobuy spreadsheet best |
-| Kakobuy alternative | Kakobuy vs Kakobuy | Kakobuy vs oopbuy | Kakobuy spreadsheet best | Kakobuy vs Kakobuy | Kakobuy vs oopbuy | Kakobuy spreadsheet best |
-| is Kakobuy legit | Kakobuy reviews | Kakobuy legit check | Kakobuy qc photos | Kakobuy reviews | Kakobuy legit check | Kakobuy qc photos |
-| Kakobuy best sellers | Kakobuy spreadsheet best | Kakobuy budget picks | Kakobuy nike | Kakobuy spreadsheet best | Kakobuy budget picks | Kakobuy nike |
+| Kakobuy Spreadsheet spreadsheet nike | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet sneakers |
+| Kakobuy Spreadsheet spreadsheet jordan | Kakobuy Spreadsheet jordan | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet jordan | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet sneakers |
+| Kakobuy Spreadsheet spreadsheet shoes | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet sizing guide | Kakobuy Spreadsheet sneakers | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet sizing guide |
+| Kakobuy Spreadsheet telegram | Kakobuy Spreadsheet reddit | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reddit | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet spreadsheet best |
+| Kakobuy Spreadsheet reddit | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet telegram | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet telegram | Kakobuy Spreadsheet spreadsheet best |
+| Kakobuy Spreadsheet alternative | Kakobuy Spreadsheet vs Kakobuy Spreadsheet | Kakobuy Spreadsheet vs oopbuy | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet vs Kakobuy Spreadsheet | Kakobuy Spreadsheet vs oopbuy | Kakobuy Spreadsheet spreadsheet best |
+| is Kakobuy Spreadsheet legit | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet qc photos | Kakobuy Spreadsheet reviews | Kakobuy Spreadsheet legit check | Kakobuy Spreadsheet qc photos |
+| Kakobuy Spreadsheet best sellers | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet nike | Kakobuy Spreadsheet spreadsheet best | Kakobuy Spreadsheet budget picks | Kakobuy Spreadsheet nike |
 
 ---
 
@@ -143,11 +143,11 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 
 | Target Page | Correct Path |
 |-------------|--------------|
-| Kakobuy nike | `Kakobuy-nike.md` |
-| Kakobuy jordan | `Kakobuy-jordan.md` |
-| Kakobuy sizing guide | `Kakobuy-sizing-guide.md` |
-| Kakobuy spreadsheet best | `Kakobuy-spreadsheet-best.md` |
-| Kakobuy qc photos | `Kakobuy-qc-photos.md` |
+| Kakobuy Spreadsheet nike | `Kakobuy-nike.md` |
+| Kakobuy Spreadsheet jordan | `Kakobuy-jordan.md` |
+| Kakobuy Spreadsheet sizing guide | `Kakobuy-sizing-guide.md` |
+| Kakobuy Spreadsheet spreadsheet best | `Kakobuy-spreadsheet-best.md` |
+| Kakobuy Spreadsheet qc photos | `Kakobuy-qc-photos.md` |
 
 ---
 
@@ -156,7 +156,7 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 ### Introduction Section
 - **Link count**: 0-1 link
 - **Purpose**: Set context, link to main category or brand page if relevant
-- **Example**: "Kakobuy offers over 22,000 verified products, including an extensive [Kakobuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection..."
+- **Example**: "Kakobuy Spreadsheet offers over 22,000 verified products, including an extensive [Kakobuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection..."
 
 ### Main Section 1 (Core Topic)
 - **Link count**: 1-2 links
@@ -197,21 +197,21 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 ## Linking Rules for Specific Scenarios
 
 ### Scenario 1: Category Page Linking to Brand Pages
-When writing a category page (e.g., Kakobuy sneakers), link to relevant brand pages:
+When writing a category page (e.g., Kakobuy Spreadsheet sneakers), link to relevant brand pages:
 ```markdown
 Our [Kakobuy nike param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  collection features Air Max 95, Air Force 1, and more. 
 For basketball-inspired styles, explore [Kakobuy jordan param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
 ### Scenario 2: Brand Page Linking to Category Pages
-When writing a brand page (e.g., Kakobuy nike), link to relevant category pages:
+When writing a brand page (e.g., Kakobuy Spreadsheet nike), link to relevant category pages:
 ```markdown
 Nike [Kakobuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  are our top sellers. 
 You'll also find Nike [Kakobuy t-shirts param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  and [Kakobuy bags param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
 ### Scenario 3: Feature Page Linking to Category/Brand Pages
-When writing a feature page (e.g., Kakobuy sizing guide), link to relevant product pages:
+When writing a feature page (e.g., Kakobuy Spreadsheet sizing guide), link to relevant product pages:
 ```markdown
 Sizing varies by brand. For [Kakobuy sneakers param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" , we recommend going half a size up. 
 Our [Kakobuy hoodies param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  typically run true to size.
@@ -220,7 +220,7 @@ Our [Kakobuy hoodies param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]
 ### Scenario 4: Comparison Page Linking
 When writing comparison pages, link to spreadsheet and review pages:
 ```markdown
-See why buyers prefer Kakobuy in our [Kakobuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  guide. 
+See why buyers prefer Kakobuy Spreadsheet in our [Kakobuy spreadsheet best param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)"  guide. 
 Read real user feedback in [Kakobuy reviews param($m); $path = $m.Groups[1].Value -replace '-', '-'; "]($path.md)" .
 ```
 
@@ -266,8 +266,8 @@ Before finalizing each article, verify:
 ## Linking Matrix Visualization
 
 ```
-                    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                    —?  Kakobuy Ö÷Ò³   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?            ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?    ©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?    —? Æ·ÀàÒ³Ãæ (7)  —?—?Æ·ÅÆÒ³Ãæ(7) —?—?¹¦ÄÜÒ³Ãæ (7)  —?    —? sneakers     ©¦?©À?—? nike      —?—? qc photos    —?    —? hoodies      ©¦?©À?—? jordan    —?—? shipping     —?    —? watches      ©¦?©À?—? adidas    —?—? sizing       —?    —? bags         ©¦?©À?—? chrome    —?—? reviews      —?    —? jeans        ©¦?©À?—? essentials—?—? legit check  —?    —? t-shirts     ©¦?©À?—? palm      —?—? coupon       —?    —? accessories  ©¦?©À?—? stussy    —?—? how to use   —?    ©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?            ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?                    ©°©¤©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤©¤—?                    —? Kakobuy µç×Ó±í¸ñ —?                    —? (Íâ²¿Á´½ÓÖÕµã)   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?
-    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    —?¶Ô±ÈÒ³Ãæ (4)   ©¦©¤©¤©¤©¤?©¦  ³¡¾°Ò³Ãæ (4)  —?    —?vs Kakobuy    —?    —? beginners    —?    —?vs oopbuy     —?    —? resellers    —?    —?vs litbuy     —?    —? budget       —?    —?vs usfans     —?    —? luxury       —?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?```
+                    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                    —?  Kakobuy Spreadsheet Ö÷Ò³   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?            ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?    ©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤—?©°©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤—?    —? Æ·ÀàÒ³Ãæ (7)  —?—?Æ·ÅÆÒ³Ãæ(7) —?—?¹¦ÄÜÒ³Ãæ (7)  —?    —? sneakers     ©¦?©À?—? nike      —?—? qc photos    —?    —? hoodies      ©¦?©À?—? jordan    —?—? shipping     —?    —? watches      ©¦?©À?—? adidas    —?—? sizing       —?    —? bags         ©¦?©À?—? chrome    —?—? reviews      —?    —? jeans        ©¦?©À?—? essentials—?—? legit check  —?    —? t-shirts     ©¦?©À?—? palm      —?—? coupon       —?    —? accessories  ©¦?©À?—? stussy    —?—? how to use   —?    ©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤—?©¸©¤©¤©¤©¤©¤©¤©¤©Ð©¤©¤©¤©¤©¤©¤©¤—?            —?               —?               —?            ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©à©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?                             —?                    ©°©¤©¤©¤©¤©¤©¤©¤©¤¨©¤©¤©¤©¤©¤©¤©¤©¤—?                    —? Kakobuy Spreadsheet µç×Ó±í¸ñ —?                    —? (Íâ²¿Á´½ÓÖÕµã)   —?                    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?
+    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©°©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    —?¶Ô±ÈÒ³Ãæ (4)   ©¦©¤©¤©¤©¤?©¦  ³¡¾°Ò³Ãæ (4)  —?    —?vs Kakobuy Spreadsheet    —?    —? beginners    —?    —?vs oopbuy     —?    —? resellers    —?    —?vs litbuy     —?    —? budget       —?    —?vs usfans     —?    —? luxury       —?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?    ©¸©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤—?```
 
 **Legend**:
 - `?©À?` = Bidirectional linking (pages link to each other)
