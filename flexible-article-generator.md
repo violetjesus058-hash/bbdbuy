@@ -1,18 +1,42 @@
 # Flexible Article Generation System with E-E-A-T Compliance
 
-> Version: 1.0
-> Created: 2026-07-19
+> Version: 2.0
+> Updated: 2026-07-25
 > Purpose: Modular, topic-adaptive article generation avoiding template homogeneity
+> 
+> **IMPORTANT**: Before generating any content, read and follow:
+> - `WEBSITE_POSITIONING.md` — Website positioning statement
+> - `BANNED_TERMS.md` — Banned terms list
+
+---
+
+## CRITICAL: Website Positioning (MUST READ FIRST)
+
+**Kakobuy Spreadsheet is a curated product directory.**
+
+The website:
+- ✅ Organizes product information into browsable categories
+- ✅ Curates product listings with pricing references and descriptions
+- ✅ Provides shopping guides and category resources
+- ✅ Links to external shopping resources (Google Spreadsheet)
+- ❌ Does NOT sell products
+- ❌ Does NOT process payments or orders
+- ❌ Does NOT operate warehouses or inspect products
+- ❌ Does NOT handle shipping or logistics
+- ❌ Does NOT provide customer support
+- ❌ Does NOT have user accounts or order history
+
+**All generated content MUST reflect this positioning. Any description implying the website sells, ships, inspects, or processes orders is INCORRECT and must be removed.**
 
 ---
 
 ## System Overview
 
 This system replaces fixed templates with **composable content modules** that adapt based on:
-- **Topic Category** (A-H from topic-matrix.md)
-- **Buyer Journey Stage** (Awareness → Consideration → Decision → Post-Purchase)
-- **Audience Type** (Beginner, Reseller, Budget Shopper, Regional, Collector)
-- **Content Angle** (Educational, Comparative, Data-Driven, Problem-Solution, Trust-Building)
+- **Topic Category** (A-H)
+- **User Journey Stage** (Discovery → Research → Decision)
+- **Audience Type** (Beginner, Budget Shopper, Regional, Enthusiast)
+- **Content Angle** (Educational, Comparative, Guide, Problem-Solution)
 
 ---
 
@@ -21,169 +45,176 @@ This system replaces fixed templates with **composable content modules** that ad
 ### Module M1: Hook & Context Setting
 **Purpose**: Capture attention and establish relevance
 **Variants**:
-- **M1a - Problem Hook**: Start with a specific pain point
-  - Example: "Finding the right [product category] shouldn't feel like gambling. Yet 68% of first-time buyers report receiving items that don't match expectations..."
-- **M1b - Data Hook**: Lead with surprising statistics
-  - Example: "We analyzed 12,000 orders across 6 platforms. The results revealed a 340% difference in satisfaction rates between the best and worst platforms..."
-- **M1c - Story Hook**: Open with a relatable scenario
-  - Example: "Sarah spent $180 on what she thought was a quality [brand] hoodie. When it arrived, the logo was crooked and the material felt like paper. Here's what she learned..."
-- **M1d - Question Hook**: Pose a thought-provoking question
-  - Example: "What if you could cut your [product] budget by 60% without sacrificing quality? That's exactly what 8,500 buyers discovered last month..."
+- **M1a - Problem Hook**: Start with a common research challenge
+  - Example: "Finding reliable product information for [category] across scattered sources is time-consuming. Most buyers struggle to compare options without a centralized reference..."
+- **M1b - Category Overview Hook**: Lead with the breadth of organized information
+  - Example: "The [category] listings on Kakobuy Spreadsheet span dozens of styles, price points, and variations — all organized in one browsable directory..."
+- **M1c - Scenario Hook**: Open with a relatable discovery scenario
+  - Example: "You're looking for [product type] but don't know where to start comparing options. A curated directory can help you narrow down choices based on organized product information..."
+- **M1d - Question Hook**: Pose a practical research question
+  - Example: "What should you look for when comparing [product category] options? Understanding key factors helps you navigate product listings more effectively..."
 
 **E-E-A-T Integration**:
-- Experience: Reference real buyer scenarios
-- Expertise: Cite specific data points or research
-- Authoritativeness: Mention community size or order volume
-- Trustworthiness: Acknowledge limitations or variability
+- Experience: Reference common research challenges users face
+- Expertise: Explain what information the directory provides
+- Authoritativeness: Describe the scope of organized categories
+- Trustworthiness: Acknowledge that product information is for reference only
 
 ---
 
 ### Module M2: Core Value Proposition
-**Purpose**: Explain what the reader will gain
+**Purpose**: Explain what the reader will gain from this guide
 **Variants**:
 - **M2a - Benefit List**: Bullet-point key takeaways
-  - Structure: "In this guide, you'll discover: [3-5 specific benefits]"
-- **M2b - Transformation Story**: Before/after narrative
-  - Structure: "Most buyers struggle with [problem]. But after following this method, they achieve [outcome]..."
-- **M2c - Credibility Statement**: Establish why this content matters
-  - Structure: "Based on [data source] and [time period] of testing, this guide reveals [key insight]..."
+  - Structure: "In this guide, you'll find: [3-5 specific topics covered]"
+- **M2b - Navigation Guide**: Help users understand the directory structure
+  - Structure: "Kakobuy Spreadsheet organizes [category] into clear sections. Here's how to navigate the available product information..."
+- **M2c - Resource Overview**: Establish what this resource covers
+  - Structure: "This guide compiles organized product information about [topic], including category breakdowns, pricing references, and comparison points..."
 
 **E-E-A-T Integration**:
-- Experience: Show real-world testing duration
-- Expertise: Reference methodology or data sources
-- Authoritativeness: Cite community feedback volume
-- Trustworthiness: Set realistic expectations
+- Experience: Show understanding of what users are looking for
+- Expertise: Reference the organization methodology
+- Authoritativeness: Describe the scope of the directory
+- Trustworthiness: Set realistic expectations about what the resource provides
 
 ---
 
 ### Module M3: Educational Foundation
-**Purpose**: Build reader understanding
+**Purpose**: Build reader understanding of the product category
 **Variants**:
-- **M3a - Concept Explanation**: Define key terms
-  - Example: "Before diving in, let's clarify what [term] actually means in the rep context..."
-- **M3b - Process Breakdown**: Explain how something works
-  - Example: "The [process] involves 5 key steps: [list steps with brief explanations]"
+- **M3a - Concept Explanation**: Define key terms in the product space
+  - Example: "Before exploring [category] listings, it helps to understand key terms like [term 1], [term 2], and how they affect product selection..."
+- **M3b - Category Breakdown**: Explain how products are organized
+  - Example: "The [category] directory is organized into several sub-categories: [list categories with brief descriptions]"
 - **M3c - Comparison Framework**: Set up evaluation criteria
-  - Example: "To properly evaluate [subject], we need to consider 4 factors: [factor 1], [factor 2], [factor 3], and [factor 4]"
+  - Example: "When comparing [product] options, consider these factors: [factor 1], [factor 2], [factor 3], and [factor 4]"
 
 **E-E-A-T Integration**:
-- Experience: Use practical examples from testing
-- Expertise: Explain technical details accurately
-- Authoritativeness: Reference industry standards
-- Trustworthiness: Acknowledge complexity or nuance
+- Experience: Use practical examples from the product space
+- Expertise: Explain product characteristics accurately
+- Authoritativeness: Reference established product knowledge
+- Trustworthiness: Acknowledge complexity and variation in products
 
 ---
 
-### Module M4: Data & Evidence
-**Purpose**: Provide concrete proof points
+### Module M4: Product Information & References
+**Purpose**: Provide organized product details from the directory
 **Variants**:
-- **M4a - Statistics Block**: Present quantitative data
-  - Format: Table or bullet list with specific numbers
-  - Example: "Average shipping time: 12 days | Satisfaction rate: 94% | Price range: $18-$45"
-- **M4b - Case Study**: Detailed example with context
-  - Structure: "Take [specific product] as an example. Ordered [X] times, with [Y]% reporting [outcome]..."
-- **M4c - Comparison Table**: Side-by-side analysis
-  - Format: Markdown table comparing 3-5 options across 4-6 criteria
+- **M4a - Category Overview Table**: Present organized product information
+  - Format: Markdown table with product types, price ranges, key features
+  - Example: "| Product Type | Price Range | Key Features | Style Notes |"
+- **M4b - Product Spotlight**: Detailed look at specific product types
+  - Structure: "Among the [category] listings, [product type] stands out for [characteristics]. Price references range from $X to $Y..."
+- **M4c - Comparison Table**: Side-by-side analysis of product options
+  - Format: Markdown table comparing 3-5 product types across criteria
+
+**IMPORTANT**: Product information must come from the actual spreadsheet. Do NOT fabricate order counts, satisfaction rates, or quality pass rates. Only use:
+- Price references (from spreadsheet)
+- Product descriptions (from spreadsheet)
+- Category counts (actual listings count)
+- Material/style information (from product descriptions)
 
 **E-E-A-T Integration**:
-- Experience: Cite actual order data or testing results
-- Expertise: Explain what the data means
-- Authoritativeness: Reference sample size and methodology
-- Trustworthiness: Note data limitations or variability
+- Experience: Reference actual product listings in the directory
+- Expertise: Explain product characteristics and differences
+- Authoritativeness: Provide accurate category information
+- Trustworthiness: Note that prices and availability may change
 
 ---
 
-### Module M5: Practical Application
-**Purpose**: Show how to use the information
+### Module M5: Practical Guidance
+**Purpose**: Help users navigate and use the product information
 **Variants**:
-- **M5a - Step-by-Step Guide**: Sequential instructions
-  - Format: Numbered list with clear actions
-  - Example: "Step 1: Navigate to [location]. Step 2: Filter by [criteria]. Step 3: Verify [quality indicator]..."
-- **M5b - Decision Framework**: Help reader choose
-  - Format: Flowchart or decision tree
-  - Example: "If your priority is [A], choose [option 1]. If you need [B], go with [option 2]..."
-- **M5c - Checklist**: Action items for the reader
-  - Format: Checkbox list
-  - Example: "Before ordering, verify: ☐ [criterion 1] ☐ [criterion 2] ☐ [criterion 3]..."
+- **M5a - How to Browse**: Guide users through the directory
+  - Format: Numbered steps for navigating product categories
+  - Example: "Step 1: Access the spreadsheet. Step 2: Navigate to the [category] section. Step 3: Compare product details..."
+- **M5b - Decision Framework**: Help users choose between options
+  - Format: Decision guide based on user preferences
+  - Example: "If your priority is [A], explore [category section]. If you prefer [B], check [alternative section]..."
+- **M5c - Research Checklist**: What to look for when browsing
+  - Format: Checklist of factors to consider
+  - Example: "When comparing products, consider: ☐ Price range ☐ Material description ☐ Style compatibility ☐ Available variations"
 
 **E-E-A-T Integration**:
-- Experience: Provide tested, proven steps
-- Expertise: Explain why each step matters
-- Authoritativeness: Reference community best practices
-- Trustworthiness: Warn about common mistakes
+- Experience: Provide practical navigation guidance
+- Expertise: Explain what factors matter for product selection
+- Authoritativeness: Reference established product knowledge
+- Trustworthiness: Remind users to verify information independently
 
 ---
 
-### Module M6: Platform/Product Comparison
-**Purpose**: Help reader evaluate options
+### Module M6: Category/Product Comparison
+**Purpose**: Help users evaluate different product options
 **Variants**:
-- **M6a - Head-to-Head**: Direct comparison of 2 options
-  - Structure: "Platform A vs Platform B: [4-6 criteria compared]"
-- **M6b - Multi-Option Matrix**: Compare 3+ options
-  - Structure: Markdown table with rows (options) and columns (criteria)
-- **M6c - Tier Ranking**: Rank options by quality/price/use case
-  - Structure: "Best for Budget: [option] | Best for Quality: [option] | Best for Speed: [option]"
+- **M6a - Head-to-Head**: Compare 2 product types
+  - Structure: "Product Type A vs Product Type B: [4-6 criteria compared]"
+- **M6b - Multi-Option Matrix**: Compare 3+ product types
+  - Structure: Markdown table with rows (products) and columns (criteria)
+- **M6c - Tier Organization**: Organize options by characteristics
+  - Structure: "Budget-Friendly Options: [products] | Premium Options: [products] | Versatile Options: [products]"
 
 **E-E-A-T Integration**:
-- Experience: Base comparisons on actual testing
-- Expertise: Explain trade-offs clearly
-- Authoritativeness: Cite community consensus
+- Experience: Base comparisons on actual product information
+- Expertise: Explain trade-offs between different options
+- Authoritativeness: Reference product characteristics accurately
 - Trustworthiness: Acknowledge subjective preferences
 
 ---
 
-### Module M7: Trust & Transparency
-**Purpose**: Build reader confidence
+### Module M7: Transparency & Context
+**Purpose**: Provide honest context about the resource
 **Variants**:
-- **M7a - Methodology Disclosure**: Explain how information was gathered
-  - Example: "This analysis is based on [X] orders placed between [dates], with feedback from [Y] community members..."
+- **M7a - Resource Disclosure**: Explain what this directory is
+  - Example: "Kakobuy Spreadsheet is a curated product directory that organizes product listings for easy browsing. It does not sell products directly. Prices and availability are references and may change."
 - **M7b - Limitations Acknowledgment**: Be honest about gaps
-  - Example: "While we've tested [X] products, results may vary based on [factors]. We recommend [mitigation strategy]..."
-- **M7c - Community Voices**: Include real user feedback
-  - Format: Blockquotes with attribution
-  - Example: "As one buyer shared: '[quote]' — u/[username], r/[subreddit]"
+  - Example: "Product information is compiled from external sources. Availability, pricing, and product details may change. Users should verify current information through the spreadsheet link."
+- **M7c - External Resources**: Point to community discussions
+  - Format: References to external communities for additional perspectives
+  - Example: "For community discussions about [topic], Reddit communities like r/[subreddit] provide user perspectives and experiences."
 
 **E-E-A-T Integration**:
-- Experience: Show real testing process
-- Expertise: Demonstrate understanding of variables
-- Authoritativeness: Reference community validation
-- Trustworthiness: Be transparent about limitations
+- Experience: Be transparent about what the resource is and isn't
+- Expertise: Demonstrate understanding of information limitations
+- Authoritativeness: Direct users to additional authoritative sources
+- Trustworthiness: Be transparent about the nature of the directory
 
 ---
 
-### Module M8: FAQ & Objection Handling
-**Purpose**: Address reader concerns
+### Module M8: FAQ & Information Gaps
+**Purpose**: Address common questions about the product category
 **Variants**:
-- **M8a - Common Questions**: 4-6 frequently asked questions
-  - Format: Q&A with detailed answers
-- **M8b - Myth Busting**: Address misconceptions
-  - Format: "Myth: [statement] | Reality: [correction with evidence]"
-- **M8c - Objection Handling**: Counter common hesitations
-  - Format: "If you're worried about [concern], here's what you should know..."
+- **M8a - Common Questions**: 4-6 frequently asked questions about the category
+  - Format: Q&A with informative answers
+- **M8b - Clarification Section**: Address common misconceptions
+  - Format: "Common assumption: [statement] | Reality: [correction]"
+- **M8c - What to Know**: Address things users should understand
+  - Format: "Before exploring [category], keep in mind: [important context]"
+
+**IMPORTANT**: FAQ answers must NOT describe ordering processes, payment methods, shipping times, or customer support. Focus on product information, category guidance, and research tips.
 
 **E-E-A-T Integration**:
-- Experience: Reference real community questions
-- Expertise: Provide accurate, nuanced answers
-- Authoritativeness: Cite data or expert opinions
-- Trustworthiness: Acknowledge valid concerns
+- Experience: Address real questions users have about the category
+- Expertise: Provide accurate, informative answers
+- Authoritativeness: Reference established product knowledge
+- Trustworthiness: Acknowledge when information may vary
 
 ---
 
 ### Module M9: Call to Action
-**Purpose**: Guide reader to next step
+**Purpose**: Guide reader to the spreadsheet or related guides
 **Variants**:
-- **M9a - Direct Link**: Provide specific resource
-  - Format: "[Access Resource Name](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit) — [brief benefit statement]"
-- **M9b - Next Step Suggestion**: Recommend logical follow-up
-  - Format: "Now that you understand [topic], your next step is to [action]..."
-- **M9c - Community Invitation**: Encourage engagement
-  - Format: "Join [X] buyers who share feedback in [community link]..."
+- **M9a - Spreadsheet Link**: Direct users to the product directory
+  - Format: "[Access Kakobuy Spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit) — Browse [category] listings"
+- **M9b - Related Guide Suggestion**: Recommend logical follow-up reading
+  - Format: "For more information about [related topic], explore our [guide name]..."
+- **M9c - Category Exploration**: Encourage browsing other categories
+  - Format: "After exploring [category], you may also want to browse [related category]..."
 
 **E-E-A-T Integration**:
-- Experience: Recommend tested resources
-- Expertise: Explain why this is the right next step
-- Authoritativeness: Reference community size or activity
-- Trustworthiness: No pressure, just guidance
+- Experience: Recommend relevant resources
+- Expertise: Explain why these are useful next steps
+- Trustworthiness: No pressure, just helpful guidance
 
 ---
 
@@ -191,91 +222,90 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Reinforce key takeaways
 **Variants**:
 - **M10a - Key Points Recap**: Bullet summary
-  - Format: "To summarize: [3-5 key takeaways]"
-- **M10b - Final Recommendation**: Clear guidance
-  - Format: "Based on our analysis, we recommend [option] for [use case] because [reasons]..."
-- **M10c - Future Outlook**: What to expect going forward
-  - Format: "Looking ahead to [timeframe], expect [trends]..."
+  - Format: "To summarize: [3-5 key takeaways about the category]"
+- **M10b - Research Guidance**: Clear direction for next steps
+  - Format: "When exploring [category], focus on [key factors] and use the spreadsheet to compare options..."
+- **M10c - Category Outlook**: What to expect in the category
+  - Format: "The [category] directory continues to expand with new product listings. Check the spreadsheet regularly for updated information..."
 
 **E-E-A-T Integration**:
-- Experience: Summarize tested findings
-- Expertise: Provide informed recommendation
-- Authoritativeness: Reference comprehensive analysis
+- Experience: Summarize useful findings
+- Expertise: Provide informed guidance
 - Trustworthiness: Set realistic expectations
 
 ---
 
 ## Part 2: Topic Category → Module Mapping
 
-### Category A: Platform-Specific Guides
-**Recommended Modules**: M1a (Problem Hook) → M2a (Benefit List) → M3a (Concept Explanation) → M4a (Statistics) → M5a (Step-by-Step) → M7a (Methodology) → M8a (FAQ) → M9a (Direct Link) → M10b (Final Recommendation)
+### Category A: Platform Guides
+**Recommended Modules**: M1a → M2a → M3a → M4a → M5a → M7a → M8a → M9a → M10b
 
-**Tone**: Educational, practical, reassuring
+**Tone**: Educational, practical, clear
+**Word Count**: 2,000-3,000 words
+**Key Focus**: Explaining what the directory offers, how to use it
+
+---
+
+### Category B: Brand-Specific Guides
+**Recommended Modules**: M1b → M2b → M3c → M4b → M6a → M7b → M8a → M9b → M10a
+
+**Tone**: Informative, detailed, product-focused
 **Word Count**: 2,500-3,500 words
-**Key E-E-A-T Focus**: Experience (platform testing), Trustworthiness (honest limitations)
+**Key Focus**: Organizing brand product information, comparison points
 
 ---
 
-### Category B: Brand-Specific Deep Dives
-**Recommended Modules**: M1b (Data Hook) → M2b (Transformation Story) → M3c (Comparison Framework) → M4b (Case Study) → M6a (Head-to-Head) → M7c (Community Voices) → M8b (Myth Busting) → M9b (Next Step) → M10a (Key Points)
-
-**Tone**: Authoritative, detailed, quality-focused
-**Word Count**: 3,000-4,000 words
-**Key E-E-A-T Focus**: Expertise (brand knowledge), Experience (quality testing)
-
----
-
-### Category C: Buyer Journey Content
-**Recommended Modules**: M1c (Story Hook) → M2c (Credibility Statement) → M3b (Process Breakdown) → M4c (Comparison Table) → M5b (Decision Framework) → M7b (Limitations) → M8c (Objection Handling) → M9c (Community Invitation) → M10c (Future Outlook)
+### Category C: Beginner Guides
+**Recommended Modules**: M1c → M2c → M3b → M5a → M5c → M7a → M8a → M9a → M10b
 
 **Tone**: Welcoming, educational, non-intimidating
-**Word Count**: 2,000-3,000 words
-**Key E-E-A-T Focus**: Trustworthiness (beginner-friendly), Authoritativeness (comprehensive coverage)
+**Word Count**: 2,000-2,500 words
+**Key Focus**: Helping new users understand the directory and navigate it
 
 ---
 
-### Category D: Problem-Solution Content
-**Recommended Modules**: M1a (Problem Hook) → M2a (Benefit List) → M3a (Concept Explanation) → M4a (Statistics) → M5c (Checklist) → M6b (Multi-Option Matrix) → M7a (Methodology) → M8a (FAQ) → M9a (Direct Link) → M10b (Final Recommendation)
+### Category D: Problem-Solution Guides
+**Recommended Modules**: M1a → M2a → M3a → M4c → M5b → M7b → M8c → M9a → M10b
 
-**Tone**: Practical, solution-oriented, empathetic
-**Word Count**: 2,500-3,500 words
-**Key E-E-A-T Focus**: Experience (problem-solving), Expertise (technical accuracy)
+**Tone**: Practical, solution-oriented, helpful
+**Word Count**: 2,000-3,000 words
+**Key Focus**: Addressing specific user challenges with directory resources
 
 ---
 
 ### Category E: Seasonal & Trend Content
-**Recommended Modules**: M1d (Question Hook) → M2b (Transformation Story) → M3c (Comparison Framework) → M4b (Case Study) → M6c (Tier Ranking) → M7c (Community Voices) → M8b (Myth Busting) → M9b (Next Step) → M10c (Future Outlook)
+**Recommended Modules**: M1d → M2b → M3c → M4b → M6c → M7c → M8a → M9b → M10c
 
-**Tone**: Trendy, timely, exciting
-**Word Count**: 2,000-3,000 words
-**Key E-E-A-T Focus**: Experience (trend awareness), Authoritativeness (timely insights)
+**Tone**: Timely, engaging, informative
+**Word Count**: 1,800-2,500 words
+**Key Focus**: Highlighting trending products and seasonal categories
 
 ---
 
 ### Category F: Audience-Specific Content
-**Recommended Modules**: M1c (Story Hook) → M2a (Benefit List) → M3b (Process Breakdown) → M4c (Comparison Table) → M5b (Decision Framework) → M6c (Tier Ranking) → M7c (Community Voices) → M8c (Objection Handling) → M9c (Community Invitation) → M10a (Key Points)
+**Recommended Modules**: M1c → M2a → M3b → M4a → M5b → M6c → M8a → M9a → M10a
 
-**Tone**: Relatable, specific, inclusive
-**Word Count**: 2,500-3,500 words
-**Key E-E-A-T Focus**: Experience (audience understanding), Trustworthiness (relevant recommendations)
+**Tone**: Relatable, specific, helpful
+**Word Count**: 2,000-3,000 words
+**Key Focus**: Tailoring directory guidance to specific user types
 
 ---
 
-### Category G: Data-Driven Content
-**Recommended Modules**: M1b (Data Hook) → M2c (Credibility Statement) → M3c (Comparison Framework) → M4a (Statistics) → M6b (Multi-Option Matrix) → M7a (Methodology) → M8a (FAQ) → M9b (Next Step) → M10a (Key Points)
+### Category G: Comparison Content
+**Recommended Modules**: M1b → M2c → M3c → M4c → M6b → M7b → M8a → M9b → M10a
 
-**Tone**: Analytical, objective, evidence-based
-**Word Count**: 3,000-4,500 words
-**Key E-E-A-T Focus**: Expertise (data analysis), Authoritativeness (comprehensive research)
+**Tone**: Analytical, objective, informative
+**Word Count**: 2,500-3,500 words
+**Key Focus**: Systematic comparison of product options in the directory
 
 ---
 
 ### Category H: Trust & Transparency Content
-**Recommended Modules**: M1a (Problem Hook) → M2c (Credibility Statement) → M3a (Concept Explanation) → M4b (Case Study) → M5a (Step-by-Step) → M7a (Methodology) → M7b (Limitations) → M8c (Objection Handling) → M9c (Community Invitation) → M10b (Final Recommendation)
+**Recommended Modules**: M1a → M2c → M3a → M7a → M7b → M8a → M8c → M9a → M10b
 
-**Tone**: Honest, transparent, humble
-**Word Count**: 2,500-3,500 words
-**Key E-E-A-T Focus**: Trustworthiness (radical transparency), Experience (real testing)
+**Tone**: Honest, transparent, clear
+**Word Count**: 2,000-2,500 words
+**Key Focus**: Being upfront about what the directory is and how to use it
 
 ---
 
@@ -284,186 +314,174 @@ This system replaces fixed templates with **composable content modules** that ad
 ### Slot Definitions
 
 ```
-{{PLATFORM}} = Target platform name (e.g., Kakobuy Spreadsheet, Oopbuy, Litbuy)
 {{BRAND}} = Target brand name (e.g., Nike, Jordan, Adidas, Chrome Hearts)
 {{CATEGORY}} = Product category (e.g., sneakers, hoodies, jerseys, watches)
-{{AUDIENCE}} = Target audience (e.g., beginners, resellers, budget shoppers, EU buyers)
+{{AUDIENCE}} = Target audience (e.g., beginners, budget shoppers, EU users)
 {{PRICE_TIER}} = Price range (e.g., under $25, under $50, $20-$45)
-{{SEASON}} = Season or event (e.g., Fall 2026, World Cup 2026, Holiday 2026)
-{{PROBLEM}} = Specific pain point (e.g., sizing uncertainty, quality anxiety, shipping delays)
-{{SOLUTION}} = Solution approach (e.g., size guide, QC checklist, shipping timeline)
-{{DATA_SOURCE}} = Data reference (e.g., 12,000 orders, 500 products tested, 6 platforms compared)
-{{COMMUNITY_SIZE}} = Community metric (e.g., 50,000+ buyers, 8,500 active members)
-{{TIME_PERIOD}} = Testing duration (e.g., 6 months of testing, July 2026 data)
+{{SEASON}} = Season or event (e.g., Fall 2026, Summer 2026, Holiday 2026)
+{{TOPIC}} = Article topic focus (e.g., sizing guide, style comparison, category overview)
 ```
 
 ### Slot Usage Example
 
-**Topic**: "Best Nike Reps Under $50: Budget-Friendly Finds That Don't Disappoint"
+**Topic**: "Kakobuy Spreadsheet Nike Collection 2026: Organized Product Guide"
 
 **Slot Values**:
-- {{PLATFORM}} = Kakobuy Spreadsheet
 - {{BRAND}} = Nike
 - {{CATEGORY}} = sneakers
-- {{AUDIENCE}} = budget shoppers
-- {{PRICE_TIER}} = under $50
-- {{PROBLEM}} = finding quality on a budget
-- {{SOLUTION}} = curated list of verified budget options
-- {{DATA_SOURCE}} = 380+ orders analyzed
-- {{COMMUNITY_SIZE}} = 9,200+ buyers
-- {{TIME_PERIOD}} = Q2-Q3 2026
+- {{AUDIENCE}} = sneaker enthusiasts
+- {{PRICE_TIER}} = $15-$60
+- {{TOPIC}} = organized product guide
 
-**Generated Hook (M1b - Data Hook)**:
-"We analyzed 380+ Nike rep orders from Q2-Q3 2026. The results? 94% of buyers found quality options under $50 — but only if they knew where to look. Here's what 9,200+ budget-conscious buyers discovered..."
+**Generated Hook (M1b - Category Overview)**:
+"The Nike listings on Kakobuy Spreadsheet span dozens of styles, from classic Air Max to modern Air Force 1 variations — all organized in one browsable directory. Here's how to navigate the collection and find products that match your style..."
 
 ---
 
 ## Part 4: E-E-A-T Compliance Checklist
 
-### Experience (First-Hand Knowledge)
-- [ ] Include specific order numbers or testing duration
-- [ ] Reference actual products tested with prices
-- [ ] Mention real community feedback or quotes
-- [ ] Describe hands-on evaluation process
+### Experience (Demonstrates Knowledge)
+- [ ] Shows understanding of the product category
+- [ ] References actual product listings in the directory
+- [ ] Addresses real questions users have
 
 ### Expertise (Technical Accuracy)
-- [ ] Explain technical terms correctly (batches, QC, materials)
-- [ ] Provide accurate platform feature descriptions
-- [ ] Cite data sources and methodology
-- [ ] Demonstrate deep understanding of the subject
+- [ ] Product information is accurate and current
+- [ ] Category descriptions are correct
+- [ ] Comparison criteria are relevant
 
-### Authoritativeness (Credible Source)
-- [ ] Reference community size or order volume
-- [ ] Mention testing duration or sample size
-- [ ] Cite industry standards or best practices
-- [ ] Include expert opinions or consensus views
+### Authoritativeness (Credible Resource)
+- [ ] Directory scope is accurately described
+- [ ] External resources are properly referenced
+- [ ] Information is well-organized and comprehensive
 
 ### Trustworthiness (Honest & Transparent)
-- [ ] Acknowledge limitations or variability
-- [ ] Set realistic expectations (not overpromising)
-- [ ] Disclose methodology and data sources
-- [ ] Address potential concerns or objections
-- [ ] Avoid absolute claims ("always," "never," "guaranteed")
+- [ ] Clearly states what the directory is (product directory, not a store)
+- [ ] Acknowledges that prices/availability may change
+- [ ] Does NOT fabricate order counts, user numbers, or satisfaction rates
+- [ ] Does NOT describe services the website doesn't provide
+- [ ] Avoids absolute claims ("always," "never," "guaranteed")
 
 ---
 
 ## Part 5: Anti-Homogeneity Rules
 
 ### Rule 1: Vary Hook Types
-Never use the same hook type (M1a-M1d) for consecutive articles on the same platform.
+Never use the same hook type (M1a-M1d) for consecutive articles.
 
 ### Rule 2: Rotate Comparison Structures
 Alternate between:
 - Head-to-head (2 options)
 - Multi-option matrix (3+ options)
-- Tier ranking (best for X, best for Y)
+- Tier organization (best for X, best for Y)
 
-### Rule 3: Diversify Data Presentation
+### Rule 3: Diversify Information Presentation
 Rotate between:
-- Statistics blocks (numbers in text)
-- Markdown tables (structured data)
-- Case studies (narrative examples)
-- Community quotes (social proof)
+- Overview tables (structured data)
+- Product spotlights (narrative descriptions)
+- Comparison matrices (side-by-side)
+- Category breakdowns (organized lists)
 
 ### Rule 4: Adjust Tone by Category
-- Category A (Platform Guides): Educational, practical
-- Category B (Brand Deep Dives): Authoritative, detailed
-- Category C (Buyer Journey): Welcoming, non-intimidating
-- Category D (Problem-Solution): Empathetic, actionable
-- Category E (Seasonal): Trendy, timely
-- Category F (Audience-Specific): Relatable, inclusive
-- Category G (Data-Driven): Analytical, objective
+- Category A (Platform Guides): Clear, educational
+- Category B (Brand Guides): Detailed, informative
+- Category C (Beginner): Welcoming, accessible
+- Category D (Problem-Solution): Practical, helpful
+- Category E (Seasonal): Timely, engaging
+- Category F (Audience): Relatable, specific
+- Category G (Comparison): Analytical, objective
 - Category H (Trust): Honest, transparent
 
 ### Rule 5: Vary Conclusion Styles
 Rotate between:
-- Key points recap (bullet summary)
-- Final recommendation (clear guidance)
-- Future outlook (what to expect)
-- Community invitation (join discussion)
+- Key points recap
+- Research guidance
+- Category outlook
+- Related resource suggestions
 
 ---
 
 ## Part 6: Article Generation Workflow
 
 ### Step 1: Select Topic Category
-Reference topic-matrix.md to choose from Categories A-H.
+Choose from Categories A-H based on the topic.
 
 ### Step 2: Define Variable Slots
 Fill in all {{SLOT}} values based on the chosen topic.
 
 ### Step 3: Choose Module Sequence
-Use the recommended module mapping for the category, or customize based on the specific angle.
+Use the recommended module mapping for the category.
 
 ### Step 4: Generate Content
 Write each module, ensuring:
-- E-E-A-T compliance (check all 4 elements)
-- Natural keyword integration (2-3% density)
-- Conversational tone appropriate for the category
-- Specific data points and examples
+- Website positioning compliance (check against WEBSITE_POSITIONING.md)
+- No banned terms (check against BANNED_TERMS.md)
+- Natural keyword integration (1.5-2.5% density)
+- Accurate product information only
+- No fabricated data
 
 ### Step 5: Apply Anti-Homogeneity Checks
-- [ ] Hook type differs from last 3 articles on this platform
+- [ ] Hook type differs from last 3 articles
 - [ ] Comparison structure varies from recent articles
-- [ ] Data presentation format is rotated
+- [ ] Information presentation format is rotated
 - [ ] Tone matches the category guidelines
-- [ ] Conclusion style is varied
 
-### Step 6: Final E-E-A-T Audit
-Review the complete article against the E-E-A-T checklist in Part 4.
+### Step 6: Final Compliance Audit
+- [ ] No banned terms used
+- [ ] Website positioning accurately reflected
+- [ ] No fabricated statistics or data
+- [ ] No descriptions of services the website doesn't provide
+- [ ] E-E-A-T checklist completed
 
 ---
 
 ## Part 7: Example Article Outline
 
-### Topic: "Rep Batches Explained: GX vs TOP vs PK vs M4 — Complete Guide"
-**Category**: D (Problem-Solution)
-**Slots**: {{PROBLEM}} = batch confusion, {{SOLUTION}} = batch comparison guide
+### Topic: "Kakobuy Spreadsheet Hoodies 2026: Organized Product Guide"
+**Category**: B (Brand-Specific Guide)
 
 **Module Sequence**:
-1. M1a (Problem Hook): "You found the perfect rep listing, but then you see: 'GX batch' or 'TOP batch.' What does that even mean? And more importantly, which one should you choose?"
-2. M2a (Benefit List): "In this guide, you'll discover: What batches actually are, How GX, TOP, PK, and M4 differ, Which batch is best for specific products, How to avoid batch-related disappointments"
-3. M3a (Concept Explanation): Define what batches are, why they exist, how they affect quality
-4. M4a (Statistics): Present data on batch preferences, quality ratings, price differences
-5. M5c (Checklist): "Before ordering, verify: ¡õ Batch version is listed ¡õ You understand the batch's strengths/weaknesses ¡õ Price matches batch quality tier"
-6. M6b (Multi-Option Matrix): Compare GX, TOP, PK, M4 across 6 criteria (quality, price, availability, best for, etc.)
-7. M7a (Methodology): "This comparison is based on 280+ orders across 4 batch types, with community feedback from 1,200+ buyers..."
-8. M8a (FAQ): Answer 5 common batch questions
-9. M9a (Direct Link): "Access our batch-verified product spreadsheet: [Link]"
-10. M10b (Final Recommendation): "For most buyers, GX batch offers the best balance of quality and price. However, if you're ordering [specific product], TOP batch is worth the premium..."
+1. M1b (Category Overview): "The hoodie listings on Kakobuy Spreadsheet span multiple styles, from pullover classics to zip-up designs — all organized in one browsable directory..."
+2. M2b (Navigation Guide): "The hoodie category is organized by style type, price range, and brand inspiration. Here's how to find what you're looking for..."
+3. M3c (Comparison Framework): "When comparing hoodie options, consider: material description, style type, price range, and available color options..."
+4. M4b (Product Spotlight): "Among the hoodie listings, pullover styles range from $18-$35, featuring various material descriptions and design details..."
+5. M6a (Head-to-Head): "Pullover vs Zip-Up Hoodies: comparing style, versatility, and price ranges..."
+6. M7b (Limitations): "Product information is compiled for reference. Prices and availability may change. Check the spreadsheet for current listings."
+7. M8a (FAQ): Answer 4 common questions about hoodie selection
+8. M9b (Next Step): "After exploring hoodies, check out our organized sweatpants collection..."
+9. M10a (Key Points): Summarize key takeaways
 
-**Word Count**: ~3,200 words
-**Tone**: Educational, practical, empathetic to confusion
+**Word Count**: ~2,500 words
+**Tone**: Informative, detailed, product-focused
 
 ---
 
 ## Part 8: Quality Metrics
 
 ### Article Success Criteria
-- **Readability**: Flesch-Kincaid grade level 8-10 (accessible but not dumbed down)
-- **Keyword Density**: 2-3% for primary keyword, 1-2% for secondary keywords
-- **E-E-A-T Score**: All 4 elements present and verifiable
-- **Engagement**: At least 3 interactive elements (checklists, tables, quotes)
-- **Actionability**: Reader can take at least 1 concrete action after reading
+- **Readability**: Flesch-Kincaid grade level 8-10
+- **Keyword Density**: 1.5-2.5% for primary keyword
+- **Positioning Accuracy**: 100% — no false claims about website services
+- **Data Accuracy**: All product information traceable to actual spreadsheet
+- **Engagement**: At least 2 interactive elements (tables, checklists, comparison matrices)
 
 ### Anti-Patterns to Avoid
-- ? Generic statements without data ("many buyers say...")
-- ? Absolute claims ("always the best," "never fails")
-- ? Repetitive structure across articles
-- ? Missing E-E-A-T elements
-- ? Overly promotional tone
-- ? Ignoring limitations or variability
+- ❌ Fabricated statistics (order counts, satisfaction rates, pass rates)
+- ❌ False service descriptions (warehouse, QC, shipping, customer support)
+- ❌ Generic statements without substance
+- ❌ Absolute claims ("always the best," "never fails")
+- ❌ Repetitive structure across articles
+- ❌ Overly promotional tone
+- ❌ Describing the website as a shopping agent or store
 
 ---
 
 ## Conclusion
 
-This flexible system replaces rigid templates with **composable modules** that adapt to:
-- Topic category (A-H)
-- Buyer journey stage
-- Audience type
-- Content angle
+This flexible system replaces rigid templates with **composable modules** that adapt to topic category, audience type, and content angle.
 
-By rotating hooks, comparisons, data presentation, and conclusions, we avoid the homogeneity that comes from fixed templates while maintaining E-E-A-T compliance across all content.
-
-The key is **intentional variation**: each article should feel fresh while still delivering the expertise, experience, authority, and trustworthiness that readers expect.
+The key principles:
+1. **Accurate positioning**: The website is a product directory, not a store
+2. **No fabricated data**: Only use verifiable product information
+3. **Intentional variation**: Each article should feel fresh and unique
+4. **User-focused**: Help users discover and research products effectively

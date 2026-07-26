@@ -5,7 +5,7 @@
       <div class="hero-inner">
         <h1 class="hero-title">Your Independent Kakobuy Spreadsheet Resource Hub</h1>
         <p class="hero-subtitle">Product Guides, Category Breakdowns & Buying Tips — All in One Place</p>
-        <p class="hero-desc">Navigate the Kakobuy Spreadsheet platform with confidence. We organize product information, sizing guides, quality checks, and purchasing resources so you can make informed decisions without searching through scattered forums.</p>
+        <p class="hero-desc">Explore the Kakobuy Spreadsheet directory with confidence. We organize product information, sizing guides, product details, and shopping resources so you can make informed decisions without searching through scattered forums.</p>
         <!-- Category Buttons -->
         <div class="hero-buttons">
           <a
@@ -37,7 +37,7 @@
           <div class="intro-card">
             <div class="intro-icon"></div>
             <h3>Kakobuy Spreadsheet Guide</h3>
-            <p>Step-by-step resources for navigating the platform — from <a href="/Kakobuy-for-beginners/">getting started</a> to <a href="/Kakobuy-how-to-use/">placing your first order</a> and understanding <a href="/Kakobuy-shipping-guide/">shipping options</a>.</p>
+            <p>Step-by-step resources for navigating the directory — from <a href="/Kakobuy-for-beginners/">getting started</a> to <a href="/Kakobuy-how-to-use/">browsing your first category</a> and understanding <a href="/Kakobuy-shipping-guide/">product research tips</a>.</p>
           </div>
           <div class="intro-card">
             <div class="intro-icon">📋</div>
@@ -47,7 +47,7 @@
           <div class="intro-card">
             <div class="intro-icon">🔍</div>
             <h3>Quality Resources</h3>
-            <p>Learn how to evaluate products using <a href="/Kakobuy-qc-photos/">QC photo inspection</a>, <a href="/Kakobuy-legit-check/">legit check steps</a>, and <a href="/Kakobuy-reviews/">community feedback</a> before committing to a purchase.</p>
+            <p>Learn how to evaluate products using <a href="/Kakobuy-qc-photos/">product information guides</a>, <a href="/Kakobuy-legit-check/">research steps</a>, and <a href="/Kakobuy-reviews/">community feedback</a> before making your decision.</p>
           </div>
           <div class="intro-card">
             <div class="intro-icon">📂</div>
@@ -60,6 +60,39 @@
             Kakobuylinki.com is an independently maintained resource site. We organize product information, buying guides, and platform tutorials in one place — 
             so you spend less time searching through forums and more time finding what you actually need.
           </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="how-it-works">
+      <div class="container">
+        <h2 class="section-title">How Kakobuy Spreadsheet Works</h2>
+        <p class="section-desc">Kakobuy Spreadsheet is a curated product directory that organizes product information from various sources into easy-to-browse categories. Here is how the directory helps you discover products and make informed decisions.</p>
+        <div class="steps-grid">
+          <div class="step-card">
+            <div class="step-number">1</div>
+            <h3>Browse Organized Categories</h3>
+            <p>Explore product listings organized by brand, type, and style. The directory covers sneakers, apparel, accessories, bags, watches, and more — each category curated with detailed product information including pricing references, material descriptions, and design specifications.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">2</div>
+            <h3>Compare Product Details</h3>
+            <p>Each product listing includes standardized information: pricing references, available sizes, material composition, and design features. Compare products side by side within categories to identify options that match your preferences and budget.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">3</div>
+            <h3>Access Shopping Resources</h3>
+            <p>The directory links to external shopping resources, sizing guides, and product research tools. Use the comprehensive guides — from <a href="/Kakobuy-sizing-guide/">sizing references</a> to <a href="/Kakobuy-legit-check/">product verification tips</a> — to support your research process before making decisions.</p>
+          </div>
+          <div class="step-card">
+            <div class="step-number">4</div>
+            <h3>Make Informed Decisions</h3>
+            <p>With organized product information, detailed category guides, and comprehensive shopping resources all in one place, you can research products efficiently without jumping between scattered forums and unreliable sources.</p>
+          </div>
+        </div>
+        <div class="how-cta">
+          <p>Kakobuy Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves solely as an information resource to support product discovery and research. Users browse organized listings and access external resources for purchasing independently.</p>
         </div>
       </div>
     </section>
@@ -79,6 +112,152 @@
             <h3>{{ cat.name }}</h3>
             <p>{{ cat.description }}</p>
           </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Popular Brands Overview -->
+    <section class="brands-overview">
+      <div class="container">
+        <h2 class="section-title">Popular Brands in the Directory</h2>
+        <p class="section-desc">The Kakobuy Spreadsheet directory features comprehensive product information for major fashion and streetwear brands. Each brand page includes organized product listings, pricing references, material details, and design specifications to help you research options effectively.</p>
+        <div class="brands-grid">
+          <div class="brand-card">
+            <h3>Nike</h3>
+            <p>The Nike collection spans iconic silhouettes from the classic Air Force 1 to modern Air Max designs. Product listings include pricing references from $12.86 for AF1 Low to $95.93 for Air Max 97, with detailed material information and design specifications for each model.</p>
+            <a href="/Kakobuy-nike/" class="brand-link">Explore Nike Guide →</a>
+          </div>
+          <div class="brand-card">
+            <h3>Jordan</h3>
+            <p>The Jordan directory covers five major silhouettes: Jordan 1 Low, Jordan 3, Jordan 4, Jordan 5, and Jordan 11. Each listing includes pricing references, material composition, and design heritage information. Apparel options like Jordan Hoodies and Shorts are also organized with detailed specifications.</p>
+            <a href="/Kakobuy-jordan/" class="brand-link">Explore Jordan Guide →</a>
+          </div>
+          <div class="brand-card">
+            <h3>Adidas</h3>
+            <p>Adidas products range from classic Superstar and Stan Smith to modern Ultraboost and NMD designs. The directory organizes pricing references from $17.31 for tracksuits to $38.50 for Ultraboost, with material details covering Boost cushioning, Primeknit uppers, and Continental rubber outsoles.</p>
+            <a href="/Kakobuy-adidas/" class="brand-link">Explore Adidas Guide →</a>
+          </div>
+          <div class="brand-card">
+            <h3>Streetwear Brands</h3>
+            <p>Beyond major sportswear, the directory includes streetwear favorites like Chrome Hearts, Essentials, Trapstar, Stussy, and Supreme. Each brand page provides organized product information, pricing references, and style guidance for users researching contemporary streetwear options.</p>
+            <a href="/Kakobuy-streetwear/" class="brand-link">Explore Streetwear →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How to Use the Directory -->
+    <section class="how-to-use">
+      <div class="container">
+        <h2 class="section-title">How to Use the Product Directory</h2>
+        <p class="section-desc">Getting started with Kakobuy Spreadsheet is straightforward. Follow these steps to navigate the directory effectively and find the product information you need.</p>
+        <div class="usage-steps">
+          <div class="usage-step">
+            <div class="step-icon">📋</div>
+            <div class="step-content">
+              <h3>Access the Spreadsheet</h3>
+              <p>Click the "Access Kakobuy Spreadsheet" button at the top of any page to open the main directory. The spreadsheet is organized by category, with products listed in appropriate sections. You can browse by brand, product type, or price range.</p>
+            </div>
+          </div>
+          <div class="usage-step">
+            <div class="step-icon">🔍</div>
+            <div class="step-content">
+              <h3>Browse Product Categories</h3>
+              <p>Explore organized categories including sneakers, hoodies, t-shirts, bags, accessories, and more. Each category page provides an overview of available products with pricing references and key specifications. Use the category navigation to drill down into specific product types.</p>
+            </div>
+          </div>
+          <div class="usage-step">
+            <div class="step-icon">📊</div>
+            <div class="step-content">
+              <h3>Compare Product Information</h3>
+              <p>Each product listing includes standardized details: pricing references, material composition, available sizes, and design features. Compare products within categories to identify options that match your preferences. The spreadsheet format makes side-by-side comparison straightforward.</p>
+            </div>
+          </div>
+          <div class="usage-step">
+            <div class="step-icon">📏</div>
+            <div class="step-content">
+              <h3>Check Sizing Resources</h3>
+              <p>Before researching any product, consult the <a href="/Kakobuy-sizing-guide/">sizing guide</a> for detailed measurements and fit recommendations. Different brands and models fit differently, and understanding sizing helps you make more informed decisions about which products to explore.</p>
+            </div>
+          </div>
+          <div class="usage-step">
+            <div class="step-icon">🔗</div>
+            <div class="step-content">
+              <h3>Access External Resources</h3>
+              <p>The directory links to external shopping resources and product information. Use these links to explore products further, check current availability, and access additional details. The spreadsheet serves as your research hub, connecting you to the information you need.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trust & Transparency -->
+    <section class="trust-section">
+      <div class="container">
+        <h2 class="section-title">Trust & Transparency</h2>
+        <div class="trust-content">
+          <div class="trust-intro">
+            <p>Kakobuylinki.com is an independently maintained resource site that organizes product information for user research. We believe in complete transparency about what this directory is and what it does.</p>
+          </div>
+          <div class="trust-grid">
+            <div class="trust-card">
+              <h3>What We Do</h3>
+              <ul>
+                <li>Organize product information into accessible categories</li>
+                <li>Provide pricing references and product specifications</li>
+                <li>Create comprehensive shopping guides and resources</li>
+                <li>Help users discover products through organized information</li>
+                <li>Link to external shopping resources for independent research</li>
+              </ul>
+            </div>
+            <div class="trust-card">
+              <h3>What We Don't Do</h3>
+              <ul>
+                <li>Process payments or handle transactions</li>
+                <li>Manage orders or handle shipping</li>
+                <li>Inspect products or operate warehouses</li>
+                <li>Sell products directly to consumers</li>
+                <li>Provide customer support for purchases</li>
+              </ul>
+            </div>
+          </div>
+          <div class="trust-cta">
+            <p>Our mission is to help users navigate product information efficiently. By organizing product listings from various sources into one comprehensive directory, we save you time and provide a centralized resource for product research. All purchasing decisions and transactions happen independently through external resources.</p>
+            <p>For more information about our approach and methodology, visit our <a href="/about/">About page</a> or read our <a href="/is-Kakobuy-legit/">transparency report</a>.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section">
+      <div class="container">
+        <h2 class="section-title">Frequently Asked Questions</h2>
+        <div class="faq-grid">
+          <div class="faq-item">
+            <h3>What is Kakobuy Spreadsheet?</h3>
+            <p>Kakobuy Spreadsheet is a curated product directory that organizes product information from various sources into easy-to-browse categories. The platform helps users discover products through organized categories, detailed product information, and comprehensive shopping resources. It does not process payments, handle shipping, or manage orders.</p>
+          </div>
+          <div class="faq-item">
+            <h3>How do I browse the product directory?</h3>
+            <p>Click the "Access Kakobuy Spreadsheet" button at the top of any page to open the main directory. You can browse by category (sneakers, hoodies, bags, etc.), by brand (Nike, Jordan, Adidas, etc.), or use the search function to find specific products. Each listing includes pricing references, material details, and design specifications.</p>
+          </div>
+          <div class="faq-item">
+            <h3>What information does each product listing include?</h3>
+            <p>Each product listing includes pricing references, material composition, available sizes, design features, and links to external resources. The standardized format makes it easy to compare products within categories and identify options that match your preferences and budget.</p>
+          </div>
+          <div class="faq-item">
+            <h3>How do I find sizing information?</h3>
+            <p>The <a href="/Kakobuy-sizing-guide/">sizing guide</a> provides detailed measurements and fit recommendations for popular brands and models. Different brands fit differently, so consult the sizing resources before researching products. The guide covers sneakers, clothing, and accessories with brand-specific recommendations.</p>
+          </div>
+          <div class="faq-item">
+            <h3>Is this website affiliated with the brands listed?</h3>
+            <p>No. Kakobuylinki.com is an independent resource site that organizes product information for user research. We are not affiliated with, endorsed by, or sponsored by any of the brands listed in the directory. All brand names and trademarks are property of their respective owners.</p>
+          </div>
+          <div class="faq-item">
+            <h3>How often is the directory updated?</h3>
+            <p>The product directory is regularly maintained and updated with new product information, pricing references, and category additions. Our team reviews listings to ensure accuracy and completeness, though users should verify current availability through external resources.</p>
+          </div>
         </div>
       </div>
     </section>
@@ -166,7 +345,7 @@
           <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="quick-link-card">
             <div class="ql-icon">&#128203;</div>
             <h3>Product Spreadsheet</h3>
-            <p>Browse the full product catalog with prices, links, and QC photos.</p>
+            <p>Browse the full product catalog with prices, links, and product details.</p>
           </a>
           <a href="/blog" class="quick-link-card">
             <div class="ql-icon">&#128218;</div>
@@ -611,6 +790,375 @@ const links = siteConfig.links
   color: #666;
   line-height: 1.6;
   margin: 0;
+}
+
+/* Section Description */
+.section-desc {
+  text-align: center;
+  font-size: 16px;
+  color: #555;
+  line-height: 1.8;
+  max-width: 780px;
+  margin: -24px auto 40px;
+}
+
+/* How It Works */
+.how-it-works {
+  padding: 64px 0;
+  background: #f8f9fa;
+}
+
+.steps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.step-card {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 28px 22px;
+  text-align: center;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.step-card:hover {
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+  transform: translateY(-4px);
+  border-color: #d4af37;
+}
+
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: linear-gradient(135deg, #1a1a2e, #0f3460);
+  color: #d4af37;
+  border-radius: 50%;
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.step-card h3 {
+  font-size: 17px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+}
+
+.step-card p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+}
+
+.step-card a {
+  color: #8b0000;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.step-card a:hover {
+  color: #d4af37;
+  text-decoration: underline;
+}
+
+.how-cta {
+  background: linear-gradient(135deg, #fff8f0 0%, #f8f9fa 100%);
+  border: 1px solid #e8e0d8;
+  border-radius: 16px;
+  padding: 24px 28px;
+  text-align: center;
+}
+
+.how-cta p {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.8;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+/* Brands Overview */
+.brands-overview {
+  padding: 64px 0;
+  background: #fff;
+}
+
+.brands-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px;
+}
+
+.brand-card {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 28px 22px;
+  transition: all 0.3s ease;
+}
+
+.brand-card:hover {
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
+  transform: translateY(-4px);
+  border-color: #d4af37;
+}
+
+.brand-card h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 12px;
+}
+
+.brand-card p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+.brand-link {
+  font-size: 14px;
+  color: #8b0000;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.brand-link:hover {
+  color: #d4af37;
+}
+
+/* How to Use */
+.how-to-use {
+  padding: 64px 0;
+  background: #f8f9fa;
+}
+
+.usage-steps {
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.usage-step {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 24px 22px;
+  margin-bottom: 16px;
+  transition: all 0.3s ease;
+}
+
+.usage-step:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+  border-color: #d4af37;
+}
+
+.step-icon {
+  font-size: 32px;
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fafafa;
+  border-radius: 12px;
+}
+
+.step-content h3 {
+  font-size: 17px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.step-content p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.step-content a {
+  color: #8b0000;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.step-content a:hover {
+  color: #d4af37;
+  text-decoration: underline;
+}
+
+/* Trust Section */
+.trust-section {
+  padding: 64px 0;
+  background: #fff;
+}
+
+.trust-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.trust-intro {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.trust-intro p {
+  font-size: 16px;
+  color: #444;
+  line-height: 1.8;
+}
+
+.trust-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.trust-card {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 28px 24px;
+}
+
+.trust-card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #d4af37;
+}
+
+.trust-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.trust-card ul li {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  padding: 6px 0;
+  padding-left: 20px;
+  position: relative;
+}
+
+.trust-card ul li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 12px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.trust-card:first-child ul li::before {
+  background: #28a745;
+}
+
+.trust-card:last-child ul li::before {
+  background: #dc3545;
+}
+
+.trust-cta {
+  background: linear-gradient(135deg, #f8f9fa 0%, #fff8f0 100%);
+  border: 1px solid #e8e0d8;
+  border-radius: 16px;
+  padding: 28px 24px;
+  text-align: center;
+}
+
+.trust-cta p {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+
+.trust-cta p:last-child {
+  margin-bottom: 0;
+}
+
+.trust-cta a {
+  color: #8b0000;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.trust-cta a:hover {
+  color: #d4af37;
+  text-decoration: underline;
+}
+
+/* FAQ Section */
+.faq-section {
+  padding: 64px 0;
+  background: #f8f9fa;
+}
+
+.faq-grid {
+  max-width: 800px;
+  margin: 0 auto;
+  display: grid;
+  gap: 16px;
+}
+
+.faq-item {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  padding: 24px 22px;
+  transition: all 0.3s ease;
+}
+
+.faq-item:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+  border-color: #d4af37;
+}
+
+.faq-item h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 10px;
+}
+
+.faq-item p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.faq-item a {
+  color: #8b0000;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.faq-item a:hover {
+  color: #d4af37;
+  text-decoration: underline;
 }
 
 @media (max-width: 768px) {
