@@ -2956,7 +2956,7 @@ const articleSeries = [
     ]
   },
   {
-    "name": "Kakobuy Linki 关键词矩阵系列",
+    "name": "Kakobuy Linki Keyword Matrix Series",
     "articles": [
       {
         "title": "Kakobuy Linki Nike vs Adidas: Complete Brand Comparison Guide 2026",
