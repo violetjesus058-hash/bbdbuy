@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 title: "Kakobuy Linki Sneakers Deals 2026: Discount Resources & Pricing Guide"
 description: "Explore sneaker deals and discount resources on Kakobuy Linki. Discover pricing references, value assessments, and shopping resources for affordable sneakers in 2026."

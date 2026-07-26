@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Nike Dunk vs Air Force 1: Complete Comparison Guide 2026"
 description: "Compare Nike Dunk and Air Force 1 on Kakobuy Linki. Explore design differences, pricing, sizing, and styling to choose the right Nike silhouette."
 ---
@@ -95,7 +95,7 @@ Understanding pricing differences helps users make informed decisions.
 
 ## Sizing and Fit Comparison
 
-Both silhouettes fit differently. Consult the [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/) for precise measurements.
+Both silhouettes fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for precise measurements.
 
 ### Nike Dunk Fit
 
@@ -272,10 +272,10 @@ A: Consult the Kakobuy Linki Sizing Guide for detailed measurements. Remember th
 
 ## Related Resources
 
-- [Kakobuy Linki Nike Guide](/kakobuy-linki-nike-guide/)
-- [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/kakobuy-linki-sneakers/)
-- [Kakobuy Linki Product Directory](/kakobuy-linki-spreadsheet/)
+- [Kakobuy Linki Nike Guide](/Kakobuy-nike/)
+- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
 
 ---
 

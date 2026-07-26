@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Supreme vs Off-White: Hype Streetwear Comparison 2026"
 description: "Compare Supreme and Off-White on Kakobuy Linki. Explore design philosophy, pricing, cultural impact, and styling differences between hype streetwear giants."
 ---
@@ -269,10 +269,10 @@ A: Yes, but carefully. Both work in streetwear contexts but have different aesth
 
 ## Related Resources
 
-- [Kakobuy Linki Streetwear Guide](/kakobuy-linki-streetwear/)
-- [Kakobuy Linki Hoodies Collection](/kakobuy-linki-hoodies/)
-- [Kakobuy Linki T-Shirts Collection](/kakobuy-linki-t-shirts/)
-- [Kakobuy Linki Product Directory](/kakobuy-linki-spreadsheet/)
+- [Kakobuy Linki Streetwear Guide](/Kakobuy-streetwear/)
+- [Kakobuy Linki Hoodies Collection](/Kakobuy-hoodies/)
+- [Kakobuy Linki T-Shirts Collection](/Kakobuy-t-shirts/)
+- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
 
 ---
 

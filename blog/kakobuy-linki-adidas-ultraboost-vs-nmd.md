@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Adidas Ultraboost vs NMD: Performance vs Lifestyle Comparison 2026"
 description: "Compare Adidas Ultraboost and NMD on Kakobuy Linki. Explore Boost technology, comfort, styling, and pricing differences for informed decisions."
 ---
@@ -137,7 +137,7 @@ Understanding pricing differences helps users make informed decisions.
 
 ## Sizing and Fit Comparison
 
-Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/) for precise measurements.
+Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for precise measurements.
 
 ### Ultraboost Fit
 
@@ -261,10 +261,10 @@ A: Consult the Kakobuy Linki Sizing Guide for detailed measurements. Ultraboost 
 
 ## Related Resources
 
-- [Kakobuy Linki Adidas Guide](/kakobuy-linki-adidas-guide/)
-- [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/kakobuy-linki-sneakers/)
-- [Kakobuy Linki Product Directory](/kakobuy-linki-spreadsheet/)
+- [Kakobuy Linki Adidas Guide](/Kakobuy-adidas/)
+- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
 
 ---
 

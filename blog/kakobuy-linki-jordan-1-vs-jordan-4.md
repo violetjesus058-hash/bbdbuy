@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Jordan 1 vs Jordan 4: Detailed Silhouette Comparison 2026"
 description: "Compare Jordan 1 and Jordan 4 on Kakobuy Linki. Explore design differences, pricing, sizing, and style characteristics to choose the right silhouette."
 ---
@@ -94,7 +94,7 @@ Understanding pricing differences helps users make informed decisions when brows
 
 ## Sizing and Fit Comparison
 
-Both silhouettes share Jordan lineage but fit differently. Consult the [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/) for detailed measurements.
+Both silhouettes share Jordan lineage but fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
 
 ### Jordan 1 Fit Characteristics
 
@@ -253,10 +253,10 @@ A: Each product listing on Kakobuy Linki includes detailed specifications, prici
 
 ## Related Resources
 
-- [Kakobuy Linki Jordan Guide](/kakobuy-linki-jordan-guide/)
-- [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/kakobuy-linki-sneakers/)
-- [Kakobuy Linki Product Directory](/kakobuy-linki-spreadsheet/)
+- [Kakobuy Linki Jordan Guide](/Kakobuy-jordan/)
+- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
 
 ---
 

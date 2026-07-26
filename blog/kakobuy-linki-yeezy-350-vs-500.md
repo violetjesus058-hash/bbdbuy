@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Yeezy 350 vs Yeezy 500: Silhouette Comparison Guide 2026"
 description: "Compare Yeezy Boost 350 and Yeezy 500 on Kakobuy Linki. Explore design differences, Boost technology, sizing, and styling for informed decisions."
 ---
@@ -137,7 +137,7 @@ Understanding pricing differences helps users make informed decisions.
 
 ## Sizing and Fit Comparison
 
-Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/) for precise measurements.
+Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for precise measurements.
 
 ### Yeezy 350 Fit
 
@@ -309,10 +309,10 @@ A: Yeezy 350 generally holds value better due to higher demand and iconic status
 
 ## Related Resources
 
-- [Kakobuy Linki Yeezy Guide](/kakobuy-linki-yeezy-guide/)
-- [Kakobuy Linki Sizing Guide](/kakobuy-linki-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/kakobuy-linki-sneakers/)
-- [Kakobuy Linki Product Directory](/kakobuy-linki-spreadsheet/)
+- [Kakobuy Linki Yeezy Guide](/Kakobuy-adidas/)
+- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
 
 ---
 

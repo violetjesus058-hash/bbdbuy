@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 title: "Kakobuy Linki New Sneakers 2026: Latest Footwear Additions Directory"
 description: "Explore the latest sneaker additions on Kakobuy Linki. Discover new sneaker releases, pricing references, product information, and shopping resources for informed decisions in 2026."

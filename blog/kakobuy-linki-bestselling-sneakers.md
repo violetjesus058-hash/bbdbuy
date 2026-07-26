@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 title: "Kakobuy Linki Best-Selling Sneakers 2026: Popular Footwear Directory"
 description: "Explore the best-selling sneakers on Kakobuy Linki. Discover popular sneaker models, pricing references, product information, and shopping resources for informed decisions in 2026."

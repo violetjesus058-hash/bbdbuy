@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 title: "Kakobuy Linki Air Force 1 Review 2026: Complete Product Analysis"
 description: "Read the comprehensive Air Force 1 review on Kakobuy Linki. Discover detailed product analysis, pricing references, material quality, sizing information, and styling resources for informed decisions in 2026."

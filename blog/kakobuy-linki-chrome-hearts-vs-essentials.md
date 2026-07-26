@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Chrome Hearts vs Essentials: Luxury vs Minimalist Streetwear 2026"
 description: "Compare Chrome Hearts and Essentials on Kakobuy Linki. Explore design philosophy, pricing, materials, and styling differences between luxury and minimalist streetwear."
 ---
@@ -269,10 +269,10 @@ A: Each product listing on Kakobuy Linki includes detailed specifications, prici
 
 ## Related Resources
 
-- [Kakobuy Linki Streetwear Guide](/kakobuy-linki-streetwear/)
-- [Kakobuy Linki Hoodies Collection](/kakobuy-linki-hoodies/)
-- [Kakobuy Linki T-Shirts Collection](/kakobuy-linki-t-shirts/)
-- [Kakobuy Linki Product Directory](/kakobuy-linki-spreadsheet/)
+- [Kakobuy Linki Streetwear Guide](/Kakobuy-streetwear/)
+- [Kakobuy Linki Hoodies Collection](/Kakobuy-hoodies/)
+- [Kakobuy Linki T-Shirts Collection](/Kakobuy-t-shirts/)
+- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
 
 ---
 

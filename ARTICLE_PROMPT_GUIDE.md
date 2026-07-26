@@ -355,7 +355,7 @@ Explore the [topic] guide on Kakobuy Spreadsheet. Discover organized [topic] ref
 | 分类链接 | [shoes category](/shoes) | 分类页面 |
 | 指南链接 | [Kakobuy sizing guide](/Kakobuy-sizing-guide/) | 功能指南 |
 | 资源链接 | [Kakobuy for beginners](/Kakobuy-for-beginners/) | 入门指南 |
-| 电子表格 | [Kakobuy Spreadsheet](spreadsheet-url) | 外部链接 |
+| 电子表格 | Kakobuy Spreadsheet (外部链接) | 外部链接 |
 
 **内链位置：**
 - Introduction 部分：1-2 个相关分类/品牌链接
