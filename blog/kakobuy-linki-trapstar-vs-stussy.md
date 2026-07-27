@@ -1,9 +1,11 @@
-﻿---
+---
 title: "Kakobuy Linki Trapstar vs Stussy: Streetwear Brand Comparison 2026"
 description: "Compare Trapstar and Stussy streetwear on Kakobuy Linki. Explore design aesthetics, pricing, materials, and cultural significance for informed choices."
 ---
 
 # Kakobuy Linki Trapstar vs Stussy: Streetwear Brand Comparison 2026
+
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 Explore the detailed comparison between two influential streetwear brands available through Kakobuy Linki. This guide helps users understand the key differences in design philosophy, pricing, materials, and cultural significance between Trapstar and Stussy.
 

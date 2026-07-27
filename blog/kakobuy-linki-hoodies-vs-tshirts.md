@@ -1,9 +1,11 @@
-﻿---
+---
 title: "Kakobuy Linki Hoodies vs T-Shirts: Streetwear Essentials Comparison 2026"
 description: "Compare hoodies and t-shirts on Kakobuy Linki. Explore styling, versatility, pricing, and use cases for these streetwear essentials."
 ---
 
 # Kakobuy Linki Hoodies vs T-Shirts: Streetwear Essentials Comparison 2026
+
+<a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 Explore the detailed comparison between two streetwear essentials available through Kakobuy Linki. This guide helps users understand the key differences in styling, versatility, pricing, and use cases between hoodies and t-shirts.
 
