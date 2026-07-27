@@ -291,11 +291,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these clothing-specific resources:
 
-- [Kakobuy Hoodies Guide](/Kakobuy-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
-- [Kakobuy T-Shirts Guide](/Kakobuy-t-shirts/) — T-shirt materials, fit options, and quality indicators
-- [Kakobuy Streetwear Guide](/Kakobuy-streetwear/) — Streetwear brands, styling tips, and trend analysis
-- [Kakobuy QC Photos](/Kakobuy-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [Kakobuy Sizing Tips](/Kakobuy-sizing-tips/) — Universal sizing guide for shoes and apparel
+- [Kakobuy Hoodies Guide](/blog/kakobuy-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
+- [Kakobuy T-Shirts Guide](/blog/kakobuy-t-shirts/) — T-shirt materials, fit options, and quality indicators
+- [Kakobuy Streetwear Guide](/blog/kakobuy-streetwear/) — Streetwear brands, styling tips, and trend analysis
+- [Kakobuy QC Photos](/blog/kakobuy-qc-photos/) — How to inspect clothing quality using pre-shipment photos
+- [Kakobuy Sizing Tips](/blog//kakobuy-sizing-tips/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 

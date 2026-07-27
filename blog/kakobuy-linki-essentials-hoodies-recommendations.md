@@ -175,7 +175,7 @@ Essentials hoodies generally fit relaxed, but consider:
 - Verify shoulder and sleeve fit
 - Consult size charts carefully
 
-Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
+Always consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -277,7 +277,7 @@ Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for deta
 
 ## Where to Find Essentials Hoodies on Kakobuy Linki
 
-Browse our curated Essentials collection through the [Kakobuy Linki Spreadsheet](/Kakobuy-complete-guide/), where you'll find:
+Browse our curated Essentials collection through the [Kakobuy Linki Spreadsheet](/blog/kakobuy-complete-guide/), where you'll find:
 
 - Detailed product information
 - Multiple style options
@@ -287,10 +287,10 @@ Browse our curated Essentials collection through the [Kakobuy Linki Spreadsheet]
 
 ## Related Resources
 
-- [Kakobuy Linki Streetwear Guide](/Kakobuy-streetwear/) - Complete streetwear overview
-- [Kakobuy Linki Hoodies Collection](/Kakobuy-hoodies/) - All hoodie options
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) - Detailed sizing information
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/) - Full product spreadsheet
+- [Kakobuy Linki Streetwear Guide](/blog/kakobuy-streetwear/) - Complete streetwear overview
+- [Kakobuy Linki Hoodies Collection](/blog/kakobuy-hoodies/) - All hoodie options
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) - Detailed sizing information
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/) - Full product spreadsheet
 
 ## Final Thoughts
 

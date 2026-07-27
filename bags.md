@@ -38,13 +38,13 @@ faq:
     answer: "Consider what you carry daily. For laptops, check compartment dimensions against your device. For travel, verify airline carry-on size limits. For everyday use, medium-sized bags (12-15L capacity) work for most people. Always check product dimensions, not just photos."
 relatedArticles:
   - title: "Kakobuy Spreadsheet Bags Guide — Backpacks, Handbags & Travel Bags"
-    link: /Kakobuy-bags/
+    link: /blog/kakobuy-bags/
     desc: Complete buying guide for bags on Kakobuy Spreadsheet
   - title: "Kakobuy Spreadsheet QC Photos — How to Check Product Quality"
-    link: /Kakobuy-qc-photos/
+    link: /blog/kakobuy-qc-photos/
     desc: Learn to inspect bags using quality control photos
   - title: "Kakobuy Spreadsheet — Product Database"
-    link: /Kakobuy-spreadsheet/
+    link: /blog//kakobuy-spreadsheet/
     desc: Browse bag listings with prices and batch info
 ---
 

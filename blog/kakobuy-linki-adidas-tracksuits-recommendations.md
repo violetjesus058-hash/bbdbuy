@@ -179,7 +179,7 @@ Adidas tracksuits generally fit true to size, but consider:
 - Consider waist fit
 - Verify leg opening
 
-Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
+Always consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -239,7 +239,7 @@ Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for deta
 
 ## Where to Find Adidas Tracksuits on Kakobuy Linki
 
-Browse our curated Adidas collection through the [Kakobuy Linki Spreadsheet](/Kakobuy-complete-guide/), where you'll find:
+Browse our curated Adidas collection through the [Kakobuy Linki Spreadsheet](/blog/kakobuy-complete-guide/), where you'll find:
 
 - Detailed product information
 - Multiple style options
@@ -249,10 +249,10 @@ Browse our curated Adidas collection through the [Kakobuy Linki Spreadsheet](/Ka
 
 ## Related Resources
 
-- [Kakobuy Linki Adidas Guide](/Kakobuy-adidas/) - Complete brand overview
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) - Detailed sizing information
-- [Kakobuy Linki Apparel Collection](/Kakobuy-hoodies/) - All clothing options
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/) - Full product spreadsheet
+- [Kakobuy Linki Adidas Guide](/blog/kakobuy-adidas/) - Complete brand overview
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) - Detailed sizing information
+- [Kakobuy Linki Apparel Collection](/blog/kakobuy-hoodies/) - All clothing options
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/) - Full product spreadsheet
 
 ## Final Thoughts
 

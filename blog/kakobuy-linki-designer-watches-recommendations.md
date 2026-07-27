@@ -181,7 +181,7 @@ Designer watches come in various sizes to suit different wrists:
 - **Leather Strap**: Dressier, more classic
 - **Rubber Strap**: Sporty, casual appeal
 
-Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
+Always consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -283,7 +283,7 @@ Designer watches often maintain or appreciate in value:
 
 ## Where to Find Designer Watches on Kakobuy Linki
 
-Browse our curated designer watch collection through the [Kakobuy Linki Spreadsheet](/Kakobuy-complete-guide/), where you'll find:
+Browse our curated designer watch collection through the [Kakobuy Linki Spreadsheet](/blog/kakobuy-complete-guide/), where you'll find:
 
 - Detailed product information
 - Multiple brand and model options
@@ -293,10 +293,10 @@ Browse our curated designer watch collection through the [Kakobuy Linki Spreadsh
 
 ## Related Resources
 
-- [Kakobuy Linki Luxury Fashion Guide](/Kakobuy-luxury-finds/) - Complete luxury overview
-- [Kakobuy Linki Accessories Collection](/Kakobuy-accessories/) - All accessory options
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) - Detailed sizing information
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/) - Full product spreadsheet
+- [Kakobuy Linki Luxury Fashion Guide](/blog/kakobuy-luxury-finds/) - Complete luxury overview
+- [Kakobuy Linki Accessories Collection](/blog/kakobuy-accessories/) - All accessory options
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) - Detailed sizing information
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/) - Full product spreadsheet
 
 ## Final Thoughts
 

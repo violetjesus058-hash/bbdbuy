@@ -139,7 +139,7 @@ Understanding pricing differences helps users make informed decisions.
 
 ## Sizing and Fit Comparison
 
-Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for precise measurements.
+Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for precise measurements.
 
 ### Ultraboost Fit
 
@@ -263,10 +263,10 @@ A: Consult the Kakobuy Linki Sizing Guide for detailed measurements. Ultraboost 
 
 ## Related Resources
 
-- [Kakobuy Linki Adidas Guide](/Kakobuy-adidas/)
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
+- [Kakobuy Linki Adidas Guide](/blog/kakobuy-adidas/)
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/)
 
 ---
 

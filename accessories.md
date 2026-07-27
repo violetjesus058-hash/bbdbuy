@@ -39,13 +39,13 @@ faq:
     answer: "Start with neutral basics: black or brown leather belt matching your shoes, simple wallet in classic color, versatile sunglasses shape for your face. Add statement pieces gradually. Metal finishes should coordinate (all gold-tone or all silver-tone) for cohesive look."
 relatedArticles:
   - title: "Kakobuy Spreadsheet Accessories Guide — Belts, Wallets, Sunglasses & Jewelry"
-    link: /Kakobuy-accessories/
+    link: /blog/kakobuy-accessories/
     desc: Complete buying guide for accessories on Kakobuy Spreadsheet
   - title: "Kakobuy Spreadsheet QC Photos — How to Check Product Quality"
-    link: /Kakobuy-qc-photos/
+    link: /blog/kakobuy-qc-photos/
     desc: Learn to inspect accessories using quality control photos
   - title: "Kakobuy Spreadsheet Legit Check — Authentication Guide"
-    link: /Kakobuy-legit-check/
+    link: /blog/kakobuy-legit-check/
     desc: Verify accessory authenticity and quality markers
 ---
 

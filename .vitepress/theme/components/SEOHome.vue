@@ -48,7 +48,7 @@
       <div class="container">
         <h2>Shopping Platforms</h2>
         <div class="platform-grid">
-          <a href="/platform" class="platform-card">
+          <a href="/blog/platform" class="platform-card">
             <h3>Kakobuy Spreadsheet</h3>
             <p>Your gateway to Taobao, 1688, Weidian, and JD.</p>
           </a>
@@ -192,8 +192,8 @@
             <h4>Resources</h4>
             <ul>
               <li><a href="/blog/article1">Blog</a></li>
-              <li><a href="/platform">Platform</a></li>
-              <li><a href="/about">About</a></li>
+              <li><a href="/blog/platform">Platform</a></li>
+              <li><a href="/blog/about">About</a></li>
             </ul>
           </div>
           <div class="footer-section">

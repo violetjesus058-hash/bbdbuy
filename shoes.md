@@ -236,14 +236,14 @@ Proper care extends the life of your shoes significantly:
 Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
-- [Kakobuy Sneakers Database](/Kakobuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [Kakobuy Nike Collection](/Kakobuy-nike/) — Complete Nike product ecosystem breakdown across shoes, apparel, and accessories
-- [Kakobuy Jordan Guide](/Kakobuy-jordan/) — Jordan 1 through Jordan 4 batch comparisons and quality insights
+- [Kakobuy Sneakers Database](/blog/kakobuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
+- [Kakobuy Nike Collection](/blog/kakobuy-nike/) — Complete Nike product ecosystem breakdown across shoes, apparel, and accessories
+- [Kakobuy Jordan Guide](/blog/kakobuy-jordan/) — Jordan 1 through Jordan 4 batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
-- [Kakobuy QC Photos Tutorial](/Kakobuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
-- [Kakobuy Sizing Guide](/Kakobuy-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
-- [Kakobuy Legit Check](/Kakobuy-legit-check/) — Authentication markers and quality verification techniques
+- [Kakobuy QC Photos Tutorial](/blog/kakobuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
+- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
+- [Kakobuy Legit Check](/blog/kakobuy-legit-check/) — Authentication markers and quality verification techniques
 
 ## Explore More Categories
 

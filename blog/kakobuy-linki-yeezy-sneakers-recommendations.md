@@ -180,7 +180,7 @@ Yeezy sizing varies by model, so careful consideration is essential:
 - Check width considerations
 - Read user reviews for fit insights
 
-Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
+Always consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -292,7 +292,7 @@ Yeezy sneakers often maintain or appreciate in value:
 
 ## Where to Find Yeezy Sneakers on Kakobuy Linki
 
-Browse our curated Yeezy collection through the [Kakobuy Linki Spreadsheet](/Kakobuy-complete-guide/), where you'll find:
+Browse our curated Yeezy collection through the [Kakobuy Linki Spreadsheet](/blog/kakobuy-complete-guide/), where you'll find:
 
 - Detailed product information
 - Multiple model options
@@ -302,10 +302,10 @@ Browse our curated Yeezy collection through the [Kakobuy Linki Spreadsheet](/Kak
 
 ## Related Resources
 
-- [Kakobuy Linki Yeezy Guide](/Kakobuy-adidas/) - Complete brand overview
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/) - All sneaker options
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) - Detailed sizing information
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/) - Full product spreadsheet
+- [Kakobuy Linki Yeezy Guide](/blog/kakobuy-adidas/) - Complete brand overview
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/) - All sneaker options
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) - Detailed sizing information
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/) - Full product spreadsheet
 
 ## Final Thoughts
 

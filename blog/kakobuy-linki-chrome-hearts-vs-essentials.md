@@ -271,10 +271,10 @@ A: Each product listing on Kakobuy Linki includes detailed specifications, prici
 
 ## Related Resources
 
-- [Kakobuy Linki Streetwear Guide](/Kakobuy-streetwear/)
-- [Kakobuy Linki Hoodies Collection](/Kakobuy-hoodies/)
-- [Kakobuy Linki T-Shirts Collection](/Kakobuy-t-shirts/)
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
+- [Kakobuy Linki Streetwear Guide](/blog/kakobuy-streetwear/)
+- [Kakobuy Linki Hoodies Collection](/blog/kakobuy-hoodies/)
+- [Kakobuy Linki T-Shirts Collection](/blog/kakobuy-t-shirts/)
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/)
 
 ---
 

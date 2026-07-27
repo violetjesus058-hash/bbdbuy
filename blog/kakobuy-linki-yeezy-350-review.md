@@ -22,7 +22,7 @@ The Yeezy 350 review on Kakobuy Linki provides comprehensive product analysis fo
 
 The Adidas Yeezy Boost 350, designed by Kanye West in collaboration with Adidas, has become one of the most recognizable and sought-after sneaker silhouettes in modern fashion. Released in 2015, the Yeezy 350 features distinctive design elements including the Primeknit upper, Boost cushioning, and signature SPLY-350 branding. The spreadsheet directory provides organized product information to help users understand what makes the Yeezy 350 distinctive and how to research options effectively.
 
-Whether you are researching your first pair of Yeezy 350s or exploring specific colorways like Zebra, Beluga, or Turtle Dove, this review consolidates available product information into one comprehensive resource. For broader Adidas research, explore the [Kakobuy Adidas](/Kakobuy-adidas/) brand page for additional product categories and pricing references.
+Whether you are researching your first pair of Yeezy 350s or exploring specific colorways like Zebra, Beluga, or Turtle Dove, this review consolidates available product information into one comprehensive resource. For broader Adidas research, explore the [Kakobuy Adidas](/blog/kakobuy-adidas/) brand page for additional product categories and pricing references.
 
 ## Yeezy 350 Design Analysis
 
@@ -41,7 +41,7 @@ The Yeezy 350 design incorporates several distinctive elements that have contrib
 - **Bred**: All-black colorway with subtle texture variations
 - **Clay**: Earth-toned colorway with clay-colored accents
 
-The spreadsheet directory organizes these colorway options for easy comparison. For detailed material specifications and available options, refer to the [Kakobuy sneakers](/Kakobuy-sneakers/) collection page.
+The spreadsheet directory organizes these colorway options for easy comparison. For detailed material specifications and available options, refer to the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection page.
 
 ## Yeezy 350 Pricing References
 
@@ -63,7 +63,7 @@ Understanding Yeezy 350 pricing helps users make informed decisions when researc
 - High demand for popular colorways
 - Collaborative design with Kanye West
 
-The pricing references in the spreadsheet help users compare options across different Yeezy 350 variants and understand the value proposition of each option. For comparison with other Adidas models, the [Kakobuy Adidas guide](/Kakobuy-adidas/) provides comprehensive pricing information across the Adidas collection.
+The pricing references in the spreadsheet help users compare options across different Yeezy 350 variants and understand the value proposition of each option. For comparison with other Adidas models, the [Kakobuy Adidas guide](/blog/kakobuy-adidas/) provides comprehensive pricing information across the Adidas collection.
 
 ## Yeezy 350 Sizing Information
 
@@ -75,7 +75,7 @@ Proper sizing is crucial for comfortable Yeezy 350 wear. The spreadsheet include
 
 **Break-in Period**: New Yeezy 350s require a moderate break-in period. The Primeknit upper stretches and adapts to foot shape with wear, and comfort improves significantly after the first few wears. Users should expect a break-in period of approximately one week of regular wear. The Boost midsole provides immediate comfort.
 
-**Size Chart Reference**: The spreadsheet includes detailed size charts with insole measurements for popular Yeezy 350 colorways. Users can compare their foot measurements against these charts to determine the optimal size. For comprehensive sizing information across brands, the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) provides detailed measurements and fit recommendations.
+**Size Chart Reference**: The spreadsheet includes detailed size charts with insole measurements for popular Yeezy 350 colorways. Users can compare their foot measurements against these charts to determine the optimal size. For comprehensive sizing information across brands, the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) provides detailed measurements and fit recommendations.
 
 ## Yeezy 350 Styling Resources
 
@@ -99,7 +99,7 @@ The Yeezy 350's versatility and cultural significance make it suitable for vario
 - Athletic socks that complement the colorway
 - Performance-inspired apparel
 
-For more styling ideas and brand-specific resources, explore the [Kakobuy hoodies](/Kakobuy-hoodies/) and [Kakobuy jeans](/Kakobuy-jeans/) pages for complementary product information.
+For more styling ideas and brand-specific resources, explore the [Kakobuy hoodies](/blog/kakobuy-hoodies/) and [Kakobuy jeans](/blog/kakobuy-jeans/) pages for complementary product information.
 
 ## Yeezy 350 Product Quality Assessment
 
@@ -123,7 +123,7 @@ When researching Yeezy 350 product information, understanding quality indicators
 - Storage conditions when not wearing
 - Specific activities and environments where the shoes are worn
 
-For more information on evaluating product quality, the [Kakobuy legit check](/Kakobuy-legit-check/) resource provides guidance on assessing product information.
+For more information on evaluating product quality, the [Kakobuy legit check](/blog/kakobuy-legit-check/) resource provides guidance on assessing product information.
 
 ## FAQ
 
@@ -137,7 +137,7 @@ A: Consider your styling preferences and budget. Popular colorways like Zebra, B
 A: Yes, most users should size up at least half a size from their regular Adidas size. Yeezy 350 V2 tends to run small, particularly in the midfoot and toe box areas. Users with wider feet should consider going up a full size. The spreadsheet includes detailed sizing data and insole measurements for popular colorways.
 
 ### Q4: Where can I find comprehensive Yeezy 350 product information?
-A: The Kakobuy Linki spreadsheet provides organized Yeezy 350 product information including pricing references, material specifications, sizing data, and available colorways. For broader Adidas research, refer to the [Kakobuy Adidas](/Kakobuy-adidas/) brand page and the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) for fit information.
+A: The Kakobuy Linki spreadsheet provides organized Yeezy 350 product information including pricing references, material specifications, sizing data, and available colorways. For broader Adidas research, refer to the [Kakobuy Adidas](/blog/kakobuy-adidas/) brand page and the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) for fit information.
 
 ## Conclusion
 
@@ -145,12 +145,12 @@ The Yeezy 350 review on Kakobuy Linki provides comprehensive product analysis fo
 
 The key to effective Yeezy 350 research lies in using the spreadsheet directory to compare options, review material specifications, check sizing data, and explore styling resources. The organized product information helps users understand what makes the Yeezy 350 distinctive and how to identify options that match their preferences.
 
-For additional Adidas research, explore the [Kakobuy Adidas guide](/Kakobuy-adidas/) for comprehensive brand information, or browse the [Kakobuy sneakers](/Kakobuy-sneakers/) collection to compare footwear options across different brands and models.
+For additional Adidas research, explore the [Kakobuy Adidas guide](/blog/kakobuy-adidas/) for comprehensive brand information, or browse the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection to compare footwear options across different brands and models.
 
 ---
 
 **Related Guides:**
-- [Kakobuy Adidas Guide](/Kakobuy-adidas/)
-- [Kakobuy Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Hoodies](/Kakobuy-hoodies/)
+- [Kakobuy Adidas Guide](/blog/kakobuy-adidas/)
+- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Hoodies](/blog/kakobuy-hoodies/)

@@ -278,10 +278,10 @@ A: Sneakers offer more versatility across casual contexts. Boots are versatile i
 
 ## Related Resources
 
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Linki Boots Collection](/Kakobuy-sneakers/)
-- [Kakobuy Linki Footwear Guide](/Kakobuy-sneakers/)
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Linki Boots Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Linki Footwear Guide](/blog/kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/)
 
 ---
 

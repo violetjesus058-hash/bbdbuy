@@ -96,7 +96,7 @@ Understanding pricing differences helps users make informed decisions when brows
 
 ## Sizing and Fit Comparison
 
-Both silhouettes share Jordan lineage but fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
+Both silhouettes share Jordan lineage but fit differently. Consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements.
 
 ### Jordan 1 Fit Characteristics
 
@@ -255,10 +255,10 @@ A: Each product listing on Kakobuy Linki includes detailed specifications, prici
 
 ## Related Resources
 
-- [Kakobuy Linki Jordan Guide](/Kakobuy-jordan/)
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
+- [Kakobuy Linki Jordan Guide](/blog/kakobuy-jordan/)
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/)
 
 ---
 

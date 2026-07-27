@@ -139,7 +139,7 @@ Understanding pricing differences helps users make informed decisions.
 
 ## Sizing and Fit Comparison
 
-Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for precise measurements.
+Both models fit differently. Consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for precise measurements.
 
 ### Yeezy 350 Fit
 
@@ -311,10 +311,10 @@ A: Yeezy 350 generally holds value better due to higher demand and iconic status
 
 ## Related Resources
 
-- [Kakobuy Linki Yeezy Guide](/Kakobuy-adidas/)
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
+- [Kakobuy Linki Yeezy Guide](/blog/kakobuy-adidas/)
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/)
 
 ---
 

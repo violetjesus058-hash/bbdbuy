@@ -37,17 +37,17 @@
           <div class="intro-card">
             <div class="intro-icon"></div>
             <h3>Kakobuy Spreadsheet Guide</h3>
-            <p>Step-by-step resources for navigating the directory — from <a href="/Kakobuy-for-beginners/">getting started</a> to <a href="/Kakobuy-how-to-use/">browsing your first category</a> and understanding <a href="/Kakobuy-shipping-guide/">product research tips</a>.</p>
+            <p>Step-by-step resources for navigating the directory — from <a href="/blog/kakobuy-for-beginners/">getting started</a> to <a href="/blog/kakobuy-how-to-use/">browsing your first category</a> and understanding <a href="/blog/kakobuy-shipping-guide/">product research tips</a>.</p>
           </div>
           <div class="intro-card">
             <div class="intro-icon">📋</div>
             <h3>Product Database</h3>
-            <p>Browse our <a href="/Kakobuy-spreadsheet/">organized spreadsheet</a> with product listings, pricing details, batch information, and direct links — regularly maintained and easy to search.</p>
+            <p>Browse our <a href="/blog//kakobuy-spreadsheet/">organized spreadsheet</a> with product listings, pricing details, batch information, and direct links — regularly maintained and easy to search.</p>
           </div>
           <div class="intro-card">
             <div class="intro-icon">🔍</div>
             <h3>Quality Resources</h3>
-            <p>Learn how to evaluate products using <a href="/Kakobuy-qc-photos/">product information guides</a>, <a href="/Kakobuy-legit-check/">research steps</a>, and <a href="/Kakobuy-reviews/">community feedback</a> before making your decision.</p>
+            <p>Learn how to evaluate products using <a href="/blog/kakobuy-qc-photos/">product information guides</a>, <a href="/blog/kakobuy-legit-check/">research steps</a>, and <a href="/blog/kakobuy-reviews/">community feedback</a> before making your decision.</p>
           </div>
           <div class="intro-card">
             <div class="intro-icon">📂</div>
@@ -83,7 +83,7 @@
           <div class="step-card">
             <div class="step-number">3</div>
             <h3>Access Shopping Resources</h3>
-            <p>The directory links to external shopping resources, sizing guides, and product research tools. Use the comprehensive guides — from <a href="/Kakobuy-sizing-guide/">sizing references</a> to <a href="/Kakobuy-legit-check/">product verification tips</a> — to support your research process before making decisions.</p>
+            <p>The directory links to external shopping resources, sizing guides, and product research tools. Use the comprehensive guides — from <a href="/blog/kakobuy-sizing-guide/">sizing references</a> to <a href="/blog/kakobuy-legit-check/">product verification tips</a> — to support your research process before making decisions.</p>
           </div>
           <div class="step-card">
             <div class="step-number">4</div>
@@ -125,22 +125,22 @@
           <div class="brand-card">
             <h3>Nike</h3>
             <p>The Nike collection spans iconic silhouettes from the classic Air Force 1 to modern Air Max designs. Product listings include pricing references from $12.86 for AF1 Low to $95.93 for Air Max 97, with detailed material information and design specifications for each model.</p>
-            <a href="/Kakobuy-nike/" class="brand-link">Explore Nike Guide →</a>
+            <a href="/blog/kakobuy-nike/" class="brand-link">Explore Nike Guide →</a>
           </div>
           <div class="brand-card">
             <h3>Jordan</h3>
             <p>The Jordan directory covers five major silhouettes: Jordan 1 Low, Jordan 3, Jordan 4, Jordan 5, and Jordan 11. Each listing includes pricing references, material composition, and design heritage information. Apparel options like Jordan Hoodies and Shorts are also organized with detailed specifications.</p>
-            <a href="/Kakobuy-jordan/" class="brand-link">Explore Jordan Guide →</a>
+            <a href="/blog/kakobuy-jordan/" class="brand-link">Explore Jordan Guide →</a>
           </div>
           <div class="brand-card">
             <h3>Adidas</h3>
             <p>Adidas products range from classic Superstar and Stan Smith to modern Ultraboost and NMD designs. The directory organizes pricing references from $17.31 for tracksuits to $38.50 for Ultraboost, with material details covering Boost cushioning, Primeknit uppers, and Continental rubber outsoles.</p>
-            <a href="/Kakobuy-adidas/" class="brand-link">Explore Adidas Guide →</a>
+            <a href="/blog/kakobuy-adidas/" class="brand-link">Explore Adidas Guide →</a>
           </div>
           <div class="brand-card">
             <h3>Streetwear Brands</h3>
             <p>Beyond major sportswear, the directory includes streetwear favorites like Chrome Hearts, Essentials, Trapstar, Stussy, and Supreme. Each brand page provides organized product information, pricing references, and style guidance for users researching contemporary streetwear options.</p>
-            <a href="/Kakobuy-streetwear/" class="brand-link">Explore Streetwear →</a>
+            <a href="/blog/kakobuy-streetwear/" class="brand-link">Explore Streetwear →</a>
           </div>
         </div>
       </div>
@@ -177,7 +177,7 @@
             <div class="step-icon">📏</div>
             <div class="step-content">
               <h3>Check Sizing Resources</h3>
-              <p>Before researching any product, consult the <a href="/Kakobuy-sizing-guide/">sizing guide</a> for detailed measurements and fit recommendations. Different brands and models fit differently, and understanding sizing helps you make more informed decisions about which products to explore.</p>
+              <p>Before researching any product, consult the <a href="/blog/kakobuy-sizing-guide/">sizing guide</a> for detailed measurements and fit recommendations. Different brands and models fit differently, and understanding sizing helps you make more informed decisions about which products to explore.</p>
             </div>
           </div>
           <div class="usage-step">
@@ -223,7 +223,7 @@
           </div>
           <div class="trust-cta">
             <p>Our mission is to help users navigate product information efficiently. By organizing product listings from various sources into one comprehensive directory, we save you time and provide a centralized resource for product research. All purchasing decisions and transactions happen independently through external resources.</p>
-            <p>For more information about our approach and methodology, visit our <a href="/about/">About page</a> or read our <a href="/is-Kakobuy-legit/">transparency report</a>.</p>
+            <p>For more information about our approach and methodology, visit our <a href="/blog/blog/about/">About page</a> or read our <a href="/is-Kakobuy-legit/">transparency report</a>.</p>
           </div>
         </div>
       </div>
@@ -248,7 +248,7 @@
           </div>
           <div class="faq-item">
             <h3>How do I find sizing information?</h3>
-            <p>The <a href="/Kakobuy-sizing-guide/">sizing guide</a> provides detailed measurements and fit recommendations for popular brands and models. Different brands fit differently, so consult the sizing resources before researching products. The guide covers sneakers, clothing, and accessories with brand-specific recommendations.</p>
+            <p>The <a href="/blog/kakobuy-sizing-guide/">sizing guide</a> provides detailed measurements and fit recommendations for popular brands and models. Different brands fit differently, so consult the sizing resources before researching products. The guide covers sneakers, clothing, and accessories with brand-specific recommendations.</p>
           </div>
           <div class="faq-item">
             <h3>Is this website affiliated with the brands listed?</h3>
@@ -271,44 +271,44 @@
           <div class="article-nav-group">
             <h3 class="group-title"> Getting Started</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-for-beginners/">Kakobuy Spreadsheet for Beginners — Complete Starter Guide</a></li>
-              <li><a href="/Kakobuy-how-to-use/">How to Use Kakobuy Spreadsheet — Step by Step</a></li>
-              <li><a href="/Kakobuy-account-creation/">Account Creation & Setup Guide</a></li>
-              <li><a href="/Kakobuy-shipping-guide/">Shipping Guide — Methods & Times</a></li>
-              <li><a href="/Kakobuy-payment-guide/">Payment Guide — Safe Checkout Tips</a></li>
+              <li><a href="/blog/kakobuy-for-beginners/">Kakobuy Spreadsheet for Beginners — Complete Starter Guide</a></li>
+              <li><a href="/blog/kakobuy-how-to-use/">How to Use Kakobuy Spreadsheet — Step by Step</a></li>
+              <li><a href="/blog/kakobuy-account-creation/">Account Creation & Setup Guide</a></li>
+              <li><a href="/blog/kakobuy-shipping-guide/">Shipping Guide — Methods & Times</a></li>
+              <li><a href="/blog/kakobuy-payment-guide/">Payment Guide — Safe Checkout Tips</a></li>
             </ul>
           </div>
           <!-- Top Categories -->
           <div class="article-nav-group">
             <h3 class="group-title"> Top Categories</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-sneakers/">Sneakers Guide — Best Picks 2026</a></li>
-              <li><a href="/Kakobuy-hoodies/">Hoodies Guide — Streetwear Essentials</a></li>
-              <li><a href="/Kakobuy-t-shirts/">T-Shirts Guide — Everyday Style</a></li>
-              <li><a href="/Kakobuy-bags/">Bags Guide — Backpacks & More</a></li>
-              <li><a href="/Kakobuy-accessories/">Accessories Guide — Complete Your Look</a></li>
+              <li><a href="/blog/kakobuy-sneakers/">Sneakers Guide — Best Picks 2026</a></li>
+              <li><a href="/blog/kakobuy-hoodies/">Hoodies Guide — Streetwear Essentials</a></li>
+              <li><a href="/blog/kakobuy-t-shirts/">T-Shirts Guide — Everyday Style</a></li>
+              <li><a href="/blog/kakobuy-bags/">Bags Guide — Backpacks & More</a></li>
+              <li><a href="/blog/kakobuy-accessories/">Accessories Guide — Complete Your Look</a></li>
             </ul>
           </div>
           <!-- Popular Brands -->
           <div class="article-nav-group">
             <h3 class="group-title">? Popular Brands</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-nike/">Nike Guide — Sneakers & Apparel</a></li>
-              <li><a href="/Kakobuy-jordan/">Jordan Guide — Iconic Silhouettes</a></li>
-              <li><a href="/Kakobuy-adidas/">Adidas Guide — Classics & New Drops</a></li>
-              <li><a href="/Kakobuy-chrome-hearts/">Chrome Hearts — Luxury Streetwear</a></li>
-              <li><a href="/Kakobuy-essentials/">Essentials — Minimalist Streetwear</a></li>
+              <li><a href="/blog/kakobuy-nike/">Nike Guide — Sneakers & Apparel</a></li>
+              <li><a href="/blog/kakobuy-jordan/">Jordan Guide — Iconic Silhouettes</a></li>
+              <li><a href="/blog/kakobuy-adidas/">Adidas Guide — Classics & New Drops</a></li>
+              <li><a href="/blog/kakobuy-chrome-hearts/">Chrome Hearts — Luxury Streetwear</a></li>
+              <li><a href="/blog/kakobuy-essentials/">Essentials — Minimalist Streetwear</a></li>
             </ul>
           </div>
           <!-- Save Money -->
           <div class="article-nav-group">
             <h3 class="group-title"> Save Money</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-coupon/">Coupon Codes & Discount Guide</a></li>
-              <li><a href="/Kakobuy-best-deals/">Best Deals — Seasonal Sales</a></li>
-              <li><a href="/Kakobuy-cheap-sneakers/">Cheap Sneakers — Budget Picks</a></li>
-              <li><a href="/Kakobuy-budget-hoodies/">Budget Hoodies — Under $30</a></li>
-              <li><a href="/Kakobuy-save-money/">Money-Saving Tips & Hacks</a></li>
+              <li><a href="/blog/kakobuy-coupon/">Coupon Codes & Discount Guide</a></li>
+              <li><a href="/blog/kakobuy-best-deals/">Best Deals — Seasonal Sales</a></li>
+              <li><a href="/blog/kakobuy-cheap-sneakers/">Cheap Sneakers — Budget Picks</a></li>
+              <li><a href="/blog/kakobuy-budget-hoodies/">Budget Hoodies — Under $30</a></li>
+              <li><a href="/blog/kakobuy-save-money/">Money-Saving Tips & Hacks</a></li>
             </ul>
           </div>
           <!-- Trust & Safety -->
@@ -316,21 +316,21 @@
             <h3 class="group-title"> Trust & Safety</h3>
             <ul class="article-nav-list">
               <li><a href="/is-Kakobuy-legit/">Is Kakobuy Spreadsheet Legit? — Full Review</a></li>
-              <li><a href="/Kakobuy-legit-check/">Legit Check Guide</a></li>
-              <li><a href="/Kakobuy-qc-photos/">QC Photos — What to Look For</a></li>
-              <li><a href="/Kakobuy-reviews/">User Reviews & Ratings</a></li>
-              <li><a href="/Kakobuy-reddit/">Reddit Community Insights</a></li>
+              <li><a href="/blog/kakobuy-legit-check/">Legit Check Guide</a></li>
+              <li><a href="/blog/kakobuy-qc-photos/">QC Photos — What to Look For</a></li>
+              <li><a href="/blog/kakobuy-reviews/">User Reviews & Ratings</a></li>
+              <li><a href="/blog/kakobuy-reddit/">Reddit Community Insights</a></li>
             </ul>
           </div>
           <!-- Regional Guides -->
           <div class="article-nav-group">
             <h3 class="group-title"> Regional & International</h3>
             <ul class="article-nav-list">
-              <li><a href="/Kakobuy-uk/">Kakobuy Spreadsheet UK — Shipping & Tips</a></li>
-              <li><a href="/Kakobuy-canada/">Kakobuy Spreadsheet Canada — Complete Guide</a></li>
-              <li><a href="/Kakobuy-australia/">Kakobuy Spreadsheet Australia — Local Info</a></li>
-              <li><a href="/Kakobuy-europe/">Kakobuy Spreadsheet Europe — EU Shipping</a></li>
-              <li><a href="/Kakobuy-international-shipping/">International Shipping Guide</a></li>
+              <li><a href="/blog/kakobuy-uk/">Kakobuy Spreadsheet UK — Shipping & Tips</a></li>
+              <li><a href="/blog/kakobuy-canada/">Kakobuy Spreadsheet Canada — Complete Guide</a></li>
+              <li><a href="/blog/kakobuy-australia/">Kakobuy Spreadsheet Australia — Local Info</a></li>
+              <li><a href="/blog/kakobuy-europe/">Kakobuy Spreadsheet Europe — EU Shipping</a></li>
+              <li><a href="/blog/kakobuy-international-shipping/">International Shipping Guide</a></li>
             </ul>
           </div>
         </div>
@@ -352,7 +352,7 @@
             <h3>Blog</h3>
             <p>Read our latest guides, reviews, and shopping tips across all categories.</p>
           </a>
-          <a href="/about" class="quick-link-card">
+          <a href="/blog/about" class="quick-link-card">
             <div class="ql-icon">&#8505;</div>
             <h3>About Us</h3>
             <p>Learn more about our mission and how we help you find the best products.</p>
@@ -366,7 +366,7 @@
       <div class="container">
         <h2 class="section-title">Explore More</h2>
         <div class="explore-grid">
-          <a href="/about" class="explore-card">
+          <a href="/blog/about" class="explore-card">
             <div class="explore-icon">&#8505;</div>
             <h3>About</h3>
             <p>Learn more about our mission and how we help you find the best products.</p>

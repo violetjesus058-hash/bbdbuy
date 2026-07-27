@@ -57,7 +57,7 @@ Understanding sizing variations is crucial when researching products through Kak
   - Samba and Gazelle run slightly narrow
   - Ultraboost fits snugly through midfoot
 
-**Recommendation**: Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements before making decisions.
+**Recommendation**: Always consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements before making decisions.
 
 ## Material and Technology Comparison
 
@@ -137,10 +137,10 @@ A: Absolutely. Both Nike and Adidas offer comfortable options for daily wear. Ad
 
 ## Related Resources
 
-- [Kakobuy Linki Nike Guide](/Kakobuy-nike/)
-- [Kakobuy Linki Adidas Guide](/Kakobuy-adidas/)
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/)
+- [Kakobuy Linki Nike Guide](/blog/kakobuy-nike/)
+- [Kakobuy Linki Adidas Guide](/blog/kakobuy-adidas/)
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/)
 
 ---
 

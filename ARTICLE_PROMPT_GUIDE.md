@@ -351,10 +351,10 @@ Explore the [topic] guide on Kakobuy Spreadsheet. Discover organized [topic] ref
 
 | 链接类型 | 锚文本示例 | 目标页面 |
 |---------|-----------|---------|
-| 品牌链接 | [Kakobuy Nike](/Kakobuy-nike/) | 品牌页面 |
+| 品牌链接 | [Kakobuy Nike](/blog/kakobuy-nike/) | 品牌页面 |
 | 分类链接 | [shoes category](/shoes) | 分类页面 |
-| 指南链接 | [Kakobuy sizing guide](/Kakobuy-sizing-guide/) | 功能指南 |
-| 资源链接 | [Kakobuy for beginners](/Kakobuy-for-beginners/) | 入门指南 |
+| 指南链接 | [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) | 功能指南 |
+| 资源链接 | [Kakobuy for beginners](/blog/kakobuy-for-beginners/) | 入门指南 |
 | 电子表格 | Kakobuy Spreadsheet (外部链接) | 外部链接 |
 
 **内链位置：**
@@ -365,8 +365,8 @@ Explore the [topic] guide on Kakobuy Spreadsheet. Discover organized [topic] ref
 - Related Guides 部分：3-5 个相关链接
 
 **锚文本规范：**
-- ✅ "Explore the [Kakobuy sneakers](/Kakobuy-sneakers/) collection"
-- ✅ "Refer to the [Kakobuy sizing guide](/Kakobuy-sizing-guide/)"
+- ✅ "Explore the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection"
+- ✅ "Refer to the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/)"
 - ✅ "Browse the [shoes category](/shoes)"
 - ❌ "Click here to shop"
 - ❌ "Order now"

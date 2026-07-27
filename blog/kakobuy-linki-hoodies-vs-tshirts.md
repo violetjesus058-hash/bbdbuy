@@ -280,10 +280,10 @@ A: Start with 3-5 essential t-shirts and 2-3 hoodies. Expand based on your style
 
 ## Related Resources
 
-- [Kakobuy Linki Hoodies Collection](/Kakobuy-hoodies/)
-- [Kakobuy Linki T-Shirts Collection](/Kakobuy-t-shirts/)
-- [Kakobuy Linki Streetwear Guide](/Kakobuy-streetwear/)
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/)
+- [Kakobuy Linki Hoodies Collection](/blog/kakobuy-hoodies/)
+- [Kakobuy Linki T-Shirts Collection](/blog/kakobuy-t-shirts/)
+- [Kakobuy Linki Streetwear Guide](/blog/kakobuy-streetwear/)
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/)
 
 ---
 

@@ -22,7 +22,7 @@ The Dunk Low review on Kakobuy Linki provides comprehensive product analysis for
 
 The Nike Dunk Low, originally released in 1985 as a basketball shoe, has evolved into one of the most popular lifestyle sneakers in modern fashion. Its clean design, versatile colorways, and cultural significance have made it a staple in sneaker collections worldwide. The spreadsheet directory provides organized product information to help users understand what makes the Dunk Low distinctive and how to research options effectively.
 
-Whether you are researching your first pair of Dunk Lows or exploring specific colorways like Panda, Grey Fog, or Next Nature, this review consolidates available product information into one comprehensive resource. For broader Nike research, explore the [Kakobuy Nike](/Kakobuy-nike/) brand page for additional product categories and pricing references.
+Whether you are researching your first pair of Dunk Lows or exploring specific colorways like Panda, Grey Fog, or Next Nature, this review consolidates available product information into one comprehensive resource. For broader Nike research, explore the [Kakobuy Nike](/blog/kakobuy-nike/) brand page for additional product categories and pricing references.
 
 ## Dunk Low Design Analysis
 
@@ -41,7 +41,7 @@ The Dunk Low design incorporates several distinctive elements that have contribu
 - **University Blue**: Classic blue and white color blocking
 - **Championship**: White base with various accent colors
 
-The spreadsheet directory organizes these colorway options for easy comparison. For detailed material specifications and available options, refer to the [Kakobuy sneakers](/Kakobuy-sneakers/) collection page.
+The spreadsheet directory organizes these colorway options for easy comparison. For detailed material specifications and available options, refer to the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection page.
 
 ## Dunk Low Pricing References
 
@@ -63,7 +63,7 @@ Understanding Dunk Low pricing helps users make informed decisions when research
 - High availability of popular colorways
 - Straightforward design and manufacturing process
 
-The pricing references in the spreadsheet help users compare options across different Dunk Low variants and understand the value proposition of each option. For comparison with other Nike models, the [Kakobuy Nike guide](/Kakobuy-nike/) provides comprehensive pricing information across the Nike collection.
+The pricing references in the spreadsheet help users compare options across different Dunk Low variants and understand the value proposition of each option. For comparison with other Nike models, the [Kakobuy Nike guide](/blog/kakobuy-nike/) provides comprehensive pricing information across the Nike collection.
 
 ## Dunk Low Sizing Information
 
@@ -75,7 +75,7 @@ Proper sizing is crucial for comfortable Dunk Low wear. The spreadsheet includes
 
 **Break-in Period**: New Dunk Lows require a minimal break-in period. The leather upper softens slightly with wear, but the shoe is generally comfortable from the first wear. Users should expect a short break-in period of approximately a few days to one week of regular wear.
 
-**Size Chart Reference**: The spreadsheet includes detailed size charts with insole measurements for popular Dunk Low colorways. Users can compare their foot measurements against these charts to determine the optimal size. For comprehensive sizing information across brands, the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) provides detailed measurements and fit recommendations.
+**Size Chart Reference**: The spreadsheet includes detailed size charts with insole measurements for popular Dunk Low colorways. Users can compare their foot measurements against these charts to determine the optimal size. For comprehensive sizing information across brands, the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) provides detailed measurements and fit recommendations.
 
 ## Dunk Low Styling Resources
 
@@ -99,7 +99,7 @@ The Dunk Low's versatility makes it suitable for various styling contexts. The s
 - Skate-inspired outerwear and accessories
 - Casual, functional clothing that allows movement
 
-For more styling ideas and brand-specific resources, explore the [Kakobuy hoodies](/Kakobuy-hoodies/) and [Kakobuy jeans](/Kakobuy-jeans/) pages for complementary product information.
+For more styling ideas and brand-specific resources, explore the [Kakobuy hoodies](/blog/kakobuy-hoodies/) and [Kakobuy jeans](/blog/kakobuy-jeans/) pages for complementary product information.
 
 ## Dunk Low Product Quality Assessment
 
@@ -123,7 +123,7 @@ When researching Dunk Low product information, understanding quality indicators 
 - Storage conditions when not wearing
 - Specific activities and environments where the shoes are worn
 
-For more information on evaluating product quality, the [Kakobuy legit check](/Kakobuy-legit-check/) resource provides guidance on assessing product information.
+For more information on evaluating product quality, the [Kakobuy legit check](/blog/kakobuy-legit-check/) resource provides guidance on assessing product information.
 
 ## FAQ
 
@@ -137,7 +137,7 @@ A: Consider your styling preferences and budget. Popular colorways like Panda, G
 A: Yes, Dunk Low tends to run slightly narrow in the toe box. Users with normal width feet typically find true to size comfortable, but those with wider feet may benefit from going up half a size. The spreadsheet includes detailed sizing data and insole measurements for popular colorways.
 
 ### Q4: Where can I find comprehensive Dunk Low product information?
-A: The Kakobuy Linki spreadsheet provides organized Dunk Low product information including pricing references, material specifications, sizing data, and available colorways. For broader Nike research, refer to the [Kakobuy Nike](/Kakobuy-nike/) brand page and the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) for fit information.
+A: The Kakobuy Linki spreadsheet provides organized Dunk Low product information including pricing references, material specifications, sizing data, and available colorways. For broader Nike research, refer to the [Kakobuy Nike](/blog/kakobuy-nike/) brand page and the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) for fit information.
 
 ## Conclusion
 
@@ -145,12 +145,12 @@ The Dunk Low review on Kakobuy Linki provides comprehensive product analysis for
 
 The key to effective Dunk Low research lies in using the spreadsheet directory to compare options, review material specifications, check sizing data, and explore styling resources. The organized product information helps users understand what makes the Dunk Low distinctive and how to identify options that match their preferences.
 
-For additional Nike research, explore the [Kakobuy Nike guide](/Kakobuy-nike/) for comprehensive brand information, or browse the [Kakobuy sneakers](/Kakobuy-sneakers/) collection to compare footwear options across different brands and models.
+For additional Nike research, explore the [Kakobuy Nike guide](/blog/kakobuy-nike/) for comprehensive brand information, or browse the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection to compare footwear options across different brands and models.
 
 ---
 
 **Related Guides:**
-- [Kakobuy Nike Guide](/Kakobuy-nike/)
-- [Kakobuy Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Hoodies](/Kakobuy-hoodies/)
+- [Kakobuy Nike Guide](/blog/kakobuy-nike/)
+- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Hoodies](/blog/kakobuy-hoodies/)

@@ -22,7 +22,7 @@ The Jordan 4 review on Kakobuy Linki provides comprehensive product analysis for
 
 The Air Jordan 4, designed by Tinker Hatfield and released in 1989, represents a pivotal moment in sneaker history. Its distinctive design elements—including the visible Air unit, mesh panels, and plastic wing eyelets—have made it one of the most sought-after Jordan silhouettes. The spreadsheet directory provides organized product information to help users understand what makes the Jordan 4 distinctive and how to research options effectively.
 
-Whether you are researching your first pair of Jordan 4s or exploring specific colorways like Bred, Military Blue, or White Cement, this review consolidates available product information into one comprehensive resource. For broader Jordan research, explore the [Kakobuy Jordan](/Kakobuy-jordan/) brand page for additional product categories and pricing references.
+Whether you are researching your first pair of Jordan 4s or exploring specific colorways like Bred, Military Blue, or White Cement, this review consolidates available product information into one comprehensive resource. For broader Jordan research, explore the [Kakobuy Jordan](/blog/kakobuy-jordan/) brand page for additional product categories and pricing references.
 
 ## Jordan 4 Design Analysis
 
@@ -41,7 +41,7 @@ The Jordan 4 design incorporates several distinctive elements that have contribu
 - **Fire Red**: White leather with black and red accents
 - **Thunder**: Black leather with electric blue accents
 
-The spreadsheet directory organizes these colorway options for easy comparison. For detailed material specifications and available options, refer to the [Kakobuy sneakers](/Kakobuy-sneakers/) collection page.
+The spreadsheet directory organizes these colorway options for easy comparison. For detailed material specifications and available options, refer to the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection page.
 
 ## Jordan 4 Pricing References
 
@@ -63,7 +63,7 @@ Understanding Jordan 4 pricing helps users make informed decisions when research
 - High demand for iconic colorways
 - Detailed finishing and attention to design elements
 
-The pricing references in the spreadsheet help users compare options across different Jordan 4 variants and understand the value proposition of each option. For comparison with other Jordan models, the [Kakobuy Jordan guide](/Kakobuy-jordan/) provides comprehensive pricing information across the Jordan collection.
+The pricing references in the spreadsheet help users compare options across different Jordan 4 variants and understand the value proposition of each option. For comparison with other Jordan models, the [Kakobuy Jordan guide](/blog/kakobuy-jordan/) provides comprehensive pricing information across the Jordan collection.
 
 ## Jordan 4 Sizing Information
 
@@ -75,7 +75,7 @@ Proper sizing is crucial for comfortable Jordan 4 wear. The spreadsheet includes
 
 **Break-in Period**: New Jordan 4s require a moderate break-in period. The leather upper and padded collar soften with wear, and comfort improves significantly after the first few wears. Users should expect a break-in period of approximately one to two weeks of regular wear. The mesh panels provide some immediate flexibility.
 
-**Size Chart Reference**: The spreadsheet includes detailed size charts with insole measurements for popular Jordan 4 colorways. Users can compare their foot measurements against these charts to determine the optimal size. For comprehensive sizing information across brands, the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) provides detailed measurements and fit recommendations.
+**Size Chart Reference**: The spreadsheet includes detailed size charts with insole measurements for popular Jordan 4 colorways. Users can compare their foot measurements against these charts to determine the optimal size. For comprehensive sizing information across brands, the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) provides detailed measurements and fit recommendations.
 
 ## Jordan 4 Styling Resources
 
@@ -99,7 +99,7 @@ The Jordan 4's versatility and cultural significance make it suitable for variou
 - Sporty outerwear like windbreakers and varsity jackets
 - Athletic socks that complement the colorway
 
-For more styling ideas and brand-specific resources, explore the [Kakobuy hoodies](/Kakobuy-hoodies/) and [Kakobuy jeans](/Kakobuy-jeans/) pages for complementary product information.
+For more styling ideas and brand-specific resources, explore the [Kakobuy hoodies](/blog/kakobuy-hoodies/) and [Kakobuy jeans](/blog/kakobuy-jeans/) pages for complementary product information.
 
 ## Jordan 4 Product Quality Assessment
 
@@ -124,7 +124,7 @@ When researching Jordan 4 product information, understanding quality indicators 
 - Storage conditions when not wearing
 - Specific activities and environments where the shoes are worn
 
-For more information on evaluating product quality, the [Kakobuy legit check](/Kakobuy-legit-check/) resource provides guidance on assessing product information.
+For more information on evaluating product quality, the [Kakobuy legit check](/blog/kakobuy-legit-check/) resource provides guidance on assessing product information.
 
 ## FAQ
 
@@ -138,7 +138,7 @@ A: Consider your styling preferences and budget. Classic colorways like Bred, Mi
 A: Yes, most users should size up half a size from their regular Nike size. Jordan 4 tends to run small, particularly in the midfoot area. Users with wider feet will definitely benefit from sizing up. The spreadsheet includes detailed sizing data and insole measurements for popular colorways.
 
 ### Q4: Where can I find comprehensive Jordan 4 product information?
-A: The Kakobuy Linki spreadsheet provides organized Jordan 4 product information including pricing references, material specifications, sizing data, and available colorways. For broader Jordan research, refer to the [Kakobuy Jordan](/Kakobuy-jordan/) brand page and the [Kakobuy sizing guide](/Kakobuy-sizing-guide/) for fit information.
+A: The Kakobuy Linki spreadsheet provides organized Jordan 4 product information including pricing references, material specifications, sizing data, and available colorways. For broader Jordan research, refer to the [Kakobuy Jordan](/blog/kakobuy-jordan/) brand page and the [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) for fit information.
 
 ## Conclusion
 
@@ -146,12 +146,12 @@ The Jordan 4 review on Kakobuy Linki provides comprehensive product analysis for
 
 The key to effective Jordan 4 research lies in using the spreadsheet directory to compare options, review material specifications, check sizing data, and explore styling resources. The organized product information helps users understand what makes the Jordan 4 distinctive and how to identify options that match their preferences.
 
-For additional Jordan research, explore the [Kakobuy Jordan guide](/Kakobuy-jordan/) for comprehensive brand information, or browse the [Kakobuy sneakers](/Kakobuy-sneakers/) collection to compare footwear options across different brands and models.
+For additional Jordan research, explore the [Kakobuy Jordan guide](/blog/kakobuy-jordan/) for comprehensive brand information, or browse the [Kakobuy sneakers](/blog/kakobuy-sneakers/) collection to compare footwear options across different brands and models.
 
 ---
 
 **Related Guides:**
-- [Kakobuy Jordan Guide](/Kakobuy-jordan/)
-- [Kakobuy Sizing Guide](/Kakobuy-sizing-guide/)
-- [Kakobuy Sneakers Collection](/Kakobuy-sneakers/)
-- [Kakobuy Hoodies](/Kakobuy-hoodies/)
+- [Kakobuy Jordan Guide](/blog/kakobuy-jordan/)
+- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/)
+- [Kakobuy Sneakers Collection](/blog/kakobuy-sneakers/)
+- [Kakobuy Hoodies](/blog/kakobuy-hoodies/)

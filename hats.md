@@ -355,11 +355,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these hat-specific resources:
 
-- [Kakobuy Hats Guide](/Kakobuy-hats/) — Hat styles, brand comparisons, and quality checks for 2026
-- [Kakobuy Streetwear Guide](/Kakobuy-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
-- [Kakobuy Accessories Guide](/Kakobuy-accessories/) — Complete accessories overview including hats, belts, and more
-- [Kakobuy QC Photos](/Kakobuy-qc-photos/) — How to inspect hat quality using pre-shipment photos
-- [Kakobuy Legit Check](/Kakobuy-legit-check/) — Authentication markers for branded headwear
+- [Kakobuy Hats Guide](/blog/kakobuy-hats/) — Hat styles, brand comparisons, and quality checks for 2026
+- [Kakobuy Streetwear Guide](/blog/kakobuy-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
+- [Kakobuy Accessories Guide](/blog/kakobuy-accessories/) — Complete accessories overview including hats, belts, and more
+- [Kakobuy QC Photos](/blog/kakobuy-qc-photos/) — How to inspect hat quality using pre-shipment photos
+- [Kakobuy Legit Check](/blog/kakobuy-legit-check/) — Authentication markers for branded headwear
 
 ## Explore More Categories
 

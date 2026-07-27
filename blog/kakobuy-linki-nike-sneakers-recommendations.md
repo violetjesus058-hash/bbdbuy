@@ -163,7 +163,7 @@ Nike sneakers generally fit true to size, but consider:
 - **Air Max**: True to size, snug fit initially
 - **Blazer**: True to size, narrow fit
 
-Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for detailed measurements.
+Always consult the [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) for detailed measurements.
 
 ## Maintenance Tips
 
@@ -187,7 +187,7 @@ Always consult the [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) for deta
 
 ## Where to Find Nike Sneakers on Kakobuy Linki
 
-Browse our curated Nike collection through the [Kakobuy Linki Spreadsheet](/Kakobuy-complete-guide/), where you'll find:
+Browse our curated Nike collection through the [Kakobuy Linki Spreadsheet](/blog/kakobuy-complete-guide/), where you'll find:
 
 - Detailed product information
 - Multiple colorway options
@@ -197,10 +197,10 @@ Browse our curated Nike collection through the [Kakobuy Linki Spreadsheet](/Kako
 
 ## Related Resources
 
-- [Kakobuy Linki Nike Guide](/Kakobuy-nike/) - Complete brand overview
-- [Kakobuy Linki Sizing Guide](/Kakobuy-sizing-guide/) - Detailed sizing information
-- [Kakobuy Linki Sneakers Collection](/Kakobuy-sneakers/) - All sneaker options
-- [Kakobuy Linki Product Directory](/Kakobuy-complete-guide/) - Full product spreadsheet
+- [Kakobuy Linki Nike Guide](/blog/kakobuy-nike/) - Complete brand overview
+- [Kakobuy Linki Sizing Guide](/blog/kakobuy-sizing-guide/) - Detailed sizing information
+- [Kakobuy Linki Sneakers Collection](/blog/kakobuy-sneakers/) - All sneaker options
+- [Kakobuy Linki Product Directory](/blog/kakobuy-complete-guide/) - Full product spreadsheet
 
 ## Final Thoughts
 

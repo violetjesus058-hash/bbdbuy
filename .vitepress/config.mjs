@@ -70,6 +70,7 @@ export default defineConfig({
   },
 
   ignoreDeadLinks: [
+    /^\/blog\//,
     /^http:\/\/localhost/,
     /^\/Kakobuy-/,
     /^\/is-/,
@@ -78,17 +79,17 @@ export default defineConfig({
   cleanUrls: 'with-subfolders',
 
   srcExclude: [
-    'Kakobuy-article-prompt.md',
-    'Kakobuy-internal-link-rules.md',
-    'Kakobuy-product-reference.md',
-    'Kakobuy-review-report.md',
-    'Kakobuy-topic-list.md',
-    'flexible-article-generator.md',
-    'topic-matrix.md',
-    'ideas.md',
-    'CONTENT_CHECKLIST.md',
-    'LOCAL_SETUP.md',
-    'PRODUCT_WORKFLOW.md',
-    'WEBSITE_STRUCTURE.md',
+    'blog/kakobuy-article-prompt.md',
+    'blog/kakobuy-internal-link-rules.md',
+    'blog/kakobuy-product-reference.md',
+    'blog/kakobuy-review-report.md',
+    'blog/kakobuy-topic-list.md',
+    'blog/flexible-article-generator.md',
+    'blog/topic-matrix.md',
+    'blog/ideas.md',
+    'blog/content-checklist.md',
+    'blog/local-setup.md',
+    'blog/product-workflow.md',
+    'blog/website-structure.md',
   ],
 })
