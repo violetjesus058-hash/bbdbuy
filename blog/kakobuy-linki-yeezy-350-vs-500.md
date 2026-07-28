@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Yeezy 350 vs Yeezy 500: Silhouette Comparison Guide 2026"
 description: "Compare Yeezy Boost 350 and Yeezy 500 on Kakobuy Linki. Explore design differences, Boost technology, sizing, and styling for informed decisions."
 ---

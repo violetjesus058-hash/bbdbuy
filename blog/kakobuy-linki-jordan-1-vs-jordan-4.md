@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Jordan 1 vs Jordan 4: Detailed Silhouette Comparison 2026"
 description: "Compare Jordan 1 and Jordan 4 on Kakobuy Linki. Explore design differences, pricing, sizing, and style characteristics to choose the right silhouette."
 ---

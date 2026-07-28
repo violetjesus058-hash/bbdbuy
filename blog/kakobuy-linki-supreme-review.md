@@ -1,5 +1,4 @@
----
-layout: home
+﻿---
 title: "Kakobuy Linki Supreme Review 2026: Complete Product Analysis"
 description: "Read the comprehensive Supreme review on Kakobuy Linki. Discover detailed product analysis, pricing references, material quality, sizing information, and styling resources for informed decisions in 2026."
 ---

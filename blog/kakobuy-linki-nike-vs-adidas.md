@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Nike vs Adidas: Complete Brand Comparison Guide 2026"
 description: "Compare Nike and Adidas products on Kakobuy Linki. Discover pricing, sizing, materials, and style differences to make informed decisions in 2026."
 ---

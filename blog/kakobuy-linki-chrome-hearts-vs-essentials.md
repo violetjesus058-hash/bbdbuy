@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakobuy Linki Chrome Hearts vs Essentials: Luxury vs Minimalist Streetwear 2026"
 description: "Compare Chrome Hearts and Essentials on Kakobuy Linki. Explore design philosophy, pricing, materials, and styling differences between luxury and minimalist streetwear."
 ---
