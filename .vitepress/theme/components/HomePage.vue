@@ -6,6 +6,11 @@
         <h1 class="hero-title">Your Independent Kakobuy Spreadsheet Resource Hub</h1>
         <p class="hero-subtitle">Product Guides, Category Breakdowns & Buying Tips — All in One Place</p>
         <p class="hero-desc">Explore the Kakobuy Spreadsheet directory with confidence. We organize product information, sizing guides, product details, and shopping resources so you can make informed decisions without searching through scattered forums.</p>
+        <!-- CTA Buttons -->
+        <div class="hero-cta-buttons">
+          <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow" class="cta-btn cta-spreadsheet">Access Kakobuy Spreadsheet</a>
+          <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="cta-btn cta-shopping">Start shopping</a>
+        </div>
         <!-- Category Buttons -->
         <div class="hero-buttons">
           <a
@@ -450,6 +455,52 @@ const links = siteConfig.links
   line-height: 1.7;
   max-width: 600px;
   margin: 0 auto;
+}
+
+/* CTA Buttons */
+.hero-cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 28px;
+  flex-wrap: wrap;
+}
+
+.cta-btn {
+  display: inline-block;
+  padding: 14px 32px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+}
+
+.cta-spreadsheet {
+  background: #8B0000;
+  color: #ffffff;
+  box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
+}
+
+.cta-spreadsheet:hover {
+  background: #a00000;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(139, 0, 0, 0.4);
+}
+
+.cta-shopping {
+  background: #d4af37;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+}
+
+.cta-shopping:hover {
+  background: #c4a030;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
 }
 
 /* Hero Buttons */
