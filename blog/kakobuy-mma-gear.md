@@ -51,7 +51,7 @@ Selecting the right MMA gear starts with understanding your training needs. If y
 
 Sizing is critical for combat sports equipment. Gloves should fit snugly without restricting finger movement — most manufacturers recommend measuring hand circumference at the knuckles. Shin guards should cover from just below the knee to above the ankle, with padding centered over the shin bone. Headgear should sit securely without obstructing vision. The Kakobuy Spreadsheet includes size charts for each product, and customer service can provide guidance if you are unsure.
 
-Ordering from Kakobuy Spreadsheet follows the standard process. Access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254), filter by the combat sports category, and sort by quality pass rate or price. Check the batch version for each item — newer batches typically show improved materials and construction. Bundle multiple items to save on shipping, as most MMA gear is compact enough to fit in a single parcel.
+Ordering from Kakobuy Spreadsheet follows the standard process. Access the [Kakobuy spreadsheet](https://kakobuylinki.com/), filter by the combat sports category, and sort by quality pass rate or price. Check the batch version for each item — newer batches typically show improved materials and construction. Bundle multiple items to save on shipping, as most MMA gear is compact enough to fit in a single parcel.
 
 For gym owners equipping a full facility, consider purchasing in bulk. The platform offers volume discounts for orders of 10+ units of the same item, and the spreadsheet includes data on which products have the highest durability ratings for high-traffic gym use. Pair your MMA gear with [Kakobuy sports gear](/blog/kakobuy-sports-gear/) like heavy bags, focus mitts, and cage sections to build a complete training environment.
 
@@ -83,13 +83,6 @@ A: Yes, Kakobuy Spreadsheet offers volume pricing for orders of 10+ units. The s
 
 Kakobuy Spreadsheet MMA gear provides fighters and gym owners with quality combat sports equipment at accessible prices in 2026. With over 90 verified products, prices ranging from $5.99 to $78.99, and an average quality pass rate of 93%, the platform offers a reliable marketplace for everything from hand wraps to headgear. The combination of rigorous material and construction inspections, transparent quality data, and active community feedback makes Kakobuy Spreadsheet a trusted source for combat sports equipment.
 
-Whether you are a beginner building your first training kit or a gym owner equipping a full facility, Kakobuy Spreadsheet has the products and data to support your needs. We recommend browsing the spreadsheet to compare options, check batch quality, and find the best values. Pair your MMA gear with complementary [Kakobuy sports gear](/blog/kakobuy-sports-gear/) and [Kakobuy sports clothes](/blog/kakobuy-sports-clothes/) to create a complete training setup that supports your goals.
+Whether you are a beginner building your first training kit or a gym owner equipping a full facility, Kakobuy Spreadsheet has the products and data to support your needs. We recommend browsing the spreadsheet to compare options, check batch quality, and find the best values. Pair your MMA gear with complementary [Kakobuy sports gear](/blog/kakobuy-sports-gear/) and [Kakobuy sports clothes](/blog/kakobuy-sports-clothes/) to create a complete training setup that supports your goals.---
 
----
-
-**Related Guides:**
-- [Kakobuy Sports Gear](/blog/kakobuy-sports-gear/) — Explore resistance bands, workout accessories, and training equipment
-- [Kakobuy Gym Gear](/blog/kakobuy-gym-gear/) — Find kettlebells, jump ropes, and home gym essentials
-- [Kakobuy Sports Clothes](/blog/kakobuy-sports-clothes/) — Browse compression wear, rash guards, and training shorts
-
----
+Choosing the right Mma Gear becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Kakobuy Spreadsheet homepage for additional shopping resources and regularly updated product guides.

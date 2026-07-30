@@ -111,13 +111,6 @@ Kakobuy Spreadsheet international shipping offers flexible options for buyers wo
 
 Customs and import duties vary significantly by country, but most Kakobuy Spreadsheet orders fall below major de minimis thresholds, particularly in the US where the $800 threshold covers most purchases. Being informed about your country's specific regulations ensures smooth delivery without surprises.
 
-To explore the full product catalog and plan your next international order, access the [Kakobuy spreadsheet](https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254) for detailed pricing, quality ratings, and order data. This resource helps you make informed decisions about what to order and which shipping method makes the most sense for your purchase.
+To explore the full product catalog and plan your next international order, access the [Kakobuy spreadsheet](https://kakobuylinki.com/) for detailed pricing, quality ratings, and order data. This resource helps you make informed decisions about what to order and which shipping method makes the most sense for your purchase.---
 
----
-
-**Related Guides:**
-- [Kakobuy shipping methods](/blog/kakobuy-shipping-methods/) for detailed carrier-by-carrier comparison
-- [Kakobuy express shipping](/blog/kakobuy-express-shipping/) for premium delivery options and timelines
-- [Kakobuy economy shipping](/blog/kakobuy-economy-shipping/) for budget-friendly delivery alternatives
-
----
+Choosing the right International Shipping becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Kakobuy Spreadsheet homepage for additional shopping resources and regularly updated product guides.
