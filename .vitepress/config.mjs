@@ -54,12 +54,17 @@ export default defineConfig({
           s2.async = true;
           s2.src = 'https://www.googletagmanager.com/gtag/js?id=AW-18355431983';
           document.head.appendChild(s2);
+          var s3 = document.createElement('script');
+          s3.async = true;
+          s3.src = 'https://www.googletagmanager.com/gtag/js?id=G-N9BCQ2XS4W';
+          document.head.appendChild(s3);
           gtag('consent', 'update', {
             'ad_user_data': 'granted',
             'ad_personalization': 'granted',
             'ad_storage': 'granted',
             'analytics_storage': 'granted'
           });
+          gtag('config', 'G-N9BCQ2XS4W');
         }
       })();
     `],
