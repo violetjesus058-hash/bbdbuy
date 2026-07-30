@@ -3,7 +3,7 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-bg">
-        <img src="/images/hero-banner.webp" alt="Men's fashion streetwear collection featuring hoodies, sneakers and urban style" loading="eager" width="1920" height="1080">
+        <img src="/images/kakobuy-spreadsheet-mens-fashion-hero-banner.webp" alt="Men's fashion streetwear collection featuring hoodies, sneakers and urban style" loading="eager" width="1920" height="1080">
       </div>
       <div class="hero-overlay"></div>
       <div class="hero-inner">
@@ -39,32 +39,6 @@
             <div class="cat-icon">{{ cat.icon }}</div>
             <h3>{{ cat.name }}</h3>
             <p>{{ cat.description }}</p>
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Trending Fashion Finds -->
-    <section class="trending-section">
-      <div class="container">
-        <h2 class="section-title">Trending Fashion Finds</h2>
-        <p class="section-desc">Discover the most popular men's fashion categories. Click any category to explore curated collections.</p>
-        <div class="trending-grid">
-          <a
-            v-for="item in featuredCategories"
-            :key="item.slug"
-            href="https://repsootd.com/"
-            target="_blank"
-            rel="nofollow"
-            class="trending-card"
-          >
-            <div class="trending-img">
-              <img :src="item.image" :alt="item.name + ' men\'s fashion collection'" loading="lazy" width="400" height="300">
-            </div>
-            <div class="trending-info">
-              <h3>{{ item.name }}</h3>
-              <span class="trending-link">Explore &rarr;</span>
-            </div>
           </a>
         </div>
       </div>
@@ -439,77 +413,6 @@ const featuredCategories = siteConfig.featuredCategories
   margin: 0;
 }
 
-/* ===== Trending ===== */
-.trending-section {
-  padding: 64px 0;
-  background: #f8f9fa;
-}
-
-.trending-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
-}
-
-.trending-card {
-  display: block;
-  background: #fff;
-  border: 1px solid #eee;
-  border-radius: 14px;
-  overflow: hidden;
-  text-decoration: none;
-  transition: all 0.3s ease;
-}
-
-.trending-card:hover {
-  box-shadow: 0 8px 30px rgba(0,0,0,0.1);
-  transform: translateY(-4px);
-  border-color: #d4af37;
-}
-
-.trending-img {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  overflow: hidden;
-  background: #f0f0f0;
-}
-
-.trending-img img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 0.4s ease;
-}
-
-.trending-card:hover .trending-img img {
-  transform: scale(1.05);
-}
-
-.trending-info {
-  padding: 16px 18px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.trending-info h3 {
-  font-size: 15px;
-  font-weight: 700;
-  color: #1a1a1a;
-  margin: 0;
-}
-
-.trending-link {
-  font-size: 13px;
-  font-weight: 600;
-  color: #8b0000;
-  white-space: nowrap;
-}
-
-.trending-card:hover .trending-link {
-  color: #d4af37;
-}
-
 /* ===== How It Works ===== */
 .how-it-works {
   padding: 64px 0;
@@ -724,7 +627,6 @@ const featuredCategories = siteConfig.featuredCategories
   .cta-btn { padding: 14px 28px; font-size: 15px; }
   .section-title { font-size: 24px; }
   .category-grid { grid-template-columns: 1fr; }
-  .trending-grid { grid-template-columns: repeat(2, 1fr); }
   .steps-grid { grid-template-columns: repeat(2, 1fr); }
   .why-grid { grid-template-columns: 1fr; }
   .article-nav-grid { grid-template-columns: 1fr; }
