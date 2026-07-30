@@ -7,29 +7,6 @@
 ## In This Article:
 
 
-<figure class="article-image">
-  <img src="/images/accessories-gift-selection-uk-06.webp" 
-       alt="Gift accessories selection with bracelet perfume sunglasses and UK next day delivery, couple exchanging gifts" 
-       loading="lazy" 
-       width="1200" 
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Gift-ready accessories with express delivery for special occasions</figcaption>
-</figure>
-
-
-
-<figure class="article-image">
-  <img src="/images/accessories-daily-carry-us-05.webp" 
-       alt="Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping" 
-       loading="lazy" 
-       width="1200" 
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Essential daily accessories with premium quality and fast shipping options</figcaption>
-</figure>
-
-
 - Top-selling Kakobuy Spreadsheet watches with real order data and quality metrics
 - Movement types and material quality specifications
 - Sizing guide with brand-specific fit recommendations
@@ -67,6 +44,16 @@ Rounding out the top five, the S9-S10 Ultra2 watch represents the smartwatch alt
 
 Order data indicates that buyers typically purchase 1.2 watches per transaction on average, suggesting strong repeat interest once initial quality expectations are met. The price range across these top sellers spans ~$59.50, providing options for various budget levels while maintaining consistent quality standards.
 
+<figure class="article-image">
+  <img src="/images/accessories-gift-selection-uk-06.webp" 
+       alt="Gift accessories selection with bracelet perfume sunglasses and UK next day delivery, couple exchanging gifts" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Gift-ready accessories with express delivery for special occasions</figcaption>
+</figure>
+
 ## Movement & Quality Guide
 
 Understanding movement types and construction quality helps buyers make informed decisions when selecting watches on Kakobuy Spreadsheet. The platform typically stocks pieces ranging from quartz movements to automatic and mechanical options, with each type serving different preferences and needs.
@@ -103,6 +90,16 @@ S9-S10 Ultra2 watches typically feature modern smartwatch sizing with interchang
 Community insights suggest that comparing case dimensions (diameter, thickness, lug-to-lug) against well-fitting watches in your collection provides more reliable results than relying solely on product images. Most sellers provide detailed measurement charts, and buyers typically report higher satisfaction when they verify measurements before purchasing rather than assuming standard sizing consistency across brands.
 
 For additional sizing guidance across different categories, our [Kakobuy sizing guide](/blog/kakobuy-sizing-guide/) includes specific measurement recommendations for various product types.
+
+<figure class="article-image">
+  <img src="/images/accessories-daily-carry-us-05.webp" 
+       alt="Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Essential daily accessories with premium quality and fast shipping options</figcaption>
+</figure>
 
 ## Product Highlights
 

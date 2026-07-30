@@ -1,4 +1,4 @@
-﻿# Kakobuy Spreadsheet T-Shirts 2026: Complete Guide to Premium Streetwear Tees
+# Kakobuy Spreadsheet T-Shirts 2026: Complete Guide to Premium Streetwear Tees
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
@@ -13,29 +13,6 @@
 - Pricing comparisons and value analysis across the most popular tee categories
 
 ## Introduction
-
-
-<figure class="article-image">
-  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
-       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
-       loading="lazy" 
-       width="1200" 
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
-</figure>
-
-
-
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
-       loading="lazy" 
-       width="1200" 
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
 
 
 The global streetwear market continues to expand at a remarkable pace, with t-shirts remaining the single most purchased category across all fashion resale platforms. For buyers sourcing premium branded tees through Chinese shopping agents, Kakobuy Spreadsheet t-shirts have become a go-to search term in 2026, reflecting growing demand for affordable access to labels like Stussy, Palm Angels, Trapstar, and Fear of God Essentials. According to recent marketplace data covering 44 verified T-shirt listings, prices on Kakobuy Spreadsheet range from ~$9.73 (Essentials T-shirt) to ~$25.22 (Moncler Polo), a significant reduction from domestic retail pricing that often exceeds $60 to $120 for the same items.
@@ -71,6 +48,16 @@ The Essentials T-shirt at ~$9.73 has become a staple purchase for buyers seeking
 **Stone Island T-shirt —~$14.01**
 
 Rounding out the top five is the Stone Island T-shirt at ~$14.01, which has moved 1,600+ units this year. The 230 GSM cotton construction appeals to buyers who prioritize durability, and the 95% quality pass rate is the highest among the top sellers. The boxy, workwear-proportioned fit distinguishes it from the more fashion-oriented silhouettes of the other entries, and the embroidered chest logo provides a subtle branding option.
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
 
 ## Fabric & Print Quality Guide
 
@@ -117,6 +104,16 @@ Stone Island tees follow a standard European fit profile. The ~$14.01 tee runs t
 **General Sizing Tips**
 
 Always compare your body measurements against the product-specific size chart rather than relying on letter sizes alone, as S/M/L designations vary between brands. When in doubt, order two sizes and return the one that does not fit, as this is often more cost-effective than guessing incorrectly on a single order.
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 
 ## Product Highlights
 

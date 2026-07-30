@@ -12,29 +12,6 @@
 ## Introduction
 
 
-<figure class="article-image">
-  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
-       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
-       loading="lazy" 
-       width="1200" 
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
-</figure>
-
-
-
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
-       loading="lazy" 
-       width="1200" 
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
-
-
 Looking for the perfect shirt for any occasion? The shirts collection on Kakobuy Spreadsheet offers a comprehensive range of shirt types, from casual T-shirts and polo shirts to formal button-ups and streetwear pieces. With over 60 verified shirt listings across multiple categories, provides options on Kakobuy Spreadsheet for every style preference and budget, with prices ranging from $9.73 to $25.22.
 
 The platform has processed thousands of shirt orders across all categories, maintaining a 93% buyer satisfaction rate and 94% quality pass rate. Most shirts ship within 10-14 days to US and EU destinations, with real-time QC photos available before shipment. The collection includes everything from basic essentials to luxury designer pieces, featuring brands like Moncler, Ralph Lauren, Stussy, Palm Angels, and many more.
@@ -83,6 +60,16 @@ Layering pieces that complement shirt collections:
 These pieces typically cost $14-$41 and feature quality fleece materials with accurate branding.
 
 Each shirt category maintains high quality standards, with QC photos available for verification. The spreadsheet system provides detailed information on batch versions, materials, and customer feedback to help you choose the right shirt type.
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
 
 ## Choosing the Right Shirt for Different Occasions
 
@@ -172,6 +159,16 @@ Most shirts feature:
 The spreadsheet system provides detailed material information, batch versions, and quality indicators for each shirt. This transparency allows buyers to make informed decisions based on their priorities—whether that's price, brand, material quality, or specific design features.
 
 For more information on verifying quality, check the Kakobuy Spreadsheet legit check guide and QC photos documentation.
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 
 ## Product Highlights
 
