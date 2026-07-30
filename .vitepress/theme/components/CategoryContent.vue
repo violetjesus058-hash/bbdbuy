@@ -14,7 +14,7 @@
     </section>
 
     <!-- Quality Specifications -->
-    <section class="content-section">
+    <section class="content-section" v-if="qualitySpecs?.length">
       <h2>Quality Specifications</h2>
       <div class="info-table">
         <div v-for="spec in qualitySpecs" :key="spec.label" class="info-row">
@@ -25,7 +25,7 @@
     </section>
 
     <!-- Pricing Information -->
-    <section class="content-section">
+    <section class="content-section" v-if="pricingInfo?.range">
       <h2>Pricing Information</h2>
       <div class="pricing-box">
         <div class="price-range">{{ pricingInfo.range }}</div>
@@ -34,7 +34,7 @@
     </section>
 
     <!-- Logistics & Shipping -->
-    <section class="content-section">
+    <section class="content-section" v-if="logisticsInfo?.length">
       <h2>Logistics &amp; Shipping</h2>
       <div class="info-table">
         <div v-for="item in logisticsInfo" :key="item.label" class="info-row">
@@ -45,7 +45,7 @@
     </section>
 
     <!-- Batch / Lot Information -->
-    <section class="content-section">
+    <section class="content-section" v-if="batchInfo?.length">
       <h2>Batch &amp; Lot Information</h2>
       <div class="info-table">
         <div v-for="item in batchInfo" :key="item.label" class="info-row">
@@ -56,7 +56,7 @@
     </section>
 
     <!-- FAQ -->
-    <section class="content-section">
+    <section class="content-section" v-if="faq?.length">
       <h2>Frequently Asked Questions</h2>
       <div class="faq-list">
         <div v-for="(item, index) in faq" :key="index" class="faq-item">

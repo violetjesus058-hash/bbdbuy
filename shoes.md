@@ -237,8 +237,8 @@ Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
 - [Kakobuy Sneakers Database](/blog/kakobuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [Kakobuy Nike Collection](/blog/kakobuy-nike/) — Complete Nike product ecosystem breakdown across shoes, apparel, and accessories
-- [Kakobuy Jordan Guide](/blog/kakobuy-jordan/) — Jordan 1 through Jordan 4 batch comparisons and quality insights
+- [Kakobuy Running Shoes Guide](/blog/kakobuy-running-shoes/) — Performance running shoe comparisons and technology breakdowns
+- [Kakobuy Basketball Shoes Guide](/blog/kakobuy-basketball/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
 - [Kakobuy QC Photos Tutorial](/blog/kakobuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping

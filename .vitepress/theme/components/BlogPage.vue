@@ -3145,11 +3145,11 @@ const recommendedSeries = [
     ],
   },
   {
-    name: 'Popular Brands',
+    name: 'Style Guides',
     articles: [
-      { title: 'Nike', link: '/blog/kakobuy-nike/' },
-      { title: 'Jordan', link: '/blog/kakobuy-jordan/' },
-      { title: 'Adidas', link: '/blog/kakobuy-adidas/' },
+      { title: 'Streetwear', link: '/blog/kakobuy-streetwear/' },
+      { title: 'Casual Wear', link: '/blog/kakobuy-casual/' },
+      { title: 'Winter Clothing', link: '/blog/kakobuy-winter/' },
     ],
   },
   {
