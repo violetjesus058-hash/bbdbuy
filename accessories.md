@@ -22,11 +22,11 @@ collections:
   - title: Scarves, Ties and Small Accessories
     description: "Silk scarves, cotton ties, pocket squares, socks. Examine fabric weight, pattern alignment, edge finishing, and material composition."
 brands:
-  - Gucci
-  - Cartier
-  - Rolex
-  - Louis Vuitton
-  - Prada
+  - Leather Goods
+  - Fine Jewelry
+  - Timepieces
+  - Designer Accessories
+  - Luxury Items
 buyingGuide:
   howToChoose: "Match accessories to your existing wardrobe. Neutral colors (black, brown, navy, tan) offer maximum versatility. Consider occasion: formal settings require polished metals and fine leather, casual wear allows more experimentation. Start with essential pieces before adding statement items."
   whatToLookFor: "Inspect QC photos for: leather edge finishing (should be smooth, not rough), metal plating consistency (no spots or wear marks), stitching tension and density (8-12 stitches per inch for leather), lens symmetry and frame alignment for sunglasses, clasp security on jewelry."

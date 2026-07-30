@@ -14,57 +14,57 @@ const productTypes = [
   {
     icon: '🏃',
     name: 'Running Shoes',
-    desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include Nike Air Zoom, Adidas Boost, and ASICS Gel for energy return and shock absorption.'
+    desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include advanced air units, foam midsoles, and gel systems for energy return and shock absorption.'
   },
   {
     icon: '🏀',
     name: 'Basketball Shoes',
-    desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature Zoom Air units, Boost midsoles, and reinforced toe boxes for durability during lateral movements.'
+    desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature responsive air units, foam midsoles, and reinforced toe boxes for durability during lateral movements.'
   },
   {
     icon: '👟',
     name: 'Casual Sneakers',
-    desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes like Air Force 1, Stan Smith, and Chuck Taylor remain timeless. Modern iterations incorporate premium materials like leather, suede, and knit uppers.'
+    desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes remain timeless with clean lines and versatile colorways. Modern iterations incorporate premium materials like leather, suede, and knit uppers.'
   },
   {
     icon: '',
     name: 'Boots',
-    desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, Vibram outsoles, and premium leather uppers. Brands like Timberland and Red Wing lead in durability.'
+    desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, durable rubber outsoles, and premium leather uppers for long-lasting wear.'
   },
   {
     icon: '🩴',
     name: 'Slides & Sandals',
-    desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models include Nike Benassi, Adidas Adilette, and Yeezy Slide with contoured footbeds for all-day comfort.'
+    desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models feature contoured footbeds and adjustable straps for all-day comfort.'
   },
 ]
 
 const brandComparison = [
   {
-    brand: 'Nike',
-    strengths: 'Air Zoom technology, Flyknit uppers, extensive colorways',
+    brand: 'Performance Running',
+    strengths: 'Advanced cushioning technology, breathable uppers, energy return systems',
     priceRange: '$75-$150',
     bestFor: 'Running, basketball, lifestyle',
   },
   {
-    brand: 'Adidas',
-    strengths: 'Boost cushioning, Primeknit, collaborations with designers',
+    brand: 'Street Style',
+    strengths: 'Boost cushioning, knit uppers, designer collaborations',
     priceRange: '$70-$140',
     bestFor: 'Running, casual, streetwear',
   },
   {
-    brand: 'New Balance',
+    brand: 'Comfort Focus',
     strengths: 'Fresh Foam, ENCAP midsole, wide width options',
     priceRange: '$70-$130',
     bestFor: 'Running, walking, comfort',
   },
   {
-    brand: 'ASICS',
+    brand: 'Stability Plus',
     strengths: 'Gel cushioning, FlyteFoam, stability features',
     priceRange: '$70-$120',
     bestFor: 'Running, stability, overpronation',
   },
   {
-    brand: 'Hoka',
+    brand: 'Max Cushion',
     strengths: 'Maximal cushioning, Meta-Rocker, lightweight',
     priceRange: '$90-$140',
     bestFor: 'Long-distance running, recovery',
@@ -115,7 +115,7 @@ const sizingTips = [
   },
   {
     tip: 'Check Brand-Specific Sizing',
-    detail: 'Nike tends to run narrow, New Balance offers wide widths, Adidas runs true to size.',
+    detail: 'Different brands have unique fit profiles. Some run narrow, others offer wide widths. Always check the specific sizing notes for each model.',
   },
   {
     tip: 'Read Reviews for Fit Notes',

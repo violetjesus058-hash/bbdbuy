@@ -62,10 +62,10 @@
       </div>
     </section>
 
-    <!-- Brand Navigation -->
+    <!-- Popular Categories -->
     <section class="brands">
       <div class="container">
-        <h2>Popular Brands</h2>
+        <h2>Popular Categories</h2>
         <div class="brands-grid">
           <a v-for="brand in frontmatter.brands" :key="brand" :href="spreadsheetUrl" target="_blank" rel="nofollow" class="brand-card">{{ brand }}</a>
         </div>

@@ -22,10 +22,10 @@ collections:
   - title: Crossbody & Messenger Bags
     description: "Compact crossbody bags and messenger styles for hands-free carry. Check strap adjustability, closure security, and interior organization."
 brands:
-  - Gucci
-  - Louis Vuitton
-  - Prada
-  - Balenciaga
+  - Designer Bags
+  - Luxury Leather
+  - Premium Handbags
+  - Fashion Backpacks
 buyingGuide:
   howToChoose: "Consider your primary use case — daily carry, travel, or special occasions. Evaluate capacity needs, comfort features (padded straps, back panels), and organization requirements. Match material choice to your lifestyle: leather for formal settings, canvas or nylon for casual use."
   whatToLookFor: "Inspect QC photos for: zipper smoothness and alignment, stitching consistency at stress points, hardware finish and weight appearance, material texture and color accuracy, interior lining quality, and strap attachment reinforcement. Compare dimensions against your actual needs."

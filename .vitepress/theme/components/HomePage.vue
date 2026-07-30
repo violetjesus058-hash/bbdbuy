@@ -165,12 +165,12 @@
             </ul>
           </div>
           <div class="article-nav-group">
-            <h3 class="group-title">Popular Brands</h3>
+            <h3 class="group-title">Style Guides</h3>
             <ul class="article-nav-list">
-              <li><a href="/blog/kakobuy-nike/">Nike Guide</a></li>
-              <li><a href="/blog/kakobuy-jordan/">Jordan Guide</a></li>
-              <li><a href="/blog/kakobuy-adidas/">Adidas Guide</a></li>
               <li><a href="/blog/kakobuy-streetwear/">Streetwear Guide</a></li>
+              <li><a href="/blog/kakobuy-casual/">Casual Wear Guide</a></li>
+              <li><a href="/blog/kakobuy-winter/">Winter Clothing Guide</a></li>
+              <li><a href="/blog/kakobuy-summer/">Summer Essentials Guide</a></li>
             </ul>
           </div>
           <div class="article-nav-group">

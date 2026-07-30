@@ -22,10 +22,10 @@ collections:
   - title: Dress and Classic Watches
     description: "Elegant thin-profile watches for formal occasions. Check case thickness, dial simplicity, and strap quality for refined appearance."
 brands:
-  - Rolex
-  - Omega
-  - Tag Heuer
-  - Breitling
+  - Luxury Watches
+  - Swiss-Inspired
+  - Sport Watches
+  - Dive Watches
 buyingGuide:
   howToChoose: "Consider your lifestyle and preferences. Active users need water resistance and durable straps. Office workers may prefer elegant dress watches. Collectors value movement visibility and complications. Match case size to your wrist — 38-42mm suits most wrists, 44mm+ for larger wrists."
   whatToLookFor: "Inspect QC photos for: dial printing clarity and marker alignment, hand movement smoothness (no wobbling), case finishing consistency (no scratches on polished surfaces), crystal clarity (no dust underneath), strap stitching or link fit, and crown operation smoothness."

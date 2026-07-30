@@ -139,32 +139,32 @@ const sizingTips = [
 
 const brandOverview = [
   {
-    brand: 'New Era',
-    specialty: 'Official MLB, NFL, NBA caps, premium fitted caps',
+    brand: 'Sports Caps',
+    specialty: 'Official league caps, premium fitted caps',
     priceRange: '$30-$50',
-    quality: 'Licensed team logos, structured construction, durable materials',
+    quality: 'Licensed logos, structured construction, durable materials',
   },
   {
-    brand: 'Supreme',
+    brand: 'Streetwear Labels',
     specialty: 'Streetwear icon, box logo, limited drops',
     priceRange: '$40-$150+',
     quality: 'Heavyweight cotton, bold graphics, high resale value',
   },
   {
-    brand: 'Bape',
-    specialty: 'Camo patterns, shark graphics, Japanese streetwear',
+    brand: 'Graphic Streetwear',
+    specialty: 'Camo patterns, bold graphics, Japanese streetwear',
     priceRange: '$45-$120',
     quality: 'Premium materials, detailed embroidery, collectible',
   },
   {
-    brand: 'Stussy',
+    brand: 'Heritage Streetwear',
     specialty: 'Surf/skate heritage, signature script logo',
     priceRange: '$35-$80',
     quality: 'Solid basics, vintage aesthetic, reliable construction',
   },
   {
-    brand: 'Corteiz',
-    specialty: 'UK streetwear, Alcatraz logo, cult following',
+    brand: 'Urban Streetwear',
+    specialty: 'UK streetwear, bold logos, cult following',
     priceRange: '$40-$100',
     quality: 'Limited releases, bold designs, strong community',
   },

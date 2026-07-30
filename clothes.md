@@ -118,32 +118,32 @@ const fitGuide = [
 
 const brandOverview = [
   {
-    brand: 'Supreme',
-    specialty: 'Streetwear, box logo designs, limited drops',
+    brand: 'Streetwear Labels',
+    specialty: 'Bold graphics, limited drops, urban aesthetic',
     priceRange: '$40-$200+',
     quality: 'Heavyweight cotton, bold graphics, resale value',
   },
   {
-    brand: 'Essentials (Fear of God)',
-    specialty: 'Minimalist luxury, neutral tones, oversized fits',
+    brand: 'Minimalist Luxury',
+    specialty: 'Neutral tones, oversized fits, clean silhouettes',
     priceRange: '$50-$150',
     quality: 'Premium fleece, clean construction, versatile',
   },
   {
-    brand: 'Stussy',
-    specialty: 'Surf/skate heritage, signature script logo',
+    brand: 'Heritage Streetwear',
+    specialty: 'Surf/skate heritage, signature graphics',
     priceRange: '$35-$120',
     quality: 'Solid basics, graphic tees, casual style',
   },
   {
-    brand: 'Bape (A Bathing Ape)',
-    specialty: 'Camo patterns, shark hoodies, streetwear icon',
+    brand: 'Graphic Streetwear',
+    specialty: 'Camo patterns, bold hoodies, streetwear icon',
     priceRange: '$50-$300+',
     quality: 'Bold designs, premium materials, collectible',
   },
   {
-    brand: 'Ralph Lauren',
-    specialty: 'Classic American style, polo shirts, preppy aesthetic',
+    brand: 'Classic American',
+    specialty: 'Polo shirts, preppy aesthetic, timeless style',
     priceRange: '$40-$200',
     quality: 'Timeless designs, durable construction, versatile',
   },
