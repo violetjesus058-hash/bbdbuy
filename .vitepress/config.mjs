@@ -20,6 +20,14 @@ export default defineConfig({
   lang: 'en-US',
 
   head: [
+    // Google Tag Manager
+    ['script', {}, `
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-P7CCW56D');
+    `],
     // Consent Mode v2 — default all denied, load gtag only after consent
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
@@ -125,6 +133,17 @@ export default defineConfig({
   ],
 
   cleanUrls: 'with-subfolders',
+
+  // Inject GTM noscript iframe right after <body>
+  transformHtml(code, id) {
+    if (id.endsWith('.html')) {
+      return code.replace(
+        '<body>',
+        '<body><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P7CCW56D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->'
+      )
+    }
+    return code
+  },
 
   // Generate canonical URLs for each page
   transformPageData(pageData) {
