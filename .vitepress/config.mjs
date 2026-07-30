@@ -50,8 +50,8 @@ export default defineConfig({
     // Google Ads conversion tracking for button clicks
     ['script', {}, `
       document.addEventListener('DOMContentLoaded', function() {
-        // Track "Access Kakobuy Spreadsheet" button clicks
-        document.querySelectorAll('a[href*="docs.google.com/spreadsheets"]').forEach(function(btn) {
+        // Track "Access Kakobuy Spreadsheet" button clicks (hero CTA only)
+        document.querySelectorAll('a.cta-spreadsheet').forEach(function(btn) {
           btn.addEventListener('click', function() {
             if (typeof gtag === 'function') {
               gtag('event', 'conversion', {
