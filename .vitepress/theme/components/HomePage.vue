@@ -210,7 +210,6 @@
 import { siteConfig } from '../site-config.js'
 
 const categories = siteConfig.categories
-const featuredCategories = siteConfig.featuredCategories
 </script>
 
 <style scoped>
