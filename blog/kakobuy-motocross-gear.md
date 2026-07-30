@@ -2,6 +2,18 @@
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp" 
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
+
+
 **In This Article:**
 - What Kakobuy Spreadsheet motocross gear collection offers for off-road riders
 - Top-selling motocross equipment with quality data and pricing
@@ -10,6 +22,18 @@
 - FAQ about motocross gear quality, sizing, and shipping
 
 ## Introduction
+
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
+
 
 Motocross and off-road riding demand specialized equipment that can withstand extreme conditions while keeping riders protected. The Kakobuy Spreadsheet motocross gear collection has grown significantly in 2026, now featuring over 350 verified listings across helmets, body armor, gloves, boots, and riding apparel. Whether you are a weekend trail rider or a competitive racer, finding reliable gear at accessible prices is essential for safety and performance on the track.
 

@@ -2,7 +2,31 @@
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp" 
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
+
+
 ## In This Article
+
+
+<figure class="article-image">
+  <img src="/images/bags-daily-commute-eu-08.webp" 
+       alt="Professional woman with leather tote bag walking in European city, EU express delivery van in background" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Professional bags for daily commute with EU express delivery options</figcaption>
+</figure>
+
 
 - Comprehensive legit check methodology for verifying product authenticity
 - Step-by-step verification process using QC photos and detailed inspection

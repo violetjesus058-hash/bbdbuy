@@ -8,6 +8,30 @@ description: "Explore the sizing guide on Kakobuy Spreadsheet. Discover organize
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-lifestyle-collection-us-01.webp" 
+       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
+</figure>
+
+
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
+
+
 **In This Article:**
 - How sneaker sizing varies across Nike, Adidas, and Jordan brands
 - Clothing sizing references for hoodies, tees, and jeans

@@ -4,6 +4,30 @@
 
 ## In This Article
 
+
+<figure class="article-image">
+  <img src="/images/electronics-smart-home-au-10.webp" 
+       alt="Family in living room with Dyson air purifier JBL speaker and smart home devices, Australia US shipping" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Smart home electronics with Australia and US shipping options</figcaption>
+</figure>
+
+
+
+<figure class="article-image">
+  <img src="/images/electronics-tech-workspace-us-09.webp" 
+       alt="Tech workspace with iPhone Apple Watch AirPods and headphones, US express and international shipping boxes" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Latest tech accessories with express shipping for US and international orders</figcaption>
+</figure>
+
+
 - Comprehensive overview of the Kakobuy Spreadsheet electronics inventory
 - How to navigate 20,000+ electronics across all categories
 - Quality control metrics and certification analysis for electronics

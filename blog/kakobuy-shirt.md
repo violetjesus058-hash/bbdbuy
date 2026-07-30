@@ -11,6 +11,30 @@
 
 ## Introduction
 
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
+
+
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
+
+
 Looking for quality shirts at competitive prices? The shirt collection on Kakobuy Spreadsheet features over 44 verified T-shirt listings across multiple brands and styles, from streetwear essentials to designer pieces. Whether you're shopping for casual wear, layering options, or statement pieces, Kakobuy Spreadsheet offers shirts ranging from $9.73 to $24.73, with most options falling in the budget to mid-range price tier.
 
 The platform has processed thousands of shirt orders, maintaining a 93% buyer satisfaction rate and 94% quality pass rate across clothing categories. Most shirts ship within 10-14 days to US and EU destinations, with real-time QC photos available before shipment. The shirt collection includes popular brands like Moncler, Stussy, Palm Angels, Trapstar, and Balenciaga, offering both style and affordability.

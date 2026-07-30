@@ -28,23 +28,75 @@ export const siteConfig = {
   // ---- Main Categories ----
   categories: [
     {
-      id: 'shoes',
-      name: 'Shoes',
+      id: 'blog/kakobuy-sneakers',
+      name: 'Sneakers',
       icon: '',
-      description: 'Sneaker selection, sizing tips, and popular styles. From running shoes to casual everyday footwear.',
+      description: 'Popular sneaker styles, sizing tips, and trending picks for men.',
     },
     {
-      id: 'clothes',
-      name: 'Clothes',
+      id: 'blog/kakobuy-hoodies',
+      name: 'Hoodies',
       icon: '',
-      description: 'Hoodies, jackets, t-shirts, and seasonal fashion. Fabric guides and fit profiles for every style.',
+      description: 'Essential hoodies from streetwear brands. Fit guides and style tips.',
     },
     {
-      id: 'hats',
-      name: 'Hats',
+      id: 'blog/kakobuy-t-shirts',
+      name: 'T-Shirts',
       icon: '',
-      description: 'Caps, beanies, and bucket hats. Style matching guide and sizing tips for every face shape.',
+      description: 'Everyday tees and graphic shirts. Fabric quality and fit profiles.',
     },
+    {
+      id: 'blog/kakobuy-jackets',
+      name: 'Jackets',
+      icon: '',
+      description: 'Outerwear essentials from bombers to windbreakers. Seasonal picks.',
+    },
+    {
+      id: 'blog/kakobuy-pants',
+      name: 'Pants',
+      icon: '',
+      description: 'Jeans, joggers, and cargo pants. Fit guides for every body type.',
+    },
+    {
+      id: 'blog/kakobuy-shirts',
+      name: 'Shirts',
+      icon: '',
+      description: 'Casual and formal shirts. Material guides and styling tips.',
+    },
+    {
+      id: 'blog/kakobuy-accessories',
+      name: 'Accessories',
+      icon: '',
+      description: 'Watches, jewelry, sunglasses, and daily carry essentials.',
+    },
+    {
+      id: 'blog/kakobuy-bags',
+      name: 'Bags',
+      icon: '',
+      description: 'Backpacks, crossbody bags, and totes for everyday use.',
+    },
+    {
+      id: 'blog/kakobuy-watches',
+      name: 'Watches',
+      icon: '',
+      description: 'Timepiece collection from sport to dress watches. Style matching.',
+    },
+  ],
+
+  // ---- Featured Categories (Trending) ----
+  featuredCategories: [
+    { name: 'Sneakers', slug: 'sneakers', image: '/images/hero-sneakers.webp' },
+    { name: 'Hoodies', slug: 'hoodies', image: '/images/hero-hoodies.webp' },
+    { name: 'T-Shirts', slug: 't-shirts', image: '/images/hero-tshirts.webp' },
+    { name: 'Jackets', slug: 'jackets', image: '/images/hero-jackets.webp' },
+    { name: 'Pants', slug: 'pants', image: '/images/hero-pants.webp' },
+    { name: 'Shirts', slug: 'shirts', image: '/images/hero-shirts.webp' },
+    { name: 'Bags', slug: 'bags', image: '/images/hero-bags.webp' },
+    { name: 'Watches', slug: 'watches', image: '/images/hero-watches.webp' },
+    { name: 'Accessories', slug: 'accessories', image: '/images/hero-accessories.webp' },
+    { name: 'Streetwear', slug: 'streetwear', image: '/images/hero-streetwear.webp' },
+    { name: 'Casual Wear', slug: 'casual-wear', image: '/images/hero-casual.webp' },
+    { name: 'New Arrivals', slug: 'new-arrivals', image: '/images/hero-new-arrivals.webp' },
   ],
 
   // ---- External Links ----

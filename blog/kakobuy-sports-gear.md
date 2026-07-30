@@ -2,6 +2,18 @@
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
+
+
 **In This Article:**
 - What Kakobuy Spreadsheet sports gear collection offers (3,500+ verified listings)
 - Top-selling sports equipment with quality data and pricing
@@ -10,6 +22,18 @@
 - FAQ about sports gear quality, sizing, and shipping
 
 ## Introduction
+
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp" 
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
+
 
 Kakobuy Spreadsheet sports gear represents one of the platform's fastest-growing categories, with over 3,500 verified products spanning athletic footwear, training equipment, performance apparel, and sport-specific accessories. Whether you're a weekend warrior, competitive athlete, or fitness enthusiast, the platform offers comprehensive solutions at prices typically 60-80% below retail.
 

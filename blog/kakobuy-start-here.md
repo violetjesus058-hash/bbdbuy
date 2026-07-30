@@ -11,6 +11,30 @@
 
 ## Introduction
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp" 
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
+
+
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
+
+
 Welcome to Kakobuy Spreadsheet! If you are reading this Kakobuy Spreadsheet start here guide, you have taken the first step toward accessing one of the most trusted platforms for streetwear, sneakers, and fashion accessories. Whether you are drawn by the affordable prices, the extensive catalog of 276+ verified products, or the transparent quality verification system, this quick-start guide will get you from zero to your first order in the shortest time possible.
 
 Kakobuy Spreadsheet serves thousands of buyers worldwide, offering everything from budget-friendly essentials like the Essentials T-shirt ($9.73) to premium items like the Moncler Down Jacket ($83.79). With a 93% buyer satisfaction rate and an average of 410+ orders per category monthly, the platform has proven its reliability time and again. The spreadsheet-based product catalog gives you access to real data — quality pass rates, batch versions, and pricing history — so you never have to guess what you are getting.

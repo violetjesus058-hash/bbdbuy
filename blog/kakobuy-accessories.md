@@ -2,9 +2,33 @@
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
+
+
 > *Note: All prices are approximate and may fluctuate due to market conditions, batch versions, and availability.*
 
 ## In This Article:
+
+
+<figure class="article-image">
+  <img src="/images/accessories-daily-carry-us-05.webp" 
+       alt="Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Essential daily accessories with premium quality and fast shipping options</figcaption>
+</figure>
+
 
 - Top-selling Kakobuy Spreadsheet accessories with real order data and quality pass rates
 - Materials and craftsmanship guide for hats, socks, jewelry, and sunglasses

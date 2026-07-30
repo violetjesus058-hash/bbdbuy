@@ -2,6 +2,30 @@
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a> <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
+
+<figure class="article-image">
+  <img src="/images/bags-travel-backpack-us-07.webp" 
+       alt="Traveler with backpack and crossbody bag at airport with US UK Australia luggage tags and Nike shoe box" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Travel-ready bags with international shipping to multiple destinations</figcaption>
+</figure>
+
+
+
+<figure class="article-image">
+  <img src="/images/bags-daily-commute-eu-08.webp" 
+       alt="Professional woman with leather tote bag walking in European city, EU express delivery van in background" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Professional bags for daily commute with EU express delivery options</figcaption>
+</figure>
+
+
 ## In This Article
 
 - Complete guide to buying Coach products on Kakobuy Spreadsheet in 2026

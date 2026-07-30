@@ -2,7 +2,31 @@
 
 <a href="https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254" target="_blank" rel="nofollow">Access Kakobuy Spreadsheet</a>
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp" 
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
+
+
 ## In This Article
+
+
+<figure class="article-image">
+  <img src="/images/electronics-smart-home-au-10.webp" 
+       alt="Family in living room with Dyson air purifier JBL speaker and smart home devices, Australia US shipping" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Smart home electronics with Australia and US shipping options</figcaption>
+</figure>
+
 
 - Understanding quality control metrics in the spreadsheet
 - How QC data reduces purchase risk for international buyers

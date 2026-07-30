@@ -11,6 +11,30 @@ Explore the detailed comparison between two distinct streetwear aesthetics avail
 
 ## Brand Overview
 
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp" 
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
+
+
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp" 
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket" 
+       loading="lazy" 
+       width="1200" 
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
+
+
 Chrome Hearts and Essentials represent opposite ends of the streetwear spectrum, each with distinct design philosophies and target audiences.
 
 ### Chrome Hearts: Luxury Gothic Streetwear
