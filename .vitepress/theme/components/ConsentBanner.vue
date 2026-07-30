@@ -46,8 +46,8 @@ function denyConsent() {
 }
 
 function updateConsent(status) {
-  if (typeof gtag === 'function') {
-    gtag('consent', 'update', {
+  if (typeof window.gtag === 'function') {
+    window.gtag('consent', 'update', {
       'ad_user_data': status,
       'ad_personalization': status,
       'ad_storage': status,

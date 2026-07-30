@@ -23,7 +23,7 @@ export default defineConfig({
     // Consent Mode v2 — default all denied, load gtag only after consent
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      window.gtag = function(){window.dataLayer.push(arguments);};
       gtag('consent', 'default', {
         'ad_user_data': 'denied',
         'ad_personalization': 'denied',
