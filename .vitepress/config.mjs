@@ -20,14 +20,40 @@ export default defineConfig({
   lang: 'en-US',
 
   head: [
-    ['script', { async: '', src: `https://www.googletagmanager.com/gtag/js?id=${seo.ga4}` }],
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=AW-18355431983' }],
+    // Consent Mode v2 — default all denied, load gtag only after consent
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
+      gtag('consent', 'default', {
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied',
+        'wait_for_update': 500
+      });
       gtag('js', new Date());
-      gtag('config', '${seo.ga4}');
-      gtag('config', 'AW-18355431983');
+      gtag('config', '${seo.ga4}', { 'anonymize_ip': true });
+      gtag('config', 'AW-18355431983', { 'anonymize_ip': true });
+    `],
+    ['script', {}, `
+      (function() {
+        if (localStorage.getItem('consentGranted') === 'true') {
+          var s1 = document.createElement('script');
+          s1.async = true;
+          s1.src = 'https://www.googletagmanager.com/gtag/js?id=${seo.ga4}';
+          document.head.appendChild(s1);
+          var s2 = document.createElement('script');
+          s2.async = true;
+          s2.src = 'https://www.googletagmanager.com/gtag/js?id=AW-18355431983';
+          document.head.appendChild(s2);
+          gtag('consent', 'update', {
+            'ad_user_data': 'granted',
+            'ad_personalization': 'granted',
+            'ad_storage': 'granted',
+            'analytics_storage': 'granted'
+          });
+        }
+      })();
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
@@ -47,33 +73,23 @@ export default defineConfig({
     })],
     ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
     ['script', {}, 'LA.init({id:"3QeJ4R8Vu6YpAFhK",ck:"3QeJ4R8Vu6YpAFhK"})'],
-    // Google Ads conversion tracking for button clicks
+    // Google Ads conversion tracking for button clicks (only fires when consent granted)
     ['script', {}, `
       document.addEventListener('DOMContentLoaded', function() {
-        // Track "Access Kakobuy Spreadsheet" button clicks (hero CTA only)
+        function sendConversion(sendTo) {
+          if (localStorage.getItem('consentGranted') === 'true' && typeof gtag === 'function') {
+            gtag('event', 'conversion', {
+              'send_to': sendTo,
+              'value': 1.0,
+              'currency': 'USD'
+            });
+          }
+        }
         document.querySelectorAll('a.cta-spreadsheet').forEach(function(btn) {
-          btn.addEventListener('click', function() {
-            if (typeof gtag === 'function') {
-              gtag('event', 'conversion', {
-                'send_to': 'AW-18355431983/oXBcCNidqtgcEK_UxrBE',
-                'value': 1.0,
-                'currency': 'USD'
-              });
-            }
-          });
+          btn.addEventListener('click', function() { sendConversion('AW-18355431983/oXBcCNidqtgcEK_UxrBE'); });
         });
-
-        // Track "Start shopping" button clicks
         document.querySelectorAll('.shopping-btn').forEach(function(btn) {
-          btn.addEventListener('click', function() {
-            if (typeof gtag === 'function') {
-              gtag('event', 'conversion', {
-                'send_to': 'AW-18355431983/-z_fCNWdqtgcEK_UxrBE',
-                'value': 1.0,
-                'currency': 'USD'
-              });
-            }
-          });
+          btn.addEventListener('click', function() { sendConversion('AW-18355431983/-z_fCNWdqtgcEK_UxrBE'); });
         });
       });
     `],
