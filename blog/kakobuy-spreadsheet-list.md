@@ -38,7 +38,7 @@ Filter functions provide structured narrowing of the product list based on speci
 
 Advanced filtering techniques include range-based filters for continuous variables like price and quality rating, enabling buyers to specify minimum and maximum thresholds. For example, a buyer seeking premium sneakers in the $50-75 range can filter for category (sneakers), quality rating (90%+), and price range ($50-75) simultaneously, instantly narrowing the catalog to items matching all criteria.
 
-Sorting functions complement filtering by organizing filtered results according to specified priorities. Products can be sorted by quality rating (highest to lowest), price (lowest to highest), order volume (most popular first), or alphabetically by name. This sorting flexibility enables buyers to prioritize the factors most important to their purchasing decisions. The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tool provides additional search capabilities for buyers seeking specific items within the comprehensive product list.
+Sorting functions complement filtering by organizing filtered results according to specified priorities. Products can be sorted by quality rating (highest to lowest), price (lowest to highest), order volume (most popular first), or alphabetically by name. This sorting flexibility enables buyers to prioritize the factors most important to their purchasing decisions. The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tool provides additional search capabilities for buyers seeking specific items within the comprehensive product list.
 
 ## Interpreting Product Data Fields
 

@@ -295,7 +295,7 @@ Deepen your knowledge with these clothing-specific resources:
 - [Kakobuy T-Shirts Guide](/blog/kakobuy-t-shirts/) — T-shirt materials, fit options, and quality indicators
 - [Kakobuy Streetwear Guide](/blog/kakobuy-streetwear/) — Streetwear brands, styling tips, and trend analysis
 - [Kakobuy QC Photos](/blog/kakobuy-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [Kakobuy Sizing Tips](/blog//kakobuy-sizing-tips/) — Universal sizing guide for shoes and apparel
+- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 

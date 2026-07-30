@@ -38,7 +38,7 @@ This real-time update capability is particularly valuable for time-sensitive pur
 
 Collaborative features enhance the buying experience by enabling community contribution and knowledge sharing. Buyers can add comments to product entries sharing their experiences, suggest corrections when they identify errors, or contribute additional information that benefits the community. While the core database is maintained by dedicated curators, these collaborative features create a living document that improves through community participation.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tools benefit from Google Sheets' advanced filtering and search capabilities. Buyers can create custom views that filter the database according to their specific criteria, saving these views for future reference. The platform's formula capabilities power dynamic calculations that help buyers compare products and identify optimal choices based on their individual priorities.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tools benefit from Google Sheets' advanced filtering and search capabilities. Buyers can create custom views that filter the database according to their specific criteria, saving these views for future reference. The platform's formula capabilities power dynamic calculations that help buyers compare products and identify optimal choices based on their individual priorities.
 
 ## Mobile Optimization and On-the-Go Access
 

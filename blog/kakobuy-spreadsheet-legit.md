@@ -46,7 +46,7 @@ The spreadsheet helps identify potential legitimacy issues through various warni
 
 Inconsistent buyer reports also signal potential legitimacy concerns. When some buyers receive products matching descriptions while others report significant discrepancies, this variability suggests inconsistent quality or misleading listings. The spreadsheet tracks these patterns, helping shoppers identify products with legitimacy risks.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) allows shoppers to filter products by legitimacy indicators, helping them avoid items with warning signs. This filtering capability is particularly valuable when shopping for categories where legitimacy concerns are common.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) allows shoppers to filter products by legitimacy indicators, helping them avoid items with warning signs. This filtering capability is particularly valuable when shopping for categories where legitimacy concerns are common.
 
 Seller history data provides additional legitimacy context. Sellers with consistent track records of delivering legitimate products across multiple items demonstrate reliability. Conversely, sellers with mixed legitimacy records warrant more careful evaluation even for individual products with good ratings.
 

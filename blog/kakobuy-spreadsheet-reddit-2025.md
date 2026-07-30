@@ -36,7 +36,7 @@ Several major trends emerged from the 2025 spreadsheet data that continue to inf
 
 Quality improvement patterns were particularly noteworthy. Many product categories showed progressive quality enhancement throughout 2025, as sellers responded to community feedback and competition. Products that started with moderate quality ratings often achieved significantly higher scores by year-end, demonstrating the market's responsiveness to informed consumer pressure.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) functionality, enhanced in late 2025, revealed important category-specific patterns. Electronics showed the highest price volatility but also the most rapid quality improvements. Fashion items demonstrated remarkable consistency in quality ratings, while home goods showed the strongest value propositions when comparing price to quality metrics.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) functionality, enhanced in late 2025, revealed important category-specific patterns. Electronics showed the highest price volatility but also the most rapid quality improvements. Fashion items demonstrated remarkable consistency in quality ratings, while home goods showed the strongest value propositions when comparing price to quality metrics.
 
 Community engagement patterns from 2025 also provided valuable insights. Products with higher Reddit discussion volumes tended to have more accurate spreadsheet quality ratings, as increased scrutiny led to more comprehensive data collection. This correlation between community attention and data accuracy continues to guide shoppers toward well-documented products with reliable quality information.
 

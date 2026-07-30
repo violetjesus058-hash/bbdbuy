@@ -38,7 +38,7 @@ Bookmark functionality enables buyers to save direct link access for future refe
 
 The link also supports specific section navigation through anchor links that connect directly to particular spreadsheet tabs or sections. Buyers interested specifically in sneakers can access the sneaker tab directly, while those focused on apparel can navigate immediately to the apparel section. This targeted access improves efficiency for buyers with specific category interests.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tools are fully accessible through the direct link, enabling immediate use of advanced filtering, search, and organization features. Buyers can implement their research strategies immediately upon access without setup or configuration delays.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tools are fully accessible through the direct link, enabling immediate use of advanced filtering, search, and organization features. Buyers can implement their research strategies immediately upon access without setup or configuration delays.
 
 ## Link Sharing and Collaboration
 

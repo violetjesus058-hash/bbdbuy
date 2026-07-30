@@ -38,7 +38,7 @@ Batch performance analysis identifies which sellers are delivering consistent qu
 
 The spreadsheet tracks batch release timing, helping buyers understand production cycles and anticipate new releases. Most sellers operate on 4-6 week batch cycles, with new products becoming available regularly throughout the year. This timing information helps buyers plan purchases and avoid missing limited releases.
 
-For buyers using [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tools to locate specific products, batch performance data provides essential context for evaluating current availability. A product from a strong 2026 batch with comprehensive QC documentation represents a lower-risk purchase than older inventory with limited quality evidence.
+For buyers using [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tools to locate specific products, batch performance data provides essential context for evaluating current availability. A product from a strong 2026 batch with comprehensive QC documentation represents a lower-risk purchase than older inventory with limited quality evidence.
 
 ## Real-Time Quality Updates
 

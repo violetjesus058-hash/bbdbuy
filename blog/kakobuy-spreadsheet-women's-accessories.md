@@ -82,7 +82,7 @@ When using the Kakobuy Spreadsheet women's accessories edition to shop, consider
 
 **Check Sizing and Fit Information**: For items like rings, belts, hats, and watches, sizing is crucial. Use the sizing information and buyer feedback in the spreadsheet to choose items that will fit well. Items that run true to size and have positive fit feedback are generally safer bets.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tool can help you navigate the spreadsheet more efficiently and find accessories that match your specific criteria.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tool can help you navigate the spreadsheet more efficiently and find accessories that match your specific criteria.
 
 ## Frequently Asked Questions
 

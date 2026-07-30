@@ -38,7 +38,7 @@ The [Kakobuy spreadsheet with qc](/blog/kakobuy-spreadsheet-with-qc/) integratio
 
 Advanced bot functionality includes price tracking and alert systems. Members can set up notifications for specific products or categories, receiving Discord messages when prices drop below certain thresholds or when new items matching their criteria are added to the spreadsheet. This proactive alert system ensures that community members never miss opportunities for exceptional value.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) functionality is enhanced through Discord's search capabilities. Members can describe what they're looking for in natural language, and bots can search the spreadsheet to provide relevant matches ranked by quality ratings and value metrics. This conversational interface makes the spreadsheet's comprehensive data accessible to users regardless of their technical proficiency.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) functionality is enhanced through Discord's search capabilities. Members can describe what they're looking for in natural language, and bots can search the spreadsheet to provide relevant matches ranked by quality ratings and value metrics. This conversational interface makes the spreadsheet's comprehensive data accessible to users regardless of their technical proficiency.
 
 ## Community Moderation and Quality Verification
 

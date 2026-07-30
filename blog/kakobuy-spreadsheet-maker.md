@@ -74,7 +74,7 @@ Add filters to your header row to make it easy to sort and filter your data. Thi
 **Step 7: Test and Refine**
 Once your spreadsheet is built, test it by importing a few products and using the filters, formulas, and formatting you've created. Make adjustments as needed to improve usability and accuracy.
 
-For help discovering products to import into your spreadsheet, the [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tool can surface trending products and hidden gems that match your preferences and can be added to your custom research system.
+For help discovering products to import into your spreadsheet, the [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tool can surface trending products and hidden gems that match your preferences and can be added to your custom research system.
 
 ## Advanced Techniques for Power Users
 
@@ -114,6 +114,6 @@ The Kakobuy Spreadsheet maker guide empowers you to build your own customized pr
 
 To get started, access the main Kakobuy Spreadsheet using the link above and begin planning your custom research tool. Identify your primary use case, determine the data points that matter most to you, and design a structure that supports your research goals. Use the step-by-step instructions to build your spreadsheet, import data from the main database, and add custom formulas, filters, and visual indicators. With the right approach, you can create a research system that saves time, reduces stress, and helps you make informed purchasing decisions with confidence.
 
-For more resources, check out our guides on the [Kakobuy spreadsheet best](/blog/kakobuy-spreadsheet-best/), the [Kakobuy spreadsheet with qc](/blog/kakobuy-spreadsheet-with-qc/), and the [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) to enhance your spreadsheet building skills and maximize your success with your custom research tool.
+For more resources, check out our guides on the [Kakobuy spreadsheet best](/blog/kakobuy-spreadsheet-best/), the [Kakobuy spreadsheet with qc](/blog/kakobuy-spreadsheet-with-qc/), and the [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) to enhance your spreadsheet building skills and maximize your success with your custom research tool.
 
 Choosing the right Spreadsheet Maker becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [Kakobuy Spreadsheet](https://kakobuylinki.com/) homepage for additional shopping resources and regularly updated product guides.

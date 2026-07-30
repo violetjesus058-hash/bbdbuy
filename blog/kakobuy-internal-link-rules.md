@@ -127,7 +127,7 @@ For more details on specific brands, check out our [Kakobuy nike param($m); $pat
 
 —?Wrong file path format:
 ```markdown
-[Kakobuy Nike](/Kakobuy/blog/kakobuy-nike.md)
+[Kakobuy Nike](/blog/kakobuy-nike)
 ```
 
 ---

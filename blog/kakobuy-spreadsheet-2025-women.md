@@ -38,7 +38,7 @@ Handbags represent the largest subcategory, with options ranging from everyday t
 
 Crossbody bags and shoulder bags form another significant subcategory, with over 1,200 listings offering practical daily carry options. Quality ratings for these bags emphasize strap comfort, pocket functionality, and size appropriateness for various body types. The spreadsheet's detailed listings help women find bags that combine style with practical functionality.
 
-Travel bags and backpacks round out the women's bag category, with options designed for both fashion and function. Quality assessments for travel bags focus on durability, capacity, and comfort features like padded straps and organizational pockets. Visit the [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) to search for specific women's bag styles and compare options across sellers.
+Travel bags and backpacks round out the women's bag category, with options designed for both fashion and function. Quality assessments for travel bags focus on durability, capacity, and comfort features like padded straps and organizational pockets. Visit the [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) to search for specific women's bag styles and compare options across sellers.
 
 ## Women's Clothing: Dresses, Tops, Bottoms, and Outerwear
 

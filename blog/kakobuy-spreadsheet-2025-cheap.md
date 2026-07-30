@@ -38,7 +38,7 @@ Products priced under $25 typically achieve 82-87% quality ratings. These items 
 
 Products in the $25-$50 range typically achieve 85-90% quality ratings. This price range offers the best value proposition, with quality that approaches premium products at significantly lower cost. Material accuracy improves noticeably, construction quality is reliable, and overall appearance satisfies most buyers. This range represents the sweet spot for budget-conscious quality seekers.
 
-Products priced $50-$75 achieve 88-92% quality ratings, approaching premium quality at moderate prices. These products satisfy buyers who want high quality but can't or won't pay premium prices. The value proposition is strong, with quality that many buyers find indistinguishable from more expensive options. Use the [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) to search for specific budget products meeting your criteria.
+Products priced $50-$75 achieve 88-92% quality ratings, approaching premium quality at moderate prices. These products satisfy buyers who want high quality but can't or won't pay premium prices. The value proposition is strong, with quality that many buyers find indistinguishable from more expensive options. Use the [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) to search for specific budget products meeting your criteria.
 
 ## Top Value Products by Category
 

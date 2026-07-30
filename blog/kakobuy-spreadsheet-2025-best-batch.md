@@ -38,7 +38,7 @@ Fashion accessories batches showed strong performance in the 2025 data, with mul
 
 Electronics batches presented more variable quality in 2025, with top performers achieving 92% quality ratings while lower batches fell to 84%. This variation makes batch selection particularly important in the electronics category, where component quality and assembly precision significantly impact product performance and longevity.
 
-Across all categories, the best batches shared common characteristics: established sellers with proven track records, premium material sourcing, rigorous quality control processes, and consistent buyer satisfaction. The spreadsheet's batch data enables buyers to identify these characteristics and select products from production runs that demonstrated excellence. Visit the [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) to search for specific batch information.
+Across all categories, the best batches shared common characteristics: established sellers with proven track records, premium material sourcing, rigorous quality control processes, and consistent buyer satisfaction. The spreadsheet's batch data enables buyers to identify these characteristics and select products from production runs that demonstrated excellence. Visit the [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) to search for specific batch information.
 
 ## Using Batch Data for Purchase Timing
 

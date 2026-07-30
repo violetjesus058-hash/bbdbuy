@@ -82,7 +82,7 @@ When using the Kakobuy Spreadsheet women's bags edition to shop, consider these 
 
 **Check Capacity and Dimensions**: Make sure the bag you're considering can hold everything you need to carry. The spreadsheet includes capacity dimensions and notes what items fit inside (laptop size, water bottle, makeup bag, etc.). This helps you avoid bags that are too small or unnecessarily large.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) tool can help you navigate the spreadsheet more efficiently and find bags that match your specific criteria.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) tool can help you navigate the spreadsheet more efficiently and find bags that match your specific criteria.
 
 ## Frequently Asked Questions
 

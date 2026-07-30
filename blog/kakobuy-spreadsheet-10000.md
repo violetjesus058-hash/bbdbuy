@@ -38,7 +38,7 @@ Quality verification for each product includes material assessment, construction
 
 Seller verification also evolved during the growth phase. Early seller information was basic, but the path to 10,000 products saw the development of comprehensive seller profiles including performance metrics, reliability scores, and order volume tracking. This evolution ensured that database growth improved the quality of seller information rather than just increasing quantity.
 
-Buyer feedback integration became more systematic as the database grew. Early feedback incorporation was ad hoc, but reaching 10,000 products coincided with structured processes for collecting, verifying, and integrating buyer feedback into quality ratings. This systematic approach ensured that the growing database remained responsive to actual buyer experiences. Visit the [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) to explore the comprehensive database that resulted from this quality-focused growth.
+Buyer feedback integration became more systematic as the database grew. Early feedback incorporation was ad hoc, but reaching 10,000 products coincided with structured processes for collecting, verifying, and integrating buyer feedback into quality ratings. This systematic approach ensured that the growing database remained responsive to actual buyer experiences. Visit the [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) to explore the comprehensive database that resulted from this quality-focused growth.
 
 ## Research Capabilities with 10,000+ Products
 

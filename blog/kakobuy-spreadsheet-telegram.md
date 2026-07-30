@@ -46,7 +46,7 @@ Telegram groups provide a level of community engagement that enhances the spread
 
 Experienced community members often serve as informal advisors, helping newcomers navigate the spreadsheet and interpret quality ratings, order counts, and pricing trends. This mentorship accelerates the learning curve for new buyers, helping them avoid common pitfalls and make better decisions from their first purchases. The collaborative spirit of Telegram groups creates a welcoming environment for shoppers at all experience levels.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) functionality is particularly valuable in Telegram discussions. When members describe what they're looking for, experienced users can quickly locate relevant products in the spreadsheet and share direct links, saving time and effort. This collaborative searching capability demonstrates the synergy between human intelligence and structured data.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) functionality is particularly valuable in Telegram discussions. When members describe what they're looking for, experienced users can quickly locate relevant products in the spreadsheet and share direct links, saving time and effort. This collaborative searching capability demonstrates the synergy between human intelligence and structured data.
 
 Group administrators also organize themed discussions and focus sessions on specific product categories, inviting knowledgeable members to share insights and answer questions. These structured interactions provide deep dives into particular areas of interest, complementing the spreadsheet's broad coverage with specialized expertise.
 

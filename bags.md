@@ -44,7 +44,7 @@ relatedArticles:
     link: /blog/kakobuy-qc-photos/
     desc: Learn to inspect bags using quality control photos
   - title: "Kakobuy Spreadsheet — Product Database"
-    link: /blog//kakobuy-spreadsheet/
+    link: /blog/kakobuy-spreadsheet/
     desc: Browse bag listings with prices and batch info
 ---
 

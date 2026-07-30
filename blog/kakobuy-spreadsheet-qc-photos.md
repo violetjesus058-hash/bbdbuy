@@ -46,7 +46,7 @@ QC photos enable effective product comparison by providing consistent visual sta
 
 Price-to-quality relationships become evident when comparing QC photos across price points. Sometimes modest price increases deliver substantial quality improvements visible in photos, representing good value. Conversely, expensive products with QC photos showing quality similar to cheaper alternatives indicate poor value.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) helps shoppers locate products with comparable QC photo documentation, facilitating effective visual comparison. This capability is particularly valuable when choosing between similar options where visual quality differences determine the best choice.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) helps shoppers locate products with comparable QC photo documentation, facilitating effective visual comparison. This capability is particularly valuable when choosing between similar options where visual quality differences determine the best choice.
 
 Historical QC photos track quality changes over time, showing whether products maintain consistent quality or experience degradation. Products with consistent visual quality across multiple purchase batches demonstrate reliable manufacturing standards, while those showing declining quality in recent photos warrant caution.
 

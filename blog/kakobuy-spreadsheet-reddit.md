@@ -46,7 +46,7 @@ The synergy between Reddit community insights and spreadsheet data creates a pow
 
 For example, if multiple Redditors report issues with a particular product variant, checking the spreadsheet's quality pass rate can confirm whether this is an isolated incident or a widespread problem. Conversely, positive community feedback aligned with high quality ratings in the spreadsheet provides strong confidence in a purchase decision. This dual-verification approach has become standard practice among experienced Reddit shoppers.
 
-The [Kakobuy spreadsheet finder](/blog//kakobuy-spreadsheet/) functionality enhances this process by allowing users to quickly locate relevant products based on community recommendations. When a Redditor shares a positive experience with a specific item, others can use the finder to access complete product information, including pricing history, quality metrics, and alternative options within the same category.
+The [Kakobuy spreadsheet finder](/blog/kakobuy-spreadsheet-link/) functionality enhances this process by allowing users to quickly locate relevant products based on community recommendations. When a Redditor shares a positive experience with a specific item, others can use the finder to access complete product information, including pricing history, quality metrics, and alternative options within the same category.
 
 Community-generated content also enriches the spreadsheet's value. Reddit discussions often reveal use cases, styling tips, and compatibility information that complement the spreadsheet's technical specifications. This combination of quantitative data and qualitative insights provides a holistic view that neither source could deliver independently.
 
