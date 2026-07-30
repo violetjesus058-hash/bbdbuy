@@ -7,9 +7,9 @@
       </div>
       <div class="hero-overlay"></div>
       <div class="hero-inner">
-        <h1 class="hero-title">Men's Fashion Finds</h1>
+        <h1 class="hero-title">Kakobuy Men's Fashion Finds</h1>
         <p class="hero-subtitle">10,000+ Clothing, Sneakers &amp; Accessories</p>
-        <p class="hero-desc">Explore organized fashion categories including sneakers, hoodies, jackets and accessories. Updated collections with easy product discovery.</p>
+        <p class="hero-desc">Explore organized fashion categories on Kakobuy including sneakers, hoodies, jackets and accessories. Updated collections with easy product discovery.</p>
         <!-- CTA Buttons -->
         <div class="hero-cta-group">
           <div class="hero-cta-item">
