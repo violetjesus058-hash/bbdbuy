@@ -69,6 +69,14 @@ function loadGtagScripts() {
   s2.async = true
   s2.src = 'https://www.googletagmanager.com/gtag/js?id=' + aw
   document.head.appendChild(s2)
+
+  // Wait for scripts to load, then initialize
+  setTimeout(function() {
+    if (typeof window.gtag === 'function') {
+      window.gtag('config', ga4, { anonymize_ip: true })
+      window.gtag('config', aw, { anonymize_ip: true })
+    }
+  }, 1000)
 }
 </script>
 

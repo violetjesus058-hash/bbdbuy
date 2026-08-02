@@ -28,7 +28,7 @@ export default defineConfig({
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-P7CCW56D');
     `],
-    // Consent Mode v2 — default all denied, load gtag only after consent
+    // Consent Mode v2 — default all denied, only set consent defaults
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       window.gtag = function(){window.dataLayer.push(arguments);};
@@ -39,9 +39,6 @@ export default defineConfig({
         'analytics_storage': 'denied',
         'wait_for_update': 500
       });
-      gtag('js', new Date());
-      gtag('config', '${seo.ga4}', { 'anonymize_ip': true });
-      gtag('config', 'AW-18355431983', { 'anonymize_ip': true });
     `],
     ['script', {}, `
       (function() {
@@ -64,7 +61,12 @@ export default defineConfig({
             'ad_storage': 'granted',
             'analytics_storage': 'granted'
           });
-          gtag('config', 'G-N9BCQ2XS4W');
+          setTimeout(function() {
+            gtag('js', new Date());
+            gtag('config', '${seo.ga4}', { 'anonymize_ip': true });
+            gtag('config', 'AW-18355431983', { 'anonymize_ip': true });
+            gtag('config', 'G-N9BCQ2XS4W', { 'anonymize_ip': true });
+          }, 1000);
         }
       })();
     `],
@@ -86,23 +88,30 @@ export default defineConfig({
     })],
     ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
     ['script', {}, 'LA.init({id:"3QeJ4R8Vu6YpAFhK",ck:"3QeJ4R8Vu6YpAFhK"})'],
-    // Google Ads conversion tracking for button clicks (only fires when consent granted)
+    // Google Ads conversion + GA4 event tracking for button clicks (only fires when consent granted)
     ['script', {}, `
       document.addEventListener('DOMContentLoaded', function() {
-        function sendConversion(sendTo) {
-          if (localStorage.getItem('consentGranted') === 'true' && typeof gtag === 'function') {
-            gtag('event', 'conversion', {
+        function sendTracking(eventName, sendTo) {
+          if (localStorage.getItem('consentGranted') === 'true' && typeof window.gtag === 'function') {
+            // Send to Google Ads
+            window.gtag('event', 'conversion', {
               'send_to': sendTo,
               'value': 1.0,
               'currency': 'USD'
             });
+            // Send to GA4
+            window.gtag('event', eventName, {
+              'event_category': 'button_click',
+              'event_label': eventName,
+              'value': 1.0
+            });
           }
         }
         document.querySelectorAll('a.cta-spreadsheet').forEach(function(btn) {
-          btn.addEventListener('click', function() { sendConversion('AW-18355431983/oXBcCNidqtgcEK_UxrBE'); });
+          btn.addEventListener('click', function() { sendTracking('spreadsheet_button_click', 'AW-18355431983/oXBcCNidqtgcEK_UxrBE'); });
         });
         document.querySelectorAll('.shopping-btn').forEach(function(btn) {
-          btn.addEventListener('click', function() { sendConversion('AW-18355431983/-z_fCNWdqtgcEK_UxrBE'); });
+          btn.addEventListener('click', function() { sendTracking('shopping_button_click', 'AW-18355431983/-z_fCNWdqtgcEK_UxrBE'); });
         });
       });
     `],
