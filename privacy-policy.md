@@ -1,0 +1,58 @@
+---
+title: Privacy Policy
+description: Privacy Policy for KakobuyLinki - How we collect, use, and protect your information.
+---
+
+# Privacy Policy
+
+**Effective Date:** August 2, 2026
+
+Welcome to KakobuyLinki. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you visit our website at [https://kakobuylinki.com/](https://kakobuylinki.com/).
+
+## 1. Nature of Our Service & Disclaimer
+
+**Information & Linking Platform Only:** KakobuyLinki is an independent affiliate and product indexing platform. We provide product recommendations and direct links to third-party shopping agents (such as KakoBuy).
+
+**No Direct Sales or Inventory:** We do NOT directly sell products, handle inventory, process payments, or manage international shipping.
+
+**No Guarantees:** We cannot guarantee product quality, sizing, authenticity, seller credibility, or logistics timelines. All transactions, purchasing decisions, and shipping arrangements occur entirely on the third-party platform (e.g., KakoBuy) according to their terms and policies.
+
+## 2. Information We Collect
+
+Because we operate primarily as a product display and link recommendation platform, we collect minimal data:
+
+**Log & Technical Data:** IP address, browser type, device information, operating system, and pages viewed via standard cookies and analytics tools (e.g., Google Analytics).
+
+**Voluntary Information:** If you contact us directly via email or contact forms, we collect the email address and information you provide.
+
+## 3. Cookies and Analytics
+
+We use cookies and similar tracking technologies to analyze website traffic, understand user preferences, and improve user experience. You can choose to decline non-essential cookies via our Cookie Consent banner or adjust your browser settings.
+
+## 4. Third-Party Links & External Platforms
+
+Our website contains affiliate or referral links to third-party websites (including purchasing agent platforms like KakoBuy).
+
+- When you click on these links and leave our site, you will be redirected to external platforms.
+- We are not responsible for the privacy practices, terms, or content of these third-party websites.
+- We strongly encourage you to review the Privacy Policy and Terms of Service of any third-party platform (such as KakoBuy) before registering an account or making a purchase.
+
+## 5. How We Protect Your Information
+
+We implement reasonable security measures to maintain the safety of your personal information. However, please note that no method of transmission over the Internet or electronic storage is 100% secure.
+
+## 6. Your Data Rights
+
+Depending on your jurisdiction (e.g., GDPR, CCPA), you may have the following rights regarding your personal data:
+
+- The right to access the personal data we hold about you.
+- The right to request correction or deletion of your personal data.
+- The right to object to or restrict certain data processing.
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated "Effective Date."
+
+---
+
+If you have any questions about this Privacy Policy, please contact us at [https://kakobuylinki.com/](https://kakobuylinki.com/).
