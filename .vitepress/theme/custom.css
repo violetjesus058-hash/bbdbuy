@@ -849,6 +849,16 @@ footer.VPFooter,
  margin: 0;
 }
 
+/* ===== Performance: defer below-fold sections ===== */
+.categories-section,
+.how-it-works,
+.why-section,
+.faq-section,
+.blog-section {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 600px;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
  .section-title {

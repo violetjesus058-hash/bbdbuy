@@ -72,8 +72,8 @@ export default defineConfig({
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'preload', as: 'image', href: '/images/hero-1200w.webp', fetchpriority: 'high' }],
-    ['link', { rel: 'preconnect', href: 'https://collect-v6.51.la', crossorigin: '' }],
     ['link', { rel: 'preconnect', href: 'https://sdk.51.la', crossorigin: '' }],
+    ['link', { rel: 'dns-prefetch', href: 'https://collect-v6.51.la' }],
     ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com', crossorigin: '' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: seo.title }],
@@ -90,8 +90,21 @@ export default defineConfig({
       url: seo.hostname,
       description: brand.description,
     })],
-    ['script', { defer: '', charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
-    ['script', { defer: '' }, 'LA.init({id:"3QeJ4R8Vu6YpAFhK",ck:"3QeJ4R8Vu6YpAFhK"})'],
+    ['script', {}, `
+      (function() {
+        var s = document.createElement('script');
+        s.charset = 'UTF-8';
+        s.id = 'LA_COLLECT';
+        s.src = 'https://sdk.51.la/js-sdk-pro.min.js';
+        s.onload = function() {
+          if (typeof LA !== 'undefined' && typeof LA.init === 'function') {
+            LA.init({id:"3QeJ4R8Vu6YpAFhK",ck:"3QeJ4R8Vu6YpAFhK"});
+          }
+        };
+        s.onerror = function() { console.warn('51.la SDK failed to load'); };
+        document.head.appendChild(s);
+      })();
+    `],
     // Google Ads conversion + GA4 event tracking for button clicks (only fires when consent granted)
     ['script', {}, `
       document.addEventListener('DOMContentLoaded', function() {
