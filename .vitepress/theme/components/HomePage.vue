@@ -3,7 +3,10 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-bg">
-        <img src="/images/kakobuy-spreadsheet-mens-fashion-hero-banner.webp" alt="Men's fashion streetwear collection featuring hoodies, sneakers and urban style" loading="eager" width="1920" height="1080">
+        <picture>
+          <source srcset="/images/hero-480w.webp 480w, /images/hero-768w.webp 768w, /images/hero-1200w.webp 1200w" sizes="100vw" type="image/webp">
+          <img src="/images/hero-1200w.webp" alt="Men's fashion streetwear collection featuring hoodies, sneakers and urban style" fetchpriority="high" loading="eager" decoding="async" width="1200" height="675">
+        </picture>
       </div>
       <div class="hero-overlay"></div>
       <div class="hero-inner">

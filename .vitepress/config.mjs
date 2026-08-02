@@ -71,6 +71,10 @@ export default defineConfig({
       })();
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'preload', as: 'image', href: '/images/hero-1200w.webp', fetchpriority: 'high' }],
+    ['link', { rel: 'preconnect', href: 'https://collect-v6.51.la', crossorigin: '' }],
+    ['link', { rel: 'preconnect', href: 'https://sdk.51.la', crossorigin: '' }],
+    ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com', crossorigin: '' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: seo.title }],
     ['meta', { property: 'og:description', content: seo.description }],
@@ -86,8 +90,8 @@ export default defineConfig({
       url: seo.hostname,
       description: brand.description,
     })],
-    ['script', { charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
-    ['script', {}, 'LA.init({id:"3QeJ4R8Vu6YpAFhK",ck:"3QeJ4R8Vu6YpAFhK"})'],
+    ['script', { defer: '', charset: 'UTF-8', id: 'LA_COLLECT', src: '//sdk.51.la/js-sdk-pro.min.js' }],
+    ['script', { defer: '' }, 'LA.init({id:"3QeJ4R8Vu6YpAFhK",ck:"3QeJ4R8Vu6YpAFhK"})'],
     // Google Ads conversion + GA4 event tracking for button clicks (only fires when consent granted)
     ['script', {}, `
       document.addEventListener('DOMContentLoaded', function() {
