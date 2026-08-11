@@ -105,18 +105,16 @@ export default defineConfig({
         document.head.appendChild(s);
       })();
     `],
-    // Google Ads conversion + GA4 event tracking for button clicks (only fires when consent granted)
+    // Google Ads conversion + GA4 event tracking for all spreadsheet/shopping links
     ['script', {}, `
-      document.addEventListener('DOMContentLoaded', function() {
+      (function() {
         function sendTracking(eventName, sendTo) {
           if (localStorage.getItem('consentGranted') === 'true' && typeof window.gtag === 'function') {
-            // Send to Google Ads
             window.gtag('event', 'conversion', {
               'send_to': sendTo,
               'value': 1.0,
               'currency': 'USD'
             });
-            // Send to GA4
             window.gtag('event', eventName, {
               'event_category': 'button_click',
               'event_label': eventName,
@@ -124,13 +122,37 @@ export default defineConfig({
             });
           }
         }
-        document.querySelectorAll('a.cta-spreadsheet').forEach(function(btn) {
-          btn.addEventListener('click', function() { sendTracking('spreadsheet_button_click', 'AW-18355431983/oXBcCNidqtgcEK_UxrBE'); });
-        });
-        document.querySelectorAll('.shopping-btn').forEach(function(btn) {
-          btn.addEventListener('click', function() { sendTracking('shopping_button_click', 'AW-18355431983/-z_fCNWdqtgcEK_UxrBE'); });
-        });
-      });
+        function bindTracking() {
+          // Spreadsheet links: homepage CTA buttons + article text links
+          document.querySelectorAll('a.cta-spreadsheet, a[href*="docs.google.com/spreadsheets"]').forEach(function(el) {
+            if (!el.dataset.tracked) {
+              el.dataset.tracked = '1';
+              el.addEventListener('click', function() {
+                var name = el.classList.contains('cta-spreadsheet') ? 'spreadsheet_button_click' : 'spreadsheet_link_click';
+                sendTracking(name, 'AW-18355431983/oXBcCNidqtgcEK_UxrBE');
+              });
+            }
+          });
+          // Shopping links: homepage CTA buttons + article shopping buttons
+          document.querySelectorAll('a.cta-shopping, .shopping-btn, a[href*="repsootd.com"]').forEach(function(el) {
+            if (!el.dataset.tracked) {
+              el.dataset.tracked = '1';
+              el.addEventListener('click', function() {
+                sendTracking('shopping_button_click', 'AW-18355431983/-z_fCNWdqtgcEK_UxrBE');
+              });
+            }
+          });
+        }
+        // Initial bind
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', bindTracking);
+        } else {
+          bindTracking();
+        }
+        // Re-bind on SPA navigation (VitePress uses pushState)
+        var observer = new MutationObserver(function() { bindTracking(); });
+        observer.observe(document.body, { childList: true, subtree: true });
+      })();
     `],
   ],
 
