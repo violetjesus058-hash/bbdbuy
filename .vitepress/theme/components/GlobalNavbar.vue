@@ -1,9 +1,9 @@
 <template>
-  <nav class="global-navbar">
+  <header class="global-navbar">
     <div class="navbar-container">
       <a href="/" class="navbar-brand">{{ brand.logoText }}</a>
 
-      <div class="navbar-menu">
+      <nav class="navbar-menu" aria-label="Primary navigation">
         <a
           v-for="item in nav"
           :key="item.link"
@@ -13,22 +13,18 @@
         >
           {{ item.text }}
         </a>
-      </div>
+      </nav>
 
-      <a :href="links.spreadsheet" target="_blank" class="nav-cta">Spreadsheet</a>
+      <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="nav-cta">Open catalog <span aria-hidden="true">↗</span></a>
     </div>
-  </nav>
+  </header>
 </template>
 
 <script setup>
 import { siteConfig } from '../site-config.js'
 import { useData } from 'vitepress'
-import { computed } from 'vue'
 
-const brand = siteConfig.brand
-const nav = siteConfig.nav
-const links = siteConfig.links
-
+const { brand, nav, links } = siteConfig
 const { page } = useData()
 
 function isActive(link) {
@@ -40,97 +36,74 @@ function isActive(link) {
 
 <style scoped>
 .global-navbar {
-  background: white;
-  border-bottom: 1px solid #e0e0e0;
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 1px solid rgba(17, 17, 17, .09);
+  background: rgba(255, 255, 255, .92);
+  backdrop-filter: blur(14px);
 }
-
 .navbar-container {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 20px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  height: 60px;
+  width: min(1180px, calc(100% - 48px));
+  min-height: 72px;
+  margin: 0 auto;
+  gap: 34px;
 }
-
 .navbar-brand {
-  font-size: 24px;
-  font-weight: 700;
-  color: #d4af37;
+  color: #111;
+  font-size: 17px;
+  font-weight: 800;
+  letter-spacing: -.045em;
+  line-height: 1;
   text-decoration: none;
-  margin-right: 30px;
-  transition: color 0.3s ease;
+  white-space: nowrap;
 }
-
-.navbar-brand:hover {
-  color: #8b0000;
-}
-
 .navbar-menu {
   display: flex;
-  gap: 15px;
   flex: 1;
   align-items: center;
+  justify-content: center;
+  gap: 26px;
   overflow-x: auto;
+  scrollbar-width: none;
 }
-
+.navbar-menu::-webkit-scrollbar { display: none; }
 .nav-item {
-  font-size: 14px;
-  color: #666;
+  padding: 6px 0;
+  color: #6a6a6a;
+  font-size: 13px;
+  font-weight: 650;
   text-decoration: none;
-  font-weight: 500;
   white-space: nowrap;
-  padding: 8px 0;
-  border-bottom: 2px solid transparent;
-  transition: all 0.3s ease;
+  transition: color .18s ease;
 }
-
-.nav-item:hover,
-.nav-item.active {
-  color: #d4af37;
-  border-bottom-color: #d4af37;
-}
-
+.nav-item:hover, .nav-item.active { color: #111; }
 .nav-cta {
-  background-color: #8b0000;
-  color: white;
-  padding: 8px 20px;
-  border-radius: 4px;
-  font-size: 14px;
-  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 10px 14px;
+  border-radius: 7px;
+  background: #111;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
   text-decoration: none;
-  transition: all 0.3s ease;
   white-space: nowrap;
+  transition: background .18s ease, transform .18s ease;
 }
-
-.nav-cta:hover {
-  background-color: #a00000;
-  transform: translateY(-2px);
+.nav-cta:hover { background: #5b5ce2; transform: translateY(-1px); }
+@media (max-width: 800px) {
+  .navbar-container { width: min(100% - 32px, 1180px); min-height: 64px; gap: 18px; }
+  .navbar-menu { justify-content: flex-start; gap: 18px; }
+  .navbar-brand { font-size: 15px; }
+  .nav-cta { padding: 9px 11px; font-size: 12px; }
 }
-
-@media (max-width: 1024px) {
-  .navbar-menu { gap: 10px; }
-  .nav-item { font-size: 13px; }
-  .nav-cta { padding: 8px 15px; font-size: 13px; }
-}
-
-@media (max-width: 768px) {
-  .navbar-container { padding: 0 15px; height: 50px; }
-  .navbar-brand { font-size: 20px; margin-right: 15px; }
-  .navbar-menu { gap: 8px; }
-  .nav-item { font-size: 12px; padding: 6px 0; }
-  .nav-cta { padding: 6px 12px; font-size: 12px; }
-}
-
-@media (max-width: 480px) {
-  .navbar-container { padding: 0 10px; height: 45px; }
-  .navbar-brand { font-size: 18px; margin-right: 10px; }
-  .navbar-menu { gap: 5px; }
-  .nav-item { font-size: 11px; padding: 5px 0; }
-  .nav-cta { padding: 5px 10px; font-size: 11px; }
+@media (max-width: 540px) {
+  .navbar-container { gap: 12px; }
+  .navbar-menu { display: none; }
+  .nav-cta { margin-left: auto; }
 }
 </style>

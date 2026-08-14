@@ -1,48 +1,42 @@
 <template>
   <footer class="site-footer">
-    <p class="site-footer-line">
-      Kakobuy Spreadsheet - Your Fashion Discovery Resource |
-      <a href="https://Kakobuylinki.com/sitemap.xml" target="_blank" rel="noopener">Sitemap</a>
-    </p>
-    <p class="site-footer-line">
-      Copyright &copy; 2026 bestKakobuy |
-      <a href="https://Kakobuylinki.com/">Home</a> |
-      <a href="https://Kakobuylinki.com/blog">Blog</a>
-    </p>
+    <div class="footer-container">
+      <div class="footer-brand">
+        <a href="/">{{ brand.logoText }}</a>
+        <p>{{ brand.description }}</p>
+      </div>
+      <div class="footer-links">
+        <a href="/">Home</a>
+        <a href="/blog/">Guides</a>
+        <a href="/privacy-policy/">Privacy</a>
+        <a :href="sitemapUrl" target="_blank" rel="noopener">Sitemap</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© {{ new Date().getFullYear() }} {{ brand.name }}.</span>
+      <span>Fashion discovery, thoughtfully organized.</span>
+    </div>
   </footer>
 </template>
 
 <script setup>
+import { computed } from 'vue'
+import { siteConfig } from '../site-config.js'
+
+const { brand, seo } = siteConfig
+const sitemapUrl = computed(() => `${seo.hostname.replace(/\/$/, '')}/sitemap.xml`)
 </script>
 
 <style scoped>
-.site-footer {
-  background: #1a1a2e;
-  padding: 20px 16px;
-  text-align: center;
-}
-
-.site-footer-line {
-  margin: 0;
-  padding: 3px 0;
-  font-size: 14px;
-  color: rgba(255, 255, 255, 0.7);
-  line-height: 1.6;
-}
-
-.site-footer-line a {
-  color: rgba(255, 255, 255, 0.7);
-  text-decoration: underline;
-  transition: color 0.3s ease;
-}
-
-.site-footer-line a:hover {
-  color: #d4af37;
-}
-
-@media (max-width: 480px) {
-  .site-footer-line {
-    font-size: 12px;
-  }
-}
+.site-footer { background: #111; color: #fff; padding: 62px 0 24px; }
+.footer-container, .footer-bottom { width: min(1180px, calc(100% - 48px)); margin: 0 auto; }
+.footer-container { display: flex; align-items: start; justify-content: space-between; gap: 36px; padding-bottom: 48px; }
+.footer-brand { max-width: 390px; }
+.footer-brand a { color: #fff; font-size: 19px; font-weight: 800; letter-spacing: -.045em; text-decoration: none; }
+.footer-brand p { margin: 14px 0 0; color: rgba(255, 255, 255, .56); font-size: 14px; line-height: 1.7; }
+.footer-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 12px 25px; }
+.footer-links a { color: rgba(255, 255, 255, .7); font-size: 14px; text-decoration: none; transition: color .18s ease; }
+.footer-links a:hover { color: #b6b6ff; }
+.footer-bottom { display: flex; justify-content: space-between; gap: 16px; padding-top: 20px; border-top: 1px solid rgba(255, 255, 255, .14); color: rgba(255,255,255,.4); font-size: 12px; }
+@media (max-width: 700px) { .footer-container, .footer-bottom { width: min(100% - 32px, 1180px); } .footer-container, .footer-bottom { flex-direction: column; } .footer-links { justify-content: flex-start; } }
 </style>
