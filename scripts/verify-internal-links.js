@@ -121,10 +121,10 @@ function main() {
   const sitemapPath = path.join(DIST_DIR, 'sitemap.xml');
   if (fs.existsSync(sitemapPath)) {
     const sitemap = fs.readFileSync(sitemapPath, 'utf-8');
-    const urlRegex = /<loc>(https:\/\/kakobuylinki\.com\/[^<]+)<\/loc>/g;
+    const urlRegex = /<loc>(https:\/\/usfanslinki\.com\/[^<]+)<\/loc>/g;
     let sitemapMatch;
     while ((sitemapMatch = urlRegex.exec(sitemap)) !== null) {
-      const urlPath = '/' + sitemapMatch[1].replace('https://kakobuylinki.com', '');
+      const urlPath = '/' + sitemapMatch[1].replace('https://usfanslinki.com', '');
       if (!validPages.has(urlPath) && !validPages.has(urlPath.replace(/\/$/, ''))) {
         // Don't count as error, just note
       }

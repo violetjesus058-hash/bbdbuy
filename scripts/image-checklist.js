@@ -21,12 +21,12 @@ const IMAGE_META = {
   'sneakers-unboxing-premium-uk-02.webp': {
     alt: 'Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba',
     caption: 'Quality inspection and unboxing experience with international shipping options',
-    scene: 'Hands unboxing Jordan 4 Fire Red from shoebox, Kakobuy Spreadsheet printout, QC Passed 96% card, UK Express/EU Standard shipping labels, Adidas Samba box visible'
+    scene: 'Hands unboxing Jordan 4 Fire Red from shoebox, Usfans Spreadsheet printout, QC Passed 96% card, UK Express/EU Standard shipping labels, Adidas Samba box visible'
   },
   'clothing-streetwear-outfit-us-03.webp': {
     alt: 'Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket',
     caption: 'Streetwear styling inspiration featuring popular brands and casual urban fashion',
-    scene: 'Three friends on LA Melrose Ave sidewalk: man in Essentials hoodie + cargo pants, woman in Stussy tee + jeans, man in Gallery Dept splatter jacket + white pants, Nike shopping bag, Kakobuy Express cyclist'
+    scene: 'Three friends on LA Melrose Ave sidewalk: man in Essentials hoodie + cargo pants, woman in Stussy tee + jeans, man in Gallery Dept splatter jacket + white pants, Nike shopping bag, Usfans Express cyclist'
   },
   'clothing-wardrobe-organized-au-04.webp': {
     alt: 'Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK',
@@ -36,7 +36,7 @@ const IMAGE_META = {
   'accessories-daily-carry-us-05.webp': {
     alt: 'Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping',
     caption: 'Essential daily accessories with premium quality and fast shipping options',
-    scene: 'Flat lay: Cartier Tank watch being held, Chrome Hearts ring, Ray-Ban sunglasses, Saint Laurent wallet, AirPods, Kakobuy Finds spreadsheet on phone showing prices, USPS Priority mail, International Tracking box'
+    scene: 'Flat lay: Cartier Tank watch being held, Chrome Hearts ring, Ray-Ban sunglasses, Saint Laurent wallet, AirPods, Usfans Finds spreadsheet on phone showing prices, USPS Priority mail, International Tracking box'
   },
   'accessories-gift-selection-uk-06.webp': {
     alt: 'Gift accessories selection with bracelet perfume sunglasses and UK next day delivery, couple exchanging gifts',
@@ -114,7 +114,7 @@ function extractImages(content) {
 
 function main() {
   const files = fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('kakobuy-article-prompt') && !f.startsWith('kakobuy-internal-link-rules'))
+    .filter(f => f.endsWith('.md') && !f.startsWith('usfans-article-prompt') && !f.startsWith('usfans-internal-link-rules'))
     .sort();
 
   const grouped = {};

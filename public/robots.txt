@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kakobuylinki.com/sitemap.xml
+Sitemap: https://usfanslinki.com/sitemap.xml

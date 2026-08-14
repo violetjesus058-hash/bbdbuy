@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>{{ frontmatter.platformName || 'Platform Page' }}</h1>
-        <p>{{ frontmatter.heroSubtitle || 'Discover the best shopping experience on this platform.' }}</p>
+        <p>{{ frontmatter.heroSubtitle || 'Review available information, related guides, and practical questions before using this platform.' }}</p>
       </div>
     </section>
 
@@ -12,7 +12,7 @@
     <section class="overview">
       <div class="container">
         <h2>Platform Overview</h2>
-        <p>{{ frontmatter.overviewText || 'Placeholder introduction text for the platform. This section provides an overview of what the platform offers and its key features.' }}</p>
+        <p>{{ frontmatter.overviewText || 'This page provides a neutral overview of the platform and the information readers can verify before continuing their research.' }}</p>
       </div>
     </section>
 
@@ -23,23 +23,23 @@
         <div class="advantages-grid">
           <div class="advantage-card">
             <div class="advantage-icon">?</div>
-            <h3>{{ frontmatter.advantages[0].title || 'Advantage 1' }}</h3>
-            <p>{{ frontmatter.advantages[0].content || 'Placeholder text describing the advantage' }}</p>
+            <h3>{{ frontmatter.advantages?.[0]?.title || 'Research point 1' }}</h3>
+            <p>{{ frontmatter.advantages?.[0]?.content || 'Review the available information and keep unsupported claims out of your comparison.' }}</p>
           </div>
           <div class="advantage-card">
             <div class="advantage-icon">?</div>
-            <h3>{{ frontmatter.advantages[1].title || 'Advantage 2' }}</h3>
-            <p>{{ frontmatter.advantages[1].content || 'Placeholder text describing the advantage' }}</p>
+            <h3>{{ frontmatter.advantages?.[1]?.title || 'Research point 2' }}</h3>
+            <p>{{ frontmatter.advantages?.[1]?.content || 'Compare only the details that are documented for the option you are reviewing.' }}</p>
           </div>
           <div class="advantage-card">
             <div class="advantage-icon">?</div>
-            <h3>{{ frontmatter.advantages[2].title || 'Advantage 3' }}</h3>
-            <p>{{ frontmatter.advantages[2].content || 'Placeholder text describing the advantage' }}</p>
+            <h3>{{ frontmatter.advantages?.[2]?.title || 'Research point 3' }}</h3>
+            <p>{{ frontmatter.advantages?.[2]?.content || 'Treat missing information as an open verification question.' }}</p>
           </div>
           <div class="advantage-card">
             <div class="advantage-icon">?</div>
-            <h3>{{ frontmatter.advantages[3].title || 'Advantage 4' }}</h3>
-            <p>{{ frontmatter.advantages[3].content || 'Placeholder text describing the advantage' }}</p>
+            <h3>{{ frontmatter.advantages?.[3]?.title || 'Research point 4' }}</h3>
+            <p>{{ frontmatter.advantages?.[3]?.content || 'Use consistent criteria when comparing alternatives.' }}</p>
           </div>
         </div>
       </div>
@@ -52,23 +52,23 @@
         <div class="steps-grid">
           <div class="step-card">
             <div class="step-number">1</div>
-          <h3>{{ frontmatter.howItWorks[0].title || 'Step 1' }}</h3>
-          <p>{{ frontmatter.howItWorks[0].content || 'Placeholder text for step 1' }}</p>
+          <h3>{{ frontmatter.howItWorks?.[0]?.title || 'Step 1' }}</h3>
+          <p>{{ frontmatter.howItWorks?.[0]?.content || 'Identify the question you need to answer.' }}</p>
           </div>
           <div class="step-card">
             <div class="step-number">2</div>
-          <h3>{{ frontmatter.howItWorks[1].title || 'Step 2' }}</h3>
-          <p>{{ frontmatter.howItWorks[1].content || 'Placeholder text for step 2' }}</p>
+          <h3>{{ frontmatter.howItWorks?.[1]?.title || 'Step 2' }}</h3>
+          <p>{{ frontmatter.howItWorks?.[1]?.content || 'Collect the information that can be verified.' }}</p>
           </div>
           <div class="step-card">
             <div class="step-number">3</div>
-          <h3>{{ frontmatter.howItWorks[2].title || 'Step 3' }}</h3>
-          <p>{{ frontmatter.howItWorks[2].content || 'Placeholder text for step 3' }}</p>
+          <h3>{{ frontmatter.howItWorks?.[2]?.title || 'Step 3' }}</h3>
+          <p>{{ frontmatter.howItWorks?.[2]?.content || 'Compare options using the same criteria.' }}</p>
           </div>
           <div class="step-card">
             <div class="step-number">4</div>
-          <h3>{{ frontmatter.howItWorks[3].title || 'Step 4' }}</h3>
-          <p>{{ frontmatter.howItWorks[3].content || 'Placeholder text for step 4' }}</p>
+          <h3>{{ frontmatter.howItWorks?.[3]?.title || 'Step 4' }}</h3>
+          <p>{{ frontmatter.howItWorks?.[3]?.content || 'Record unresolved questions before making a decision.' }}</p>
           </div>
         </div>
       </div>
@@ -148,7 +148,7 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 </script>
 
 <style scoped>

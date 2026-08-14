@@ -3,10 +3,10 @@
     <section class="hero-section">
       <div class="page-container hero-content">
         <p class="eyebrow">Curated fashion discovery · Updated regularly</p>
-        <h1>Find fashion with<br><span>clarity and confidence.</span></h1>
+        <h1>USFans Spreadsheet <span>2026</span></h1>
         <p class="hero-copy">
-          Explore a structured catalog of sneakers, clothing and accessories with clear category paths,
-          useful guides and direct access to the full spreadsheet.
+          Discover organized USFans finds across clothing, shoes, pants, hats, accessories and electronics,
+          with category overviews, focused guides and direct access to the full spreadsheet.
         </p>
         <div class="hero-actions">
           <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="button button-primary cta-spreadsheet">
@@ -19,16 +19,16 @@
         </div>
         <dl class="hero-stats" aria-label="Catalog highlights">
           <div>
-            <dt>10,000+</dt>
-            <dd>fashion finds</dd>
+            <dt>Curated</dt>
+            <dd>fashion discovery</dd>
           </div>
           <div>
-            <dt>6</dt>
-            <dd>core categories</dd>
+            <dt>Guided</dt>
+            <dd>category paths</dd>
           </div>
           <div>
-            <dt>Global</dt>
-            <dd>access</dd>
+            <dt>Direct</dt>
+            <dd>catalog access</dd>
           </div>
         </dl>
       </div>
@@ -36,8 +36,8 @@
 
     <section class="intro-section">
       <div class="page-container intro-grid">
-        <p class="section-kicker">A better way to browse</p>
-        <div>
+        <div class="intro-content">
+          <p class="section-kicker">A better way to browse</p>
           <h2>Everything you need to explore, organized in one place.</h2>
           <p>
             Instead of working through unstructured listings, use clear category pages and focused guides to
@@ -50,9 +50,9 @@
     <section id="categories" class="section section-light">
       <div class="page-container">
         <div class="section-heading">
-          <p class="section-kicker">Browse by category</p>
-          <h2>Start with what you are looking for.</h2>
-          <p>Each category brings together selected resources, product context and useful guides.</p>
+          <p class="section-kicker">Browse by type</p>
+          <h2>Explore every clothing type in one place.</h2>
+          <p>These 15 unique types are drawn from the existing article library. Each card links to one representative guide.</p>
         </div>
         <div class="category-grid">
           <a v-for="cat in categoryCards" :key="cat.id" :href="cat.link" class="category-card">
@@ -138,17 +138,26 @@
 import { computed } from 'vue'
 import { siteConfig } from '../site-config.js'
 
-const { links, categories } = siteConfig
+const { links } = siteConfig
 const shoppingUrl = 'https://repsootd.com/'
 
-const fallbackIcons = ['👟', '🧥', '👜']
-const categoryCards = computed(() => categories.slice(0, 3).map((category, index) => ({
-  id: category.id,
-  name: category.name,
-  description: category.description,
-  link: `/${category.id}/`,
-  icon: category.icon || fallbackIcons[index] || '✦'
-})))
+const categoryCards = computed(() => [
+  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/usfans-sneakers/', icon: '👟' },
+  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/usfans-shoes/', icon: '👞' },
+  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/usfans-hoodie/', icon: '🧥' },
+  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/usfans-t-shirt/', icon: '👕' },
+  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/usfans-jacket/', icon: '🧤' },
+  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/usfans-jeans/', icon: '👖' },
+  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/usfans-pants/', icon: '🩳' },
+  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/usfans-shorts/', icon: '🩳' },
+  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/usfans-tracksuit/', icon: '🏃' },
+  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/usfans-dress/', icon: '👗' },
+  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/usfans-hats/', icon: '🧢' },
+  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/usfans-bags/', icon: '👜' },
+  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/usfans-accessories/', icon: '✨' },
+  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/usfans-watches/', icon: '⌚' },
+  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/usfans-sunglasses/', icon: '🕶️' }
+])
 
 const steps = [
   { title: 'Choose a category', description: 'Start with the product type or style you want to explore.' },
@@ -192,10 +201,10 @@ const faqs = [
 }
 
 .page-container { width: min(1180px, calc(100% - 48px)); margin: 0 auto; }
-.hero-section { padding: 152px 0 88px; border-bottom: 1px solid var(--line); }
+.hero-section { padding: 88px 0 72px; border-bottom: 1px solid var(--line); }
 .hero-content { text-align: center; max-width: 900px; }
 .eyebrow, .section-kicker { margin: 0 0 18px; color: var(--accent); font-size: 12px; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
-.hero-content h1 { max-width: 820px; margin: 0 auto; color: var(--ink); font-size: clamp(44px, 7.1vw, 82px); font-weight: 800; letter-spacing: -.067em; line-height: .98; }
+.hero-content h1 { max-width: none; margin: 0 auto; color: var(--ink); font-size: clamp(44px, 5.4vw, 76px); font-weight: 800; letter-spacing: -.067em; line-height: .98; white-space: nowrap; }
 .hero-content h1 span { color: var(--accent); }
 .hero-copy { max-width: 630px; margin: 28px auto 34px; color: var(--muted-ink); font-size: 19px; line-height: 1.7; }
 .hero-actions { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; }
@@ -205,27 +214,28 @@ const faqs = [
 .button-primary:hover { background: var(--accent); box-shadow: 0 12px 26px rgba(91,92,226,.22); }
 .button-secondary { border-color: var(--line); background: #fff; color: var(--ink); }
 .button-secondary:hover { border-color: #c8c8c8; background: var(--surface); }
-.hero-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 680px; margin: 72px auto 0; padding-top: 25px; border-top: 1px solid var(--line); }
+.hero-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 680px; margin: 56px auto 0; padding-top: 25px; border-top: 1px solid var(--line); }
 .hero-stats div { text-align: center; }
 .hero-stats dt { margin-bottom: 4px; color: var(--ink); font-size: 23px; font-weight: 800; letter-spacing: -.04em; }
 .hero-stats dd { margin: 0; color: var(--muted-ink); font-size: 13px; }
 .intro-section { padding: 96px 0; }
-.intro-grid { display: grid; grid-template-columns: .7fr 1.3fr; gap: 56px; align-items: start; }
-.intro-grid .section-kicker { margin-top: 10px; }
+.intro-grid { display: block; max-width: 820px; text-align: center; }
+.intro-content { margin: 0 auto; }
+.intro-content .section-kicker { margin: 10px 0 18px; }
 .intro-grid h2, .section-heading h2, .feature-intro h2, .final-cta h2 { margin: 0; font-size: clamp(30px, 4vw, 48px); font-weight: 780; letter-spacing: -.055em; line-height: 1.08; }
-.intro-grid p:last-child { max-width: 700px; margin: 22px 0 0; color: var(--muted-ink); font-size: 18px; line-height: 1.75; }
+.intro-content > p:last-child { max-width: 700px; margin: 22px auto 0; color: var(--muted-ink); font-size: 18px; line-height: 1.75; }
 .section { padding: 104px 0; }
 .section-light { background: #fff; }
 .section-muted { background: var(--surface); }
 .section-heading { max-width: 670px; margin: 0 auto 52px; text-align: center; }
 .section-heading h2 { font-size: clamp(30px, 4.3vw, 50px); }
 .section-heading > p:last-child { margin: 16px auto 0; color: var(--muted-ink); font-size: 17px; line-height: 1.7; }
-.category-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
-.category-card { min-height: 314px; padding: 31px; border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; transition: border-color .2s ease, transform .2s ease, box-shadow .2s ease; }
+.category-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.category-card { min-height: 264px; padding: 28px; border: 1px solid var(--line); border-radius: 14px; color: var(--ink); text-decoration: none; transition: border-color .2s ease, transform .2s ease, box-shadow .2s ease; }
 .category-card:hover { border-color: var(--accent); transform: translateY(-5px); box-shadow: 0 20px 40px rgba(0,0,0,.07); }
-.category-icon { display: grid; width: 48px; height: 48px; place-items: center; margin-bottom: 56px; border-radius: 12px; background: #f0f0fb; font-size: 23px; }
+.category-icon { display: grid; width: 46px; height: 46px; place-items: center; margin-bottom: 38px; border-radius: 12px; background: #f0f0fb; font-size: 23px; }
 .category-card h3 { margin: 0 0 10px; font-size: 22px; letter-spacing: -.035em; }
-.category-card p { min-height: 75px; margin: 0; color: var(--muted-ink); font-size: 15px; line-height: 1.7; }
+.category-card p { min-height: 76px; margin: 0; color: var(--muted-ink); font-size: 15px; line-height: 1.7; }
 .card-link, .text-link { display: inline-block; margin-top: 27px; color: var(--accent); font-size: 14px; font-weight: 750; text-decoration: none; }
 .steps-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; padding: 0; margin: 0; list-style: none; counter-reset: none; }
 .step-card { padding: 28px 24px; border-top: 1px solid #d7d7d4; }
@@ -254,6 +264,6 @@ const faqs = [
 .faq-item summary::after { content: '+'; color: var(--accent); font-size: 24px; font-weight: 400; }
 .faq-item[open] summary::after { content: '−'; }
 .faq-item p { max-width: 660px; margin: -3px 0 22px; color: var(--muted-ink); line-height: 1.7; }
-@media (max-width: 900px) { .intro-grid, .feature-layout, .faq-wrap { grid-template-columns: 1fr; gap: 42px; } .feature-intro { position: static; } .steps-grid { grid-template-columns: repeat(2, 1fr); } .final-cta { align-items: flex-start; flex-direction: column; } }
-@media (max-width: 700px) { .page-container { width: min(100% - 32px, 1180px); } .hero-section { padding: 112px 0 66px; } .hero-copy { font-size: 17px; } .hero-stats { margin-top: 54px; gap: 8px; } .hero-stats dt { font-size: 19px; } .intro-section, .section { padding: 72px 0; } .category-grid, .feature-grid { grid-template-columns: 1fr; } .category-card { min-height: auto; } .category-icon { margin-bottom: 38px; } .category-card p { min-height: auto; } .steps-grid { grid-template-columns: 1fr; gap: 4px; } .step-index { margin-bottom: 28px; } .section-heading { margin-bottom: 36px; } }
+@media (max-width: 900px) { .intro-grid, .feature-layout, .faq-wrap { grid-template-columns: 1fr; gap: 42px; } .intro-content { grid-column: auto; } .feature-intro { position: static; } .steps-grid { grid-template-columns: repeat(2, 1fr); } .category-grid { grid-template-columns: repeat(2, 1fr); } .final-cta { align-items: flex-start; flex-direction: column; } }
+@media (max-width: 700px) { .page-container { width: min(100% - 32px, 1180px); } .hero-content h1 { white-space: normal; } .hero-section { padding: 76px 0 58px; } .hero-copy { font-size: 17px; } .hero-stats { margin-top: 54px; gap: 8px; } .hero-stats dt { font-size: 19px; } .intro-section, .section { padding: 72px 0; } .category-grid, .feature-grid { grid-template-columns: 1fr; } .category-card { min-height: auto; } .category-icon { margin-bottom: 38px; } .category-card p { min-height: auto; } .steps-grid { grid-template-columns: 1fr; gap: 4px; } .step-index { margin-bottom: 28px; } .section-heading { margin-bottom: 36px; } }
 </style>

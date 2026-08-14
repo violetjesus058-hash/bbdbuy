@@ -73,7 +73,7 @@ function updateProducts() {
 
     // 6. 替换 HomePage.vue 中的 products 数组
     const productsArrayRegex = /const products = \[([\s\S]*?)\]/;
-    
+
     if (!productsArrayRegex.test(homePageContent)) {
       throw new Error('无法在 HomePage.vue 中找到 products 数组');
     }

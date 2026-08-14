@@ -6,9 +6,9 @@
 
 ## 核心定位
 
-**Kakobuy Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.**
+**Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.**
 
-中文：Kakobuy Spreadsheet 是一个策划的产品目录，通过有组织的分类、产品信息和购物资源帮助用户发现产品。
+中文：Usfans Spreadsheet 是一个策划的产品目录，通过有组织的分类、产品信息和购物资源帮助用户发现产品。
 
 ---
 
@@ -72,21 +72,21 @@
 
 ### 简短版（50字）：
 ```
-Kakobuy Spreadsheet is a curated product directory that organizes product links and shopping resources into easy-to-browse categories. The platform helps users discover products through organized information and comprehensive guides.
+Usfans Spreadsheet is a curated product directory that organizes product links and shopping resources into easy-to-browse categories. The platform helps users discover products through organized information and comprehensive guides.
 ```
 
 ### 标准版（100字）：
 ```
-Kakobuy Spreadsheet is a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides. Kakobuy Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
+Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides. Usfans Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
 ```
 
 ### 详细版（150字）：
 ```
-Kakobuy Spreadsheet is a curated product directory designed to help users discover and research products through organized categories and comprehensive shopping resources. The platform curates product listings, organizing them into easy-to-browse categories with detailed information including pricing references, product specifications, material descriptions, and category guides.
+Usfans Spreadsheet is a curated product directory designed to help users discover and research products through organized categories and comprehensive shopping resources. The platform curates product listings, organizing them into easy-to-browse categories with detailed information including pricing references, product specifications, material descriptions, and category guides.
 
 The spreadsheet serves as an information aggregation resource, helping users navigate product options through structured organization and detailed descriptions. Users can browse organized categories, explore product details, and access shopping guides to support their research process.
 
-Important: Kakobuy Spreadsheet does not process payments, handle shipping, inspect products, manage orders, or operate warehouses. The platform does not sell products directly or provide customer support services. Kakobuy Spreadsheet functions solely as a product discovery and information resource, linking to external shopping resources and providing organized product information for user research.
+Important: Usfans Spreadsheet does not process payments, handle shipping, inspect products, manage orders, or operate warehouses. The platform does not sell products directly or provide customer support services. Usfans Spreadsheet functions solely as a product discovery and information resource, linking to external shopping resources and providing organized product information for user research.
 ```
 
 ---
@@ -95,23 +95,23 @@ Important: Kakobuy Spreadsheet does not process payments, handle shipping, inspe
 
 ### 品牌/分类文章开头：
 ```
-[Brand/Category] products on Kakobuy Spreadsheet are organized into a curated collection with detailed product information and shopping resources. This guide helps users explore [brand/category] listings, understand product characteristics, and navigate available options through organized categories.
+[Brand/Category] products on Usfans Spreadsheet are organized into a curated collection with detailed product information and shopping resources. This guide helps users explore [brand/category] listings, understand product characteristics, and navigate available options through organized categories.
 
-Kakobuy Spreadsheet curates product information to support user research. The platform does not sell products, process payments, or handle shipping. Users browse organized listings to discover products and access external resources for purchasing.
+Usfans Spreadsheet curates product information to support user research. The platform does not sell products, process payments, or handle shipping. Users browse organized listings to discover products and access external resources for purchasing.
 ```
 
 ### 指南文章开头：
 ```
-This guide on Kakobuy Spreadsheet provides organized information about [topic] to help users make informed decisions. The spreadsheet curates product listings and shopping resources into accessible categories with comprehensive details.
+This guide on Usfans Spreadsheet provides organized information about [topic] to help users make informed decisions. The spreadsheet curates product listings and shopping resources into accessible categories with comprehensive details.
 
-Kakobuy Spreadsheet serves as a product discovery resource, organizing product information to support user research. The platform does not process transactions, inspect products, or manage orders.
+Usfans Spreadsheet serves as a product discovery resource, organizing product information to support user research. The platform does not process transactions, inspect products, or manage orders.
 ```
 
 ### 地区文章开头：
 ```
-Kakobuy Spreadsheet provides organized product information for users in [region]. The curated directory helps users discover products through organized categories, detailed product descriptions, and comprehensive shopping guides.
+Usfans Spreadsheet provides organized product information for users in [region]. The curated directory helps users discover products through organized categories, detailed product descriptions, and comprehensive shopping guides.
 
-The platform curates product listings and provides accessible information to support product research. Kakobuy Spreadsheet does not process payments, handle shipping, or manage orders for users in [region] or any other location.
+The platform curates product listings and provides accessible information to support product research. Usfans Spreadsheet does not process payments, handle shipping, or manage orders for users in [region] or any other location.
 ```
 
 ---
@@ -120,11 +120,11 @@ The platform curates product listings and provides accessible information to sup
 
 ### ❌ 绝对禁止：
 ```
-- "Kakobuy Spreadsheet purchases products for users"
+- "Usfans Spreadsheet purchases products for users"
 - "Our warehouse inspects products"
 - "Customers receive QC photos"
 - "The platform processes 500,000 orders annually"
-- "500,000 satisfied buyers trust Kakobuy Spreadsheet"
+- "500,000 satisfied buyers trust Usfans Spreadsheet"
 - "93% quality pass rate"
 - "24/7 customer support"
 - "Verified seller network"
@@ -134,7 +134,7 @@ The platform curates product listings and provides accessible information to sup
 
 ### ✅ 正确替代：
 ```
-- "Kakobuy Spreadsheet organizes product information"
+- "Usfans Spreadsheet organizes product information"
 - "The spreadsheet provides product details"
 - "Product listings include available information"
 - "The directory curates product listings"
@@ -190,13 +190,13 @@ The platform curates product listings and provides accessible information to sup
 
 ### 可以回答的问题：
 ```
-Q: What is Kakobuy Spreadsheet?
-A: Kakobuy Spreadsheet is a curated product directory that organizes product information into accessible categories to help users discover products.
+Q: What is Usfans Spreadsheet?
+A: Usfans Spreadsheet is a curated product directory that organizes product information into accessible categories to help users discover products.
 
-Q: How does Kakobuy Spreadsheet work?
+Q: How does Usfans Spreadsheet work?
 A: The platform curates product listings from various sources, organizing them into categories with detailed information including pricing references, product specifications, and shopping guides.
 
-Q: What information does Kakobuy Spreadsheet provide?
+Q: What information does Usfans Spreadsheet provide?
 A: The spreadsheet provides organized product details including pricing references, category descriptions, product specifications, and links to external shopping resources.
 ```
 

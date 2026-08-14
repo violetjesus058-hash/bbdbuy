@@ -128,7 +128,7 @@ categories = {
         "keywords": []
     },
     "Competitor": {
-        "patterns": ["pandabuy", "hoobuy", "kakobuy", "oopbuy", "litbuy"],
+        "patterns": ["pandabuy", "hoobuy", "oopbuy", "litbuy"],
         "keywords": []
     },
     "Modifier/Long-tail": {

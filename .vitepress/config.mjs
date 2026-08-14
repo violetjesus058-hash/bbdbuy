@@ -181,7 +181,7 @@ export default defineConfig({
   ignoreDeadLinks: [
     /^\/blog\//,
     /^http:\/\/localhost/,
-    /^\/Kakobuy-/,
+    /^\/Usfans-/,
     /^\/is-/,
   ],
 
@@ -217,11 +217,11 @@ export default defineConfig({
     'flexible-article-generator.md',
     'ideas.md',
     // Blog-level internal documents
-    'blog/kakobuy-article-prompt.md',
-    'blog/kakobuy-internal-link-rules.md',
-    'blog/kakobuy-product-reference.md',
-    'blog/kakobuy-review-report.md',
-    'blog/kakobuy-topic-list.md',
+    'blog/usfans-article-prompt.md',
+    'blog/usfans-internal-link-rules.md',
+    'blog/usfans-product-reference.md',
+    'blog/usfans-review-report.md',
+    'blog/usfans-topic-list.md',
     'blog/flexible-article-generator.md',
     'blog/topic-matrix.md',
     'blog/ideas.md',

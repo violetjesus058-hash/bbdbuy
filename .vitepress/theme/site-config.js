@@ -1,52 +1,81 @@
 // ============================================================
-// Kakobuy Spreadsheet Site Configuration
-// Kakobuylinki.com - Fashion Finds Resource & Buying Guide
+// Usfans Spreadsheet Site Configuration
+// Usfanslinki.com - Fashion Finds Resource & Buying Guide
 // ============================================================
 
 export const siteConfig = {
 
   // ---- Brand ----
   brand: {
-    name: 'Kakobuy Spreadsheet',
+    name: 'Usfans Spreadsheet',
     tagline: 'Fashion Finds Resource & Buying Guide',
-    description: 'Independent resource for Kakobuy Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
+    description: 'Independent resource for Usfans Spreadsheet shoppers. Product guides, category breakdowns, sizing tips, and spreadsheet access — organized in one place.',
     primaryColor: '#8B0000',
     accentColor: '#d4af37',
-    logoText: 'Kakobuy Spreadsheet',
+    logoText: 'Usfans Spreadsheet',
   },
 
   // ---- Navigation ----
   nav: [
     { text: 'Home', link: '/' },
+    { text: 'Clothing', link: '/clothes' },
     { text: 'Shoes', link: '/shoes' },
-    { text: 'Clothes', link: '/clothes' },
+    { text: 'Pants', link: '/pants' },
     { text: 'Hats', link: '/hats' },
-    { text: 'About', link: '/blog/about' },
+    { text: 'Accessories', link: '/accessories' },
+    { text: 'Electronics', link: '/electronics' },
     { text: 'Blog', link: '/blog' },
   ],
 
   // ---- Main Categories ----
   categories: [
     {
-      id: 'shoes',
-      name: 'Shoes',
+      id: 'clothes',
+      name: 'USFans Clothing Spreadsheet',
       icon: '',
-      description: 'Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.',
-      blogLink: '/blog/kakobuy-sneakers/',
+      description: 'Hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides with direct article paths.',
+      blogLink: '/blog/usfans-hoodies/',
+      landingLink: '/clothes',
     },
     {
-      id: 'clothes',
-      name: 'Clothes',
+      id: 'shoes',
+      name: 'USFans Shoes Spreadsheet',
       icon: '',
-      description: 'Streetwear, hoodies, jackets, pants and more. Build your wardrobe from the ground up.',
-      blogLink: '/blog/kakobuy-hoodies/',
+      description: 'Sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots.',
+      blogLink: '/blog/usfans-sneakers/',
+      landingLink: '/shoes',
+    },
+    {
+      id: 'pants',
+      name: 'USFans Pants Spreadsheet',
+      icon: '',
+      description: 'Jeans, pants, shorts, sweatpants and tracksuits with fit and fabric reading paths.',
+      blogLink: '/blog/usfans-pants/',
+      landingLink: '/pants',
     },
     {
       id: 'hats',
-      name: 'Hats',
+      name: 'USFans Hats Spreadsheet',
       icon: '',
-      description: 'Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.',
-      blogLink: '/blog/kakobuy-hats/',
+      description: 'Hats, caps, beanies, bucket hats and fit guides for everyday finishing pieces.',
+      blogLink: '/blog/usfans-hats/',
+      landingLink: '/hats',
+    },
+    {
+      id: 'accessories',
+      name: 'USFans Accessories Spreadsheet',
+      icon: '',
+      description: 'Bags, belts, jewelry, sunglasses, watches and wallets with direct article paths.',
+      blogLink: '/blog/usfans-accessories/',
+      landingLink: '/accessories',
+    },
+    {
+      id: 'electronics',
+      name: 'USFans Electronics Spreadsheet',
+      icon: '',
+      description: 'Electronics, phones, iPhone resources, AirPods and tech gadget guides.',
+      blogLink: '/blog/usfans-electronics/',
+      landingLink: '/electronics',
     },
   ],
 
@@ -68,16 +97,16 @@ export const siteConfig = {
 
   // ---- External Links ----
   links: {
-    spreadsheet: 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254',
-    contact: 'mailto:hello@kakobuylinki.com',
+    spreadsheet: 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270',
+    contact: 'mailto:hello@usfanslinki.com',
   },
 
   // ---- SEO Defaults ----
   seo: {
-    hostname: 'https://kakobuylinki.com',
-    title: 'Kakobuy Spreadsheet Guide 2026 - Fashion Finds, Product Database & Buying Tips',
-    description: 'Independent Kakobuy Spreadsheet resource with product guides, category breakdowns, sizing tips, and spreadsheet access. Updated July 2026.',
-    keywords: ['kakobuy spreadsheet guide', 'kakobuy spreadsheet', 'fashion finds', 'sneaker guide', 'streetwear guide', 'buying guide', 'product database', 'product details', 'sizing tips'],
+    hostname: 'https://usfanslinki.com',
+    title: 'USFans Spreadsheet 2026 - USFans Finds, Category Guides and Product Research',
+    description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct spreadsheet access.',
+    keywords: ['usfans spreadsheet 2026', 'usfans spreadsheet', 'usfans finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
     ga4: 'G-XTJTTBZTPM',
   },
 

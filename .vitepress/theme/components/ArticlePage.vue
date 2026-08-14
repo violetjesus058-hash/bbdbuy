@@ -4,6 +4,30 @@
     <section class="hero">
       <div class="container">
         <h1>{{ frontmatter.title || 'Article Title' }}</h1>
+        <div class="article-actions" role="group" aria-label="Article actions">
+          <component
+            :is="spreadsheetLinked ? 'a' : 'span'"
+            :href="spreadsheetLinked ? spreadsheetUrl : undefined"
+            :target="spreadsheetLinked ? '_blank' : undefined"
+            :rel="spreadsheetLinked ? 'nofollow noopener noreferrer' : undefined"
+            :aria-disabled="spreadsheetLinked ? undefined : 'true'"
+            class="article-action article-action-primary"
+            :class="{ 'is-unlinked': !spreadsheetLinked }"
+          >
+            Access UsFans spreadsheet
+          </component>
+          <component
+            :is="shoppingLinked ? 'a' : 'span'"
+            :href="shoppingLinked ? shoppingUrl : undefined"
+            :target="shoppingLinked ? '_blank' : undefined"
+            :rel="shoppingLinked ? 'nofollow noopener noreferrer' : undefined"
+            :aria-disabled="shoppingLinked ? undefined : 'true'"
+            class="article-action article-action-secondary"
+            :class="{ 'is-unlinked': !shoppingLinked }"
+          >
+            Start shopping
+          </component>
+        </div>
         <p>{{ frontmatter.heroSubtitle || 'Placeholder subtitle for the article' }}</p>
       </div>
     </section>
@@ -77,7 +101,12 @@ import { computed } from 'vue'
 import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
+const shoppingUrl = 'https://repsootd.com/'
+
+/* Set either field to false in an article's frontmatter to render that control without a link. */
+const spreadsheetLinked = computed(() => frontmatter.value.spreadsheetLink !== false)
+const shoppingLinked = computed(() => frontmatter.value.shoppingLink !== false)
 </script>
 
 <style scoped>

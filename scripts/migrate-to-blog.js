@@ -1,6 +1,6 @@
 /**
  * Migration script: Move content pages to /blog/ directory
- * - Move Kakobuy-*.md + about.md + platform.md to blog/
+ * - Move Usfans-*.md + about.md + platform.md to blog/
  * - Rename files to lowercase
  * - Update internal links in all .md and .vue files
  * - Generate _redirects for 301 redirects
@@ -25,27 +25,27 @@ const FILES_TO_MIGRATE = [
 // Step 1: Move files to blog/ with lowercase names
 function moveFiles() {
   console.log('=== Step 1: Moving files to blog/ ===');
-  
-  // Get all Kakobuy-*.md files from root
-  const rootFiles = fs.readdirSync(ROOT).filter(f => 
-    f.startsWith('Kakobuy-') && f.endsWith('.md')
+
+  // Get all Usfans-*.md files from root
+  const rootFiles = fs.readdirSync(ROOT).filter(f =>
+    f.startsWith('Usfans-') && f.endsWith('.md')
   );
-  
+
   const allFiles = [...rootFiles, ...FILES_TO_MIGRATE];
   console.log(`Found ${allFiles.length} files to migrate`);
-  
+
   const movedFiles = []; // Track {old: '/old-path/', new: '/blog/new-path/'}
-  
+
   for (const file of allFiles) {
     const srcPath = path.join(ROOT, file);
     const lowerName = file.toLowerCase();
     const destPath = path.join(BLOG_DIR, lowerName);
-    
+
     if (!fs.existsSync(srcPath)) {
       console.log(`  SKIP (not found): ${file}`);
       continue;
     }
-    
+
     if (fs.existsSync(destPath)) {
       console.log(`  SKIP (exists): ${lowerName}`);
       // Still track for link updates
@@ -54,16 +54,16 @@ function moveFiles() {
       movedFiles.push({ old: oldUrl, new: newUrl, file: lowerName });
       continue;
     }
-    
+
     fs.copyFileSync(srcPath, destPath);
     fs.unlinkSync(srcPath);
-    
+
     const oldUrl = '/' + file.replace('.md', '') + '/';
     const newUrl = '/blog/' + lowerName.replace('.md', '') + '/';
     movedFiles.push({ old: oldUrl, new: newUrl, file: lowerName });
     console.log(`  Moved: ${file} -> blog/${lowerName}`);
   }
-  
+
   console.log(`\nTotal moved: ${movedFiles.length} files`);
   return movedFiles;
 }
@@ -71,10 +71,10 @@ function moveFiles() {
 // Step 2: Update internal links in all .md files
 function updateMdLinks(movedFiles) {
   console.log('\n=== Step 2: Updating links in .md files ===');
-  
+
   // Get all .md files (including blog/ subdirectory)
   const allMdFiles = [];
-  
+
   function findMdFiles(dir) {
     const entries = fs.readdirSync(dir, { withFileTypes: true });
     for (const entry of entries) {
@@ -86,21 +86,21 @@ function updateMdLinks(movedFiles) {
       }
     }
   }
-  
+
   findMdFiles(ROOT);
   console.log(`Found ${allMdFiles.length} .md files to scan`);
-  
+
   let updatedCount = 0;
-  
+
   for (const filePath of allMdFiles) {
     let content = fs.readFileSync(filePath, 'utf-8');
     let changed = false;
-    
+
     for (const { old, new: newUrl } of movedFiles) {
-      // Replace /Kakobuy-xxx/ -> /blog/kakobuy-xxx/
-      // Also handle /Kakobuy-xxx (without trailing slash)
+      // Replace /Usfans-xxx/ -> /blog/usfans-xxx/
+      // Also handle /Usfans-xxx (without trailing slash)
       const oldWithoutSlash = old.replace(/\/$/, '');
-      
+
       // Replace with trailing slash version
       if (content.includes(old)) {
         content = content.split(old).join(newUrl);
@@ -113,11 +113,11 @@ function updateMdLinks(movedFiles) {
         changed = true;
       }
     }
-    
-    // Also handle any /Kakobuy-xxx patterns that might use different casing
-    // Match /Kakobuy- followed by word chars
-    const kakobuyPattern = /\/Kakobuy-([a-zA-Z0-9-]+)/g;
-    const matches = content.match(kakobuyPattern);
+
+    // Also handle any /Usfans-xxx patterns that might use different casing
+    // Match /Usfans- followed by word chars
+    const usfansPattern = /\/Usfans-([a-zA-Z0-9-]+)/g;
+    const matches = content.match(usfansPattern);
     if (matches) {
       for (const match of matches) {
         const lowerMatch = '/blog/' + match.toLowerCase();
@@ -127,33 +127,33 @@ function updateMdLinks(movedFiles) {
         }
       }
     }
-    
+
     if (changed) {
       fs.writeFileSync(filePath, content, 'utf-8');
       updatedCount++;
     }
   }
-  
+
   console.log(`Updated links in ${updatedCount} .md files`);
 }
 
 // Step 3: Update links in .vue files
 function updateVueLinks(movedFiles) {
   console.log('\n=== Step 3: Updating links in .vue files ===');
-  
+
   const vueDir = path.join(ROOT, '.vitepress', 'theme', 'components');
   const vueFiles = fs.readdirSync(vueDir).filter(f => f.endsWith('.vue'));
-  
+
   let updatedCount = 0;
-  
+
   for (const file of vueFiles) {
     const filePath = path.join(vueDir, file);
     let content = fs.readFileSync(filePath, 'utf-8');
     let changed = false;
-    
+
     for (const { old, new: newUrl } of movedFiles) {
       const oldWithoutSlash = old.replace(/\/$/, '');
-      
+
       if (content.includes(old)) {
         content = content.split(old).join(newUrl);
         changed = true;
@@ -164,10 +164,10 @@ function updateVueLinks(movedFiles) {
         changed = true;
       }
     }
-    
-    // Handle /Kakobuy-xxx pattern in vue files
-    const kakobuyPattern = /\/Kakobuy-([a-zA-Z0-9-]+)/g;
-    const matches = content.match(kakobuyPattern);
+
+    // Handle /Usfans-xxx pattern in vue files
+    const usfansPattern = /\/Usfans-([a-zA-Z0-9-]+)/g;
+    const matches = content.match(usfansPattern);
     if (matches) {
       for (const match of matches) {
         const lowerMatch = '/blog/' + match.toLowerCase();
@@ -177,27 +177,27 @@ function updateVueLinks(movedFiles) {
         }
       }
     }
-    
+
     if (changed) {
       fs.writeFileSync(filePath, content, 'utf-8');
       updatedCount++;
       console.log(`  Updated: ${file}`);
     }
   }
-  
+
   console.log(`Updated ${updatedCount} .vue files`);
 }
 
 // Step 4: Update config.mjs
 function updateConfig(movedFiles) {
   console.log('\n=== Step 4: Updating config.mjs ===');
-  
+
   const configPath = path.join(ROOT, '.vitepress', 'config.mjs');
   let content = fs.readFileSync(configPath, 'utf-8');
-  
+
   for (const { old, new: newUrl } of movedFiles) {
     const oldWithoutSlash = old.replace(/\/$/, '');
-    
+
     if (content.includes(old)) {
       content = content.split(old).join(newUrl);
     }
@@ -206,18 +206,18 @@ function updateConfig(movedFiles) {
       content = content.split(oldWithoutSlash).join(newWithoutSlash);
     }
   }
-  
+
   // Update ignoreDeadLinks to include /blog/ paths
   if (content.includes('ignoreDeadLinks')) {
     // Add /blog/ patterns if not already present
-    if (!content.includes('/blog/Kakobuy-') && !content.includes('/blog/kakobuy-')) {
+    if (!content.includes('/blog/Usfans-') && !content.includes('/blog/usfans-')) {
       content = content.replace(
         /ignoreDeadLinks:\s*\[/,
         "ignoreDeadLinks: [\n    /^\\/blog\\//,"
       );
     }
   }
-  
+
   fs.writeFileSync(configPath, content, 'utf-8');
   console.log('  Updated config.mjs');
 }
@@ -225,16 +225,16 @@ function updateConfig(movedFiles) {
 // Step 5: Generate _redirects file for Cloudflare Pages
 function generateRedirects(movedFiles) {
   console.log('\n=== Step 5: Generating _redirects ===');
-  
+
   const publicDir = path.join(ROOT, 'public');
   if (!fs.existsSync(publicDir)) {
     fs.mkdirSync(publicDir, { recursive: true });
   }
-  
-  const redirects = movedFiles.map(({ old, new: newUrl }) => 
+
+  const redirects = movedFiles.map(({ old, new: newUrl }) =>
     `${old}  ${newUrl}  301`
   ).join('\n');
-  
+
   fs.writeFileSync(path.join(publicDir, '_redirects'), redirects + '\n', 'utf-8');
   console.log(`  Generated ${movedFiles.length} redirect rules`);
 }
@@ -242,16 +242,16 @@ function generateRedirects(movedFiles) {
 // Step 6: Generate robots.txt
 function generateRobotsTxt() {
   console.log('\n=== Step 6: Generating robots.txt ===');
-  
+
   const publicDir = path.join(ROOT, 'public');
   const robotsPath = path.join(publicDir, 'robots.txt');
-  
+
   const content = `User-agent: *
 Allow: /
 
-Sitemap: https://kakobuylinki.com/sitemap.xml
+Sitemap: https://usfanslinki.com/sitemap.xml
 `;
-  
+
   fs.writeFileSync(robotsPath, content, 'utf-8');
   console.log('  Created robots.txt');
 }

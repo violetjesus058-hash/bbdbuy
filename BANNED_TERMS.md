@@ -11,7 +11,7 @@
 
 | 禁止词汇 | 错误示例 | 正确替代 |
 |---------|---------|---------|
-| shopping agent | "Kakobuy Spreadsheet is a shopping agent" | "product directory" / "product discovery resource" |
+| shopping agent | "Usfans Spreadsheet is a shopping agent" | "product directory" / "product discovery resource" |
 | buying agent | "your buying agent" | "shopping guide" / "product resource" |
 | purchasing agent | "purchasing agent platform" | "product curation platform" |
 | sourcing agent | "sourcing agent service" | "product information resource" |
@@ -118,7 +118,7 @@
 | customer support | "24/7 customer support" | （删除） |
 | customer service | "responsive customer service" | （删除） |
 | support team | "contact our support team" | （删除） |
-| support staff | "Kakobuy Spreadsheet support staff" | （删除） |
+| support staff | "Usfans Spreadsheet support staff" | （删除） |
 | live chat | "live chat support" | （删除） |
 | response time | "under 2-hour response times" | （删除） |
 | ticket system | "support ticket tracking" | （删除） |

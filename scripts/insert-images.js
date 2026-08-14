@@ -99,10 +99,10 @@ const IMAGES = [
 // Category mapping for article slugs
 function getArticleCategory(slug) {
   const slugLower = slug.toLowerCase();
-  
+
   // Sneakers/Shoes
-  if (slugLower.includes('sneaker') || slugLower.includes('shoe') || 
-      slugLower.includes('nike') || slugLower.includes('jordan') || 
+  if (slugLower.includes('sneaker') || slugLower.includes('shoe') ||
+      slugLower.includes('nike') || slugLower.includes('jordan') ||
       slugLower.includes('adidas') || slugLower.includes('new-balance') ||
       slugLower.includes('air-force') || slugLower.includes('air-max') ||
       slugLower.includes('yeezy') || slugLower.includes('vans') ||
@@ -120,9 +120,9 @@ function getArticleCategory(slug) {
       slugLower.includes('hiking') || slugLower.includes('outdoor')) {
     return ['sneakers', 'shoes'];
   }
-  
+
   // Clothing
-  if (slugLower.includes('cloth') || slugLower.includes('hoodie') || 
+  if (slugLower.includes('cloth') || slugLower.includes('hoodie') ||
       slugLower.includes('t-shirt') || slugLower.includes('streetwear') ||
       slugLower.includes('essentials') || slugLower.includes('stussy') ||
       slugLower.includes('gallery-dept') || slugLower.includes('supreme') ||
@@ -140,9 +140,9 @@ function getArticleCategory(slug) {
       slugLower.includes('fall') || slugLower.includes('autumn')) {
     return ['clothes', 'clothing'];
   }
-  
+
   // Accessories
-  if (slugLower.includes('accessor') || slugLower.includes('watch') || 
+  if (slugLower.includes('accessor') || slugLower.includes('watch') ||
       slugLower.includes('jewelry') || slugLower.includes('glasses') ||
       slugLower.includes('sunglasses') || slugLower.includes('ring') ||
       slugLower.includes('bracelet') || slugLower.includes('necklace') ||
@@ -155,9 +155,9 @@ function getArticleCategory(slug) {
       slugLower.includes('fragrance')) {
     return ['accessories'];
   }
-  
+
   // Bags
-  if (slugLower.includes('bag') || slugLower.includes('backpack') || 
+  if (slugLower.includes('bag') || slugLower.includes('backpack') ||
       slugLower.includes('handbag') || slugLower.includes('tote') ||
       slugLower.includes('crossbody') || slugLower.includes('travel') ||
       slugLower.includes('luggage') || slugLower.includes('coach') ||
@@ -166,9 +166,9 @@ function getArticleCategory(slug) {
       slugLower.includes('designer') || slugLower.includes('leather')) {
     return ['bags'];
   }
-  
+
   // Electronics
-  if (slugLower.includes('electron') || slugLower.includes('iphone') || 
+  if (slugLower.includes('electron') || slugLower.includes('iphone') ||
       slugLower.includes('apple-watch') || slugLower.includes('airpod') ||
       slugLower.includes('headphone') || slugLower.includes('tech') ||
       slugLower.includes('gadget') || slugLower.includes('dyson') ||
@@ -178,7 +178,7 @@ function getArticleCategory(slug) {
       slugLower.includes('camera')) {
     return ['electronics'];
   }
-  
+
   // Default: guide articles get images based on content
   if (slugLower.includes('guide') || slugLower.includes('how-to') ||
       slugLower.includes('beginner') || slugLower.includes('tips') ||
@@ -186,7 +186,7 @@ function getArticleCategory(slug) {
       slugLower.includes('review') || slugLower.includes('comparison')) {
     return ['guide'];
   }
-  
+
   return ['general'];
 }
 
@@ -194,7 +194,7 @@ function getArticleCategory(slug) {
 function getMatchingImages(slug, content) {
   const categories = getArticleCategory(slug);
   const matchedImages = [];
-  
+
   for (const img of IMAGES) {
     let score = 0;
     for (const cat of categories) {
@@ -202,7 +202,7 @@ function getMatchingImages(slug, content) {
         score += 2;
       }
     }
-    
+
     // Check content for additional keyword matches
     const contentLower = content.toLowerCase();
     for (const keyword of img.categories) {
@@ -210,12 +210,12 @@ function getMatchingImages(slug, content) {
         score += 1;
       }
     }
-    
+
     if (score > 0) {
       matchedImages.push({ ...img, score });
     }
   }
-  
+
   // Sort by score and return top 2
   matchedImages.sort((a, b) => b.score - a.score);
   return matchedImages.slice(0, 2);
@@ -225,10 +225,10 @@ function getMatchingImages(slug, content) {
 function generateImageHTML(img, position) {
   return `
 <figure class="article-image">
-  <img src="${IMAGES_DIR}/${img.file}" 
-       alt="${img.alt}" 
-       loading="lazy" 
-       width="1200" 
+  <img src="${IMAGES_DIR}/${img.file}"
+       alt="${img.alt}"
+       loading="lazy"
+       width="1200"
        height="800"
        style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">${img.caption}</figcaption>
@@ -239,7 +239,7 @@ function generateImageHTML(img, position) {
 // Insert image at appropriate position
 function insertImage(content, img, position) {
   const imageHTML = generateImageHTML(img, position);
-  
+
   if (position === 'after-first-h2') {
     // Find first ## heading and insert after it
     const h2Regex = /\n## [^\n]+\n/;
@@ -249,7 +249,7 @@ function insertImage(content, img, position) {
       return content.substring(0, insertPos) + '\n' + imageHTML + '\n' + content.substring(insertPos);
     }
   }
-  
+
   if (position === 'after-intro') {
     // Find first paragraph after H1 and insert after it
     const h1Regex = /# [^\n]+\n/;
@@ -264,7 +264,7 @@ function insertImage(content, img, position) {
       }
     }
   }
-  
+
   // Default: insert after H1
   const h1Regex = /# [^\n]+\n/;
   const match = content.match(h1Regex);
@@ -272,7 +272,7 @@ function insertImage(content, img, position) {
     const insertPos = match.index + match[0].length;
     return content.substring(0, insertPos) + '\n' + imageHTML + '\n' + content.substring(insertPos);
   }
-  
+
   // Fallback: append at end
   return content + '\n\n' + imageHTML;
 }
@@ -281,24 +281,24 @@ function insertImage(content, img, position) {
 function processArticle(filePath) {
   const filename = path.basename(filePath);
   const slug = filename.replace('.md', '');
-  
+
   let content = fs.readFileSync(filePath, 'utf-8');
   const originalContent = content;
-  
+
   // Get matching images
   const matchedImages = getMatchingImages(slug, content);
-  
+
   if (matchedImages.length === 0) {
     return null; // No suitable images found
   }
-  
+
   // Insert images
   for (let i = 0; i < matchedImages.length; i++) {
     const img = matchedImages[i];
     const position = i === 0 ? img.position : (img.position === 'after-first-h2' ? 'after-intro' : 'after-first-h2');
     content = insertImage(content, img, position);
   }
-  
+
   if (content !== originalContent) {
     fs.writeFileSync(filePath, content, 'utf-8');
     return {
@@ -307,14 +307,14 @@ function processArticle(filePath) {
       imageIds: matchedImages.map(img => img.id).join(', ')
     };
   }
-  
+
   return null;
 }
 
 // Main execution
 function main() {
   const files = fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('kakobuy-article-prompt') && !f.startsWith('kakobuy-internal-link-rules'))
+    .filter(f => f.endsWith('.md') && !f.startsWith('usfans-article-prompt') && !f.startsWith('usfans-internal-link-rules'))
     .map(f => path.join(BLOG_DIR, f));
 
   console.log(`Processing ${files.length} articles...\n`);

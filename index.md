@@ -1,7 +1,18 @@
 ---
 layout: home
-title: Kakobuy Spreadsheet Guide 2026 - Fashion Finds, Product Database & Buying Tips
-description: Independent Kakobuy Spreadsheet resource with product guides, category breakdowns, sizing tips, and spreadsheet access. Updated July 2026.
+title: 'USFans Spreadsheet 2026 | USFans Finds and Category Guides'
+description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct access to the full fashion spreadsheet.'
+category: USFans Spreadsheet
+keywords:
+- USFans Spreadsheet 2026
+- USFans Spreadsheet
+- USFans finds
+tags:
+- USFans Spreadsheet 2026
+- USFans Finds
+- Fashion Discovery
+- Category Guides
+updated: '2026-08-14T00:00:00Z'
 ---
 
 <script setup>

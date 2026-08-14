@@ -1,7 +1,7 @@
 ﻿{
-  "name": "Kakobuy Spreadsheet",
-  "domain": "Kakobuylinki.com",
-  "github": "Kakobuylinki",
+  "name": "Usfans Spreadsheet",
+  "domain": "Usfanslinki.com",
+  "github": "Usfanslinki",
   "build": "npm run build",
   "output": "dist"
 }

@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>{{ categoryName }}</h1>
-        <p>{{ frontmatter.heroSubtitle || 'Discover the best in ' + categoryName + ' with our curated selections.' }}</p>
+        <p>{{ frontmatter.heroSubtitle || 'Explore category context, reading paths, and related Usfans Spreadsheet resources.' }}</p>
       </div>
     </section>
 
@@ -12,7 +12,7 @@
     <section class="intro">
       <div class="container">
         <h2>About {{ categoryName }}</h2>
-        <p>{{ frontmatter.introText || 'Placeholder introduction text for ' + categoryName + ' category. This section provides an overview of the category and what users can expect to find.' }}</p>
+        <p>{{ frontmatter.introText || 'This page provides a category overview, related reading paths, and practical points to compare before continuing your research.' }}</p>
       </div>
     </section>
 
@@ -22,16 +22,16 @@
         <h2>Editor's Notes</h2>
         <div class="notes-grid">
           <div class="note-card">
-            <h3>{{ frontmatter.editorNotes[0].title || 'Note 1' }}</h3>
-            <p>{{ frontmatter.editorNotes[0].content || 'Placeholder editor\'s note text' }}</p>
+            <h3>{{ frontmatter.editorNotes?.[0]?.title || 'Research note' }}</h3>
+            <p>{{ frontmatter.editorNotes?.[0]?.content || 'Use documented details and keep any unanswered question visible while comparing options.' }}</p>
           </div>
           <div class="note-card">
-            <h3>{{ frontmatter.editorNotes[1].title || 'Note 2' }}</h3>
-            <p>{{ frontmatter.editorNotes[1].content || 'Placeholder editor\'s note text' }}</p>
+            <h3>{{ frontmatter.editorNotes?.[1]?.title || 'Comparison note' }}</h3>
+            <p>{{ frontmatter.editorNotes?.[1]?.content || 'Apply the same criteria to each option so that trade-offs remain clear.' }}</p>
           </div>
           <div class="note-card">
-            <h3>{{ frontmatter.editorNotes[2].title || 'Note 3' }}</h3>
-            <p>{{ frontmatter.editorNotes[2].content || 'Placeholder editor\'s note text' }}</p>
+            <h3>{{ frontmatter.editorNotes?.[2]?.title || 'Verification note' }}</h3>
+            <p>{{ frontmatter.editorNotes?.[2]?.content || 'Treat missing information as a verification question rather than an assumed product detail.' }}</p>
           </div>
         </div>
       </div>
@@ -40,23 +40,20 @@
     <!-- Product Collections -->
     <section class="collections">
       <div class="container">
-        <h2>Product Collections</h2>
+        <h2>Explore category guides</h2>
+        <p class="section-intro">Choose a topic to read its dedicated guide, compare key details, and continue to the relevant Usfans Spreadsheet resources.</p>
         <div class="collections-grid">
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
-            <h3>{{ frontmatter.collections[0].title || 'Collection 1' }}</h3>
-            <p>{{ frontmatter.collections[0].description || 'Placeholder text' }}</p>
-          </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
-            <h3>{{ frontmatter.collections[1].title || 'Collection 2' }}</h3>
-            <p>{{ frontmatter.collections[1].description || 'Placeholder text' }}</p>
-          </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
-            <h3>{{ frontmatter.collections[2].title || 'Collection 3' }}</h3>
-            <p>{{ frontmatter.collections[2].description || 'Placeholder text' }}</p>
-          </a>
-          <a :href="spreadsheetUrl" target="_blank" rel="nofollow" class="collection-card">
-            <h3>{{ frontmatter.collections[3].title || 'Collection 4' }}</h3>
-            <p>{{ frontmatter.collections[3].description || 'Placeholder text' }}</p>
+          <a
+            v-for="collection in collections"
+            :key="collection.title"
+            :href="collection.link || spreadsheetUrl"
+            :target="collection.link ? undefined : '_blank'"
+            :rel="collection.link ? undefined : 'nofollow noopener noreferrer'"
+            class="collection-card"
+          >
+            <h3>{{ collection.title }}</h3>
+            <p>{{ collection.description }}</p>
+            <span v-if="collection.link" class="card-link">Read guide <span aria-hidden="true">→</span></span>
           </a>
         </div>
       </div>
@@ -67,7 +64,7 @@
       <div class="container">
         <h2>Popular Categories</h2>
         <div class="brands-grid">
-          <a v-for="brand in frontmatter.brands" :key="brand" :href="spreadsheetUrl" target="_blank" rel="nofollow" class="brand-card">{{ brand }}</a>
+          <span v-for="brand in frontmatter.brands" :key="brand" class="brand-card">{{ brand }}</span>
         </div>
       </div>
     </section>
@@ -78,9 +75,9 @@
         <h2>Buying Guide</h2>
         <div class="guide-content">
           <h3>How to Choose</h3>
-          <p>{{ frontmatter.buyingGuide.howToChoose || 'Placeholder buying guide text. This section helps users understand how to choose the best products in this category.' }}</p>
+          <p>{{ frontmatter.buyingGuide?.howToChoose || 'Start with your intended use, then compare only the documented details that matter for that decision.' }}</p>
           <h3>What to Look For</h3>
-          <p>{{ frontmatter.buyingGuide.whatToLookFor || 'Placeholder text about what features and qualities to consider when shopping in this category.' }}</p>
+          <p>{{ frontmatter.buyingGuide?.whatToLookFor || 'Look for material, fit, compatibility, construction, care, and other details that can be checked from the available information.' }}</p>
         </div>
       </div>
     </section>
@@ -140,7 +137,8 @@ import { useData } from 'vitepress'
 
 const { frontmatter } = useData()
 const categoryName = computed(() => frontmatter.value.categoryName || 'Category')
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
+const collections = computed(() => frontmatter.value.collections || [])
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 </script>
 
 <style scoped>
@@ -217,6 +215,13 @@ section h2 {
 }
 
 /* Collections Grid */
+.section-intro {
+  max-width: 780px;
+  margin: -20px auto 28px;
+  color: #656565;
+  line-height: 1.7;
+  text-align: center;
+}
 .collections-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -248,6 +253,19 @@ section h2 {
   color: #666;
 }
 
+.card-link {
+  display: inline-flex;
+  gap: 6px;
+  margin-top: 14px;
+  color: #5b5ce2;
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.collection-card:hover .card-link {
+  color: #393aa7;
+}
+
 /* Brands Grid */
 .brands-grid {
   display: grid;
@@ -260,7 +278,6 @@ section h2 {
   padding: 15px;
   border-radius: 8px;
   text-align: center;
-  text-decoration: none;
   color: #000;
   font-weight: 600;
   transition: all 0.3s ease;
@@ -268,7 +285,7 @@ section h2 {
 
 .brand-card:hover {
   background: #f0f0f0;
-  color: #d4af37;
+  color: #393aa7;
 }
 
 /* Buying Guide */

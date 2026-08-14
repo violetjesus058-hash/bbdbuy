@@ -1,6 +1,13 @@
 ---
-title: Hats Guide - Caps, Beanies & More | Kakobuy Spreadsheet
-description: Complete guide to hats including snapbacks, beanies, bucket hats, dad hats and fitted caps. Quality specs, pricing, and logistics info.
+title: 'USFans Hats Spreadsheet | Hat Finds, Caps and Style Guides'
+description: 'Explore the USFans Hats Spreadsheet for hats, caps, beanies, bucket hats and fit guides. Compare focused USFans hat finds by style, materials and everyday use.'
+category: Accessories
+tags:
+- USFans Hats Spreadsheet
+- USFans Hat Finds
+- Hats and Caps
+- Accessory Guides
+updated: '2026-08-14T00:00:00Z'
 ---
 
 <script setup>
@@ -8,33 +15,38 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const hatsCategory = siteConfig.categories.find(c => c.id === 'hats')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 
 const productTypes = [
   {
     icon: '🧢',
     name: 'Snapback Caps',
-    desc: 'Adjustable flat-brim caps with plastic snap closure. Structured crown maintains shape. Popular in streetwear for bold graphics and logos. One size fits most with 7-position snap adjustment.'
+    desc: 'Adjustable flat-brim caps with plastic snap closure. Structured crown maintains shape. Popular in streetwear for bold graphics and logos. One size fits most with 7-position snap adjustment.',
+    link: '/blog/usfans-caps/'
   },
   {
     icon: '',
     name: 'Beanies',
-    desc: 'Knit caps made from acrylic, wool, or cotton blends. Ribbed construction provides stretch and warmth. Available in cuffed (12-15cm height), slouchy, and fisherman styles. Essential for cold weather layering.'
+    desc: 'Knit caps made from acrylic, wool, or cotton blends. Ribbed construction provides stretch and warmth. Available in cuffed (12-15cm height), slouchy, and fisherman styles. Essential for cold weather layering.',
+    link: '/blog/usfans-hats/'
   },
   {
     icon: '👒',
     name: 'Bucket Hats',
-    desc: 'Wide-brimmed hats (5-8cm brim) for sun protection. Made from cotton twill, nylon, or denim. Packable designs for travel. Popular in 90s revival and outdoor aesthetics.'
+    desc: 'Wide-brimmed hats (5-8cm brim) for sun protection. Made from cotton twill, nylon, or denim. Packable designs for travel. Popular in 90s revival and outdoor aesthetics.',
+    link: '/blog/usfans-hats-guide/'
   },
   {
     icon: '',
     name: 'Dad Hats',
-    desc: 'Unstructured 6-panel caps with curved brim (7-8cm). Low profile fits closer to head. Adjustable strap (metal buckle or velcro). Relaxed, vintage look that works with casual outfits.'
+    desc: 'Unstructured 6-panel caps with curved brim (7-8cm). Low profile fits closer to head. Adjustable strap (metal buckle or velcro). Relaxed, vintage look that works with casual outfits.',
+    link: '/blog/usfans-caps/'
   },
   {
     icon: '',
     name: 'Fitted Caps',
-    desc: 'Structured caps with fixed sizing (measured in inches, e.g., 7 1/4). No adjustable strap for clean silhouette. Premium construction with embroidered logos. Requires accurate head measurement.'
+    desc: 'Structured caps with fixed sizing (measured in inches, e.g., 7 1/4). No adjustable strap for clean silhouette. Premium construction with embroidered logos. Requires accurate head measurement.',
+    link: '/blog/usfans-hats-guide/'
   },
 ]
 
@@ -140,40 +152,40 @@ const sizingTips = [
 const brandOverview = [
   {
     brand: 'Sports Caps',
-    specialty: 'Official league caps, premium fitted caps',
-    priceRange: '$30-$50',
-    quality: 'Licensed logos, structured construction, durable materials',
+    specialty: 'Sports-style caps and fitted silhouettes',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare fit, panel construction, logo placement and material details',
   },
   {
     brand: 'Streetwear Labels',
-    specialty: 'Streetwear icon, box logo, limited drops',
-    priceRange: '$40-$150+',
-    quality: 'Heavyweight cotton, bold graphics, high resale value',
+    specialty: 'Graphic streetwear caps and logo-led designs',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare fabric weight, embroidery, adjustment hardware and care information',
   },
   {
     brand: 'Graphic Streetwear',
-    specialty: 'Camo patterns, bold graphics, Japanese streetwear',
-    priceRange: '$45-$120',
-    quality: 'Premium materials, detailed embroidery, collectible',
+    specialty: 'Camo patterns and graphic streetwear-inspired caps',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare material composition, embroidery density and finish consistency',
   },
   {
     brand: 'Heritage Streetwear',
-    specialty: 'Surf/skate heritage, signature script logo',
-    priceRange: '$35-$80',
-    quality: 'Solid basics, vintage aesthetic, reliable construction',
+    specialty: 'Surf- and skate-inspired cap styles',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare crown shape, material weight, stitching and adjustment details',
   },
   {
     brand: 'Urban Streetwear',
-    specialty: 'UK streetwear, bold logos, cult following',
-    priceRange: '$40-$100',
-    quality: 'Limited releases, bold designs, strong community',
+    specialty: 'Urban streetwear caps with graphic-led styling',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare fabric, logo treatment, fit and care requirements',
   },
 ]
 </script>
 
-# The Complete Hats Guide: Styles, Fits, and How to Choose
+# USFans Hats Spreadsheet
 
-Hats are more than just accessories—they protect from sun and cold, express personal style, and complete outfits. This guide covers everything from cap structures to materials, helping you choose the right hat for your face shape, style, and needs.
+The USFans Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and everyday finishing pieces. Use the linked article cards below to compare fit, material, structure and styling context before exploring relevant USFans hat finds.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -355,11 +367,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these hat-specific resources:
 
-- [Kakobuy Hats Guide](/blog/kakobuy-hats/) — Hat styles, brand comparisons, and quality checks for 2026
-- [Kakobuy Streetwear Guide](/blog/kakobuy-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
-- [Kakobuy Accessories Guide](/blog/kakobuy-accessories/) — Complete accessories overview including hats, belts, and more
-- [Kakobuy QC Photos](/blog/kakobuy-qc-photos/) — How to inspect hat quality using pre-shipment photos
-- [Kakobuy Legit Check](/blog/kakobuy-legit-check/) — Authentication markers for branded headwear
+- [Usfans Hats Guide](/blog/usfans-hats/) — Hat styles, brand comparisons, and quality checks for 2026
+- [Usfans Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and how hats complete the look
+- [Usfans Accessories Guide](/blog/usfans-accessories/) — Complete accessories overview including hats, belts, and more
+- [Usfans QC Photos](/blog/usfans-qc-photos/) — How to inspect hat quality using pre-shipment photos
+- [Usfans Legit Check](/blog/usfans-legit-check/) — Authentication markers for branded headwear
 
 ## Explore More Categories
 
@@ -494,7 +506,7 @@ Looking to complete your outfit? Check out our other category guides for more cu
     padding: 10px 12px;
     font-size: 13px;
   }
-  
+
   .tips-grid {
     grid-template-columns: 1fr;
   }

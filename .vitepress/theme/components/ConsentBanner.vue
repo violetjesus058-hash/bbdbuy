@@ -87,45 +87,49 @@ function loadGtagScripts() {
   left: 0;
   right: 0;
   z-index: 99999;
-  padding: 16px;
-  background: rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(4px);
+  padding: 0;
+  background: transparent;
+  pointer-events: none;
 }
 
 .consent-banner {
-  max-width: 640px;
-  margin: 0 auto;
-  background: #fff;
-  border-radius: 12px;
-  padding: 24px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  max-width: none;
+  margin: 0;
+  padding: 12px 24px;
+  background: #181818;
+  border: 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 0;
+  box-shadow: 0 -10px 26px rgba(0, 0, 0, 0.20);
+  color: #fff;
   text-align: center;
+  pointer-events: auto;
 }
 
 .consent-icon {
-  font-size: 32px;
-  margin-bottom: 8px;
+  display: none;
 }
 
 .consent-title {
-  font-size: 18px;
-  font-weight: 700;
-  color: #1a1a1a;
-  margin: 0 0 8px;
+  font-size: 15px;
+  font-weight: 750;
+  color: #fff;
+  margin: 0 0 7px;
 }
 
 .consent-text {
-  font-size: 14px;
-  color: #555;
-  line-height: 1.5;
-  margin: 0 0 20px;
+  max-width: 620px;
+  margin: 0 auto 14px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  line-height: 1.55;
 }
 
 .consent-buttons {
   display: flex;
-  gap: 12px;
+  gap: 10px;
   justify-content: center;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
 
 .consent-btn {
@@ -143,23 +147,24 @@ function loadGtagScripts() {
 }
 
 .consent-deny {
-  background: #f0f0f0;
-  color: #333;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: #2b2b2b;
+  color: rgba(255, 255, 255, 0.88);
 }
 
 .consent-accept {
-  background: #8B0000;
+  background: #5b5ce2;
   color: #fff;
 }
 
 .consent-privacy {
-  font-size: 12px;
-  color: #999;
   margin: 0;
+  color: rgba(255, 255, 255, 0.48);
+  font-size: 11px;
 }
 
 .consent-privacy a {
-  color: #8B0000;
+  color: #b6b6ff;
   text-decoration: none;
 }
 
@@ -167,15 +172,51 @@ function loadGtagScripts() {
   text-decoration: underline;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 701px) {
   .consent-banner {
-    padding: 20px 16px;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 18px;
+  }
+  .consent-title, .consent-text, .consent-buttons { margin: 0; }
+  .consent-text { max-width: none; text-align: left; }
+  .consent-privacy { display: none; }
+}
+
+@media (max-width: 700px) {
+  .consent-overlay { padding: 0; }
+  .consent-banner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 10px;
+    border-radius: 0;
+    padding: 10px 12px;
+  }
+  .consent-title, .consent-privacy { display: none; }
+  .consent-text {
+    max-width: none;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.68);
+    font-size: 0;
+    line-height: 1.35;
+    text-align: left;
+  }
+  .consent-text::after {
+    content: 'We use cookies. Choose an option to continue.';
+    font-size: 11px;
   }
   .consent-buttons {
-    flex-direction: column;
+    flex-direction: row;
+    gap: 6px;
+    margin: 0;
   }
   .consent-btn {
-    width: 100%;
+    width: auto;
+    padding: 8px 10px;
+    font-size: 12px;
+    white-space: nowrap;
   }
 }
 </style>

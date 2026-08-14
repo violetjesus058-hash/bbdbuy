@@ -1,6 +1,13 @@
 ---
-title: Clothes Guide - Streetwear, Outerwear & More | Kakobuy Spreadsheet
-description: Complete guide to clothing including t-shirts, hoodies, jackets, pants and shorts. Quality specs, pricing, and logistics info.
+title: 'USFans Clothing Spreadsheet | Clothing Finds, Fits and Guides'
+description: 'Explore the USFans Clothing Spreadsheet for hoodies, T-shirts, shirts, jackets, dresses and everyday wardrobe guides. Compare focused USFans clothing finds by category.'
+category: Clothing
+tags:
+- USFans Clothing Spreadsheet
+- USFans Clothing Finds
+- Clothing Guides
+- Apparel Discovery
+updated: '2026-08-14T00:00:00Z'
 ---
 
 <script setup>
@@ -8,33 +15,38 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const clothesCategory = siteConfig.categories.find(c => c.id === 'clothes')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 
 const productTypes = [
   {
     icon: '',
     name: 'T-Shirts',
-    desc: 'The foundation of any wardrobe. From heavyweight 220gsm cotton to lightweight jersey, fit ranges from boxy oversized to slim tailored. Key details include ribbed collars, reinforced seams, and pre-shrunk fabrics.'
+    desc: 'The foundation of any wardrobe. From heavyweight 220gsm cotton to lightweight jersey, fit ranges from boxy oversized to slim tailored. Key details include ribbed collars, reinforced seams, and pre-shrunk fabrics.',
+    link: '/blog/usfans-t-shirts/'
   },
   {
     icon: '',
     name: 'Hoodies & Sweatshirts',
-    desc: 'Midweight fleece (300-400gsm) provides warmth without bulk. French terry offers breathability for layering. Look for double-lined hoods, kangaroo pockets, and ribbed cuffs that maintain shape after washing.'
+    desc: 'Midweight fleece (300-400gsm) provides warmth without bulk. French terry offers breathability for layering. Look for double-lined hoods, kangaroo pockets, and ribbed cuffs that maintain shape after washing.',
+    link: '/blog/usfans-hoodies/'
   },
   {
     icon: '🧥',
     name: 'Jackets & Outerwear',
-    desc: 'From lightweight windbreakers to insulated puffers. Key features include water-resistant coatings, sealed seams, adjustable hoods, and packable designs. Fill power (600-800) indicates down quality.'
+    desc: 'From lightweight windbreakers to insulated puffers. Key features include water-resistant coatings, sealed seams, adjustable hoods, and packable designs. Fill power (600-800) indicates down quality.',
+    link: '/blog/usfans-jackets/'
   },
   {
     icon: '👖',
     name: 'Pants & Jeans',
-    desc: 'Denim weight ranges from 12oz (lightweight) to 16oz (heavyweight). Stretch denim adds comfort. Cargo pants feature utility pockets. Track pants use technical fabrics for athletic performance.'
+    desc: 'Denim weight ranges from 12oz (lightweight) to 16oz (heavyweight). Stretch denim adds comfort. Cargo pants feature utility pockets. Track pants use technical fabrics for athletic performance.',
+    link: '/blog/usfans-pants/'
   },
   {
     icon: '🩳',
     name: 'Shorts',
-    desc: 'Inseam length varies from 5" (athletic) to 11" (casual). Materials include cotton twill, nylon ripstop, and mesh-lined athletic fabrics. Elastic waistbands with drawstrings offer adjustable fit.'
+    desc: 'Inseam length varies from 5" (athletic) to 11" (casual). Materials include cotton twill, nylon ripstop, and mesh-lined athletic fabrics. Elastic waistbands with drawstrings offer adjustable fit.',
+    link: '/blog/usfans-shorts/'
   },
 ]
 
@@ -120,39 +132,39 @@ const brandOverview = [
   {
     brand: 'Streetwear Labels',
     specialty: 'Bold graphics, limited drops, urban aesthetic',
-    priceRange: '$40-$200+',
-    quality: 'Heavyweight cotton, bold graphics, resale value',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare fabric weight, graphic application, construction and care information',
   },
   {
     brand: 'Minimalist Luxury',
     specialty: 'Neutral tones, oversized fits, clean silhouettes',
-    priceRange: '$50-$150',
-    quality: 'Premium fleece, clean construction, versatile',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare fleece composition, seam finishing and versatility for the intended use',
   },
   {
     brand: 'Heritage Streetwear',
     specialty: 'Surf/skate heritage, signature graphics',
-    priceRange: '$35-$120',
-    quality: 'Solid basics, graphic tees, casual style',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare knit weight, print details and everyday care requirements',
   },
   {
     brand: 'Graphic Streetwear',
     specialty: 'Camo patterns, bold hoodies, streetwear icon',
-    priceRange: '$50-$300+',
-    quality: 'Bold designs, premium materials, collectible',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare material composition, graphic placement and construction details',
   },
   {
     brand: 'Classic American',
     specialty: 'Polo shirts, preppy aesthetic, timeless style',
-    priceRange: '$40-$200',
-    quality: 'Timeless designs, durable construction, versatile',
+    priceRange: 'Varies by item and source; verify the current listing',
+    quality: 'Compare construction, material composition and suitability for the planned wardrobe',
   },
 ]
 </script>
 
-# The Complete Clothes Guide: Fabrics, Fits, and Style
+# USFans Clothing Spreadsheet
 
-Clothing is more than just covering your body—it is about expressing yourself, feeling comfortable, and making smart purchasing decisions. This guide breaks down everything from fabric weights to fit profiles, helping you choose pieces that last and look great.
+The USFans Clothing Spreadsheet brings together clothing-focused guides for T-shirts, hoodies, shirts, jackets, dresses, layers and everyday wardrobe pieces. Start with the category that matches your intended use, then open the connected article card to compare fit, materials, care considerations and relevant USFans clothing finds.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -291,11 +303,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these clothing-specific resources:
 
-- [Kakobuy Hoodies Guide](/blog/kakobuy-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
-- [Kakobuy T-Shirts Guide](/blog/kakobuy-t-shirts/) — T-shirt materials, fit options, and quality indicators
-- [Kakobuy Streetwear Guide](/blog/kakobuy-streetwear/) — Streetwear brands, styling tips, and trend analysis
-- [Kakobuy QC Photos](/blog/kakobuy-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/) — Universal sizing guide for shoes and apparel
+- [Usfans Hoodies Guide](/blog/usfans-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
+- [Usfans T-Shirts Guide](/blog/usfans-t-shirts/) — T-shirt materials, fit options, and quality indicators
+- [Usfans Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and trend analysis
+- [Usfans QC Photos](/blog/usfans-qc-photos/) — How to inspect clothing quality using pre-shipment photos
+- [Usfans Sizing Guide](/blog/usfans-sizing-guide/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 
@@ -437,7 +449,7 @@ Looking to complete your outfit? Check out our other category guides for more cu
     padding: 10px 12px;
     font-size: 13px;
   }
-  
+
   .fit-grid {
     grid-template-columns: 1fr;
   }

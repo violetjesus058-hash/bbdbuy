@@ -8,8 +8,8 @@
     <!-- Primary Category Filter (一级分类) -->
     <div class="category-filter primary-filter">
       <div class="filter-container">
-        <button 
-          v-for="category in primaryCategories" 
+        <button
+          v-for="category in primaryCategories"
           :key="category"
           class="filter-btn"
           :class="{ active: selectedPrimary === category }"
@@ -23,15 +23,15 @@
     <!-- Secondary Category Filter (二级分类) -->
     <div v-if="selectedPrimary" class="category-filter secondary-filter">
       <div class="filter-container">
-        <button 
+        <button
           class="filter-btn"
           :class="{ active: selectedSecondary === null }"
           @click="selectSecondaryCategory(null)"
         >
           All
         </button>
-        <button 
-          v-for="subcategory in secondaryCategories" 
+        <button
+          v-for="subcategory in secondaryCategories"
           :key="subcategory"
           class="filter-btn"
           :class="{ active: selectedSecondary === subcategory }"
@@ -47,7 +47,7 @@
       <div class="section-header">
         <h2 class="section-title">Featured Products</h2>
       </div>
-      
+
       <div class="waterfall-grid">
         <div v-for="product in filteredProducts" :key="product.id" class="product-card">
           <img :src="product.image" :alt="product.name" class="product-image">
@@ -226,7 +226,7 @@ function trackClick(product) {
       }]
     })
   }
-  
+
   // 51.la tracking
   if (typeof LA !== 'undefined' && LA.track) {
     LA.track('product_click', {

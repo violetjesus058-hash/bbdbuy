@@ -1,6 +1,13 @@
 ---
-title: Shoes Guide - Sneakers, Boots & More | Kakobuy Spreadsheet
-description: Complete guide to shoes including running, basketball, casual sneakers, boots and slides. Quality specs, pricing, and logistics info.
+title: 'USFans Shoes Spreadsheet | Sneaker Finds and Footwear Guides'
+description: 'Explore the USFans Shoes Spreadsheet for sneakers, basketball shoes, running shoes, football shoes, hiking footwear and boots. Compare focused USFans sneaker finds by use case.'
+category: Footwear
+tags:
+- USFans Shoes Spreadsheet
+- USFans Sneaker Finds
+- Footwear Guides
+- Shoe Discovery
+updated: '2026-08-14T00:00:00Z'
 ---
 
 <script setup>
@@ -8,65 +15,70 @@ import { siteConfig } from './.vitepress/theme/site-config.js'
 import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 
 const shoesCategory = siteConfig.categories.find(c => c.id === 'shoes')
-const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/10e9euL3y7Bw7GvWUhX2FruG8mJWXz8C7eNwTo69XoQA/edit?gid=1903531254#gid=1903531254'
+const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 
 const productTypes = [
   {
     icon: '🏃',
     name: 'Running Shoes',
-    desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include advanced air units, foam midsoles, and gel systems for energy return and shock absorption.'
+    desc: 'Engineered for performance with responsive cushioning, breathable mesh uppers, and durable rubber outsoles. Key technologies include advanced air units, foam midsoles, and gel systems for energy return and shock absorption.',
+    link: '/blog/usfans-running-shoes/'
   },
   {
     icon: '🏀',
     name: 'Basketball Shoes',
-    desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature responsive air units, foam midsoles, and reinforced toe boxes for durability during lateral movements.'
+    desc: 'Built for court performance with ankle support, herringbone traction patterns, and impact protection. Popular models feature responsive air units, foam midsoles, and reinforced toe boxes for durability during lateral movements.',
+    link: '/blog/usfans-basketball-shoes/'
   },
   {
     icon: '👟',
     name: 'Casual Sneakers',
-    desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes remain timeless with clean lines and versatile colorways. Modern iterations incorporate premium materials like leather, suede, and knit uppers.'
+    desc: 'Lifestyle footwear blending comfort and style. Classic silhouettes remain timeless with clean lines and versatile colorways. Modern iterations incorporate premium materials like leather, suede, and knit uppers.',
+    link: '/blog/usfans-sneakers/'
   },
   {
     icon: '',
     name: 'Boots',
-    desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, durable rubber outsoles, and premium leather uppers for long-lasting wear.'
+    desc: 'From rugged work boots to fashion-forward designs. Key features include Goodyear welt construction, waterproof membranes, durable rubber outsoles, and premium leather uppers for long-lasting wear.',
+    link: '/blog/usfans-football-boots/'
   },
   {
     icon: '🩴',
     name: 'Slides & Sandals',
-    desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models feature contoured footbeds and adjustable straps for all-day comfort.'
+    desc: 'Slip-on comfort for casual wear. EVA foam construction provides lightweight cushioning. Popular models feature contoured footbeds and adjustable straps for all-day comfort.',
+    link: '/blog/usfans-shoes/'
   },
 ]
 
 const brandComparison = [
   {
     brand: 'Performance Running',
-    strengths: 'Advanced cushioning technology, breathable uppers, energy return systems',
-    priceRange: '$75-$150',
+    strengths: 'Compare cushioning approach, upper construction and intended activity',
+    priceRange: 'Varies by item and source; verify the current listing',
     bestFor: 'Running, basketball, lifestyle',
   },
   {
     brand: 'Street Style',
-    strengths: 'Boost cushioning, knit uppers, designer collaborations',
-    priceRange: '$70-$140',
+    strengths: 'Compare cushioning construction, upper material and styling details',
+    priceRange: 'Varies by item and source; verify the current listing',
     bestFor: 'Running, casual, streetwear',
   },
   {
     brand: 'Comfort Focus',
-    strengths: 'Fresh Foam, ENCAP midsole, wide width options',
-    priceRange: '$70-$130',
+    strengths: 'Compare midsole construction, width information and walking or running context',
+    priceRange: 'Varies by item and source; verify the current listing',
     bestFor: 'Running, walking, comfort',
   },
   {
     brand: 'Stability Plus',
-    strengths: 'Gel cushioning, FlyteFoam, stability features',
-    priceRange: '$70-$120',
+    strengths: 'Compare cushioning system details, stability features and fit information',
+    priceRange: 'Varies by item and source; verify the current listing',
     bestFor: 'Running, stability, overpronation',
   },
   {
     brand: 'Max Cushion',
-    strengths: 'Maximal cushioning, Meta-Rocker, lightweight',
-    priceRange: '$90-$140',
+    strengths: 'Compare stack height, outsole shape, weight information and intended activity',
+    priceRange: 'Varies by item and source; verify the current listing',
     bestFor: 'Long-distance running, recovery',
   },
 ]
@@ -128,9 +140,9 @@ const sizingTips = [
 ]
 </script>
 
-# The Complete Shoes Guide: How to Choose, Compare, and Buy
+# USFans Shoes Spreadsheet
 
-Whether you are a runner seeking performance, a sneakerhead chasing limited releases, or someone who just wants comfortable everyday footwear, this guide covers everything you need to know about buying shoes. We have tested hundreds of models across brands, analyzed materials and construction, and compiled real user feedback to help you make informed decisions.
+The USFans Shoes Spreadsheet organizes sneaker and footwear discovery into practical paths, including running shoes, basketball shoes, casual sneakers, boots and slides. Choose a card below to open its dedicated article, then compare USFans sneaker finds using the fit, material and use-case guidance on that page.
 
 <div class="spreadsheet-cta">
   <a :href="spreadsheetLink" target="_blank" class="spreadsheet-btn">
@@ -236,14 +248,14 @@ Proper care extends the life of your shoes significantly:
 Build on your shoe knowledge with these connected resources:
 
 **Sneaker-Specific Guides:**
-- [Kakobuy Sneakers Database](/blog/kakobuy-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
-- [Kakobuy Running Shoes Guide](/blog/kakobuy-running-shoes/) — Performance running shoe comparisons and technology breakdowns
-- [Kakobuy Basketball Shoes Guide](/blog/kakobuy-basketball/) — Basketball shoe batch comparisons and quality insights
+- [Usfans Sneakers Database](/blog/usfans-sneakers/) — Data-driven analysis of 33+ verified sneaker listings with performance metrics
+- [Usfans Running Shoes Guide](/blog/usfans-running-shoes/) — Performance running shoe comparisons and technology breakdowns
+- [Usfans Basketball Shoes Guide](/blog/usfans-basketball-shoes/) — Basketball shoe batch comparisons and quality insights
 
 **Quality & Sizing Resources:**
-- [Kakobuy QC Photos Tutorial](/blog/kakobuy-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
-- [Kakobuy Sizing Guide](/blog/kakobuy-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
-- [Kakobuy Legit Check](/blog/kakobuy-legit-check/) — Authentication markers and quality verification techniques
+- [Usfans QC Photos Tutorial](/blog/usfans-qc-photos/) — Step-by-step guide to inspecting footwear quality before shipping
+- [Usfans Sizing Guide](/blog/usfans-sizing-guide/) — Brand-specific sizing charts and measurement conversion tables
+- [Usfans Legit Check](/blog/usfans-legit-check/) — Authentication markers and quality verification techniques
 
 ## Explore More Categories
 

@@ -5,11 +5,19 @@
       <h2>Product Types</h2>
       <p class="section-intro">{{ categoryDescription }}</p>
       <div class="type-grid">
-        <div v-for="type in productTypes" :key="type.name" class="type-card">
+        <component
+          :is="type.link ? 'a' : 'div'"
+          v-for="type in productTypes"
+          :key="type.name"
+          class="type-card"
+          :href="type.link || undefined"
+          :aria-label="type.link ? `Read ${type.name} guide` : undefined"
+        >
           <div class="type-icon">{{ type.icon }}</div>
           <h3>{{ type.name }}</h3>
           <p>{{ type.desc }}</p>
-        </div>
+          <span v-if="type.link" class="type-card-link">Read guide <span aria-hidden="true">→</span></span>
+        </component>
       </div>
     </section>
 
@@ -154,6 +162,8 @@ function toggleFaq(index) {
   border: 1px solid #eee;
   border-radius: 12px;
   padding: 24px;
+  color: inherit;
+  text-decoration: none;
   transition: all 0.2s ease;
 }
 
@@ -178,6 +188,19 @@ function toggleFaq(index) {
   font-size: 14px;
   color: #666;
   line-height: 1.6;
+}
+
+.type-card-link {
+  display: inline-flex;
+  gap: 6px;
+  margin-top: 14px;
+  color: #5b5ce2;
+  font-size: 13px;
+  font-weight: 750;
+}
+
+.type-card:hover .type-card-link {
+  color: #393aa7;
 }
 
 /* Info Table */
