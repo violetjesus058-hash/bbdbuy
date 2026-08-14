@@ -43,7 +43,7 @@
         <a href="/blog/" class="nav-item" :class="{ active: isActive('/blog') }" @click="closeMenus">Guides</a>
       </nav>
 
-      <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="nav-cta">Open catalog <span aria-hidden="true">↗</span></a>
+      <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="nav-cta">Access Spreadsheet <span aria-hidden="true">↗</span></a>
     </div>
   </header>
 </template>
