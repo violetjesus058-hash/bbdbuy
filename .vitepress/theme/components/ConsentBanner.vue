@@ -36,7 +36,6 @@ function grantConsent() {
   localStorage.setItem('consentGranted', 'true')
   consentGiven.value = true
   updateConsent('granted')
-  loadGtagScripts()
 }
 
 function denyConsent() {
@@ -56,28 +55,6 @@ function updateConsent(status) {
   }
 }
 
-function loadGtagScripts() {
-  const ga4 = 'G-TK58Z0WW8'
-  const aw = 'AW-18355431983'
-
-  var s1 = document.createElement('script')
-  s1.async = true
-  s1.src = 'https://www.googletagmanager.com/gtag/js?id=' + ga4
-  document.head.appendChild(s1)
-
-  var s2 = document.createElement('script')
-  s2.async = true
-  s2.src = 'https://www.googletagmanager.com/gtag/js?id=' + aw
-  document.head.appendChild(s2)
-
-  // Wait for scripts to load, then initialize
-  setTimeout(function() {
-    if (typeof window.gtag === 'function') {
-      window.gtag('config', ga4, { anonymize_ip: true })
-      window.gtag('config', aw, { anonymize_ip: true })
-    }
-  }, 1000)
-}
 </script>
 
 <style scoped>
