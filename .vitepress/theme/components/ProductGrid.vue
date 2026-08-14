@@ -68,7 +68,7 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed } from 'vue'
 
 // 分类结构定义
 const categoryStructure = {
@@ -226,37 +226,8 @@ function trackClick(product) {
       }]
     })
   }
-
-  // 51.la tracking
-  if (typeof LA !== 'undefined' && LA.track) {
-    LA.track('product_click', {
-      'product_id': product.id,
-      'product_name': product.name,
-      'product_price': product.price,
-      'product_category': product.primaryCategory,
-      'product_subcategory': product.secondaryCategory
-    })
-  }
 }
 
-onMounted(() => {
-  // Load GA4 Script
-  const ga4Script = document.createElement('script')
-  ga4Script.async = true
-  ga4Script.src = 'https://www.googletagmanager.com/gtag/js?id=G-XTJTTBZTPM'
-  document.head.appendChild(ga4Script)
-
-  // Load 51.la Script
-  const la51Script = document.createElement('script')
-  la51Script.charset = 'UTF-8'
-  la51Script.src = '//sdk.51.la/js-sdk-pro.min.js'
-  la51Script.onload = function() {
-    if (typeof LA !== 'undefined') {
-      LA.init({id:"3QY7P2FXzSiNjyje",ck:"3QY7P2FXzSiNjyje"})
-    }
-  }
-  document.head.appendChild(la51Script)
-})
 </script>
 
 <style scoped>

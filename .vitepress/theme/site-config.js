@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'USFans Spreadsheet 2026 - USFans Finds, Category Guides and Product Research',
     description: 'Explore USFans Spreadsheet 2026 through organized USFans finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['usfans spreadsheet 2026', 'usfans spreadsheet', 'usfans finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-XTJTTBZTPM',
+    ga4: 'G-9WJTE8DY0P',
   },
 
   // ---- Announcement Bar ----
