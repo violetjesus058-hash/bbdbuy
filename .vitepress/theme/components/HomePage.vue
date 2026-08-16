@@ -131,6 +131,24 @@
         </div>
       </div>
     </section>
+
+    <section id="essential-guides" class="section section-muted essential-guides">
+      <div class="page-container">
+        <div class="section-heading section-heading-left guides-heading">
+          <p class="section-kicker">Start with the essentials</p>
+          <h2>Useful context before you open the spreadsheet.</h2>
+          <p>New to Usfans? These short guides explain how the platform works, what the spreadsheet is for and how to begin with a clearer plan.</p>
+        </div>
+        <div class="guide-grid">
+          <a v-for="guide in guideCards" :key="guide.title" :href="guide.link" class="guide-card">
+            <span class="guide-label">{{ guide.label }}</span>
+            <h3>{{ guide.title }}</h3>
+            <p>{{ guide.description }}</p>
+            <span class="guide-card-link">Read the guide <span aria-hidden="true">→</span></span>
+          </a>
+        </div>
+      </div>
+    </section>
   </main>
 </template>
 
@@ -158,6 +176,33 @@ const categoryCards = computed(() => [
   { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/usfans-watches/', icon: '⌚' },
   { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/usfans-sunglasses/', icon: '🕶️' }
 ])
+
+const guideCards = [
+  {
+    label: 'Getting started',
+    title: 'How to Buy with Usfans',
+    description: 'A practical first look at browsing, comparing options and moving from a shortlist to an order with more confidence.',
+    link: '/blog/usfans-how-to-buy/'
+  },
+  {
+    label: 'Platform overview',
+    title: 'What Is Usfans?',
+    description: 'Get a simple introduction to the platform, the role it plays in product discovery and the information worth checking first.',
+    link: '/blog/usfans-about/'
+  },
+  {
+    label: 'Catalog explained',
+    title: 'What Is the Usfans Spreadsheet?',
+    description: 'Learn how an organized spreadsheet helps you compare product details, explore categories and return to useful finds faster.',
+    link: '/blog/usfans-platform/'
+  },
+  {
+    label: 'Why it helps',
+    title: 'Key Benefits of Usfans',
+    description: 'See the value of clearer category paths, practical guides and direct catalog access before deciding where to start.',
+    link: '/blog/usfans-complete-platform-guide/'
+  }
+]
 
 const steps = [
   { title: 'Choose a category', description: 'Start with the product type or style you want to explore.' },
@@ -264,6 +309,17 @@ const faqs = [
 .faq-item summary::after { content: '+'; color: var(--accent); font-size: 24px; font-weight: 400; }
 .faq-item[open] summary::after { content: '−'; }
 .faq-item p { max-width: 660px; margin: -3px 0 22px; color: var(--muted-ink); line-height: 1.7; }
+.essential-guides { border-top: 1px solid var(--line); }
+.guides-heading { max-width: 720px; }
+.guides-heading > p:not(.section-kicker) { max-width: 660px; margin: 18px 0 0; color: var(--muted-ink); font-size: 17px; line-height: 1.7; }
+.guide-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.guide-card { display: flex; flex-direction: column; min-height: 238px; padding: 28px; border: 1px solid var(--line); border-radius: 12px; background: #fff; color: var(--ink); text-decoration: none; transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease; }
+.guide-card:hover { border-color: #cfcfff; box-shadow: 0 14px 30px rgba(35, 35, 75, .09); transform: translateY(-3px); }
+.guide-label { display: block; margin-bottom: 35px; color: var(--accent); font-size: 11px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.guide-card h3 { margin: 0; font-size: 23px; font-weight: 780; letter-spacing: -.04em; line-height: 1.12; }
+.guide-card p { max-width: 460px; margin: 14px 0 23px; color: var(--muted-ink); font-size: 15px; line-height: 1.65; }
+.guide-card-link { margin-top: auto; color: var(--ink); font-size: 13px; font-weight: 800; }
+.guide-card-link span { margin-left: 4px; color: var(--accent); }
 @media (max-width: 900px) { .intro-grid, .feature-layout, .faq-wrap { grid-template-columns: 1fr; gap: 42px; } .intro-content { grid-column: auto; } .feature-intro { position: static; } .steps-grid { grid-template-columns: repeat(2, 1fr); } .category-grid { grid-template-columns: repeat(2, 1fr); } .final-cta { align-items: flex-start; flex-direction: column; } }
-@media (max-width: 700px) { .page-container { width: min(100% - 32px, 1180px); } .hero-content h1 { white-space: normal; } .hero-section { padding: 76px 0 58px; } .hero-copy { font-size: 17px; } .hero-stats { margin-top: 54px; gap: 8px; } .hero-stats dt { font-size: 19px; } .intro-section, .section { padding: 72px 0; } .category-grid, .feature-grid { grid-template-columns: 1fr; } .category-card { min-height: auto; } .category-icon { margin-bottom: 38px; } .category-card p { min-height: auto; } .steps-grid { grid-template-columns: 1fr; gap: 4px; } .step-index { margin-bottom: 28px; } .section-heading { margin-bottom: 36px; } }
+@media (max-width: 700px) { .page-container { width: min(100% - 32px, 1180px); } .hero-content h1 { white-space: normal; } .hero-section { padding: 76px 0 58px; } .hero-copy { font-size: 17px; } .hero-stats { margin-top: 54px; gap: 8px; } .hero-stats dt { font-size: 19px; } .intro-section, .section { padding: 72px 0; } .category-grid, .feature-grid, .guide-grid { grid-template-columns: 1fr; } .category-card { min-height: auto; } .category-icon { margin-bottom: 38px; } .category-card p { min-height: auto; } .steps-grid { grid-template-columns: 1fr; gap: 4px; } .step-index { margin-bottom: 28px; } .section-heading { margin-bottom: 36px; } .guide-card { min-height: 0; padding: 24px; } .guide-label { margin-bottom: 28px; } }
 </style>
