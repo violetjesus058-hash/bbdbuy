@@ -157,7 +157,7 @@ import { computed } from 'vue'
 import { siteConfig } from '../site-config.js'
 
 const { links } = siteConfig
-const shoppingUrl = 'https://repsootd.com/'
+const shoppingUrl = 'https://repsootd.com/products/'
 
 const categoryCards = computed(() => [
   { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/usfans-sneakers/', icon: '👟' },

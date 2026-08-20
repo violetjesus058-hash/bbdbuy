@@ -172,7 +172,7 @@ The USFans Clothing Spreadsheet brings together clothing-focused guides for T-sh
     <span>View Clothes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+  <a href="https://repsootd.com/products/?q=T-Shirts" target="_blank" rel="nofollow sponsored noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Clothing Categories

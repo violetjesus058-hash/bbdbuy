@@ -150,7 +150,7 @@ The USFans Shoes Spreadsheet organizes sneaker and footwear discovery into pract
     <span>View Shoes Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+  <a href="https://repsootd.com/products/?q=Shoes+%26+Sneakers" target="_blank" rel="nofollow sponsored noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Shoe Categories

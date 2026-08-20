@@ -193,7 +193,7 @@ The USFans Hats Spreadsheet covers caps, beanies, bucket hats, fitted styles and
     <span>View Hats Spreadsheet</span>
     <span class="btn-arrow">→</span>
   </a>
-  <a href="https://repsootd.com/" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+  <a href="https://repsootd.com/products/?q=Hats+%26+Scarves" target="_blank" rel="nofollow sponsored noopener noreferrer" class="shopping-btn">Start shopping</a>
 </div>
 
 ## Understanding Hat Categories
