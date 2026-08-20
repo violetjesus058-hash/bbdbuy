@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>{{ categoryName }}</h1>
-        <p>{{ frontmatter.heroSubtitle || 'Explore category context, reading paths, and related Usfans Spreadsheet resources.' }}</p>
+        <p>{{ frontmatter.heroSubtitle || 'Explore category context, reading paths, and related Bbdbuy Spreadsheet resources.' }}</p>
       </div>
     </section>
 
@@ -41,7 +41,7 @@
     <section class="collections">
       <div class="container">
         <h2>Explore category guides</h2>
-        <p class="section-intro">Choose a topic to read its dedicated guide, compare key details, and continue to the relevant Usfans Spreadsheet resources.</p>
+        <p class="section-intro">Choose a topic to read its dedicated guide, compare key details, and continue to the relevant Bbdbuy Spreadsheet resources.</p>
         <div class="collections-grid">
           <a
             v-for="collection in collections"

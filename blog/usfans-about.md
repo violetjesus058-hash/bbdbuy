@@ -1,8 +1,8 @@
 ---
 layout: home
-title: About Usfans Spreadsheet - Your Fashion Discovery Resource
+title: About Bbdbuy Spreadsheet - Your Fashion Discovery Resource
 heroSubtitle: Discover organized product information, curated categories, and helpful shopping guides.
-introduction: Welcome to Usfans Spreadsheet, a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides.
+introduction: Welcome to Bbdbuy Spreadsheet, a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides.
 mission:
 - title: Our Mission
   content: To help users discover products through organized information and comprehensive guides, making product research easier and more efficient.
@@ -27,7 +27,7 @@ import AboutPage from '../.vitepress/theme/components/AboutPage.vue'
 
 <AboutPage />
 
-Choosing the right About becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [Usfans Spreadsheet](https://usfanslinki.com/) homepage for additional shopping resources and regularly updated product guides.
+Choosing the right About becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [Bbdbuy Spreadsheet](https://usfanslinki.com/) homepage for additional shopping resources and regularly updated product guides.
 
 
 

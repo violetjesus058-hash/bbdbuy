@@ -12,7 +12,7 @@
 
 ## CRITICAL: Website Positioning (MUST READ FIRST)
 
-**Usfans Spreadsheet is a curated product directory.**
+**Bbdbuy Spreadsheet is a curated product directory.**
 
 The website:
 - ✅ Organizes product information into browsable categories
@@ -48,7 +48,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - **M1a - Problem Hook**: Start with a common research challenge
   - Example: "Finding reliable product information for [category] across scattered sources is time-consuming. Most buyers struggle to compare options without a centralized reference..."
 - **M1b - Category Overview Hook**: Lead with the breadth of organized information
-  - Example: "The [category] listings on Usfans Spreadsheet span dozens of styles, price points, and variations — all organized in one browsable directory..."
+  - Example: "The [category] listings on Bbdbuy Spreadsheet span dozens of styles, price points, and variations — all organized in one browsable directory..."
 - **M1c - Scenario Hook**: Open with a relatable discovery scenario
   - Example: "You're looking for [product type] but don't know where to start comparing options. A curated directory can help you narrow down choices based on organized product information..."
 - **M1d - Question Hook**: Pose a practical research question
@@ -68,7 +68,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - **M2a - Benefit List**: Bullet-point key takeaways
   - Structure: "In this guide, you'll find: [3-5 specific topics covered]"
 - **M2b - Navigation Guide**: Help users understand the directory structure
-  - Structure: "Usfans Spreadsheet organizes [category] into clear sections. Here's how to navigate the available product information..."
+  - Structure: "Bbdbuy Spreadsheet organizes [category] into clear sections. Here's how to navigate the available product information..."
 - **M2c - Resource Overview**: Establish what this resource covers
   - Structure: "This guide compiles organized product information about [topic], including category breakdowns, pricing references, and comparison points..."
 
@@ -166,7 +166,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Provide honest context about the resource
 **Variants**:
 - **M7a - Resource Disclosure**: Explain what this directory is
-  - Example: "Usfans Spreadsheet is a curated product directory that organizes product listings for easy browsing. It does not sell products directly. Prices and availability are references and may change."
+  - Example: "Bbdbuy Spreadsheet is a curated product directory that organizes product listings for easy browsing. It does not sell products directly. Prices and availability are references and may change."
 - **M7b - Limitations Acknowledgment**: Be honest about gaps
   - Example: "Product information is compiled from external sources. Availability, pricing, and product details may change. Users should verify current information through the spreadsheet link."
 - **M7c - External Resources**: Point to community discussions
@@ -205,7 +205,7 @@ This system replaces fixed templates with **composable content modules** that ad
 **Purpose**: Guide reader to the spreadsheet or related guides
 **Variants**:
 - **M9a - Spreadsheet Link**: Direct users to the product directory
-  - Format: "[Access Usfans Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) — Browse [category] listings"
+  - Format: "[Access Bbdbuy Spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) — Browse [category] listings"
 - **M9b - Related Guide Suggestion**: Recommend logical follow-up reading
   - Format: "For more information about [related topic], explore our [guide name]..."
 - **M9c - Category Exploration**: Encourage browsing other categories
@@ -324,7 +324,7 @@ This system replaces fixed templates with **composable content modules** that ad
 
 ### Slot Usage Example
 
-**Topic**: "Usfans Spreadsheet Nike Collection 2026: Organized Product Guide"
+**Topic**: "Bbdbuy Spreadsheet Nike Collection 2026: Organized Product Guide"
 
 **Slot Values**:
 - {{BRAND}} = Nike
@@ -334,7 +334,7 @@ This system replaces fixed templates with **composable content modules** that ad
 - {{TOPIC}} = organized product guide
 
 **Generated Hook (M1b - Category Overview)**:
-"The Nike listings on Usfans Spreadsheet span dozens of styles, from classic Air Max to modern Air Force 1 variations — all organized in one browsable directory. Here's how to navigate the collection and find products that match your style..."
+"The Nike listings on Bbdbuy Spreadsheet span dozens of styles, from classic Air Max to modern Air Force 1 variations — all organized in one browsable directory. Here's how to navigate the collection and find products that match your style..."
 
 ---
 
@@ -437,11 +437,11 @@ Write each module, ensuring:
 
 ## Part 7: Example Article Outline
 
-### Topic: "Usfans Spreadsheet Hoodies 2026: Organized Product Guide"
+### Topic: "Bbdbuy Spreadsheet Hoodies 2026: Organized Product Guide"
 **Category**: B (Brand-Specific Guide)
 
 **Module Sequence**:
-1. M1b (Category Overview): "The hoodie listings on Usfans Spreadsheet span multiple styles, from pullover classics to zip-up designs — all organized in one browsable directory..."
+1. M1b (Category Overview): "The hoodie listings on Bbdbuy Spreadsheet span multiple styles, from pullover classics to zip-up designs — all organized in one browsable directory..."
 2. M2b (Navigation Guide): "The hoodie category is organized by style type, price range, and brand inspiration. Here's how to find what you're looking for..."
 3. M3c (Comparison Framework): "When comparing hoodie options, consider: material description, style type, price range, and available color options..."
 4. M4b (Product Spotlight): "Among the hoodie listings, pullover styles range from $18-$35, featuring various material descriptions and design details..."

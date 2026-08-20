@@ -26,13 +26,13 @@
 | 文件 | 问题类型 | 关键修改点 |
 |------|---------|-----------|
 | `about.md` | 平台定位错误 | 移除 "shopping agent"、"warehouse"、"quality inspection" 描述 |
-| `Usfans-legitimacy.md` | 虚假数据 | 移除 "500,000 buyers"、"93% satisfaction rate" |
-| `Usfans-for-beginners.md` | 虚假流程 | 移除 "purchases on your behalf"、"warehouse inspection" |
-| `Usfans-complete-guide.md` | 虚假流程 | 移除 "order processing"、"payment methods"、"shipping" |
-| `Usfans-account-security.md` | 虚构系统 | 移除 "50,000+ users"、"MFA"、"login monitoring" |
-| `Usfans-data-security.md` | 虚构系统 | 移除 "SIEM"、"10 million events"、"IDS/IPS" |
-| `is-Usfans-legit.md` | 虚假数据 | 移除 "93.6% quality pass rate"、"73% issues caught" |
-| `Usfans-alternative.md` | 虚假数据 | 移除 "500+ verified sellers"、"2 million products" |
+| `Bbdbuy-legitimacy.md` | 虚假数据 | 移除 "500,000 buyers"、"93% satisfaction rate" |
+| `Bbdbuy-for-beginners.md` | 虚假流程 | 移除 "purchases on your behalf"、"warehouse inspection" |
+| `Bbdbuy-complete-guide.md` | 虚假流程 | 移除 "order processing"、"payment methods"、"shipping" |
+| `Bbdbuy-account-security.md` | 虚构系统 | 移除 "50,000+ users"、"MFA"、"login monitoring" |
+| `Bbdbuy-data-security.md` | 虚构系统 | 移除 "SIEM"、"10 million events"、"IDS/IPS" |
+| `is-Bbdbuy-legit.md` | 虚假数据 | 移除 "93.6% quality pass rate"、"73% issues caught" |
+| `Bbdbuy-alternative.md` | 虚假数据 | 移除 "500+ verified sellers"、"2 million products" |
 
 **修改策略**:
 1. 重写开头段落，使用标准介绍模板
@@ -49,12 +49,12 @@
 
 | 文件 | 问题类型 | 关键修改点 |
 |------|---------|-----------|
-| `Usfans-australia-guide.md` | 虚假流程 | 移除 "ordering process"、"warehouse"、"shipping costs" |
-| `Usfans-canada-guide.md` | 虚假流程 | 同上 |
-| `Usfans-poland-guide.md` | 虚假流程 | 同上 |
-| `Usfans-polska-guide.md` | 虚假流程 | 同上 |
-| `Usfans-africa-shipping.md` | 虚假物流 | 移除 "warehouse team"、"repackaging services"、"shipping methods" |
-| `Usfans-free-guide.md` | 虚假流程 | 移除 "professional purchasing services"、"quality inspection" |
+| `Bbdbuy-australia-guide.md` | 虚假流程 | 移除 "ordering process"、"warehouse"、"shipping costs" |
+| `Bbdbuy-canada-guide.md` | 虚假流程 | 同上 |
+| `Bbdbuy-poland-guide.md` | 虚假流程 | 同上 |
+| `Bbdbuy-polska-guide.md` | 虚假流程 | 同上 |
+| `Bbdbuy-africa-shipping.md` | 虚假物流 | 移除 "warehouse team"、"repackaging services"、"shipping methods" |
+| `Bbdbuy-free-guide.md` | 虚假流程 | 移除 "professional purchasing services"、"quality inspection" |
 
 **修改策略**:
 1. 重写开头段落，强调产品目录定位
@@ -71,12 +71,12 @@
 
 | 文件类型 | 问题类型 | 关键修改点 |
 |---------|---------|-----------|
-| `Usfans-nike.md` | 虚假数据 | 移除 "410+ orders"、"94% quality pass rate" |
-| `Usfans-jordan.md` | 虚假数据 | 同上 |
-| `Usfans-adidas-superstar.md` | 虚假销售 | 移除 "sells replica products"、"QC photos" |
-| `Usfans-air-force-1.md` | 虚假流程 | 移除 "warehouse inspection"、"QC team" |
-| `Usfans-airpods.md` | 虚假流程 | 移除 "QC photo process"、"warehouse team" |
-| `Usfans-coach.md` | 虚假销售 | 移除 "checkout process"、"payment methods" |
+| `Bbdbuy-nike.md` | 虚假数据 | 移除 "410+ orders"、"94% quality pass rate" |
+| `Bbdbuy-jordan.md` | 虚假数据 | 同上 |
+| `Bbdbuy-adidas-superstar.md` | 虚假销售 | 移除 "sells replica products"、"QC photos" |
+| `Bbdbuy-air-force-1.md` | 虚假流程 | 移除 "warehouse inspection"、"QC team" |
+| `Bbdbuy-airpods.md` | 虚假流程 | 移除 "QC photo process"、"warehouse team" |
+| `Bbdbuy-coach.md` | 虚假销售 | 移除 "checkout process"、"payment methods" |
 | 其他品牌文章... | 类似问题 | 按相同模式修改 |
 
 **修改策略**:
@@ -96,11 +96,11 @@
 
 | 文件类型 | 问题类型 | 关键修改点 |
 |---------|---------|-----------|
-| `Usfans-sizing-guide.md` | 虚假流程 | 移除 "order the wrong size"、"return process" |
-| `Usfans-coupon-guide.md` | 虚假数据 | 移除 "2,000 verified coupons"、"save 5-25%" |
-| `Usfans-budget-accessories.md` | 虚假数据 | 移除 "650 budget-friendly options" |
-| `Usfans-budget-t-shirts.md` | 虚假数据 | 移除 "500 budget t-shirt options" |
-| `Usfans-cheap-clothes.md` | 虚假数据 | 移除 "800 budget-friendly clothing options" |
+| `Bbdbuy-sizing-guide.md` | 虚假流程 | 移除 "order the wrong size"、"return process" |
+| `Bbdbuy-coupon-guide.md` | 虚假数据 | 移除 "2,000 verified coupons"、"save 5-25%" |
+| `Bbdbuy-budget-accessories.md` | 虚假数据 | 移除 "650 budget-friendly options" |
+| `Bbdbuy-budget-t-shirts.md` | 虚假数据 | 移除 "500 budget t-shirt options" |
+| `Bbdbuy-cheap-clothes.md` | 虚假数据 | 移除 "800 budget-friendly clothing options" |
 | 其他功能文章... | 类似问题 | 按相同模式修改 |
 
 **修改策略**:
@@ -117,11 +117,11 @@
 
 | 文件 | 问题类型 | 关键修改点 |
 |------|---------|-----------|
-| `blog/usfans-article1.md` | 虚假流程 | 移除 "purchasing agent"、"quality control"、"warehousing" |
-| `blog/usfans-article2.md` | 虚假流程 | 移除 "warehouse inspection"、"QC photos" |
-| `blog/usfans-article3.md` | 虚假流程 | 移除 "places an order"、"QC photos"、"international shipping" |
-| `blog/usfans-article4.md` | 虚假数据 | 移除虚假统计数据 |
-| `blog/usfans-article5.md` | 虚假流程 | 移除虚假流程描述 |
+| `blog/bbdbuy-article1.md` | 虚假流程 | 移除 "purchasing agent"、"quality control"、"warehousing" |
+| `blog/bbdbuy-article2.md` | 虚假流程 | 移除 "warehouse inspection"、"QC photos" |
+| `blog/bbdbuy-article3.md` | 虚假流程 | 移除 "places an order"、"QC photos"、"international shipping" |
+| `blog/bbdbuy-article4.md` | 虚假数据 | 移除虚假统计数据 |
+| `blog/bbdbuy-article5.md` | 虚假流程 | 移除虚假流程描述 |
 
 **修改策略**:
 1. 重写开头段落
@@ -137,8 +137,8 @@
 
 | 文件类型 | 问题类型 | 关键修改点 |
 |---------|---------|-----------|
-| `Usfans-hoodies.md` | 虚假数据 | 移除订单数、通过率 |
-| `Usfans-sneakers.md` | 虚假数据 | 同上 |
+| `Bbdbuy-hoodies.md` | 虚假数据 | 移除订单数、通过率 |
+| `Bbdbuy-sneakers.md` | 虚假数据 | 同上 |
 | 其他分类页面... | 类似问题 | 按相同模式修改 |
 
 **修改策略**:
@@ -261,14 +261,14 @@ The directory includes multiple product types organized by category.
 
 **简短版**:
 ```markdown
-Usfans Spreadsheet is a curated product directory that organizes product listings into easy-to-browse categories. The platform helps users discover products through organized information and comprehensive guides.
+Bbdbuy Spreadsheet is a curated product directory that organizes product listings into easy-to-browse categories. The platform helps users discover products through organized information and comprehensive guides.
 ```
 
 **标准版**:
 ```markdown
-Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides.
+Bbdbuy Spreadsheet is a curated product directory that helps users discover products through organized categories, detailed product information, and shopping resources. The platform curates product listings from various sources, organizing them into accessible categories with comprehensive details including pricing references, product specifications, and category guides.
 
-Usfans Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
+Bbdbuy Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
 ```
 
 ---
@@ -363,13 +363,13 @@ npm run build
 
 ```bash
 # 分批提交（便于回滚）
-git add about.md Usfans-legitimacy.md Usfans-for-beginners.md
+git add about.md Bbdbuy-legitimacy.md Bbdbuy-for-beginners.md
 git commit -m "fix: update core pages - remove AI hallucinations, correct website positioning"
 
-git add Usfans-australia-guide.md Usfans-canada-guide.md Usfans-poland-guide.md
+git add Bbdbuy-australia-guide.md Bbdbuy-canada-guide.md Bbdbuy-poland-guide.md
 git commit -m "fix: update regional guides - remove false logistics descriptions"
 
-git add Usfans-nike.md Usfans-jordan.md Usfans-adidas-*.md
+git add Bbdbuy-nike.md Bbdbuy-jordan.md Bbdbuy-adidas-*.md
 git commit -m "fix: update brand articles - remove fabricated data, update product highlights"
 
 # 推送到远程
@@ -504,7 +504,7 @@ if ($issues.Count -eq 0) {
 - `WEBSITE_POSITIONING.md` - 网站定位声明
 - `BANNED_TERMS.md` - 禁止生成词库
 - `flexible-article-generator.md` - 新文章生成 Prompt
-- `Usfans-article-prompt.md` - 文章结构模板
+- `Bbdbuy-article-prompt.md` - 文章结构模板
 
 ---
 

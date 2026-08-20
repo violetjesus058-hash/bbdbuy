@@ -14,7 +14,7 @@
             class="article-action article-action-primary"
             :class="{ 'is-unlinked': !spreadsheetLinked }"
           >
-            Access UsFans spreadsheet
+            Access Bbdbuy spreadsheet
           </component>
           <component
             :is="shoppingLinked ? 'a' : 'span'"

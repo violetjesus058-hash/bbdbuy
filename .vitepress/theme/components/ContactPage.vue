@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="container">
         <h1>Contact Us</h1>
-        <p>Get in touch with the Usfans Spreadsheet team</p>
+        <p>Get in touch with the Bbdbuy Spreadsheet team</p>
       </div>
     </section>
 
@@ -59,7 +59,7 @@
     <!-- Footer -->
     <footer class="footer">
       <div class="container">
-        <p>&copy; 2024 Usfans Spreadsheet. All rights reserved.</p>
+        <p>&copy; 2024 Bbdbuy Spreadsheet. All rights reserved.</p>
       </div>
     </footer>
   </div>

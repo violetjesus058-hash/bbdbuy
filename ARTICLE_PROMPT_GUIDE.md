@@ -1,4 +1,4 @@
-# Usfans Spreadsheet 文章生成完整指南
+# Bbdbuy Spreadsheet 文章生成完整指南
 
 > 本文件是所有文章生成的核心参考文档。生成任何文章前，必须完整阅读并遵循本指南的所有规则。
 
@@ -8,9 +8,9 @@
 
 ### 1.1 一句话定位
 
-**Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.**
+**Bbdbuy Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.**
 
-中文：Usfans Spreadsheet 是一个策划的产品目录，通过有组织的分类、产品信息和购物资源帮助用户发现产品。
+中文：Bbdbuy Spreadsheet 是一个策划的产品目录，通过有组织的分类、产品信息和购物资源帮助用户发现产品。
 
 ### 1.2 网站做什么（必须使用）
 
@@ -76,31 +76,31 @@
 ```markdown
 ---
 layout: home
-title: "Usfans Spreadsheet [Brand] Guide 2026: Complete Resource for [Brand] Products"
-description: "Explore the [Brand] guide on Usfans Spreadsheet. Discover organized [Brand] product categories, pricing references, and shopping resources for informed fashion decisions in 2026."
+title: "Bbdbuy Spreadsheet [Brand] Guide 2026: Complete Resource for [Brand] Products"
+description: "Explore the [Brand] guide on Bbdbuy Spreadsheet. Discover organized [Brand] product categories, pricing references, and shopping resources for informed fashion decisions in 2026."
 ---
 
-# Usfans Spreadsheet [Brand] Guide 2026: Complete Resource for [Brand] Products
+# Bbdbuy Spreadsheet [Brand] Guide 2026: Complete Resource for [Brand] Products
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Usfans Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Bbdbuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
-- Overview of [Brand] product categories available on Usfans Spreadsheet
+- Overview of [Brand] product categories available on Bbdbuy Spreadsheet
 - Popular [Brand] models with pricing references and product information
 - How to research [Brand] products using the spreadsheet directory
 - Resources for understanding [Brand] sizing and product details
-- FAQ about [Brand] products on Usfans Spreadsheet
+- FAQ about [Brand] products on Bbdbuy Spreadsheet
 
 ## Introduction
 [网站定位说明 + 品牌概述 + 产品范围]
 
-## Popular [Brand] Models on Usfans Spreadsheet
+## Popular [Brand] Models on Bbdbuy Spreadsheet
 [3-5个热门产品详细介绍，包含价格、材质、设计特点]
 
 ## Understanding [Brand] Product Information
 [Pricing References / Product Specifications / Design Information / Category Context]
 
-## How to Research [Brand] Products on Usfans Spreadsheet
+## How to Research [Brand] Products on Bbdbuy Spreadsheet
 [5步使用指南：Access → Browse → Compare → Consult → Decide]
 
 ## Product Highlights
@@ -125,13 +125,13 @@ description: "Explore the [Brand] guide on Usfans Spreadsheet. Discover organize
 ```markdown
 ---
 layout: home
-title: "Usfans Spreadsheet [Topic] Guide 2026: Complete Resource for [Topic]"
-description: "Explore the [Topic] guide on Usfans Spreadsheet. Discover organized [Topic] references, tips, and resources for informed decisions in 2026."
+title: "Bbdbuy Spreadsheet [Topic] Guide 2026: Complete Resource for [Topic]"
+description: "Explore the [Topic] guide on Bbdbuy Spreadsheet. Discover organized [Topic] references, tips, and resources for informed decisions in 2026."
 ---
 
-# Usfans Spreadsheet [Topic] Guide 2026: Complete Resource for [Topic]
+# Bbdbuy Spreadsheet [Topic] Guide 2026: Complete Resource for [Topic]
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Usfans Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Bbdbuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
 - [5-6个文章要点]
@@ -167,20 +167,20 @@ description: "Explore the [Topic] guide on Usfans Spreadsheet. Discover organize
 ```markdown
 ---
 layout: home
-title: "Usfans Spreadsheet [Region] Guide 2026: Complete Resource for [Region] Users"
-description: "Explore the [Region] guide on Usfans Spreadsheet. Discover organized product information, shopping resources, and guides for [Region] users in 2026."
+title: "Bbdbuy Spreadsheet [Region] Guide 2026: Complete Resource for [Region] Users"
+description: "Explore the [Region] guide on Bbdbuy Spreadsheet. Discover organized product information, shopping resources, and guides for [Region] users in 2026."
 ---
 
-# Usfans Spreadsheet [Region] Guide 2026: Complete Resource for [Region] Users
+# Bbdbuy Spreadsheet [Region] Guide 2026: Complete Resource for [Region] Users
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Usfans Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Bbdbuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
-- Overview of Usfans Spreadsheet resources for [Region] users
+- Overview of Bbdbuy Spreadsheet resources for [Region] users
 - Product categories and pricing references available to [Region] users
 - How [Region] users can research products using the directory
 - Sizing and measurement resources for [Region] users
-- FAQ about using Usfans Spreadsheet from [Region]
+- FAQ about using Bbdbuy Spreadsheet from [Region]
 
 ## Introduction
 [网站定位说明 + 地区概述 + 用户访问说明]
@@ -213,16 +213,16 @@ description: "Explore the [Region] guide on Usfans Spreadsheet. Discover organiz
 ```markdown
 ---
 layout: home
-title: "[Category] on Usfans Spreadsheet 2026: Organized Product Directory"
-description: "Browse [category] products on Usfans Spreadsheet. Discover organized product listings, pricing references, and shopping resources for [category] in 2026."
+title: "[Category] on Bbdbuy Spreadsheet 2026: Organized Product Directory"
+description: "Browse [category] products on Bbdbuy Spreadsheet. Discover organized product listings, pricing references, and shopping resources for [category] in 2026."
 ---
 
-# [Category] on Usfans Spreadsheet 2026: Organized Product Directory
+# [Category] on Bbdbuy Spreadsheet 2026: Organized Product Directory
 
-<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Usfans Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
+<a href="[spreadsheet-link]" target="_blank" rel="nofollow">Access Bbdbuy Spreadsheet</a> <a href="[shopping-link]" target="_blank" rel="nofollow" class="shopping-btn">Start shopping</a>
 
 **In This Article:**
-- Overview of [category] products available on Usfans Spreadsheet
+- Overview of [category] products available on Bbdbuy Spreadsheet
 - Popular [category] items with pricing references
 - How to browse [category] listings effectively
 - Related resources and guides
@@ -297,15 +297,15 @@ description: "Browse [category] products on Usfans Spreadsheet. Discover organiz
 
 **格式要求：**
 ```
-Usfans Spreadsheet [Topic] Guide 2026: [Descriptive Subtitle]
+Bbdbuy Spreadsheet [Topic] Guide 2026: [Descriptive Subtitle]
 ```
 
 **示例：**
-- "Usfans Spreadsheet Nike Guide 2026: Complete Resource for Nike Products"
-- "Usfans Spreadsheet Sizing Guide 2026: Complete Resource for Fit & Measurements"
+- "Bbdbuy Spreadsheet Nike Guide 2026: Complete Resource for Nike Products"
+- "Bbdbuy Spreadsheet Sizing Guide 2026: Complete Resource for Fit & Measurements"
 
 **要求：**
-- 必须包含 "Usfans Spreadsheet"
+- 必须包含 "Bbdbuy Spreadsheet"
 - 必须包含年份 "2026"
 - 必须包含核心关键词
 - 长度控制在 50-60 字符
@@ -314,7 +314,7 @@ Usfans Spreadsheet [Topic] Guide 2026: [Descriptive Subtitle]
 
 **格式要求：**
 ```
-Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] references, [feature1], and [feature2] for informed decisions in 2026.
+Explore the [topic] guide on Bbdbuy Spreadsheet. Discover organized [topic] references, [feature1], and [feature2] for informed decisions in 2026.
 ```
 
 **要求：**
@@ -326,7 +326,7 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 ### 5.3 关键词使用
 
 **核心关键词：**
-- Usfans Spreadsheet
+- Bbdbuy Spreadsheet
 - [品牌/分类] + guide
 - [品牌/分类] + products
 - pricing references
@@ -334,8 +334,8 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 - shopping resources
 
 **长尾关键词：**
-- "Usfans Spreadsheet [brand] guide 2026"
-- "browse [category] on Usfans Spreadsheet"
+- "Bbdbuy Spreadsheet [brand] guide 2026"
+- "browse [category] on Bbdbuy Spreadsheet"
 - "[brand] pricing references"
 - "product directory for [category]"
 
@@ -343,7 +343,7 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 - 自然融入，不堆砌
 - 每篇文章核心关键词出现 5-8 次
 - 长尾关键词每篇 2-3 次
-- 避免 "Usfans Spreadsheet" 过度重复，可用 "the spreadsheet"、"the directory"、"the platform" 替代
+- 避免 "Bbdbuy Spreadsheet" 过度重复，可用 "the spreadsheet"、"the directory"、"the platform" 替代
 
 ### 5.4 内链规范
 
@@ -351,11 +351,11 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 
 | 链接类型 | 锚文本示例 | 目标页面 |
 |---------|-----------|---------|
-| 品牌链接 | [Usfans Nike](/blog/usfans-nike/) | 品牌页面 |
+| 品牌链接 | [Bbdbuy Nike](/blog/usfans-nike/) | 品牌页面 |
 | 分类链接 | [shoes category](/shoes) | 分类页面 |
-| 指南链接 | [Usfans sizing guide](/blog/usfans-sizing-guide/) | 功能指南 |
-| 资源链接 | [Usfans for beginners](/blog/usfans-for-beginners/) | 入门指南 |
-| 电子表格 | Usfans Spreadsheet (外部链接) | 外部链接 |
+| 指南链接 | [Bbdbuy sizing guide](/blog/usfans-sizing-guide/) | 功能指南 |
+| 资源链接 | [Bbdbuy for beginners](/blog/usfans-for-beginners/) | 入门指南 |
+| 电子表格 | Bbdbuy Spreadsheet (外部链接) | 外部链接 |
 
 **内链位置：**
 - Introduction 部分：1-2 个相关分类/品牌链接
@@ -365,8 +365,8 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 - Related Guides 部分：3-5 个相关链接
 
 **锚文本规范：**
-- ✅ "Explore the [Usfans sneakers](/blog/usfans-sneakers/) collection"
-- ✅ "Refer to the [Usfans sizing guide](/blog/usfans-sizing-guide/)"
+- ✅ "Explore the [Bbdbuy sneakers](/blog/usfans-sneakers/) collection"
+- ✅ "Refer to the [Bbdbuy sizing guide](/blog/usfans-sizing-guide/)"
 - ✅ "Browse the [shoes category](/shoes)"
 - ❌ "Click here to shop"
 - ❌ "Order now"
@@ -437,7 +437,7 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 
 ### 7.3 SEO 规范
 
-- [ ] 标题是否包含 "Usfans Spreadsheet" 和年份？
+- [ ] 标题是否包含 "Bbdbuy Spreadsheet" 和年份？
 - [ ] 描述是否在 150-160 字符范围内？
 - [ ] 核心关键词是否自然分布？
 - [ ] 是否包含足够的内链（每 300 字至少 1 个）？
@@ -575,13 +575,13 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 
 参考以下已完成的文章作为质量标准：
 
-1. **Usfans-nike-guide.md** - 品牌指南标准
+1. **Bbdbuy-nike-guide.md** - 品牌指南标准
    - 清晰的网站定位说明
    - 具体的产品价格和信息
    - 自然的内链分布
    - 完整的 FAQ 和 Related Guides
 
-2. **Usfans-sizing-guide.md** - 功能指南标准
+2. **Bbdbuy-sizing-guide.md** - 功能指南标准
    - 实用的尺码信息
    - 品牌间的对比说明
    - 测量指南的具体步骤
@@ -609,11 +609,11 @@ Explore the [topic] guide on Usfans Spreadsheet. Discover organized [topic] refe
 
 ### A. 网站定位一句话
 
-> Usfans Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.
+> Bbdbuy Spreadsheet is a curated product directory that helps users discover products through organized categories, product information, and shopping resources.
 
 ### B. 必须包含的声明
 
-> Usfans Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
+> Bbdbuy Spreadsheet does not process payments, handle shipping, inspect products, or manage orders. The platform serves as an information resource to support product discovery and research.
 
 ### C. 安全动词列表
 

@@ -1,4 +1,4 @@
-# Usfans Spreadsheet - SEO Product Image Plan
+# Bbdbuy Spreadsheet - SEO Product Image Plan
 
 ## Overview
 
@@ -29,7 +29,7 @@ This document defines 10 SEO-optimized product images covering 5 core product ty
 - **File size:** < 200KB per image
 - **Quality:** 85%+ after compression
 - **Loading:** Lazy loading with width/height attributes
-- **EXIF:** Copyright "Usfans Spreadsheet 2026", Author "UsfansLinki"
+- **EXIF:** Copyright "Bbdbuy Spreadsheet 2026", Author "UsfansLinki"
 
 ### Naming Convention
 
@@ -64,7 +64,7 @@ A natural lifestyle photograph of a modern American living room with warm natura
 **AI Prompt:**
 
 ```
-A top-down flat lay photograph on a clean white marble surface. A person's hands (young British male, light skin, wearing a simple silver watch) are opening a premium shoe box. Inside, a pristine pair of white and red Jordan 4 sneakers is revealed. Around the box: a folded Usfans Spreadsheet printout, a quality inspection card showing "QC Passed 96%", a small Union Jack sticker, and two shipping label stickers showing "UK Express 5-7 Days" and "EU Standard 7-12 Days". A second shoe box (Adidas Samba) sits partially visible in the corner. Natural overhead lighting, soft shadows. Clean minimalist composition. Photorealistic, no AI artifacts.
+A top-down flat lay photograph on a clean white marble surface. A person's hands (young British male, light skin, wearing a simple silver watch) are opening a premium shoe box. Inside, a pristine pair of white and red Jordan 4 sneakers is revealed. Around the box: a folded Bbdbuy Spreadsheet printout, a quality inspection card showing "QC Passed 96%", a small Union Jack sticker, and two shipping label stickers showing "UK Express 5-7 Days" and "EU Standard 7-12 Days". A second shoe box (Adidas Samba) sits partially visible in the corner. Natural overhead lighting, soft shadows. Clean minimalist composition. Photorealistic, no AI artifacts.
 ```
 
 **Alt Text:** `Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba`

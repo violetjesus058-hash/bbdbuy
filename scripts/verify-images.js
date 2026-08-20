@@ -22,12 +22,12 @@ const IMAGE_META = {
   'sneakers-unboxing-premium-uk-02.webp': {
     alt: 'Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba',
     caption: 'Quality inspection and unboxing experience with international shipping options',
-    scene: 'Hands unboxing Jordan 4 Fire Red from shoebox, Usfans Spreadsheet printout, QC Passed 96% card, UK/EU shipping labels, Adidas Samba box'
+    scene: 'Hands unboxing Jordan 4 Fire Red from shoebox, Bbdbuy Spreadsheet printout, QC Passed 96% card, UK/EU shipping labels, Adidas Samba box'
   },
   'clothing-streetwear-outfit-us-03.webp': {
     alt: 'Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket',
     caption: 'Streetwear styling inspiration featuring popular brands and casual urban fashion',
-    scene: 'Three friends walking on LA street (Melrose Ave), wearing Essentials hoodie, Stussy tee, Gallery Dept jacket, Nike shopping bag, Usfans Express cyclist in background'
+    scene: 'Three friends walking on LA street (Melrose Ave), wearing Essentials hoodie, Stussy tee, Gallery Dept jacket, Nike shopping bag, Bbdbuy Express cyclist in background'
   },
   'clothing-wardrobe-organized-au-04.webp': {
     alt: 'Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK',
@@ -37,7 +37,7 @@ const IMAGE_META = {
   'accessories-daily-carry-us-05.webp': {
     alt: 'Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping',
     caption: 'Essential daily accessories with premium quality and fast shipping options',
-    scene: 'Flat lay of accessories: Cartier Tank watch, Chrome Hearts ring, Ray-Ban sunglasses, Saint Laurent wallet, AirPods, Usfans Finds spreadsheet on phone, USPS Priority mail, International Tracking box'
+    scene: 'Flat lay of accessories: Cartier Tank watch, Chrome Hearts ring, Ray-Ban sunglasses, Saint Laurent wallet, AirPods, Bbdbuy Finds spreadsheet on phone, USPS Priority mail, International Tracking box'
   },
   'accessories-gift-selection-uk-06.webp': {
     alt: 'Gift accessories selection with bracelet perfume sunglasses and UK next day delivery, couple exchanging gifts',
@@ -158,7 +158,7 @@ function isImageAppropriate(imageFile, articleCategory) {
 // Main
 function main() {
   const files = fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('usfans-article-prompt') && !f.startsWith('usfans-internal-link-rules'))
+    .filter(f => f.endsWith('.md') && !f.startsWith('bbdbuy-article-prompt') && !f.startsWith('bbdbuy-internal-link-rules'))
     .sort();
 
   let report = '';

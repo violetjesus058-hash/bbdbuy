@@ -1,10 +1,10 @@
 ---
 layout: home
-categoryName: USFans Electronics Spreadsheet
-title: 'USFans Electronics Spreadsheet | Tech Finds and Device Guides'
-description: 'Explore the USFans Electronics Spreadsheet for electronics, phones, iPhone resources, AirPods and tech gadgets. Compare focused USFans electronics finds by compatibility and use.'
+categoryName: Bbdbuy Electronics Spreadsheet
+title: 'Bbdbuy Electronics Spreadsheet | Tech Finds and Device Guides'
+description: 'Explore the Bbdbuy Electronics Spreadsheet for electronics, phones, iPhone resources, AirPods and tech gadgets. Compare focused Bbdbuy electronics finds by compatibility and use.'
 heroSubtitle: Electronics, phones, iPhone resources, AirPods and tech gadgets—organized into direct guide paths.
-introText: The USFans Electronics Spreadsheet brings together technology-focused guides for electronics, phones, iPhone resources, AirPods and everyday gadgets. Use the article cards below to compare compatibility, specifications, accessories and practical use before browsing USFans electronics finds.
+introText: The Bbdbuy Electronics Spreadsheet brings together technology-focused guides for electronics, phones, iPhone resources, AirPods and everyday gadgets. Use the article cards below to compare compatibility, specifications, accessories and practical use before browsing Bbdbuy electronics finds.
 editorNotes:
 - title: Confirm compatibility first
   content: Match a device or accessory to the operating system, port standard, region and model generation you use. Compatibility is the first condition to verify before comparing optional features.
@@ -38,26 +38,26 @@ buyingGuide:
   howToChoose: Define the device you already use, the setting in which you need the accessory or product, and the feature that would make the option useful. Then compare documented compatibility before comparing secondary features.
   whatToLookFor: Check the connector type, supported device models, power or charging requirements, connectivity standard, dimensions and included accessories. Keep any missing specification as a verification question.
 faq:
-- question: What can I find in the USFans Electronics Spreadsheet?
+- question: What can I find in the Bbdbuy Electronics Spreadsheet?
   answer: The category organizes electronics, phones, iPhone resources, AirPods and tech gadgets, with each card linking to a related on-site guide.
 - question: How do I compare electronic accessories?
   answer: Begin with the device model and connection standard you use. Then compare the documented compatibility, charging or power requirements, included accessories and everyday use context.
 - question: Why do the guide cards link to articles first?
   answer: The guide pages provide context and comparison criteria before you continue to broader spreadsheet browsing, helping you make a more deliberate shortlist.
 relatedArticles:
-- title: USFans Electronics Guide
+- title: Bbdbuy Electronics Guide
   link: /blog/usfans-electronics/
   desc: General technology discovery and comparison context.
-- title: USFans iPhone Guide
+- title: Bbdbuy iPhone Guide
   link: /blog/usfans-iphone/
   desc: iPhone-related resources and compatibility-focused reading.
-- title: USFans AirPods Guide
+- title: Bbdbuy AirPods Guide
   link: /blog/usfans-airpods/
   desc: AirPods-focused guide content and practical questions to verify.
 category: Electronics
 tags:
-- USFans Electronics Spreadsheet
-- USFans Electronics Finds
+- Bbdbuy Electronics Spreadsheet
+- Bbdbuy Electronics Finds
 - Tech Guides
 - Device Discovery
 updated: '2026-08-14T00:00:00Z'

@@ -1,6 +1,6 @@
 /**
  * Migration script: Move content pages to /blog/ directory
- * - Move Usfans-*.md + about.md + platform.md to blog/
+ * - Move Bbdbuy-*.md + about.md + platform.md to blog/
  * - Rename files to lowercase
  * - Update internal links in all .md and .vue files
  * - Generate _redirects for 301 redirects
@@ -26,9 +26,9 @@ const FILES_TO_MIGRATE = [
 function moveFiles() {
   console.log('=== Step 1: Moving files to blog/ ===');
 
-  // Get all Usfans-*.md files from root
+  // Get all Bbdbuy-*.md files from root
   const rootFiles = fs.readdirSync(ROOT).filter(f =>
-    f.startsWith('Usfans-') && f.endsWith('.md')
+    f.startsWith('Bbdbuy-') && f.endsWith('.md')
   );
 
   const allFiles = [...rootFiles, ...FILES_TO_MIGRATE];

@@ -11,7 +11,7 @@
         class="article-action article-action-primary"
         :class="{ 'is-unlinked': !spreadsheetLinked }"
       >
-        Access UsFans spreadsheet
+        Access Bbdbuy spreadsheet
       </component>
       <component
         :is="shoppingLinked ? 'a' : 'span'"
@@ -38,7 +38,7 @@ const route = useRoute()
 const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 const shoppingUrl = 'https://repsootd.com/'
 const isArticle = computed(() => route.path.startsWith('/blog/') && route.path !== '/blog/' && frontmatter.value.articleHeader !== false)
-const articleTitle = computed(() => frontmatter.value.title || 'Usfans Spreadsheet Guide')
+const articleTitle = computed(() => frontmatter.value.title || 'Bbdbuy Spreadsheet Guide')
 
 /* Set either field to false in an article's frontmatter to render that control without a link. */
 const spreadsheetLinked = computed(() => frontmatter.value.spreadsheetLink !== false)

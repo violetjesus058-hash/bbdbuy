@@ -1,10 +1,10 @@
 ---
 layout: home
-categoryName: USFans Accessories Spreadsheet
-title: 'USFans Accessories Spreadsheet | Bags, Watches and Accessory Finds'
-description: 'Explore the USFans Accessories Spreadsheet for bags, belts, jewelry, sunglasses, watches and wallets. Compare focused USFans accessories finds by material, function and style.'
+categoryName: Bbdbuy Accessories Spreadsheet
+title: 'Bbdbuy Accessories Spreadsheet | Bags, Watches and Accessory Finds'
+description: 'Explore the Bbdbuy Accessories Spreadsheet for bags, belts, jewelry, sunglasses, watches and wallets. Compare focused Bbdbuy accessories finds by material, function and style.'
 heroSubtitle: Bags, belts, jewelry, sunglasses, watches and wallets—organized with direct guide paths.
-introText: 'The USFans Accessories Spreadsheet organizes the finishing pieces that complete an outfit: bags, belts, jewelry, sunglasses, watches and wallets. Use the guide cards below to open the matching article, then compare material notes, construction details and practical styling context before browsing USFans accessories finds.'
+introText: 'The Bbdbuy Accessories Spreadsheet organizes the finishing pieces that complete an outfit: bags, belts, jewelry, sunglasses, watches and wallets. Use the guide cards below to open the matching article, then compare material notes, construction details and practical styling context before browsing Bbdbuy accessories finds.'
 editorNotes:
 - title: Leather Grades for Belts and Wallets
   content: Material labels and construction details can vary by item. Use photographs and listed information to compare texture, edge finishing, stitching and stress points, and keep any unconfirmed material claim as a question for the source.
@@ -42,19 +42,19 @@ faq:
 - question: How do I choose accessories that match my style?
   answer: 'Begin with the colors, proportions and use cases already present in your wardrobe. Compare a small number of accessory options, then decide whether a neutral or statement detail better serves the look you want to build.'
 relatedArticles:
-- title: Usfans Spreadsheet Accessories Guide — Belts, Wallets, Sunglasses & Jewelry
+- title: Bbdbuy Spreadsheet Accessories Guide — Belts, Wallets, Sunglasses & Jewelry
   link: /blog/usfans-accessories/
-  desc: A focused overview of accessory research paths on Usfans Spreadsheet
-- title: Usfans Spreadsheet QC Photos — How to Check Product Quality
+  desc: A focused overview of accessory research paths on Bbdbuy Spreadsheet
+- title: Bbdbuy Spreadsheet QC Photos — How to Check Product Quality
   link: /blog/usfans-qc-photos/
   desc: Use photographs to compare visible accessory details and identify questions for the source
-- title: Usfans Spreadsheet Legit Check — Authentication Guide
+- title: Bbdbuy Spreadsheet Legit Check — Authentication Guide
   link: /blog/usfans-legit-check/
   desc: A guide to documenting visible details and checking source information
 category: Buying Guide
 tags:
-- USFans Accessories Spreadsheet
-- USFans Accessories Finds
+- Bbdbuy Accessories Spreadsheet
+- Bbdbuy Accessories Finds
 - Accessory Guides
 - Style Details
 updated: '2026-08-14T00:00:00Z'

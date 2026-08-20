@@ -1,7 +1,7 @@
 /**
  * Batch optimize article bottoms:
  * 1. Remove "Related Guides" / "Related Articles" sections
- * 2. Replace [Usfans Spreadsheet](docs.google.com) -> [Usfans Spreadsheet](https://usfanslinki.com/)
+ * 2. Replace [Bbdbuy Spreadsheet](docs.google.com) -> [Bbdbuy Spreadsheet](https://usfanslinki.com/)
  * 3. Add topic summary with homepage link for articles without KS anchor
  * 4. Do NOT modify CTA buttons
  */
@@ -30,11 +30,11 @@ const RELATED_PATTERNS = [
 // Default summary template
 function generateSummary(slug) {
   const topic = slug
-    .replace(/^usfans-/, '')
+    .replace(/^bbdbuy-/, '')
     .replace(/-/g, ' ')
     .replace(/\b\w/g, l => l.toUpperCase());
 
-  return `Choosing the right ${topic} becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [Usfans Spreadsheet](https://usfanslinki.com/) homepage for additional shopping resources and regularly updated product guides.`;
+  return `Choosing the right ${topic} becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the [Bbdbuy Spreadsheet](https://usfanslinki.com/) homepage for additional shopping resources and regularly updated product guides.`;
 }
 
 function processArticle(filePath) {
@@ -55,8 +55,8 @@ function processArticle(filePath) {
   content = content.replace(/\n\n---\s*$/, '');
   content = content.replace(/\n---\s*$/, '');
 
-  // Step 2: Check for existing Usfans Spreadsheet anchor (case-insensitive)
-  const ksRegex = /\[(usfans spreadsheet)\]\(([^)]+)\)/gi;
+  // Step 2: Check for existing Bbdbuy Spreadsheet anchor (case-insensitive)
+  const ksRegex = /\[(bbdbuy spreadsheet)\]\(([^)]+)\)/gi;
   const matches = [...content.matchAll(ksRegex)];
 
   // Filter out CTA button patterns - only match inline text links
@@ -90,8 +90,8 @@ function processArticle(filePath) {
   } else {
     // KS anchor exists - add summary WITHOUT another homepage link
     const summaryNoLink = summary.replace(
-      'visit the [Usfans Spreadsheet](https://usfanslinki.com/) homepage',
-      'visit the Usfans Spreadsheet homepage'
+      'visit the [Bbdbuy Spreadsheet](https://usfanslinki.com/) homepage',
+      'visit the Bbdbuy Spreadsheet homepage'
     );
     content = content.trimEnd() + '\n\n' + summaryNoLink + '\n';
   }
@@ -106,7 +106,7 @@ function processArticle(filePath) {
 // Main
 function main() {
   const files = fs.readdirSync(BLOG_DIR)
-    .filter(f => f.endsWith('.md') && !f.startsWith('usfans-article-prompt') && !f.startsWith('usfans-internal-link-rules'))
+    .filter(f => f.endsWith('.md') && !f.startsWith('bbdbuy-article-prompt') && !f.startsWith('bbdbuy-internal-link-rules'))
     .map(f => path.join(BLOG_DIR, f));
 
   console.log(`Processing ${files.length} articles...\n`);

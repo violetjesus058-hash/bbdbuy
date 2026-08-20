@@ -3,9 +3,9 @@
     <section class="hero-section">
       <div class="page-container hero-content">
         <p class="eyebrow">Curated fashion discovery · Updated regularly</p>
-        <h1>USFans Spreadsheet <span>2026</span></h1>
+        <h1>Bbdbuy Spreadsheet <span>2026</span></h1>
         <p class="hero-copy">
-          Discover organized USFans finds across clothing, shoes, pants, hats, accessories and electronics,
+          Discover organized Bbdbuy finds across clothing, shoes, pants, hats, accessories and electronics,
           with category overviews, focused guides and direct access to the full spreadsheet.
         </p>
         <div class="hero-actions">
@@ -137,7 +137,7 @@
         <div class="section-heading section-heading-left guides-heading">
           <p class="section-kicker">Start with the essentials</p>
           <h2>Useful context before you open the spreadsheet.</h2>
-          <p>New to Usfans? These short guides explain how the platform works, what the spreadsheet is for and how to begin with a clearer plan.</p>
+          <p>New to Bbdbuy? These short guides explain how the platform works, what the spreadsheet is for and how to begin with a clearer plan.</p>
         </div>
         <div class="guide-grid">
           <a v-for="guide in guideCards" :key="guide.title" :href="guide.link" class="guide-card">
@@ -180,25 +180,25 @@ const categoryCards = computed(() => [
 const guideCards = [
   {
     label: 'Getting started',
-    title: 'How to Buy with Usfans',
+    title: 'How to Buy with Bbdbuy',
     description: 'A practical first look at browsing, comparing options and moving from a shortlist to an order with more confidence.',
     link: '/blog/usfans-how-to-buy/'
   },
   {
     label: 'Platform overview',
-    title: 'What Is Usfans?',
+    title: 'What Is Bbdbuy?',
     description: 'Get a simple introduction to the platform, the role it plays in product discovery and the information worth checking first.',
     link: '/blog/usfans-about/'
   },
   {
     label: 'Catalog explained',
-    title: 'What Is the Usfans Spreadsheet?',
+    title: 'What Is the Bbdbuy Spreadsheet?',
     description: 'Learn how an organized spreadsheet helps you compare product details, explore categories and return to useful finds faster.',
     link: '/blog/usfans-platform/'
   },
   {
     label: 'Why it helps',
-    title: 'Key Benefits of Usfans',
+    title: 'Key Benefits of Bbdbuy',
     description: 'See the value of clearer category paths, practical guides and direct catalog access before deciding where to start.',
     link: '/blog/usfans-complete-platform-guide/'
   }
