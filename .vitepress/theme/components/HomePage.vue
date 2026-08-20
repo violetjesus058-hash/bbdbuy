@@ -9,13 +9,25 @@
           with category overviews, focused guides and direct access to the full spreadsheet.
         </p>
         <div class="hero-actions">
-          <a :href="links.spreadsheet" target="_blank" rel="nofollow" class="button button-primary cta-spreadsheet">
-            Explore the spreadsheet
-            <span aria-hidden="true">↗</span>
-          </a>
-          <a :href="shoppingUrl" target="_blank" rel="nofollow" class="button button-secondary cta-shopping">
-            Start shopping
-          </a>
+          <div class="cta-preview-wrap cta-preview-spreadsheet">
+            <div class="cta-preview-card" aria-hidden="true">
+              <img src="/images/bbdbuy-spreadsheet-preview.png" alt="Bbdbuy Spreadsheet preview showing curated product categories and shopping links" title="Bbdbuy Spreadsheet preview" />
+              <span class="cta-preview-caption">Spreadsheet preview</span>
+            </div>
+            <a :href="links.spreadsheet" target="_blank" rel="nofollow noopener noreferrer" class="button button-primary cta-spreadsheet">
+              Explore the spreadsheet
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+          <div class="cta-preview-wrap cta-preview-shopping">
+            <div class="cta-preview-card" aria-hidden="true">
+              <img src="/images/bbdbuy-shopping-preview.png" alt="Bbdbuy shopping preview showing product categories and item options" title="Bbdbuy shopping preview" />
+              <span class="cta-preview-caption">Shopping preview</span>
+            </div>
+            <a :href="shoppingUrl" target="_blank" rel="nofollow sponsored noopener noreferrer" class="button button-secondary cta-shopping">
+              Start shopping
+            </a>
+          </div>
         </div>
         <dl class="hero-stats" aria-label="Catalog highlights">
           <div>
@@ -322,4 +334,12 @@ const faqs = [
 .guide-card-link span { margin-left: 4px; color: var(--accent); }
 @media (max-width: 900px) { .intro-grid, .feature-layout, .faq-wrap { grid-template-columns: 1fr; gap: 42px; } .intro-content { grid-column: auto; } .feature-intro { position: static; } .steps-grid { grid-template-columns: repeat(2, 1fr); } .category-grid { grid-template-columns: repeat(2, 1fr); } .final-cta { align-items: flex-start; flex-direction: column; } }
 @media (max-width: 700px) { .page-container { width: min(100% - 32px, 1180px); } .hero-content h1 { white-space: normal; } .hero-section { padding: 76px 0 58px; } .hero-copy { font-size: 17px; } .hero-stats { margin-top: 54px; gap: 8px; } .hero-stats dt { font-size: 19px; } .intro-section, .section { padding: 72px 0; } .category-grid, .feature-grid, .guide-grid { grid-template-columns: 1fr; } .category-card { min-height: auto; } .category-icon { margin-bottom: 38px; } .category-card p { min-height: auto; } .steps-grid { grid-template-columns: 1fr; gap: 4px; } .step-index { margin-bottom: 28px; } .section-heading { margin-bottom: 36px; } .guide-card { min-height: 0; padding: 24px; } .guide-label { margin-bottom: 28px; } }
+
+.cta-preview-wrap { position: relative; display: inline-flex; }
+.cta-preview-card { position: absolute; z-index: 4; bottom: calc(100% + 14px); left: 50%; width: min(320px, calc(100vw - 32px)); height: 270px; padding: 10px; border: 1px solid rgba(17, 17, 17, .08); border-radius: 16px; background: rgba(255, 255, 255, .96); box-shadow: 0 18px 42px rgba(17, 17, 17, .18); opacity: 0; pointer-events: none; transform: translate(-50%, 8px) scale(.95); transform-origin: bottom center; transition: opacity .22s ease, transform .22s ease; }
+.cta-preview-card::after { content: ''; position: absolute; left: 50%; bottom: -7px; width: 13px; height: 13px; border-right: 1px solid rgba(17, 17, 17, .08); border-bottom: 1px solid rgba(17, 17, 17, .08); background: rgba(255, 255, 255, .96); transform: translateX(-50%) rotate(45deg); }
+.cta-preview-card img { display: block; width: 100%; height: 215px; border-radius: 12px; background: #f5f5f3; object-fit: contain; }
+.cta-preview-caption { display: block; padding: 9px 4px 2px; color: var(--ink); font-size: 11px; font-weight: 750; letter-spacing: .02em; line-height: 1.15; text-align: center; }
+.cta-preview-wrap:hover .cta-preview-card, .cta-preview-wrap:focus-within .cta-preview-card { opacity: 1; transform: translate(-50%, 0) scale(1); }
+@media (max-width: 700px) { .cta-preview-wrap { display: contents; } .cta-preview-card { display: none; } }
 </style>
