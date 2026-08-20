@@ -9,6 +9,16 @@ title: 'Bbdbuy Spreadsheet Common Mistakes 2026: Avoid These 7 Pitfalls Before Y
 - Budget mistakes that drain your wallet before your first order arrives
 - A step-by-step checklist to ensure a smooth purchasing experience
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## Introduction
 
 
@@ -18,15 +28,7 @@ This guide draws on real order data, community feedback, and platform statistics
 
 By the time you finish reading, you will know exactly what to check, what to avoid, and how to leverage every resource at your disposal. Whether you are eyeing a pair of Nike Air Max 95s at $46.15 or a Moncler Down Jacket at $78.57, the principles covered here apply to every product category on the platform. For a broader orientation, start with our [Bbdbuy for beginners](/blog/usfans-for-beginners/) overview before diving into the details below.
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Mistake 1: Ignoring the Sizing Guide
 
@@ -56,7 +58,7 @@ The platform typically charges shipping based on weight and destination. Standar
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

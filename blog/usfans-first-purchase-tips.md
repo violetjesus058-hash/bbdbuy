@@ -9,6 +9,16 @@ title: 'Bbdbuy Spreadsheet First Purchase Tips 2026: Essential Guide for New Buy
 - Tips for avoiding common first-time buyer mistakes
 - What to expect after placing your order
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## Introduction
 
 
@@ -18,15 +28,7 @@ First-time buyers often have questions about product quality, sizing accuracy, s
 
 This comprehensive guide walks you through every step of your first Bbdbuy Spreadsheet purchase, from browsing products to receiving your package. You'll learn how to select items wisely, choose appropriate sizes, understand payment options, and prepare for delivery. For additional guidance on getting started, our [Bbdbuy for beginners](/blog/usfans-for-beginners/) guide provides foundational information about the platform, while the [Bbdbuy how to use](/blog/usfans-how-to-use/) page offers detailed instructions on navigating the ordering system.
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Preparing for Your First Bbdbuy Spreadsheet Purchase
 
@@ -66,7 +68,7 @@ The platform's quality control process begins once your order is received at the
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

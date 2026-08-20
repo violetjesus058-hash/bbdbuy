@@ -2,6 +2,16 @@
 title: 'Bbdbuy Spreadsheet Sizing Chart 2026: Complete Measurement Guide for Perfect Fit'
 ---
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## In This Article
 
 
@@ -19,15 +29,7 @@ The platform hosts diverse sizing systems from different manufacturers, with Asi
 
 Sizing varies significantly across product categories, with sneakers requiring foot length measurements, streetwear needing chest and shoulder width data, and accessories requiring specific dimensional information. Each category has unique sizing considerations that affect fit and comfort. This comprehensive guide covers measurement techniques, size interpretation, and category-specific sizing knowledge to help you make confident purchasing decisions that fit perfectly the first time.
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Understanding Sizing Systems
 
@@ -55,7 +57,7 @@ Shoulder width measurement requires measuring across your back from shoulder bon
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

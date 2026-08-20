@@ -6,6 +6,16 @@ description: Learn how to use Bbdbuy Spreadsheet with this beginner-friendly tut
 
 > *Note: All prices are approximate and may fluctuate due to market conditions and availability.*
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
+       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
+</figure>
 ## Quick Start Checklist
 
 Before diving into the details, here's what you'll learn in this tutorial:
@@ -16,15 +26,7 @@ Before diving into the details, here's what you'll learn in this tutorial:
 - ✅ Use category guides to make informed decisions
 - ✅ Access additional resources and shopping guides
 
-<figure class="article-image">
-  <img src="/images/sneakers-unboxing-premium-uk-02.webp"
-       alt="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
-</figure>
+
 
 ## Step 1: Understanding How Bbdbuy Spreadsheet Works
 
@@ -98,7 +100,7 @@ Before making decisions, review all available information carefully. Check that 
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

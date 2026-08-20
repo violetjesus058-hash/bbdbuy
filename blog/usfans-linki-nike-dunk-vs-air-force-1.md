@@ -12,6 +12,16 @@ description: "Compare Nike Dunk and Air Force 1 on Bbdbuy Linki. Explore design 
 
 Explore the detailed comparison between two of Nike's most iconic silhouettes available through Bbdbuy Linki. This guide helps users understand the key differences in design, pricing, sizing, and styling between the Nike Dunk and Air Force 1.
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
+       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
+</figure>
 ## Silhouette Overview
 
 Both the Nike Dunk and Air Force 1 represent cornerstones of sneaker culture, each with distinct heritage and design philosophy.
@@ -36,15 +46,7 @@ Released in 1982, the Air Force 1 pioneered visible Air cushioning:
 - **Metallic tag** on the laces (AF1 Low '07)
 - **Bold, substantial presence** on foot
 
-<figure class="article-image">
-  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
-       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
-</figure>
+
 
 ## Pricing Comparison on Bbdbuy Linki
 
@@ -172,7 +174,7 @@ Both silhouettes fit differently. Consult the [Bbdbuy Linki Sizing Guide](/blog/
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
 </figure>
 

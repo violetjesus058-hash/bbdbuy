@@ -11,6 +11,16 @@ description: Explore the sizing guide on Bbdbuy Spreadsheet. Discover organized 
 - Size chart examples from popular brands
 - Common sizing questions and fit resources
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
+       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
+</figure>
 ## Introduction
 
 The sizing guide on Bbdbuy Spreadsheet provides organized sizing references for users researching sneakers, clothing, and accessories in 2026. Bbdbuy Spreadsheet is a curated product directory that consolidates sizing information across popular brands into accessible categories with detailed measurement references and fit resources.
@@ -19,15 +29,7 @@ Getting the right fit is one of the most important factors when researching prod
 
 Whether you are researching your first pair of sneakers or exploring clothing options, this sizing guide on Bbdbuy Spreadsheet provides organized references to support your product research. For broader context on footwear options, explore the [Bbdbuy sneakers](/blog/usfans-sneakers/) collection page.
 
-<figure class="article-image">
-  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
-       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
-</figure>
+
 
 ## Sneaker Sizing by Brand
 
@@ -57,7 +59,7 @@ Clothing sizing involves more variables than sneakers: fabric composition, cut, 
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

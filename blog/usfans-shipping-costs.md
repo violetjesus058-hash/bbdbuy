@@ -9,6 +9,16 @@ title: 'Bbdbuy Spreadsheet Shipping Costs 2026: Complete Pricing Guide'
 - Tips to reduce your shipping expenses
 - Hidden fees and customs considerations
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
+       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
+</figure>
 ## Introduction
 
 Understanding shipping costs on Bbdbuy Spreadsheet is essential for budgeting your purchases effectively and avoiding unexpected expenses at checkout. With over 22,000 verified products available ranging from $1.30 phone cases to $115.22 designer shoes, shipping fees can significantly impact your total order cost if not planned properly. Bbdbuy Spreadsheet has built a reputation for transparent pricing, and knowing how shipping works helps you make smarter purchasing decisions.
@@ -17,15 +27,7 @@ The platform serves buyers in more than 50 countries, with shipping costs that v
 
 This page covers the factors that influence shipping prices, how weight-based calculations work, and practical strategies for minimizing costs. You will also learn about customs duties, consolidation benefits, and the hidden fees that sometimes catch first-time buyers off guard. For a comprehensive overview of delivery options, our [Bbdbuy shipping guide](/blog/usfans-shipping-guide/) provides detailed information on all available methods and their associated costs.
 
-<figure class="article-image">
-  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
-       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
-</figure>
+
 
 ## How Bbdbuy Spreadsheet Calculates Shipping Costs
 
@@ -57,7 +59,7 @@ For buyers interested in maximizing value, the [Bbdbuy consolidation guide](/blo
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

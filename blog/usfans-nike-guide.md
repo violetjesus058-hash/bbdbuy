@@ -11,6 +11,16 @@ description: Explore the Nike guide on Bbdbuy Spreadsheet. Discover organized Ni
 - Resources for understanding Nike sizing and product details
 - FAQ about Nike products on Bbdbuy Spreadsheet
 
+
+<figure class="article-image">
+  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
+       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
+</figure>
 ## Introduction
 
 The Nike guide on Bbdbuy Spreadsheet provides comprehensive product information for users researching Nike sneakers and apparel in 2026. Bbdbuy Spreadsheet is a curated product directory that organizes Nike products into accessible categories with detailed pricing references, product specifications, and shopping resources.
@@ -19,15 +29,7 @@ The Nike collection on Bbdbuy Spreadsheet features multiple iconic silhouettes, 
 
 Nike remains one of the most popular categories on the platform, with Air Force 1, Air Max 95, Dunk, and Max Plus TN among the frequently researched models. The spreadsheet provides organized product information to help you compare options across different Nike silhouettes. For broader context on footwear options, explore the [Bbdbuy sneakers](/blog/usfans-sneakers/) collection page.
 
-<figure class="article-image">
-  <img src="/images/sneakers-lifestyle-collection-us-01.webp"
-       alt="Three popular sneaker styles displayed on coffee table with express delivery box, Nike Air Force 1 Jordan 1 New Balance collection"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Popular sneaker collection with express delivery options for US, UK, and Australia markets</figcaption>
-</figure>
+
 
 ## Popular Nike Models on Bbdbuy Spreadsheet
 
@@ -63,7 +65,7 @@ Sizing is an important consideration when researching Nike products. Different m
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
 </figure>
 

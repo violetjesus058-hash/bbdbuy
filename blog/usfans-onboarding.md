@@ -9,6 +9,16 @@ title: 'Bbdbuy Spreadsheet Onboarding 2026: Your Complete New User Orientation'
 - Payment methods, security protocols, and order placement
 - Post-purchase workflow — QC review, shipping, and delivery tracking
 
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp"
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 ## Introduction
 
 Starting with a new purchasing platform can feel overwhelming, especially when you are navigating the alternative fashion market. This onboarding guide on Bbdbuy Spreadsheet is designed to make your introduction to Bbdbuy Spreadsheet smooth, informative, and confidence-building. Bbdbuy Spreadsheet has established itself as a trusted platform for buyers worldwide, offering over 22,000 verified product listings across streetwear, sneakers, luxury fashion, and accessories with a 93% buyer satisfaction rate.
@@ -19,15 +29,7 @@ This guide walks you through every step of the onboarding journey. We cover acco
 
 For absolute beginners who want the fastest possible start, our [Bbdbuy start here](/blog/usfans-start-here/) guide offers a condensed version, but this onboarding guide provides the detailed orientation you need to fully leverage the platform's features. Let us get you oriented and ready to shop.
 
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp"
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
+
 
 ## Account Registration and Profile Setup
 
@@ -64,7 +66,7 @@ For comprehensive navigation instructions and advanced search techniques, our [B
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
 </figure>
 

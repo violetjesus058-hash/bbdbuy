@@ -10,6 +10,16 @@ title: Bbdbuy Spreadsheet 项目全面审查报告
 
 ---
 
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp"
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 ## 一、审查范�?
 ### 1.1 文件统计
 - **主要页面**: 3 �?(index.md, about.md, platform.md)
@@ -22,15 +32,7 @@ title: Bbdbuy Spreadsheet 项目全面审查报告
 - �?EEAT 合规性检查（经验、专业性、权威性、可信度�?- �?内链完整性验�?- �?数据来源声明检�?
 ---
 
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp"
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
+
 
 ## 二、已修复问题
 
@@ -235,7 +237,7 @@ While Bbdbuy Spreadsheet excels in [specific areas], it may not be the best choi
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

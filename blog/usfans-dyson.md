@@ -9,6 +9,16 @@ title: 'Bbdbuy Spreadsheet Dyson 2026: Premium Electronics and Lifestyle Product
 - Step-by-step guide to ordering Dyson products on Bbdbuy Spreadsheet
 - FAQ about quality, shipping, and buyer satisfaction
 
+
+<figure class="article-image">
+  <img src="/images/electronics-smart-home-au-10.webp"
+       alt="Family in living room with Dyson air purifier JBL speaker and smart home devices, Australia US shipping"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Family in living room with Dyson air purifier JBL speaker and smart home devices, Australia US shipping">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Smart home electronics with Australia and US shipping options</figcaption>
+</figure>
 ## Introduction
 
 
@@ -18,15 +28,7 @@ This page covers everything you need to know about finding Dyson-style electroni
 
 In the sections below, you will learn about specific products available, how to verify quality before ordering, and what to expect during the shipping process. We will also explore how the [Bbdbuy electronics](/blog/usfans-electronics/) collection extends beyond audio into a full range of lifestyle products, and how complementary gadgets can enhance your daily life.
 
-<figure class="article-image">
-  <img src="/images/electronics-smart-home-au-10.webp"
-       alt="Family in living room with Dyson air purifier JBL speaker and smart home devices, Australia US shipping"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Smart home electronics with Australia and US shipping options</figcaption>
-</figure>
+
 
 ## Understanding the Bbdbuy Spreadsheet Dyson Product Range
 
@@ -56,7 +58,7 @@ For buyers interested in building a complete audio setup, exploring the [Bbdbuy 
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Tech workspace with iPhone Apple Watch AirPods and headphones, US express and international shipping boxes">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Latest tech accessories with express shipping for US and international orders</figcaption>
 </figure>
 

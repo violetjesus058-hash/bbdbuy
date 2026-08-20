@@ -9,6 +9,16 @@ title: 'Bbdbuy Spreadsheet Step by Step 2026: Your Complete Walkthrough from Acc
 - Shipping methods, timelines, and delivery tracking details
 - Common mistakes first-time buyers should avoid
 
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp"
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 ## Introduction
 
 If you have been browsing replica marketplaces and feeling overwhelmed by the number of agents, forums, and conflicting advice, you are not alone. The **Bbdbuy Spreadsheet step by step** process was designed to simplify exactly that experience — turning what used to be a confusing maze of Taobao links, WeChat payments, and shipping calculators into a streamlined, English-language platform that handles everything from product discovery to doorstep delivery.
@@ -17,15 +27,7 @@ This page covers every stage of the Bbdbuy Spreadsheet journey in the order you 
 
 By the end of this guide, you will know exactly how to register, search, order, verify quality through QC photos, select the right shipping method, and track your package to your door. Let us walk through each step together.
 
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp"
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
+
 
 ## Bbdbuy Spreadsheet Step by Step: Account Creation and Initial Setup
 
@@ -49,7 +51,7 @@ One feature that sets Bbdbuy Spreadsheet apart is the integrated spreadsheet —
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
 </figure>
 

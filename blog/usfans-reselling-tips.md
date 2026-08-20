@@ -2,6 +2,16 @@
 title: 'Bbdbuy Spreadsheet Reselling Tips 2026: Advanced Strategies for Maximum Profit'
 ---
 
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp"
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 ## In This Article
 
 - Advanced sourcing techniques that outperform basic approaches
@@ -20,15 +30,7 @@ Data from thousands of reselling transactions shows that operators applying adva
 
 This guide provides the advanced playbook for resellers ready to elevate their operations. You'll learn sophisticated sourcing techniques that uncover hidden value, pricing psychology that maximizes margins without sacrificing volume, customer retention strategies that build sustainable revenue, and scaling systems that grow your business predictably. Whether you're currently generating $1,000 monthly and want to reach $10,000, or you're at $10,000 aiming for $50,000, these advanced principles apply across all growth stages.
 
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp"
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
+
 
 ## Advanced Sourcing Intelligence
 
@@ -72,7 +74,7 @@ Professional communication builds trust and reduces customer anxiety. Send order
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

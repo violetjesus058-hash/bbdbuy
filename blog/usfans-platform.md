@@ -67,7 +67,7 @@ Choosing the right Platform becomes much easier when you compare different style
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
 </figure>
 
@@ -79,6 +79,6 @@ Choosing the right Platform becomes much easier when you compare different style
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Daily carry accessories flat lay with Chrome Hearts ring Cartier watch sunglasses and US priority shipping">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Essential daily accessories with premium quality and fast shipping options</figcaption>
 </figure>

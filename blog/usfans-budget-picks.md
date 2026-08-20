@@ -18,6 +18,16 @@ title: 'Bbdbuy Spreadsheet Budget Picks 2026: Best Products Under $30'
 
 - How to maximize value with Bbdbuy Spreadsheet budget picks
 
+
+<figure class="article-image">
+  <img src="/images/clothing-streetwear-outfit-us-03.webp"
+       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
+</figure>
 ## Introduction
 
 
@@ -44,15 +54,7 @@ This guide breaks down the best budget-friendly products currently available on 
 
 For a complete overview of all available products and current pricing, check out the [Bbdbuy spreadsheet](https://usfanslinki.com/) which is updated regularly with the latest inventory.
 
-<figure class="article-image">
-  <img src="/images/clothing-streetwear-outfit-us-03.webp"
-       alt="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
-</figure>
+
 
 ## Budget Sneakers Under $30
 
@@ -108,7 +110,7 @@ Sizing is generally consistent across the clothing range, though it's worth chec
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
 </figure>
 

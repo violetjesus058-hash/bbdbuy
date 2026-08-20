@@ -11,6 +11,16 @@ title: 'Bbdbuy Spreadsheet Cheap T-Shirts 2026: Streetwear Essentials Under $18'
 - How to style cheap tees for maximum impact
 - Care tips to extend the life of budget t-shirts
 
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp"
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
 ## Introduction
 
 
@@ -26,15 +36,7 @@ This guide breaks down the best budget-friendly t-shirts currently available on 
 
 For a complete overview of all available products and current pricing, check out the [Bbdbuy spreadsheet](https://usfanslinki.com/) which is updated regularly with the latest inventory.
 
-<figure class="article-image">
-  <img src="/images/clothing-wardrobe-organized-au-04.webp"
-       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
-</figure>
+
 
 ## Top Cheap T-Shirts Under $18
 
@@ -74,7 +76,7 @@ For buyers interested in understanding more about fabric quality and how it affe
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Three friends wearing streetwear outfits walking in Los Angeles, Essentials hoodie Stussy tee Gallery Dept jacket">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Streetwear styling inspiration featuring popular brands and casual urban fashion</figcaption>
 </figure>
 

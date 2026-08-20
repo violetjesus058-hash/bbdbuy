@@ -2,6 +2,16 @@
 title: 'Bbdbuy Spreadsheet Size Guide 2026: Your Complete Resource for Perfect Fit'
 ---
 
+
+<figure class="article-image">
+  <img src="/images/clothing-wardrobe-organized-au-04.webp"
+       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK"
+       loading="lazy"
+       width="1200"
+       height="800"
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK">
+  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
+</figure>
 ## In This Article
 
 
@@ -19,15 +29,7 @@ The platform's diverse seller base means size information comes in various forma
 
 Size guide knowledge extends beyond simple measurement conversion. It includes understanding fit styles (fitted, regular, oversized), fabric behavior (stretch vs. rigid), and category-specific considerations. Each product type has unique sizing requirements that affect how you should interpret size information. This guide provides complete sizing education to help you make confident decisions that result in perfect fit every time.
 
-<figure class="article-image">
-  <img src="/images/clothing-wardrobe-organized-au-04.webp"
-       alt="Organized wardrobe with hoodies and t-shirts, woman comparing products with shipping labels to Australia US UK"
-       loading="lazy"
-       width="1200"
-       height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Wardrobe organization and product comparison with international shipping options</figcaption>
-</figure>
+
 
 ## Interpreting Size Information
 
@@ -55,7 +57,7 @@ Hip measurement requires wrapping the tape around the fullest part of your hips,
        loading="lazy"
        width="1200"
        height="800"
-       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" title="Premium sneaker unboxing with quality inspection card and UK EU shipping labels, Jordan 4 Adidas Samba">
   <figcaption style="text-align: center; font-size: 14px; color: #666; margin-top: 12px; font-style: italic;">Quality inspection and unboxing experience with international shipping options</figcaption>
 </figure>
 
