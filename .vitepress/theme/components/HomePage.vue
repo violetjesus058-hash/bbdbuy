@@ -161,6 +161,20 @@
         </div>
       </div>
     </section>
+    <section id="community-research" class="section section-research">
+      <div class="page-container research-card">
+        <div>
+          <p class="section-kicker">Beginner evaluation</p>
+          <h2>Compare fees, coupons and test-order questions first.</h2>
+          <p class="research-card-copy">Use a cautious checklist for coupon terms, service fees, refunds, shipping quotes and a small first order before relying on a larger commitment.</p>
+          <a href="/blog/bbdbuy-community-buying-guide/" class="research-card-link">Read the BbdBuy research guide <span aria-hidden="true">→</span></a>
+        </div>
+        <div class="research-card-note">
+          <strong>BbdBuy community research</strong>
+          <span>Community discussions are treated as signals for what to verify. The guide separates reported experiences from current platform policies, live quotes and transaction terms.</span>
+        </div>
+      </div>
+    </section>
   </main>
 </template>
 
@@ -342,4 +356,13 @@ const faqs = [
 .cta-preview-caption { display: block; padding: 9px 4px 2px; color: var(--ink); font-size: 11px; font-weight: 750; letter-spacing: .02em; line-height: 1.15; text-align: center; }
 .cta-preview-wrap:hover .cta-preview-card, .cta-preview-wrap:focus-within .cta-preview-card { opacity: 1; transform: translate(-50%, 0) scale(1); }
 @media (max-width: 700px) { .cta-preview-wrap { display: contents; } .cta-preview-card { display: none; } }
+    .section-research { background: #f0f0fb; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .research-card { display: grid; grid-template-columns: minmax(0, .9fr) minmax(280px, 1.1fr); gap: 48px; align-items: center; }
+    .research-card h2 { max-width: 620px; margin: 0; font-size: clamp(30px, 4vw, 50px); font-weight: 780; letter-spacing: -.055em; line-height: 1.08; }
+    .research-card-copy { max-width: 620px; margin: 20px 0 0; color: var(--muted-ink); font-size: 17px; line-height: 1.75; }
+    .research-card-link { display: inline-flex; align-items: center; gap: 8px; margin-top: 28px; color: var(--accent); font-size: 15px; font-weight: 800; text-decoration: none; }
+    .research-card-link:hover { text-decoration: underline; text-underline-offset: 4px; }
+    .research-card-note { padding: 28px; border: 1px solid rgba(91,92,226,.22); border-radius: 16px; background: rgba(255,255,255,.72); color: var(--muted-ink); font-size: 15px; line-height: 1.7; }
+    .research-card-note strong { display: block; margin-bottom: 8px; color: var(--ink); font-size: 17px; }
+    @media (max-width: 760px) { .research-card { grid-template-columns: 1fr; gap: 26px; } .research-card-note { padding: 22px; } }
 </style>
