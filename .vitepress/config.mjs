@@ -21,12 +21,12 @@ export default defineConfig({
 
   head: [
     // Google tag (gtag.js) — site-wide Google Analytics property supplied by the site owner
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-9WJTE8DY0P' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-0P1YGBJDVL' }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-9WJTE8DY0P');
+      gtag('config', 'G-0P1YGBJDVL');
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'preload', as: 'image', href: '/images/hero-1200w.webp', fetchpriority: 'high' }],

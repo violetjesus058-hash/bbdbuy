@@ -107,7 +107,7 @@ export const siteConfig = {
     title: 'Bbdbuy Spreadsheet 2026 - Bbdbuy Finds, Category Guides and Product Research',
     description: 'Explore Bbdbuy Spreadsheet 2026 through organized Bbdbuy finds, category overviews, focused guides and direct spreadsheet access.',
     keywords: ['bbdbuy spreadsheet 2026', 'bbdbuy spreadsheet', 'bbdbuy finds', 'clothing spreadsheet', 'shoes spreadsheet', 'pants spreadsheet', 'hats spreadsheet', 'accessories spreadsheet', 'electronics spreadsheet'],
-    ga4: 'G-9WJTE8DY0P',
+    ga4: 'G-0P1YGBJDVL',
   },
 
   // ---- Announcement Bar ----
