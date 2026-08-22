@@ -29,6 +29,7 @@ export default defineConfig({
       gtag('config', 'G-0P1YGBJDVL');
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
     ['link', { rel: 'preload', as: 'image', href: '/images/hero-1200w.webp', fetchpriority: 'high' }],
     ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com', crossorigin: '' }],
     ['meta', { property: 'og:type', content: 'website' }],

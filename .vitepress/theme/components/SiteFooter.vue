@@ -2,7 +2,7 @@
   <footer class="site-footer">
     <div class="footer-container">
       <div class="footer-brand">
-        <a href="/">{{ brand.logoText }}</a>
+        <a href="/" class="footer-brand-link"><img src="/bbdbuy-logo.png" alt="Bbdbuy logo" class="footer-brand-icon" /><span>{{ brand.logoText }}</span></a>
         <p>{{ brand.description }}</p>
       </div>
       <div class="footer-links">
@@ -32,7 +32,8 @@ const sitemapUrl = computed(() => `${seo.hostname.replace(/\/$/, '')}/sitemap.xm
 .footer-container, .footer-bottom { width: min(1180px, calc(100% - 48px)); margin: 0 auto; }
 .footer-container { display: flex; align-items: start; justify-content: space-between; gap: 36px; padding-bottom: 48px; }
 .footer-brand { max-width: 390px; }
-.footer-brand a { color: #fff; font-size: 19px; font-weight: 800; letter-spacing: -.045em; text-decoration: none; }
+.footer-brand-link { display: inline-flex; align-items: center; gap: 9px; color: #fff; font-size: 19px; font-weight: 800; letter-spacing: -.045em; text-decoration: none; }
+.footer-brand-icon { width: 34px; height: 34px; flex: 0 0 34px; object-fit: contain; border-radius: 50%; }
 .footer-brand p { margin: 14px 0 0; color: rgba(255, 255, 255, .56); font-size: 14px; line-height: 1.7; }
 .footer-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 12px 25px; }
 .footer-links a { color: rgba(255, 255, 255, .7); font-size: 14px; text-decoration: none; transition: color .18s ease; }

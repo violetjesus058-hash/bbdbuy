@@ -1,7 +1,7 @@
 <template>
   <header class="global-navbar">
     <div class="navbar-container">
-      <a href="/" class="navbar-brand">{{ brand.logoText }}</a>
+      <a href="/" class="navbar-brand"><img src="/bbdbuy-logo.png" alt="Bbdbuy logo" class="navbar-brand-icon" /><span>{{ brand.logoText }}</span></a>
 
       <button
         class="mobile-menu-toggle"
@@ -193,6 +193,9 @@ onBeforeUnmount(clearCloseTimer)
   gap: 24px;
 }
 .navbar-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
   flex: 0 0 auto;
   color: #111;
   font-size: 17px;
@@ -202,6 +205,7 @@ onBeforeUnmount(clearCloseTimer)
   text-decoration: none;
   white-space: nowrap;
 }
+.navbar-brand-icon { width: 34px; height: 34px; flex: 0 0 34px; object-fit: contain; border-radius: 50%; }
 .navbar-menu {
   display: flex;
   flex: 1;
@@ -295,6 +299,7 @@ onBeforeUnmount(clearCloseTimer)
 @media (max-width: 520px) {
   .navbar-container { width: min(100% - 28px, 1440px); gap: 12px; }
   .navbar-brand { max-width: 170px; overflow: hidden; text-overflow: ellipsis; }
+  .navbar-brand-icon { width: 30px; height: 30px; flex-basis: 30px; }
   .nav-cta { display: none; }
 }
 </style>
