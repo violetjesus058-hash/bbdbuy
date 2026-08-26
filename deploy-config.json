@@ -1,7 +1,7 @@
 ﻿{
   "name": "Bbdbuy Spreadsheet",
-  "domain": "Usfanslinki.com",
-  "github": "Usfanslinki",
+  "domain": "bbdbuyspreadsheets.com",
+  "github": "bbdbuy",
   "build": "npm run build",
   "output": "dist"
 }

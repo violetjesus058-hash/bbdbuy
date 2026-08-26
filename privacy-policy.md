@@ -14,11 +14,11 @@ updated: '2026-08-14T00:00:00Z'
 
 **Effective Date:** August 2, 2026
 
-Welcome to UsfansLinki. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you visit our website at [https://usfanslinki.com/](https://usfanslinki.com/).
+Welcome to Bbdbuy. We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information when you visit our website at [https://bbdbuyspreadsheets.com/](https://bbdbuyspreadsheets.com/).
 
 ## 1. Nature of Our Service & Disclaimer
 
-**Information & Linking Platform Only:** UsfansLinki is an independent affiliate and product indexing platform. We provide product recommendations and direct links to third-party shopping agents (such as KakoBuy).
+**Information & Linking Platform Only:** Bbdbuy is an independent affiliate and product indexing platform. We provide product recommendations and direct links to third-party shopping agents (such as KakoBuy).
 
 **No Direct Sales or Inventory:** We do NOT directly sell products, handle inventory, process payments, or manage international shipping.
 
@@ -62,7 +62,7 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ---
 
-If you have any questions about this Privacy Policy, please contact us at [https://usfanslinki.com/](https://usfanslinki.com/).
+If you have any questions about this Privacy Policy, please contact us at [https://bbdbuyspreadsheets.com/](https://bbdbuyspreadsheets.com/).
 
 ## Privacy Policy: Reader note
 

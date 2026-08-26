@@ -3,6 +3,13 @@ import { siteConfig } from './theme/site-config.js'
 
 const { seo, brand } = siteConfig
 
+// Internal repository documents must never become public pages or sitemap entries.
+const sitemapExcludedPaths = new Set([
+  '/AI-PROJECT-GUIDE',
+  '/DEPLOYMENT-RECOVERY',
+  '/EDITORIAL_UNIQUENESS_GUIDE',
+])
+
 export default defineConfig({
   vite: {
     ssr: {
@@ -113,6 +120,9 @@ export default defineConfig({
 
   sitemap: {
     hostname: seo.hostname,
+    transformItems(items) {
+      return items.filter((item) => !sitemapExcludedPaths.has(item.url))
+    },
   },
 
   ignoreDeadLinks: [
@@ -136,9 +146,12 @@ export default defineConfig({
 
   srcExclude: [
     // Root-level internal documents (should not be indexed)
+    'AI-PROJECT-GUIDE.md',
     'ARTICLE_PROMPT_GUIDE.md',
     'BANNED_TERMS.md',
     'BATCH_MODIFICATION_PLAN.md',
+    'DEPLOYMENT-RECOVERY.md',
+    'EDITORIAL_UNIQUENESS_GUIDE.md',
     'WEBSITE_POSITIONING.md',
     'flexible-article-generator.md',
     'ideas.md',
