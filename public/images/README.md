@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document defines 10 SEO-optimized product images covering 5 core product types, designed for use across 600+ blog articles on usfanslinki.com.
+This document defines 10 SEO-optimized product images covering 5 core product types, designed for use across 600+ blog articles on bbdbuyspreadsheets.com.
 
 ***
 
@@ -29,7 +29,7 @@ This document defines 10 SEO-optimized product images covering 5 core product ty
 - **File size:** < 200KB per image
 - **Quality:** 85%+ after compression
 - **Loading:** Lazy loading with width/height attributes
-- **EXIF:** Copyright "Bbdbuy Spreadsheet 2026", Author "UsfansLinki"
+- **EXIF:** Copyright "Bbdbuy Spreadsheet 2026", Author "Bbdbuy Spreadsheet"
 
 ### Naming Convention
 
@@ -281,4 +281,3 @@ A bright modern Australian living room with large windows showing a sunny backya
 - Naming system supports adding new product types: `{new-type}-{feature}-{market}-{seq}.webp`
 - Image IDs follow sequential numbering (IMG-011, IMG-012, etc.)
 - New markets can be added: JP, KR, DE, FR, CA, etc.
-
