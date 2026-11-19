@@ -17,6 +17,24 @@ import CategoryContent from './.vitepress/theme/components/CategoryContent.vue'
 const clothesCategory = siteConfig.categories.find(c => c.id === 'clothes')
 const spreadsheetLink = 'https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270'
 
+const catalogLinks = [
+  { text: 'Browse all BBDBuy clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy' },
+  { text: 'Browse adidas clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=adidas' },
+  { text: 'Browse AMIRI clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=AMIRI' },
+  { text: 'Browse Nike clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Nike' },
+  { text: 'Browse Polo Ralph Lauren clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Polo+Ralph+Lauren' },
+  { text: 'Browse Casablanca clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Casablanca' },
+  { text: 'Browse Off-White clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Off-White' },
+  { text: 'Browse Corteiz clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Corteiz' },
+  { text: 'Browse Trapstar clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Trapstar' },
+  { text: 'Browse Moncler clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Moncler' },
+  { text: 'Browse Stüssy clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=St%C3%BCssy' },
+  { text: 'Browse Dior clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Dior' },
+  { text: 'Browse Jordan clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Jordan' },
+  { text: 'Browse Chrome Hearts clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Chrome+Hearts' },
+  { text: 'Browse Stone Island clothing styles', url: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy&brand=Stone+Island' },
+]
+
 const productTypes = [
   {
     icon: '',
@@ -183,6 +201,17 @@ Each clothing type serves different purposes and requires different consideratio
   :categoryDescription="clothesCategory.description"
   :productTypes="productTypes"
 />
+
+## Browse BBDBuy Clothing Styles by Brand
+
+The live product index provides a focused view of clothing styles by brand. Use these links after reviewing the category and fit guidance above; product counts and prices can change as the catalog is updated.
+
+<div class="catalog-links">
+  <a v-for="item in catalogLinks" :key="item.url" :href="item.url" target="_blank" rel="noopener noreferrer" class="catalog-link">
+    <span>{{ item.text }}</span>
+    <span aria-hidden="true">↗</span>
+  </a>
+</div>
 
 ## Fabric Guide: What Your Clothes Are Made Of
 
@@ -355,6 +384,35 @@ Looking to complete your outfit? Check out our other category guides for more cu
 .fabric-table td,
 .brand-table td {
   color: #555;
+}
+
+.catalog-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin: 24px 0 40px;
+}
+
+.catalog-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 13px 16px;
+  border: 1px solid #eadfca;
+  border-radius: 10px;
+  background: #fffaf1;
+  color: #7a1f1f;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color .2s ease, transform .2s ease, box-shadow .2s ease;
+}
+
+.catalog-link:hover {
+  border-color: #8B0000;
+  box-shadow: 0 4px 14px rgba(139, 0, 0, .1);
+  transform: translateY(-1px);
 }
 
 .fit-grid {
