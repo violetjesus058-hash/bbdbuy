@@ -83,11 +83,11 @@
             <h3>{{ frontmatter.recommendedCategories[0].title || 'Clothes' }}</h3>
             <p>{{ frontmatter.recommendedCategories[0].description || 'Placeholder text' }}</p>
           </a>
-          <a href="/shoes" class="category-card">
+          <a href="/clothes" class="category-card">
             <h3>{{ frontmatter.recommendedCategories[1].title || 'Shoes' }}</h3>
             <p>{{ frontmatter.recommendedCategories[1].description || 'Placeholder text' }}</p>
           </a>
-          <a href="/watches" class="category-card">
+          <a href="/clothes" class="category-card">
             <h3>{{ frontmatter.recommendedCategories[2].title || 'Watches' }}</h3>
             <p>{{ frontmatter.recommendedCategories[2].description || 'Placeholder text' }}</p>
           </a>
@@ -95,7 +95,7 @@
             <h3>{{ frontmatter.recommendedCategories[3].title || 'Bags' }}</h3>
             <p>{{ frontmatter.recommendedCategories[3].description || 'Placeholder text' }}</p>
           </a>
-          <a href="/accessories" class="category-card">
+          <a href="/clothes" class="category-card">
             <h3>{{ frontmatter.recommendedCategories[4].title || 'Accessories' }}</h3>
             <p>{{ frontmatter.recommendedCategories[4].description || 'Placeholder text' }}</p>
           </a>

@@ -313,8 +313,7 @@ Deepen your knowledge with these clothing-specific resources:
 
 Looking to complete your outfit? Check out our other category guides for more curated picks and detailed buying advice:
 
-- [Shoes Guide](/shoes) — Sneakers, boots, casual footwear and more. Find the perfect pair to match your style.
-- [Hats Guide](/hats) — Snapbacks, beanies, bucket hats and fitted caps. The finishing touch to any look.
+- [Clothing Spreadsheet](/clothes) — Return to the full clothing category and current listings.
 
 <style scoped>
 .fabric-table-wrapper,

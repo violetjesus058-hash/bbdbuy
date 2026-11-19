@@ -62,7 +62,7 @@
             <h3>About</h3>
             <p>Learn more about our mission and how we help you find the best products.</p>
           </a>
-          <a href="/shoes" class="explore-card">
+          <a href="/clothes" class="explore-card">
             <div class="explore-icon">&#128095;</div>
             <h3>Shoes</h3>
             <p>Discover the best sneakers, boots, and casual footwear.</p>
@@ -72,7 +72,7 @@
             <h3>Clothes</h3>
             <p>Explore streetwear, hoodies, jackets, and more.</p>
           </a>
-          <a href="/hats" class="explore-card">
+          <a href="/clothes" class="explore-card">
             <div class="explore-icon">🧢</div>
             <h3>Hats</h3>
             <p>Find the perfect cap, beanie, or bucket hat.</p>

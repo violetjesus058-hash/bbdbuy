@@ -56,7 +56,7 @@
             <h3>Blog</h3>
             <p>Read our latest guides, reviews, and shopping tips.</p>
           </a>
-          <a href="/shoes" class="explore-card">
+          <a href="/clothes" class="explore-card">
             <div class="explore-icon">&#128095;</div>
             <h3>Shoes</h3>
             <p>Discover the best sneakers, boots, and casual footwear.</p>
@@ -66,7 +66,7 @@
             <h3>Clothes</h3>
             <p>Explore streetwear, hoodies, jackets, and more.</p>
           </a>
-          <a href="/hats" class="explore-card">
+          <a href="/clothes" class="explore-card">
             <div class="explore-icon">🧢</div>
             <h3>Hats</h3>
             <p>Find the perfect cap, beanie, or bucket hat.</p>
