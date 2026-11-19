@@ -38,7 +38,7 @@ Junior clothing sizes correspond to specific height and measurement ranges. Size
 
 Junior shoe sizing uses youth sizes 5-12, which bridge kids and adult sizing. Youth size 5 corresponds to approximately foot length 22.5 cm, while youth size 12 corresponds to approximately 27.5 cm. These sizes often use the same sizing scale as women's shoes but with different width proportions appropriate for developing feet.
 
-Our [Bbdbuy legit check](/blog/usfans-legit-check/) guide explains how to verify seller sizing accuracy through customer feedback analysis. Premium junior sellers maintain 93%+ sizing accuracy because their charts reflect actual product measurements and account for the unique proportions of teenage bodies.
+Our [Bbdbuy legit check](/blog/) guide explains how to verify seller sizing accuracy through customer feedback analysis. Premium junior sellers maintain 93%+ sizing accuracy because their charts reflect actual product measurements and account for the unique proportions of teenage bodies.
 
 ## Junior vs Kids and Adult Sizing
 
@@ -48,7 +48,7 @@ Boys junior sizing often follows slim or husky variations to accommodate differe
 
 Girls junior sizing must accommodate changing body proportions during puberty. Junior girls sizing often provides more room in hips and bust compared to kids sizing, reflecting physical development. Understanding these proportional differences helps you select sizes that fit comfortably during this transitional period.
 
-Junior shoe sizing differs from both kids and adult sizing in width proportions. Junior shoes provide width appropriate for developing feet, which may be narrower than adult feet but wider than kids feet. Our [Bbdbuy reviews](/blog/usfans-reviews/) database includes junior sizing feedback helping you understand how specific products fit different teen body types.
+Junior shoe sizing differs from both kids and adult sizing in width proportions. Junior shoes provide width appropriate for developing feet, which may be narrower than adult feet but wider than kids feet. Our [Bbdbuy reviews](/blog/) database includes junior sizing feedback helping you understand how specific products fit different teen body types.
 
 <figure class="article-image">
   <img src="/images/sneakers-unboxing-premium-uk-02.webp"
@@ -68,7 +68,7 @@ Chest measurement requires wrapping the tape around the fullest part of the ches
 
 Waist measurement should be taken at the natural waistline or where pants typically sit. For boys, measure at the narrowest point above the hips. For girls, measure at the natural waist or where they prefer waistbands. Keep the tape level and snug but not tight.
 
-Hip measurement requires wrapping the tape around the fullest part of the hips. For girls, this becomes increasingly important during puberty as hip proportions change. Measure 7-9 inches below the waist at the fullest point. Our [Bbdbuy qc photos](/blog/usfans-qc-photos/) guide shows actual product dimensions helping you visualize fit for junior products.
+Hip measurement requires wrapping the tape around the fullest part of the hips. For girls, this becomes increasingly important during puberty as hip proportions change. Measure 7-9 inches below the waist at the fullest point. Our [Bbdbuy qc photos](/blog/) guide shows actual product dimensions helping you visualize fit for junior products.
 
 ## Fit Considerations for Growing Teens
 

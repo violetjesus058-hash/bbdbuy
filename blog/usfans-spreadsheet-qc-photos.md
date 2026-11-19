@@ -46,7 +46,7 @@ The Bbdbuy Spreadsheet provides systematic access to QC photos through organized
 
 High-resolution images allow detailed examination of product features. Shoppers can zoom in to inspect stitching patterns, material weave, surface finish, and construction details that determine quality and durability. This level of detail helps identify quality indicators that might not be apparent in lower-resolution images.
 
-The [Bbdbuy spreadsheet best](/blog/usfans-spreadsheet-best/) selections typically include comprehensive QC photo documentation. Top-performing products have extensive visual records showing consistent quality across multiple purchases, providing confidence that new buyers will receive similar quality.
+The [Bbdbuy spreadsheet best](/blog/) selections typically include comprehensive QC photo documentation. Top-performing products have extensive visual records showing consistent quality across multiple purchases, providing confidence that new buyers will receive similar quality.
 
 Comparison photos show products alongside reference images or authentic versions, helping buyers understand quality relative to expectations. These side-by-side comparisons provide context for evaluating whether products meet standards for appearance, materials, and construction quality.
 
@@ -56,7 +56,7 @@ QC photos serve multiple verification purposes in the shopping decision process.
 
 Detailed inspection of QC photos reveals quality indicators that predict long-term satisfaction. Reinforced stress points, quality hardware, consistent coloring, and precise construction all indicate products likely to perform well over time. Conversely, visible flaws in photos often predict problems that will worsen with use.
 
-The [Bbdbuy spreadsheet with qc](/blog/usfans-spreadsheet-with-qc/) integration allows shoppers to access QC photos directly within product entries, creating a seamless evaluation experience. This integration eliminates the need to search separate photo repositories, keeping all quality information in one accessible location.
+The [Bbdbuy spreadsheet with qc](/blog/) integration allows shoppers to access QC photos directly within product entries, creating a seamless evaluation experience. This integration eliminates the need to search separate photo repositories, keeping all quality information in one accessible location.
 
 Multiple photo angles provide comprehensive coverage of product quality. Front, back, side, and detail shots reveal different aspects of construction and finish, helping shoppers assess overall quality rather than just appearance from a single perspective. This multi-angle documentation reduces surprises upon product arrival.
 
@@ -76,7 +76,7 @@ QC photos enable effective product comparison by providing consistent visual sta
 
 Price-to-quality relationships become evident when comparing QC photos across price points. Sometimes modest price increases deliver substantial quality improvements visible in photos, representing good value. Conversely, expensive products with QC photos showing quality similar to cheaper alternatives indicate poor value.
 
-The [Bbdbuy spreadsheet finder](/blog/usfans-spreadsheet-link/) helps shoppers locate products with comparable QC photo documentation, facilitating effective visual comparison. This capability is particularly valuable when choosing between similar options where visual quality differences determine the best choice.
+The [Bbdbuy spreadsheet finder](/blog/) helps shoppers locate products with comparable QC photo documentation, facilitating effective visual comparison. This capability is particularly valuable when choosing between similar options where visual quality differences determine the best choice.
 
 Historical QC photos track quality changes over time, showing whether products maintain consistent quality or experience degradation. Products with consistent visual quality across multiple purchase batches demonstrate reliable manufacturing standards, while those showing declining quality in recent photos warrant caution.
 

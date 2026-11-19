@@ -190,7 +190,7 @@ Essentials hoodies generally fit relaxed, but consider:
 - Verify shoulder and sleeve fit
 - Consult size charts carefully
 
-Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for detailed measurements.
+Always consult the [Bbdbuy Linki Sizing Guide](/blog/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -302,7 +302,7 @@ Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for d
 
 ## Where to Find Essentials Hoodies on Bbdbuy Linki
 
-Browse our curated Essentials collection through the [Bbdbuy Linki Spreadsheet](/blog/usfans-complete-guide/), where you'll find:
+Browse our curated Essentials collection through the [Bbdbuy Linki Spreadsheet](/blog/), where you'll find:
 
 - Detailed product information
 - Multiple style options
@@ -312,10 +312,10 @@ Browse our curated Essentials collection through the [Bbdbuy Linki Spreadsheet](
 
 ## Related Resources
 
-- [Bbdbuy Linki Streetwear Guide](/blog/usfans-streetwear/) - Complete streetwear overview
-- [Bbdbuy Linki Hoodies Collection](/blog/usfans-hoodies/) - All hoodie options
-- [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) - Detailed sizing information
-- [Bbdbuy Linki Product Directory](/blog/usfans-complete-guide/) - Full product spreadsheet
+- [Bbdbuy Linki Streetwear Guide](/blog/) - Complete streetwear overview
+- [Bbdbuy Linki Hoodies Collection](/blog/) - All hoodie options
+- [Bbdbuy Linki Sizing Guide](/blog/) - Detailed sizing information
+- [Bbdbuy Linki Product Directory](/blog/) - Full product spreadsheet
 
 ## Final Thoughts
 

@@ -47,7 +47,7 @@ The Bbdbuy Spreadsheet employs multiple quality control metrics to provide compr
 
 Inspection results provide detailed information about product condition upon arrival. These results categorize products based on visual appearance, functional performance, and materials quality. Products receiving high marks across all inspection categories demonstrate consistent manufacturing quality that translates to reliable buyer satisfaction.
 
-The [Bbdbuy spreadsheet best](/blog/usfans-spreadsheet-best/) selections prioritize products with exceptional QC metrics across multiple dimensions. These top performers consistently deliver quality that meets or exceeds buyer expectations, making them reliable choices for shoppers seeking predictable outcomes.
+The [Bbdbuy spreadsheet best](/blog/) selections prioritize products with exceptional QC metrics across multiple dimensions. These top performers consistently deliver quality that meets or exceeds buyer expectations, making them reliable choices for shoppers seeking predictable outcomes.
 
 Defect rates complement pass rates by indicating the frequency of quality issues. Understanding both metrics helps shoppers assess risk-reward tradeoffs when making purchase decisions. Products with low defect rates and high pass rates represent the safest choices, while those with moderate metrics may offer better value for buyers willing to accept some risk.
 
@@ -57,7 +57,7 @@ International shopping inherently involves uncertainty about product quality. Th
 
 QC data also helps identify products with quality variability. Some items may have good average ratings but inconsistent results, with some buyers receiving excellent products while others encounter issues. The spreadsheet's detailed metrics help shoppers identify these patterns and make risk-adjusted decisions based on their tolerance for variability.
 
-The [Bbdbuy spreadsheet with qc](/blog/usfans-spreadsheet-with-qc/) integration provides visual evidence that complements quantitative metrics. Inspection photos show actual product condition from multiple angles, allowing buyers to verify quality expectations before purchasing. This visual documentation is particularly valuable for products where appearance significantly impacts satisfaction.
+The [Bbdbuy spreadsheet with qc](/blog/) integration provides visual evidence that complements quantitative metrics. Inspection photos show actual product condition from multiple angles, allowing buyers to verify quality expectations before purchasing. This visual documentation is particularly valuable for products where appearance significantly impacts satisfaction.
 
 Trend analysis in QC data reveals whether product quality is improving, stable, or declining over time. Products showing progressive quality improvement represent good long-term bets, while those with declining quality warrant caution even if current ratings remain acceptable. This temporal perspective helps shoppers avoid products heading toward quality problems.
 
@@ -77,7 +77,7 @@ Quality pass rates require context to interpret effectively. A 90% pass rate mig
 
 Order volume affects the reliability of pass rates. Products with thousands of orders provide highly reliable quality assessments because they reflect diverse buyer experiences. Items with only dozens of orders have greater uncertainty, as their pass rates may not represent typical outcomes across larger populations.
 
-The [Bbdbuy spreadsheet finder](/blog/usfans-spreadsheet-link/) helps shoppers filter products by pass rate thresholds, allowing them to prioritize items meeting their quality standards. This filtering capability is particularly valuable when shopping for critical items where quality consistency is essential.
+The [Bbdbuy spreadsheet finder](/blog/) helps shoppers filter products by pass rate thresholds, allowing them to prioritize items meeting their quality standards. This filtering capability is particularly valuable when shopping for critical items where quality consistency is essential.
 
 Pass rates also vary by product category. Electronics typically have lower pass rates than simple accessories due to their complexity and higher failure potential. Understanding category norms helps shoppers set appropriate expectations and evaluate products relative to category standards rather than absolute metrics.
 

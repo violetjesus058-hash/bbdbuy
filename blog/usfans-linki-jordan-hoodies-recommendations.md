@@ -195,7 +195,7 @@ Jordan hoodies generally fit true to size, but consider:
 - **Relaxed Fit**: True to size or size down for less volume
 - **Premium Options**: Check specific sizing charts
 
-Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for detailed measurements.
+Always consult the [Bbdbuy Linki Sizing Guide](/blog/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -219,7 +219,7 @@ Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for d
 
 ## Where to Find Jordan Hoodies on Bbdbuy Linki
 
-Browse our curated Jordan collection through the [Bbdbuy Linki Spreadsheet](/blog/usfans-complete-guide/), where you'll find:
+Browse our curated Jordan collection through the [Bbdbuy Linki Spreadsheet](/blog/), where you'll find:
 
 - Detailed product information
 - Multiple style options
@@ -229,10 +229,10 @@ Browse our curated Jordan collection through the [Bbdbuy Linki Spreadsheet](/blo
 
 ## Related Resources
 
-- [Bbdbuy Linki Jordan Guide](/blog/usfans-jordan/) - Complete brand overview
-- [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) - Detailed sizing information
-- [Bbdbuy Linki Hoodies Collection](/blog/usfans-hoodies/) - All hoodie options
-- [Bbdbuy Linki Product Directory](/blog/usfans-complete-guide/) - Full product spreadsheet
+- [Bbdbuy Linki Jordan Guide](/blog/) - Complete brand overview
+- [Bbdbuy Linki Sizing Guide](/blog/) - Detailed sizing information
+- [Bbdbuy Linki Hoodies Collection](/blog/) - All hoodie options
+- [Bbdbuy Linki Product Directory](/blog/) - Full product spreadsheet
 
 ## Final Thoughts
 

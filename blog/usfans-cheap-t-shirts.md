@@ -52,7 +52,7 @@ The t-shirt category on Bbdbuy Spreadsheet offers exceptional value across multi
 
 **Nike Nocta T-Shirt**: $11.37 | 1,750+ orders | 95% quality pass rate | Modern athletic fit with Nocta branding on 200gsm Dri-FIT cotton. Drake's Nocta line has become a streetwear favorite, and this budget version delivers the look with performance features. The Dri-FIT fabric wicks moisture and dries quickly, making it ideal for both casual wear and light athletic activities. The fit is more tailored than other options, working well for athletic builds.
 
-When shopping for cheap t-shirts, it's important to understand fabric weight. Most quality tees fall in the 180-220gsm range, with heavier fabrics offering better durability and a more premium drape. The options listed above all fall within this sweet spot, ensuring you get a t-shirt that feels substantial without being overly heavy. For more t-shirt options and styling tips, check out our [Bbdbuy t-shirts](/blog/usfans-t-shirts/) guide which covers additional styles and seasonal picks.
+When shopping for cheap t-shirts, it's important to understand fabric weight. Most quality tees fall in the 180-220gsm range, with heavier fabrics offering better durability and a more premium drape. The options listed above all fall within this sweet spot, ensuring you get a t-shirt that feels substantial without being overly heavy. For more t-shirt options and styling tips, check out our [Bbdbuy t-shirts](/blog/) guide which covers additional styles and seasonal picks.
 
 ## Fabric Quality and Print Durability
 
@@ -68,7 +68,7 @@ What separates a $10 t-shirt from a $50 t-shirt? The answer lies in fabric quali
 
 **Care and Maintenance**: Proper care extends the life of any t-shirt. Wash in cold water on a gentle cycle, turn graphic pieces inside out to protect prints, and air dry when possible. Avoid high heat in the dryer as it can shrink cotton fibers and fade prints. With proper care, these budget t-shirts can easily last 1-2 seasons of regular wear.
 
-For buyers interested in understanding more about fabric quality and how it affects pricing, our [Bbdbuy budget picks](/blog/usfans-budget-picks/) guide breaks down value propositions across all clothing categories.
+For buyers interested in understanding more about fabric quality and how it affects pricing, our [Bbdbuy budget picks](/blog/) guide breaks down value propositions across all clothing categories.
 
 <figure class="article-image">
   <img src="/images/clothing-streetwear-outfit-us-03.webp"
@@ -96,7 +96,7 @@ Cheap t-shirts don't have to look cheap. With the right styling approach, you ca
 
 **Dressing Up a Tee**: Yes, you can dress up a cheap t-shirt. Pair a well-fitting white or black tee with a blazer, tailored trousers, and clean sneakers or loafers. The contrast between the casual tee and more formal pieces creates an interesting tension that works well for dinner dates, casual Fridays, or creative workplaces. The key is ensuring the t-shirt is in good condition—no fading, stretching, or wrinkles.
 
-For more styling inspiration and outfit ideas, our [Bbdbuy clothes](/blog/usfans-clothes/) guide covers additional pieces that pair well with budget tees.
+For more styling inspiration and outfit ideas, our [Bbdbuy clothes](/blog/) guide covers additional pieces that pair well with budget tees.
 
 ## Product Highlights
 
@@ -138,6 +138,6 @@ What makes these picks stand out isn't just the price tag—it's the combination
 
 The key to successful budget t-shirt shopping is understanding what matters: fabric weight in the 180-220gsm range, quality print techniques, and proper care to extend garment life. The options in this guide all meet these criteria, ensuring you get t-shirts that look good and hold up well for regular wear.
 
-Ready to build your streetwear rotation? Check out the [Bbdbuy spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) for real-time pricing and availability, and explore our [Bbdbuy coupon](/blog/usfans-coupon/) guide for additional savings opportunities. With the right approach, you can build a solid t-shirt collection without breaking the bank.
+Ready to build your streetwear rotation? Check out the [Bbdbuy spreadsheet](https://docs.google.com/spreadsheets/d/1Vs190yOAkrQ04LQb6l_Lnr_oTA0ny4CI3PJ_0B4_6zs/edit?gid=2086211270#gid=2086211270) for real-time pricing and availability, and explore our [Bbdbuy coupon](/blog/) guide for additional savings opportunities. With the right approach, you can build a solid t-shirt collection without breaking the bank.
 
 Choosing the right Cheap T Shirts becomes much easier when you compare different styles, materials, and popular options in one place. Whether you're searching for specific products or exploring new categories, organizing your options before ordering helps improve both efficiency and shopping experience. If you want to explore more curated collections across multiple brands and categories, visit the Bbdbuy Spreadsheet homepage for additional shopping resources and regularly updated product guides.

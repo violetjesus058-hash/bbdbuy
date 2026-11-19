@@ -35,7 +35,7 @@ This guide provides a comprehensive breakdown of Nike's product categories on Bb
 
 Nike's strength on Bbdbuy Spreadsheet lies in its category diversity. Unlike brands that focus primarily on footwear, Nike offers a complete wardrobe solution with consistent quality across sneakers, apparel, and accessories. This guide breaks down each category to help you build a cohesive Nike collection.
 
-For broader sneaker comparisons across multiple brands, see our [Bbdbuy sneakers guide](/blog/usfans-sneakers/).
+For broader sneaker comparisons across multiple brands, see our [Bbdbuy sneakers guide](/blog/).
 
 ---
 
@@ -78,7 +78,7 @@ The apparel category includes hoodies, tracksuits, sweatshirts, shorts sets, and
 
 Material quality varies by batch, but most Nike apparel uses quality fabrics that feel substantial without being overly heavy. The print quality on logos and graphics receives consistent praise for accuracy and durability. Sizing typically runs true to size, though buyers with broader builds may want to size up for a more comfortable fit. The spreadsheet includes detailed measurement charts for each apparel listing, which helps you order the right size the first time.
 
-For buyers interested in exploring other apparel options, our [Bbdbuy t-shirts](/blog/usfans-t-shirts/) guide covers other brands that complement the Nike collection.
+For buyers interested in exploring other apparel options, our [Bbdbuy t-shirts](/blog/) guide covers other brands that complement the Nike collection.
 
 ---
 

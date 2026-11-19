@@ -305,10 +305,10 @@ A: Start with 3-5 essential t-shirts and 2-3 hoodies. Expand based on your style
 
 ## Related Resources
 
-- [Bbdbuy Linki Hoodies Collection](/blog/usfans-hoodies/)
-- [Bbdbuy Linki T-Shirts Collection](/blog/usfans-t-shirts/)
-- [Bbdbuy Linki Streetwear Guide](/blog/usfans-streetwear/)
-- [Bbdbuy Linki Product Directory](/blog/usfans-complete-guide/)
+- [Bbdbuy Linki Hoodies Collection](/blog/)
+- [Bbdbuy Linki T-Shirts Collection](/blog/)
+- [Bbdbuy Linki Streetwear Guide](/blog/)
+- [Bbdbuy Linki Product Directory](/blog/)
 
 ---
 

@@ -40,7 +40,7 @@ The mid-range tier includes the **Broken Planet Hoodie** (~$22.91), **Trapstar H
 
 At the premium end, the **Essentials Hoodie** (~$31.15), **Hellstar Hoodie** (~$31.15), **Bape Hoodie** (~$31.32), **Burberry Hoodie** (~$39.23), and **Supreme Hoodie** (~$41.04) offer the highest perceived quality and brand recognition. The Supreme Hoodie, in particular, attracts buyers who prioritize detail accuracy and are willing to pay a bit more for premium construction.
 
-When exploring the full [Bbdbuy hoodie](/blog/usfans-hoodie/) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric composition, print method, and overall finish. The spreadsheet consolidates this data so you can compare options side by side. For buyers interested in building a complete wardrobe, the platform also includes tracksuits, t-shirts, sweatshirts, and more from the same brands.
+When exploring the full [Bbdbuy hoodie](/blog/) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric composition, print method, and overall finish. The spreadsheet consolidates this data so you can compare options side by side. For buyers interested in building a complete wardrobe, the platform also includes tracksuits, t-shirts, sweatshirts, and more from the same brands.
 
 ## Quality Verification: What to Check Before Ordering
 
@@ -52,7 +52,7 @@ The second layer is the QC photo system. Before shipping, the platform typically
 
 Community data suggests that the overall quality pass rate for hoodies on Bbdbuy Spreadsheet sits at approximately 92–94%. This means that the vast majority of buyers receive items that meet their expectations. However, it is still important to do your homework. Check the spreadsheet for batch-specific feedback, read community reviews, and review QC photos carefully. If something looks off in the photos, you can usually request additional images or clarification before approving the shipment.
 
-For buyers who want to dig deeper into the quality verification process, we recommend also checking the [Bbdbuy sizing guide](/blog/usfans-sizing-guide/) to understand how sizing consistency fits into the overall quality picture. A hoodie that fits well is just as important as one that looks good in photos.
+For buyers who want to dig deeper into the quality verification process, we recommend also checking the [Bbdbuy sizing guide](/blog/) to understand how sizing consistency fits into the overall quality picture. A hoodie that fits well is just as important as one that looks good in photos.
 
 <figure class="article-image">
   <img src="/images/clothing-streetwear-outfit-us-03.webp"

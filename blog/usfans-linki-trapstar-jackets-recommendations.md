@@ -192,7 +192,7 @@ Trapstar jackets generally fit relaxed, but consider:
 - Verify shoulder and sleeve fit
 - Consult size charts carefully
 
-Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for detailed measurements.
+Always consult the [Bbdbuy Linki Sizing Guide](/blog/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -316,7 +316,7 @@ Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for d
 
 ## Where to Find Trapstar Jackets on Bbdbuy Linki
 
-Browse our curated Trapstar collection through the [Bbdbuy Linki Spreadsheet](/blog/usfans-complete-guide/), where you'll find:
+Browse our curated Trapstar collection through the [Bbdbuy Linki Spreadsheet](/blog/), where you'll find:
 
 - Detailed product information
 - Multiple style options
@@ -326,10 +326,10 @@ Browse our curated Trapstar collection through the [Bbdbuy Linki Spreadsheet](/b
 
 ## Related Resources
 
-- [Bbdbuy Linki Streetwear Guide](/blog/usfans-streetwear/) - Complete streetwear overview
-- [Bbdbuy Linki Jackets Collection](/blog/usfans-jackets/) - All jacket options
-- [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) - Detailed sizing information
-- [Bbdbuy Linki Product Directory](/blog/usfans-complete-guide/) - Full product spreadsheet
+- [Bbdbuy Linki Streetwear Guide](/blog/) - Complete streetwear overview
+- [Bbdbuy Linki Jackets Collection](/blog/) - All jacket options
+- [Bbdbuy Linki Sizing Guide](/blog/) - Detailed sizing information
+- [Bbdbuy Linki Product Directory](/blog/) - Full product spreadsheet
 
 ## Final Thoughts
 

@@ -37,7 +37,7 @@ Size charts typically present measurements in a grid format with sizes across th
 
 Key measurements include chest (fullest part of torso), waist (natural waistline), hips (fullest part of hips), shoulders (shoulder bone to shoulder bone), and length (top of shoulder to bottom hem). Different product types emphasize different measurements—shirts focus on chest and shoulders, pants on waist and hips, dresses on all three.
 
-Our [Bbdbuy legit check](/blog/usfans-legit-check/) guide explains how to verify size chart accuracy through customer feedback analysis. Premium sellers maintain 93%+ sizing accuracy because their charts reflect actual product measurements. Budget sellers with inconsistent sizing often receive complaints about chart inaccuracy in reviews.
+Our [Bbdbuy legit check](/blog/) guide explains how to verify size chart accuracy through customer feedback analysis. Premium sellers maintain 93%+ sizing accuracy because their charts reflect actual product measurements. Budget sellers with inconsistent sizing often receive complaints about chart inaccuracy in reviews.
 
 Always measure yourself in centimeters and compare directly against the chart. Converting your measurements from inches introduces rounding errors that can lead to incorrect size selection. If you only have inch measurements, convert them once to centimeters before comparing against the chart.
 
@@ -49,7 +49,7 @@ Streetwear size charts vary based on fit style. Fitted styles require precise me
 
 Casual wear size charts follow standard body measurement correlations. Compare your chest, waist, and hip measurements against the chart to determine your size. Pay attention to fabric composition—stretchy fabrics allow more flexibility, while rigid fabrics require precise measurement matching.
 
-Accessories size charts provide specific dimensions for each product type. Bags show strap length, compartment dimensions, and overall size. Hats provide head circumference measurements. Belts show waist measurements and length. Review [Bbdbuy qc photos](/blog/usfans-qc-photos/) to verify actual product dimensions match chart specifications.
+Accessories size charts provide specific dimensions for each product type. Bags show strap length, compartment dimensions, and overall size. Hats provide head circumference measurements. Belts show waist measurements and length. Review [Bbdbuy qc photos](/blog/) to verify actual product dimensions match chart specifications.
 
 <figure class="article-image">
   <img src="/images/clothing-wardrobe-organized-au-04.webp"
@@ -69,7 +69,7 @@ Another frequent error is not accounting for fit style. Ordering your usual size
 
 Ignoring fabric composition is another common mistake. Stretchy fabrics accommodate slight sizing variations, while rigid fabrics require precise sizing. If you're between sizes in a rigid fabric, size up for comfort. In stretchy fabrics, you can choose either size based on preference.
 
-Not measuring yourself accurately leads to poor size selection. Use proper measurement techniques with a flexible tape measure over lightweight clothing. Record measurements in centimeters for accuracy. Our [Bbdbuy reviews](/blog/usfans-reviews/) database includes sizing feedback helping you understand how specific products fit different body types.
+Not measuring yourself accurately leads to poor size selection. Use proper measurement techniques with a flexible tape measure over lightweight clothing. Record measurements in centimeters for accuracy. Our [Bbdbuy reviews](/blog/) database includes sizing feedback helping you understand how specific products fit different body types.
 
 ## Product Highlights
 

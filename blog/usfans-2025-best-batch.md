@@ -38,7 +38,7 @@ LJR batch maintained strong performance with 94% quality pass rates across 950+ 
 
 Mid-tier VT batch achieved 91% quality pass rates with 1,100+ orders processed in 2025. This batch offered excellent value, delivering good quality at moderate prices. Their consistent performance made them popular among everyday buyers seeking reliable sneakers without premium costs.
 
-For verification methods that confirm batch authenticity, check our [Bbdbuy legit check](/blog/usfans-legit-check/) guide covering authentication protocols and batch identification.
+For verification methods that confirm batch authenticity, check our [Bbdbuy legit check](/blog/) guide covering authentication protocols and batch identification.
 
 ## Best Streetwear Batches of 2025
 
@@ -48,7 +48,7 @@ Mid-tier streetwear batches maintained 90-91% quality pass rates with solid fabr
 
 Budget streetwear batches achieved 87-88% quality pass rates, serving price-conscious buyers throughout 2025. While not matching premium quality, these batches provided functional products at accessible prices. Processing 1,000-1,400 orders, they proved popular among buyers prioritizing affordability over perfect accuracy.
 
-Our [Bbdbuy reviews](/blog/usfans-reviews/) database includes detailed 2025 batch performance feedback from thousands of buyers across all streetwear categories.
+Our [Bbdbuy reviews](/blog/) database includes detailed 2025 batch performance feedback from thousands of buyers across all streetwear categories.
 
 <figure class="article-image">
   <img src="/images/sneakers-unboxing-premium-uk-02.webp"
@@ -68,7 +68,7 @@ Casual wear batches showed strong 2025 performance with 91-92% quality pass rate
 
 Many 2025 top performers continue operating in 2026, carrying forward their proven quality standards. Identifying these carryover batches helps you leverage historical performance data when making current purchases. Look for batches with established track records rather than untested new options.
 
-Review [Bbdbuy qc photos](/blog/usfans-qc-photos/) to see documented quality from 2025's best batches and compare against current offerings.
+Review [Bbdbuy qc photos](/blog/) to see documented quality from 2025's best batches and compare against current offerings.
 
 ## Product Highlights
 

@@ -8,7 +8,7 @@
           <span class="nav-icon">🏠</span>
           <span class="nav-text">Home</span>
         </a>
-        <a href="https://Usfanslinki.com/shoes" class="nav-link fixed-link">
+        <a href="https://Usfanslinki.com/clothes" class="nav-link fixed-link">
           <span class="nav-icon">👟</span>
           <span class="nav-text">Shoes</span>
         </a>
@@ -16,7 +16,7 @@
           <span class="nav-icon"></span>
           <span class="nav-text">Clothes</span>
         </a>
-        <a href="https://Usfanslinki.com/hats" class="nav-link fixed-link">
+        <a href="https://Usfanslinki.com/clothes" class="nav-link fixed-link">
           <span class="nav-icon">🧢</span>
           <span class="nav-text">Hats</span>
         </a>

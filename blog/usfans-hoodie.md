@@ -40,7 +40,7 @@ In the mid-range tier, the **Hellstar Hoodie** (~$31.15), **Palm Angels Hoodie**
 
 For budget-conscious buyers, the **Nike Hoodie** (~$24.56), **Broken Planet Hoodie** (~$22.91), and **Jordan Hoodie** (~$20.47) provide excellent value. The **Ralph Lauren Hoodie** (~$16.32), **Lacoste Hoodie** (~$16.32), **Stone Island Hoodie** (~$16.32), and **Dior Hoodie** (~$14.97) are among the most affordable options, making them ideal for buyers who want branded pieces without a high price tag. The **Real Madrid Hoodie** (~$14.67) is particularly popular among sports fans.
 
-When browsing the full [Bbdbuy hoodies](/blog/usfans-hoodies/) collection, you will notice that each listing includes batch version details and approximate pricing. This transparency helps you compare options and choose the best value. For buyers interested in streetwear alternatives, the [Bbdbuy t-shirts](/blog/usfans-t-shirts/) section includes a wider range of graphic tees and designer options.
+When browsing the full [Bbdbuy hoodies](/blog/) collection, you will notice that each listing includes batch version details and approximate pricing. This transparency helps you compare options and choose the best value. For buyers interested in streetwear alternatives, the [Bbdbuy t-shirts](/blog/) section includes a wider range of graphic tees and designer options.
 
 ## Quality Verification and Batch Versions
 
@@ -52,7 +52,7 @@ Batch versioning is particularly important for buyers who are particular about q
 
 The platform also provides QC photo references that allow you to compare the actual product against retail images. This is especially valuable for high-demand items like the Supreme Hoodie or Burberry Hoodie, where detail accuracy matters significantly. By cross-referencing the spreadsheet data with community reviews, you can make a well-informed decision about which batch and brand to choose.
 
-For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [Bbdbuy sizing guide](/blog/usfans-sizing-guide/) before placing your first hoodie order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
+For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [Bbdbuy sizing guide](/blog/) before placing your first hoodie order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
 
 <figure class="article-image">
   <img src="/images/clothing-streetwear-outfit-us-03.webp"

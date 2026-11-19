@@ -191,7 +191,7 @@ Chrome Hearts t-shirts generally fit true to size, but consider:
 - Verify shoulder and sleeve fit
 - Consult size charts carefully
 
-Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for detailed measurements.
+Always consult the [Bbdbuy Linki Sizing Guide](/blog/) for detailed measurements.
 
 ## Care and Maintenance
 
@@ -302,7 +302,7 @@ Chrome Hearts pieces often maintain or appreciate in value:
 
 ## Where to Find Chrome Hearts T-Shirts on Bbdbuy Linki
 
-Browse our curated Chrome Hearts collection through the [Bbdbuy Linki Spreadsheet](/blog/usfans-complete-guide/), where you'll find:
+Browse our curated Chrome Hearts collection through the [Bbdbuy Linki Spreadsheet](/blog/), where you'll find:
 
 - Detailed product information
 - Authenticity verification
@@ -312,10 +312,10 @@ Browse our curated Chrome Hearts collection through the [Bbdbuy Linki Spreadshee
 
 ## Related Resources
 
-- [Bbdbuy Linki Streetwear Guide](/blog/usfans-streetwear/) - Complete streetwear overview
-- [Bbdbuy Linki Luxury Fashion Guide](/blog/usfans-luxury-finds/) - Luxury brand information
-- [Bbdbuy Linki T-Shirts Collection](/blog/usfans-t-shirts/) - All t-shirt options
-- [Bbdbuy Linki Product Directory](/blog/usfans-complete-guide/) - Full product spreadsheet
+- [Bbdbuy Linki Streetwear Guide](/blog/) - Complete streetwear overview
+- [Bbdbuy Linki Luxury Fashion Guide](/blog/) - Luxury brand information
+- [Bbdbuy Linki T-Shirts Collection](/blog/) - All t-shirt options
+- [Bbdbuy Linki Product Directory](/blog/) - Full product spreadsheet
 
 ## Final Thoughts
 

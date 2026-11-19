@@ -15,19 +15,19 @@ editorNotes:
 collections:
 - title: Jeans Guide
   description: Explore denim fits, weight, wash and construction cues for everyday jeans research.
-  link: /blog/usfans-jeans/
+  link: /blog/
 - title: Pants Guide
   description: Compare trousers, cargos and everyday pants by cut, material and intended routine.
-  link: /blog/usfans-pants/
+  link: /blog/
 - title: Shorts Guide
   description: Review casual and warm-weather shorts through fabric, inseam and styling context.
-  link: /blog/usfans-shorts/
+  link: /blog/
 - title: Sweatpants Guide
   description: Understand fleece weight, waistband construction and relaxed-fit considerations.
-  link: /blog/usfans-sweatpants/
+  link: /blog/
 - title: Tracksuits Guide
   description: Browse coordinated tracksuits and sport-inspired layers with practical comparison notes.
-  link: /blog/usfans-tracksuit/
+  link: /blog/
 brands:
 - Denim and workwear
 - Everyday trousers
@@ -46,13 +46,13 @@ faq:
   answer: Fabric composition, weight, stretch and care requirements influence comfort, drape and long-term wear. These are more useful starting points than a generic quality claim.
 relatedArticles:
 - title: Bbdbuy Jeans Guide
-  link: /blog/usfans-jeans/
+  link: /blog/
   desc: Denim fit, fabric weight and everyday comparison notes.
 - title: Bbdbuy Pants Guide
-  link: /blog/usfans-pants/
+  link: /blog/
   desc: A focused guide to trousers, cargos and practical bottoms research.
 - title: Bbdbuy Sizing Guide
-  link: /blog/usfans-sizing-guide/
+  link: /blog/
   desc: Use measurements and fit cues before comparing options.
 category: Clothing
 tags:

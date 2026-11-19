@@ -38,7 +38,7 @@ EU sizing uses Paris points where each size represents 2/3 centimeter increments
 
 UK sizing follows its own system with different increments than US sizing. UK sizes typically run one size smaller than US sizes for the same actual measurement. A US Medium corresponds to UK Large in most cases. Understanding these relationships helps you convert accurately when UK sizing appears in product listings.
 
-Asian sizing uses centimeter measurements directly, providing the most precise correlation with actual body measurements. However, Asian sizing tends 1-2 sizes smaller than Western equivalents due to different body type assumptions and fit preferences. Our [Bbdbuy legit check](/blog/usfans-legit-check/) guide explains how to verify seller sizing accuracy across different systems.
+Asian sizing uses centimeter measurements directly, providing the most precise correlation with actual body measurements. However, Asian sizing tends 1-2 sizes smaller than Western equivalents due to different body type assumptions and fit preferences. Our [Bbdbuy legit check](/blog/) guide explains how to verify seller sizing accuracy across different systems.
 
 ## Conversion Techniques and Charts
 
@@ -48,7 +48,7 @@ Women's size conversion follows different formulas. US to EU conversion varies b
 
 Shoe size conversion requires specific charts because sizing systems differ significantly. US men's sizes convert to EU by adding 33 (US 10 = EU 43). UK shoe sizes convert to US by adding 0.5-1 size. Asian shoe sizes use centimeter foot length directly, providing the most accurate conversion method.
 
-Premium sellers provide comprehensive conversion charts covering multiple systems. These charts prove more reliable than general conversion formulas because they account for specific product fit characteristics. Our [Bbdbuy reviews](/blog/usfans-reviews/) database includes conversion feedback helping you understand how specific products fit across different sizing systems.
+Premium sellers provide comprehensive conversion charts covering multiple systems. These charts prove more reliable than general conversion formulas because they account for specific product fit characteristics. Our [Bbdbuy reviews](/blog/) database includes conversion feedback helping you understand how specific products fit across different sizing systems.
 
 <figure class="article-image">
   <img src="/images/sneakers-unboxing-premium-uk-02.webp"
@@ -68,7 +68,7 @@ Another frequent error is not accounting for fit differences between regions. As
 
 Ignoring product-specific fit characteristics leads to poor conversion results. Some products run large or small regardless of sizing system. Check product reviews for fit feedback and adjust your conversion accordingly. A product that "runs large" might require sizing down even after correct conversion.
 
-Not verifying conversions against measurement charts creates errors. General conversion formulas provide approximations, but specific product charts provide accuracy. Always compare your converted size against the seller's measurement chart before ordering. Review [Bbdbuy qc photos](/blog/usfans-qc-photos/) to see actual product dimensions and verify they match your expectations.
+Not verifying conversions against measurement charts creates errors. General conversion formulas provide approximations, but specific product charts provide accuracy. Always compare your converted size against the seller's measurement chart before ordering. Review [Bbdbuy qc photos](/blog/) to see actual product dimensions and verify they match your expectations.
 
 ## Product Highlights
 

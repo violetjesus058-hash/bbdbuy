@@ -39,7 +39,7 @@ Reddit has become the primary platform for replica buyer discussions, quality re
 
 The Reddit community contributes to the spreadsheet through multiple channels: QC photo reviews, quality assessments, seller performance reports, and batch-specific feedback. Community members share their purchasing experiences, post detailed QC photos, and provide honest assessments of product quality. This crowd-sourced information is reviewed, verified, and integrated into the spreadsheet, ensuring that quality ratings reflect actual buyer experiences rather than isolated incidents or marketing claims.
 
-What makes the Bbdbuy Spreadsheet with QC Reddit integration so valuable is the diversity and volume of feedback it incorporates. The spreadsheet currently tracks feedback from over 5,000 Reddit community members, with contributions covering all major product categories and price tiers. This extensive community input provides statistical significance to quality ratings and helps identify trends that might not be apparent from individual buyer experiences. For buyers seeking the most reliable sellers, the [Bbdbuy spreadsheet best](/blog/usfans-spreadsheet-best/) list incorporates Reddit community feedback.
+What makes the Bbdbuy Spreadsheet with QC Reddit integration so valuable is the diversity and volume of feedback it incorporates. The spreadsheet currently tracks feedback from over 5,000 Reddit community members, with contributions covering all major product categories and price tiers. This extensive community input provides statistical significance to quality ratings and helps identify trends that might not be apparent from individual buyer experiences. For buyers seeking the most reliable sellers, the [Bbdbuy spreadsheet best](/blog/) list incorporates Reddit community feedback.
 
 ## How Reddit Community Enhances QC Verification
 
@@ -49,7 +49,7 @@ Community QC photo reviews are particularly valuable for identifying quality iss
 
 Reddit discussions also provide real-time feedback on seller performance and batch quality. When buyers receive products, they share their experiences in Reddit threads, posting photos of received items and comparing them to QC photos. This feedback loop helps identify sellers who consistently deliver quality products versus those with variable performance. The spreadsheet integrates this feedback, adjusting quality ratings based on community experiences and flagging sellers showing declining performance.
 
-The Reddit community also contributes to batch-specific quality tracking, with members identifying which production runs performed well and which had issues. This granular feedback helps the spreadsheet maintain accurate batch-level quality data, allowing buyers to choose the most recent high-quality batches or avoid problematic production runs. For detailed QC standards and community feedback integration, check the [Bbdbuy spreadsheet with qc](/blog/usfans-spreadsheet-with-qc/) documentation.
+The Reddit community also contributes to batch-specific quality tracking, with members identifying which production runs performed well and which had issues. This granular feedback helps the spreadsheet maintain accurate batch-level quality data, allowing buyers to choose the most recent high-quality batches or avoid problematic production runs. For detailed QC standards and community feedback integration, check the [Bbdbuy spreadsheet with qc](/blog/) documentation.
 
 ## Integrating Reddit Feedback into Spreadsheet Data
 
@@ -79,7 +79,7 @@ Community monitoring is particularly effective for identifying subtle quality ch
 
 The community also helps identify emerging sellers showing exceptional quality performance. Reddit members share their positive experiences with new vendors, providing early evidence of quality that helps the spreadsheet identify promising additions to the verified seller list. This community scouting function helps the spreadsheet stay current with market evolution and provide buyers with access to the best new sellers.
 
-For buyers seeking the most reliable sellers, the [Bbdbuy spreadsheet best](/blog/usfans-spreadsheet-best/) list incorporates community feedback to identify top performers who consistently deliver quality products and excellent customer service.
+For buyers seeking the most reliable sellers, the [Bbdbuy spreadsheet best](/blog/) list incorporates community feedback to identify top performers who consistently deliver quality products and excellent customer service.
 
 ## Best Practices for Using Reddit Insights with Spreadsheet Data
 

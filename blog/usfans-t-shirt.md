@@ -40,7 +40,7 @@ In the mid-range tier, the **Stone Island T-shirt** (~$14.01), **Palm Angels T-s
 
 At the premium end, the **Burberry T-shirt** (~$21.26), **Moncler T-shirt** (~$24.73), and **Balenciaga T-shirt** (~$24.56) attract buyers looking for luxury branding and refined construction. The Moncler T-shirt is especially popular among buyers who appreciate the brand's premium reputation and attention to detail.
 
-When browsing the full [Bbdbuy t-shirts](/blog/usfans-t-shirts/) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric weight, print method, and overall finish. For buyers interested in building a complete wardrobe, the [Bbdbuy clothes](/blog/usfans-clothes/) section also includes hoodies, tracksuits, sweatshirts, and more from the same brands.
+When browsing the full [Bbdbuy t-shirts](/blog/) collection, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric weight, print method, and overall finish. For buyers interested in building a complete wardrobe, the [Bbdbuy clothes](/blog/) section also includes hoodies, tracksuits, sweatshirts, and more from the same brands.
 
 ## Quality Verification and Batch Versions
 
@@ -52,7 +52,7 @@ The second layer is the QC photo system. Before shipping, the platform typically
 
 Community data suggests that the overall quality pass rate for t-shirts on Bbdbuy Spreadsheet sits at approximately 92–94%. This means that the vast majority of buyers receive items that meet their expectations. However, it is still important to do your homework. Check the spreadsheet for batch-specific feedback, read community reviews, and review QC photos carefully. If something looks off in the photos, you can usually request additional images or clarification before approving the shipment.
 
-For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [Bbdbuy sizing guide](/blog/usfans-sizing-guide/) before placing your first t-shirt order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
+For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [Bbdbuy sizing guide](/blog/) before placing your first t-shirt order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
 
 <figure class="article-image">
   <img src="/images/clothing-streetwear-outfit-us-03.webp"

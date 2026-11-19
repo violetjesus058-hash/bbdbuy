@@ -186,21 +186,21 @@ const { links } = siteConfig
 const shoppingUrl = 'https://repsootd.com/products/'
 
 const categoryCards = computed(() => [
-  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/usfans-sneakers/', icon: '👟' },
-  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/usfans-shoes/', icon: '👞' },
-  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/usfans-hoodie/', icon: '🧥' },
-  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/usfans-t-shirt/', icon: '👕' },
-  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/usfans-jacket/', icon: '🧤' },
-  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/usfans-jeans/', icon: '👖' },
-  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/usfans-pants/', icon: '🩳' },
-  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/usfans-shorts/', icon: '🩳' },
-  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/usfans-tracksuit/', icon: '🏃' },
-  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/usfans-dress/', icon: '👗' },
-  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/usfans-hats/', icon: '🧢' },
-  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/usfans-bags/', icon: '👜' },
-  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/usfans-accessories/', icon: '✨' },
-  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/usfans-watches/', icon: '⌚' },
-  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/usfans-sunglasses/', icon: '🕶️' }
+  { id: 'sneakers', name: 'Sneakers', description: 'Dedicated guide to sneaker styles and product discovery.', link: '/blog/', icon: '👟' },
+  { id: 'shoes', name: 'Shoes', description: 'Browse footwear options beyond the main sneaker collection.', link: '/blog/', icon: '👞' },
+  { id: 'hoodies', name: 'Hoodies', description: 'Explore hoodies, layers and casual everyday essentials.', link: '/blog/', icon: '🧥' },
+  { id: 't-shirts', name: 'T-Shirts', description: 'Find staple tees and graphic shirt discovery resources.', link: '/blog/', icon: '👕' },
+  { id: 'jackets', name: 'Jackets', description: 'Discover jackets and outerwear guides by style.', link: '/blog/', icon: '🧤' },
+  { id: 'jeans', name: 'Jeans', description: 'Browse denim and jeans-focused product guidance.', link: '/blog/', icon: '👖' },
+  { id: 'pants', name: 'Pants', description: 'Explore trousers, sweatpants and everyday bottoms.', link: '/blog/', icon: '🩳' },
+  { id: 'shorts', name: 'Shorts', description: 'Find shorts for casual and warm-weather outfits.', link: '/blog/', icon: '🩳' },
+  { id: 'tracksuits', name: 'Tracksuits', description: 'Browse coordinated tracksuits and sport-inspired looks.', link: '/blog/', icon: '🏃' },
+  { id: 'dresses', name: 'Dresses', description: 'Explore dress styles and clothing discovery options.', link: '/blog/', icon: '👗' },
+  { id: 'hats', name: 'Hats & Caps', description: 'Find caps, hats and finishing pieces for your outfit.', link: '/blog/', icon: '🧢' },
+  { id: 'bags', name: 'Bags', description: 'Browse bag guides across everyday and statement styles.', link: '/blog/', icon: '👜' },
+  { id: 'accessories', name: 'Accessories', description: 'Explore belts, small goods and complementary details.', link: '/blog/', icon: '✨' },
+  { id: 'watches', name: 'Watches', description: 'Discover watch guides and wearable accessory options.', link: '/blog/', icon: '⌚' },
+  { id: 'sunglasses', name: 'Sunglasses', description: 'Browse eyewear and sunglasses discovery resources.', link: '/blog/', icon: '🕶️' }
 ])
 
 const guideCards = [
@@ -208,25 +208,25 @@ const guideCards = [
     label: 'Getting started',
     title: 'How to Buy with Bbdbuy',
     description: 'A practical first look at browsing, comparing options and moving from a shortlist to an order with more confidence.',
-    link: '/blog/usfans-how-to-buy/'
+    link: '/blog/'
   },
   {
     label: 'Platform overview',
     title: 'What Is Bbdbuy?',
     description: 'Get a simple introduction to the platform, the role it plays in product discovery and the information worth checking first.',
-    link: '/blog/usfans-about/'
+    link: '/blog/'
   },
   {
     label: 'Catalog explained',
     title: 'What Is the Bbdbuy Spreadsheet?',
     description: 'Learn how an organized spreadsheet helps you compare product details, explore categories and return to useful finds faster.',
-    link: '/blog/usfans-platform/'
+    link: '/blog/'
   },
   {
     label: 'Why it helps',
     title: 'Key Benefits of Bbdbuy',
     description: 'See the value of clearer category paths, practical guides and direct catalog access before deciding where to start.',
-    link: '/blog/usfans-complete-platform-guide/'
+    link: '/blog/'
   }
 ]
 

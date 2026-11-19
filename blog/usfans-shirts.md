@@ -28,7 +28,7 @@ The platform has processed thousands of shirt orders across all categories, main
 
 This guide covers the complete range of shirts available on Bbdbuy Spreadsheet. You'll learn about different shirt types, their best use cases, quality indicators, pricing tiers, and how to select the right style for your needs. Whether you're building a casual wardrobe, seeking streetwear statement pieces, or looking for smart-casual options, this article provides comprehensive insights to help you make informed decisions.
 
-For specific T-shirt options, explore the dedicated [Bbdbuy shirt](/blog/usfans-shirt/) guide, which focuses on T-shirt styles and brands. For the complete clothing collection, check out [Bbdbuy clothes](/blog/usfans-clothes/) with 127+ verified items.
+For specific T-shirt options, explore the dedicated [Bbdbuy shirt](/blog/) guide, which focuses on T-shirt styles and brands. For the complete clothing collection, check out [Bbdbuy clothes](/blog/) with 127+ verified items.
 
 
 
@@ -114,7 +114,7 @@ For active lifestyles and sport-inspired looks:
 
 The key to successful shirt selection is understanding your wardrobe needs and the occasions you're dressing for. Bbdbuy Spreadsheet's diverse range allows you to build a complete collection across all categories while maintaining quality and budget control.
 
-For sizing guidance across all shirt types, refer to the [Bbdbuy sizing guide](/blog/usfans-sizing-guide/) to ensure proper fit.
+For sizing guidance across all shirt types, refer to the [Bbdbuy sizing guide](/blog/) to ensure proper fit.
 
 <figure class="article-image">
   <img src="/images/clothing-streetwear-outfit-us-03.webp"

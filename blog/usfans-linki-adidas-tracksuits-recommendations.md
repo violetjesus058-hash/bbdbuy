@@ -195,7 +195,7 @@ Adidas tracksuits generally fit true to size, but consider:
 - Consider waist fit
 - Verify leg opening
 
-Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for detailed measurements.
+Always consult the [Bbdbuy Linki Sizing Guide](/blog/) for detailed measurements.
 
 <figure class="article-image">
   <img src="/images/clothing-wardrobe-organized-au-04.webp"
@@ -265,7 +265,7 @@ Always consult the [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) for d
 
 ## Where to Find Adidas Tracksuits on Bbdbuy Linki
 
-Browse our curated Adidas collection through the [Bbdbuy Linki Spreadsheet](/blog/usfans-complete-guide/), where you'll find:
+Browse our curated Adidas collection through the [Bbdbuy Linki Spreadsheet](/blog/), where you'll find:
 
 - Detailed product information
 - Multiple style options
@@ -275,10 +275,10 @@ Browse our curated Adidas collection through the [Bbdbuy Linki Spreadsheet](/blo
 
 ## Related Resources
 
-- [Bbdbuy Linki Adidas Guide](/blog/usfans-adidas/) - Complete brand overview
-- [Bbdbuy Linki Sizing Guide](/blog/usfans-sizing-guide/) - Detailed sizing information
-- [Bbdbuy Linki Apparel Collection](/blog/usfans-hoodies/) - All clothing options
-- [Bbdbuy Linki Product Directory](/blog/usfans-complete-guide/) - Full product spreadsheet
+- [Bbdbuy Linki Adidas Guide](/blog/) - Complete brand overview
+- [Bbdbuy Linki Sizing Guide](/blog/) - Detailed sizing information
+- [Bbdbuy Linki Apparel Collection](/blog/) - All clothing options
+- [Bbdbuy Linki Product Directory](/blog/) - Full product spreadsheet
 
 ## Final Thoughts
 

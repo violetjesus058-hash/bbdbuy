@@ -38,7 +38,7 @@ QC photos in the Bbdbuy Spreadsheet cover every aspect of product quality: mater
 
 What sets the Bbdbuy Spreadsheet with QC photos apart is the level of detail and standardization in the documentation. Every product listing includes multiple high-resolution images showing close-up views of critical quality points: stitching patterns and consistency, material texture and weight, hardware finish and engraving, label accuracy and placement, and packaging authenticity. This comprehensive documentation eliminates guesswork and provides buyers with confidence that they understand exactly what they're purchasing.
 
-The QC photo system has evolved significantly since the spreadsheet's inception, with current standards requiring minimum 8-12 photos per product covering all critical quality aspects. This rigorous documentation standard ensures that buyers have complete visual information before making purchasing decisions. For buyers seeking the highest quality options, the [Bbdbuy spreadsheet best](/blog/usfans-spreadsheet-best/) sellers consistently provide exceptional QC photo documentation.
+The QC photo system has evolved significantly since the spreadsheet's inception, with current standards requiring minimum 8-12 photos per product covering all critical quality aspects. This rigorous documentation standard ensures that buyers have complete visual information before making purchasing decisions. For buyers seeking the highest quality options, the [Bbdbuy spreadsheet best](/blog/) sellers consistently provide exceptional QC photo documentation.
 
 ## Understanding QC Photo Standards in the Spreadsheet
 
@@ -46,7 +46,7 @@ The Bbdbuy Spreadsheet with QC photos follows rigorous documentation standards t
 
 Construction quality is documented through detailed photos of stitching patterns, seam alignment, and structural integrity. QC inspectors capture close-up images showing stitch count per inch, thread tension, seam allowance, and overall construction quality. These photos reveal whether products meet premium quality standards or show signs of rushed manufacturing. The spreadsheet tracks construction quality across 650+ batches, with QC photos providing visual evidence of quality variations between production runs.
 
-Hardware and label accuracy represent critical quality indicators documented through QC photos. Inspectors capture detailed images of zippers, buttons, buckles, and other hardware showing finish quality, engraving accuracy, weight, and functionality. Label photos document font accuracy, spacing, placement, and material quality. These details are crucial for buyers seeking authentic-looking replicas, as hardware and label quality often distinguish premium items from lower-quality options. For detailed QC photo examples and standards, check the [Bbdbuy spreadsheet with qc](/blog/usfans-spreadsheet-with-qc/) documentation.
+Hardware and label accuracy represent critical quality indicators documented through QC photos. Inspectors capture detailed images of zippers, buttons, buckles, and other hardware showing finish quality, engraving accuracy, weight, and functionality. Label photos document font accuracy, spacing, placement, and material quality. These details are crucial for buyers seeking authentic-looking replicas, as hardware and label quality often distinguish premium items from lower-quality options. For detailed QC photo examples and standards, check the [Bbdbuy spreadsheet with qc](/blog/) documentation.
 
 Packaging and presentation complete the QC photo documentation, with images showing boxes, dust bags, authenticity cards, care instructions, and protective materials. While packaging doesn't affect product functionality, it's important for buyers seeking complete luxury experiences. Premium sellers provide packaging photos showing authentic-looking materials, accurate branding, and professional presentation that matches genuine product unboxing experiences.
 
@@ -88,7 +88,7 @@ QC photos help buyers set appropriate expectations based on quality tier and pri
 
 The QC photo system also incentivizes sellers to maintain high quality standards. Knowing that every product will be thoroughly documented and reviewed by buyers, sellers invest in better materials, more precise construction, and rigorous quality control processes. This market dynamic drives overall quality improvements across the replica market, benefiting all buyers.
 
-For buyers seeking the highest quality options, QC photos provide the evidence needed to identify premium sellers who consistently deliver exceptional products. The [Bbdbuy spreadsheet best](/blog/usfans-spreadsheet-best/) sellers all provide comprehensive QC photo documentation, demonstrating their commitment to transparency and quality.
+For buyers seeking the highest quality options, QC photos provide the evidence needed to identify premium sellers who consistently deliver exceptional products. The [Bbdbuy spreadsheet best](/blog/) sellers all provide comprehensive QC photo documentation, demonstrating their commitment to transparency and quality.
 
 ## Product Highlights with QC Photo Documentation
 

@@ -39,7 +39,7 @@ The **AMI Polo** (~$13.60) is another strong option, particularly for buyers who
 
 At the premium end, the **Moncler Polo** (~$25.22) attracts buyers who want luxury branding and refined construction. Moncler is best known for its down jackets, but the brand's polo shirts share the same commitment to quality materials and attention to detail. The Moncler Polo typically features premium cotton fabric, precise stitching, and the brand's signature mountain logo.
 
-When browsing the full polo collection on Bbdbuy Spreadsheet, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric weight, collar construction, and logo embroidery quality. The spreadsheet consolidates this data so you can compare options side by side. For buyers interested in exploring more casual tops, the [Bbdbuy t-shirts](/blog/usfans-t-shirts/) section includes a wider range of streetwear and designer options. For a comprehensive look at all clothing categories, the [Bbdbuy clothes](/blog/usfans-clothes/) section also includes hoodies, tracksuits, sweatshirts, and more from the same brands.
+When browsing the full polo collection on Bbdbuy Spreadsheet, pay attention to the batch version information provided in the spreadsheet. Different batches can vary in fabric weight, collar construction, and logo embroidery quality. The spreadsheet consolidates this data so you can compare options side by side. For buyers interested in exploring more casual tops, the [Bbdbuy t-shirts](/blog/) section includes a wider range of streetwear and designer options. For a comprehensive look at all clothing categories, the [Bbdbuy clothes](/blog/) section also includes hoodies, tracksuits, sweatshirts, and more from the same brands.
 
 ## Quality Verification and Batch Versions
 
@@ -51,7 +51,7 @@ The second layer is the QC photo system. Before shipping, the platform typically
 
 Community data suggests that the overall quality pass rate for polo shirts on Bbdbuy Spreadsheet sits at approximately 92–94%. This means that the vast majority of buyers receive items that meet their expectations. However, it is still important to do your homework. Check the spreadsheet for batch-specific feedback, read community reviews, and review QC photos carefully. If something looks off in the photos, you can usually request additional images or clarification before approving the shipment.
 
-For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [Bbdbuy sizing guide](/blog/usfans-sizing-guide/) before placing your first polo order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
+For buyers new to the platform, understanding the QC process is essential. We recommend reviewing the [Bbdbuy sizing guide](/blog/) before placing your first polo order, as sizing can vary slightly between brands and batches. This helps avoid unnecessary exchanges and ensures a better fit from the start.
 
 <figure class="article-image">
   <img src="/images/clothing-wardrobe-organized-au-04.webp"

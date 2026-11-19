@@ -22,31 +22,31 @@ const productTypes = [
     icon: '',
     name: 'T-Shirts',
     desc: 'The foundation of any wardrobe. From heavyweight 220gsm cotton to lightweight jersey, fit ranges from boxy oversized to slim tailored. Key details include ribbed collars, reinforced seams, and pre-shrunk fabrics.',
-    link: '/blog/usfans-t-shirts/'
+    link: '/blog/'
   },
   {
     icon: '',
     name: 'Hoodies & Sweatshirts',
     desc: 'Midweight fleece (300-400gsm) provides warmth without bulk. French terry offers breathability for layering. Look for double-lined hoods, kangaroo pockets, and ribbed cuffs that maintain shape after washing.',
-    link: '/blog/usfans-hoodies/'
+    link: '/blog/'
   },
   {
     icon: '🧥',
     name: 'Jackets & Outerwear',
     desc: 'From lightweight windbreakers to insulated puffers. Key features include water-resistant coatings, sealed seams, adjustable hoods, and packable designs. Fill power (600-800) indicates down quality.',
-    link: '/blog/usfans-jackets/'
+    link: '/blog/'
   },
   {
     icon: '👖',
     name: 'Pants & Jeans',
     desc: 'Denim weight ranges from 12oz (lightweight) to 16oz (heavyweight). Stretch denim adds comfort. Cargo pants feature utility pockets. Track pants use technical fabrics for athletic performance.',
-    link: '/blog/usfans-pants/'
+    link: '/blog/'
   },
   {
     icon: '🩳',
     name: 'Shorts',
     desc: 'Inseam length varies from 5" (athletic) to 11" (casual). Materials include cotton twill, nylon ripstop, and mesh-lined athletic fabrics. Elastic waistbands with drawstrings offer adjustable fit.',
-    link: '/blog/usfans-shorts/'
+    link: '/blog/'
   },
 ]
 
@@ -303,11 +303,11 @@ Red flags that indicate poor manufacturing:
 
 Deepen your knowledge with these clothing-specific resources:
 
-- [Bbdbuy Hoodies Guide](/blog/usfans-hoodies/) — Best hoodie picks, fabric weights, and style comparisons for 2026
-- [Bbdbuy T-Shirts Guide](/blog/usfans-t-shirts/) — T-shirt materials, fit options, and quality indicators
-- [Bbdbuy Streetwear Guide](/blog/usfans-streetwear/) — Streetwear brands, styling tips, and trend analysis
-- [Bbdbuy QC Photos](/blog/usfans-qc-photos/) — How to inspect clothing quality using pre-shipment photos
-- [Bbdbuy Sizing Guide](/blog/usfans-sizing-guide/) — Universal sizing guide for shoes and apparel
+- [Bbdbuy Hoodies Guide](/blog/) — Best hoodie picks, fabric weights, and style comparisons for 2026
+- [Bbdbuy T-Shirts Guide](/blog/) — T-shirt materials, fit options, and quality indicators
+- [Bbdbuy Streetwear Guide](/blog/) — Streetwear brands, styling tips, and trend analysis
+- [Bbdbuy QC Photos](/blog/) — How to inspect clothing quality using pre-shipment photos
+- [Bbdbuy Sizing Guide](/blog/) — Universal sizing guide for shoes and apparel
 
 ## Explore More Categories
 

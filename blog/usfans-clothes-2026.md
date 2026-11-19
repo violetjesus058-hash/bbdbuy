@@ -38,13 +38,13 @@ The Bbdbuy Spreadsheet clothes 2026 lineup reflects several macro trends that ha
 
 **Oversized and Relaxed Fits** continue to dominate across all categories. Hoodies like the Essentials Hoodie (~$31.15) and Palm Angels Hoodie (~$28.85) feature dropped shoulders and boxy cuts that align with current streetwear aesthetics. This trend extends to T-shirts as well, with brands like Stussy (~$16.32) and Gallery Dept (~$11.21) offering relaxed-fit options that layer well under hoodies or stand alone as statement pieces.
 
-**Matching Tracksuit Sets** have transitioned from loungewear to legitimate fashion statements. The Trapstar Tracksuit (~$41.21) leads this category with 200+ orders, followed by Palm Angels Tracksuit variants (~$17.80–$39.23) and the emerging Syna World Tracksuit (~$16.32–$164.67). Buyers are increasingly pairing these sets with sneakers and accessories for complete coordinated looks. For more streetwear options that complement these trends, explore our [Bbdbuy streetwear](/blog/usfans-streetwear/) collection guide.
+**Matching Tracksuit Sets** have transitioned from loungewear to legitimate fashion statements. The Trapstar Tracksuit (~$41.21) leads this category with 200+ orders, followed by Palm Angels Tracksuit variants (~$17.80–$39.23) and the emerging Syna World Tracksuit (~$16.32–$164.67). Buyers are increasingly pairing these sets with sneakers and accessories for complete coordinated looks. For more streetwear options that complement these trends, explore our [Bbdbuy streetwear](/blog/) collection guide.
 
 **Logo-Centric Branding** remains a defining characteristic of the most popular items. From the bold gothic lettering on Palm Angels pieces to the minimalist Essentials branding, visible logos continue to drive purchasing decisions. This trend is particularly strong in the hoodie category, where brand recognition plays a significant role in both personal satisfaction and resale value.
 
 **Premium Denim** is making a comeback, with the Chrome Hearts Jeans (~$26.04) and Stone Island Jeans (~$62.64) leading the charge. Buyers are gravitating toward jeans with distinctive hardware details, unique washes, and recognizable branding. The denim category has seen a 15% increase in orders this year, suggesting sustained interest in elevated casual wear.
 
-For buyers looking to build a fashion-forward wardrobe, the [Bbdbuy fashion clothes](/blog/usfans-fashion-clothes/) collection offers curated pieces that align with these 2026 trends, from statement hoodies to designer-inspired accessories.
+For buyers looking to build a fashion-forward wardrobe, the [Bbdbuy fashion clothes](/blog/) collection offers curated pieces that align with these 2026 trends, from statement hoodies to designer-inspired accessories.
 
 ## New Arrivals and Restocked Favorites
 

@@ -65,12 +65,12 @@ const menuGroups = [
     label: 'Clothing',
     overviewLink: '/clothes',
     items: [
-      { label: 'Hoodies', link: '/blog/usfans-hoodie/' },
-      { label: 'T-Shirts', link: '/blog/usfans-t-shirt/' },
-      { label: 'Shirts', link: '/blog/usfans-shirt/' },
-      { label: 'Jackets', link: '/blog/usfans-jacket/' },
-      { label: 'Dresses', link: '/blog/usfans-dress/' },
-      { label: 'Vests', link: '/blog/usfans-vest/' }
+      { label: 'Hoodies', link: '/blog/' },
+      { label: 'T-Shirts', link: '/blog/' },
+      { label: 'Shirts', link: '/blog/' },
+      { label: 'Jackets', link: '/blog/' },
+      { label: 'Dresses', link: '/blog/' },
+      { label: 'Vests', link: '/blog/' }
     ]
   },
   {
@@ -78,59 +78,59 @@ const menuGroups = [
     label: 'Pants',
     overviewLink: '/pants',
     items: [
-      { label: 'Jeans', link: '/blog/usfans-jeans/' },
-      { label: 'Pants', link: '/blog/usfans-pants/' },
-      { label: 'Shorts', link: '/blog/usfans-shorts/' },
-      { label: 'Sweatpants', link: '/blog/usfans-sweatpants/' },
-      { label: 'Tracksuits', link: '/blog/usfans-tracksuit/' }
+      { label: 'Jeans', link: '/blog/' },
+      { label: 'Pants', link: '/blog/' },
+      { label: 'Shorts', link: '/blog/' },
+      { label: 'Sweatpants', link: '/blog/' },
+      { label: 'Tracksuits', link: '/blog/' }
     ]
   },
   {
     id: 'shoes',
     label: 'Shoes',
-    overviewLink: '/shoes',
+    overviewLink: '/clothes',
     items: [
-      { label: 'Sneakers', link: '/blog/usfans-sneakers/' },
-      { label: 'Basketball Shoes', link: '/blog/usfans-basketball-shoes/' },
-      { label: 'Running Shoes', link: '/blog/usfans-running-shoes/' },
-      { label: 'Football Shoes', link: '/blog/usfans-football-shoes/' },
-      { label: 'Hiking Shoes', link: '/blog/usfans-hiking-shoes/' },
-      { label: 'Boots', link: '/blog/usfans-football-boots/' }
+      { label: 'Sneakers', link: '/blog/' },
+      { label: 'Basketball Shoes', link: '/blog/' },
+      { label: 'Running Shoes', link: '/blog/' },
+      { label: 'Football Shoes', link: '/blog/' },
+      { label: 'Hiking Shoes', link: '/blog/' },
+      { label: 'Boots', link: '/blog/' }
     ]
   },
   {
     id: 'hats',
     label: 'Hats',
-    overviewLink: '/hats',
+    overviewLink: '/clothes',
     items: [
-      { label: 'Hats', link: '/blog/usfans-hats/' },
-      { label: 'Caps', link: '/blog/usfans-caps/' },
-      { label: 'Hats Guide', link: '/blog/usfans-hats-guide/' }
+      { label: 'Hats', link: '/blog/' },
+      { label: 'Caps', link: '/blog/' },
+      { label: 'Hats Guide', link: '/blog/' }
     ]
   },
   {
     id: 'accessories',
     label: 'Accessories',
-    overviewLink: '/accessories',
+    overviewLink: '/clothes',
     items: [
-      { label: 'Bags', link: '/blog/usfans-bags/' },
-      { label: 'Belts', link: '/blog/usfans-belt/' },
-      { label: 'Jewelry', link: '/blog/usfans-jewelry/' },
-      { label: 'Sunglasses', link: '/blog/usfans-sunglasses/' },
-      { label: 'Watches', link: '/blog/usfans-watches/' },
-      { label: 'Wallets', link: '/blog/usfans-wallet/' }
+      { label: 'Bags', link: '/blog/' },
+      { label: 'Belts', link: '/blog/' },
+      { label: 'Jewelry', link: '/blog/' },
+      { label: 'Sunglasses', link: '/blog/' },
+      { label: 'Watches', link: '/blog/' },
+      { label: 'Wallets', link: '/blog/' }
     ]
   },
   {
     id: 'electronics',
     label: 'Electronics',
-    overviewLink: '/electronics',
+    overviewLink: '/clothes',
     items: [
-      { label: 'Electronics', link: '/blog/usfans-electronics/' },
-      { label: 'Phones', link: '/blog/usfans-phone/' },
-      { label: 'iPhone', link: '/blog/usfans-iphone/' },
-      { label: 'AirPods', link: '/blog/usfans-airpods/' },
-      { label: 'Tech Gadgets', link: '/blog/usfans-tech-gadgets/' }
+      { label: 'Electronics', link: '/blog/' },
+      { label: 'Phones', link: '/blog/' },
+      { label: 'iPhone', link: '/blog/' },
+      { label: 'AirPods', link: '/blog/' },
+      { label: 'Tech Gadgets', link: '/blog/' }
     ]
   }
 ]
