@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 const hostname = 'https://bbdbuyspreadsheets.com'
 const siteTitle = 'Bbdbuy Spreadsheet'
-const siteDescription = 'Bbdbuy Spreadsheet site.'
+const siteDescription = 'Explore BBDBuy Finds with BBDBuy Spreadsheet. Browse listed products across categories and brands, then open the external BBDBuy data views.'
 
 export default defineConfig({
   title: siteTitle,
