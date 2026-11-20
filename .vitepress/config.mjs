@@ -73,9 +73,6 @@ export default defineConfig({
     nav: [],
     sidebar: false,
     outline: false,
-    footer: {
-      message: 'Bbdbuy Spreadsheet',
-    },
   },
 
   sitemap: {
