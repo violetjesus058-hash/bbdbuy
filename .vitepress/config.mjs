@@ -38,7 +38,7 @@ export default defineConfig({
           }
         }
         function bindTracking() {
-          document.querySelectorAll('a.cta-spreadsheet, a[href*="docs.google.com/spreadsheets"]').forEach(function(el) {
+          document.querySelectorAll('a.cta-spreadsheet, a[href*="docs.google.com/spreadsheets"], a[href*="productsite-8wf.pages.dev"]').forEach(function(el) {
             if (!el.dataset.tracked) {
               el.dataset.tracked = '1';
               el.addEventListener('click', function() {
@@ -71,7 +71,12 @@ export default defineConfig({
     logo: '/bbdbuy-logo.png',
     siteTitle,
     nav: [
-      { text: 'All BBDBuy Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy' },
+      { text: 'Home', link: '/' },
+      { text: 'Clothing', link: 'https://productsite-8wf.pages.dev/?view=styles&category=clothing&platform=BBDBuy' },
+      { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=BBDBuy' },
+      { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=BBDBuy' },
+      { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=BBDBuy' },
+      { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy' },
     ],
     sidebar: false,
     outline: false,
