@@ -70,7 +70,9 @@ export default defineConfig({
   themeConfig: {
     logo: '/bbdbuy-logo.png',
     siteTitle,
-    nav: [],
+    nav: [
+      { text: 'All BBDBuy Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy' },
+    ],
     sidebar: false,
     outline: false,
   },
