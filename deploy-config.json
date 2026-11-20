@@ -1,7 +1,0 @@
-﻿{
-  "name": "Bbdbuy Spreadsheet",
-  "domain": "bbdbuyspreadsheets.com",
-  "github": "bbdbuy",
-  "build": "npm run build",
-  "output": "dist"
-}

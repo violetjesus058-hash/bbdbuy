@@ -1,30 +1,14 @@
 import { defineConfig } from 'vitepress'
-import { siteConfig } from './theme/site-config.js'
 
-const { seo, brand } = siteConfig
-
-// Internal repository documents must never become public pages or sitemap entries.
-const sitemapExcludedPaths = new Set([
-  '/AI-PROJECT-GUIDE',
-  '/DEPLOYMENT-RECOVERY',
-  '/EDITORIAL_UNIQUENESS_GUIDE',
-])
+const hostname = 'https://bbdbuyspreadsheets.com'
+const siteTitle = 'Bbdbuy Spreadsheet'
+const siteDescription = 'Bbdbuy Spreadsheet site.'
 
 export default defineConfig({
-  vite: {
-    ssr: {
-      noExternal: [],
-    },
-    build: {
-      rollupOptions: {
-        external: (id) => id.startsWith('/manus-storage/'),
-      },
-    },
-  },
-
-  title: brand.name,
-  description: brand.description,
+  title: siteTitle,
+  description: siteDescription,
   lang: 'en-US',
+  cleanUrls: 'with-subfolders',
 
   head: [
     // Google tag (gtag.js) — site-wide Google Analytics property supplied by the site owner
@@ -37,23 +21,10 @@ export default defineConfig({
     `],
     ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
-    ['link', { rel: 'preload', as: 'image', href: '/images/hero-1200w.webp', fetchpriority: 'high' }],
-    ['link', { rel: 'preconnect', href: 'https://www.googletagmanager.com', crossorigin: '' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: seo.title }],
-    ['meta', { property: 'og:description', content: seo.description }],
-    ['meta', { property: 'og:image', content: '/favicon.png' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: seo.title }],
-    ['meta', { name: 'twitter:description', content: seo.description }],
-    ['meta', { name: 'keywords', content: seo.keywords.join(', ') }],
-    ['script', { type: 'application/ld+json' }, JSON.stringify({
-      '@context': 'https://schema.org',
-      '@type': 'WebSite',
-      name: brand.name,
-      url: seo.hostname,
-      description: brand.description,
-    })],
+    ['meta', { property: 'og:title', content: siteTitle }],
+    ['meta', { property: 'og:description', content: siteDescription }],
+    ['meta', { property: 'og:image', content: '/bbdbuy-logo.png' }],
     // Google Analytics events for spreadsheet and shopping links
     ['script', {}, `
       (function() {
@@ -67,7 +38,6 @@ export default defineConfig({
           }
         }
         function bindTracking() {
-          // Spreadsheet links: homepage CTA buttons + article text links
           document.querySelectorAll('a.cta-spreadsheet, a[href*="docs.google.com/spreadsheets"]').forEach(function(el) {
             if (!el.dataset.tracked) {
               el.dataset.tracked = '1';
@@ -77,7 +47,6 @@ export default defineConfig({
               });
             }
           });
-          // Shopping links: homepage CTA buttons + article shopping buttons
           document.querySelectorAll('a.cta-shopping, .shopping-btn, a[href*="repsootd.com"]').forEach(function(el) {
             if (!el.dataset.tracked) {
               el.dataset.tracked = '1';
@@ -87,13 +56,11 @@ export default defineConfig({
             }
           });
         }
-        // Initial bind
         if (document.readyState === 'loading') {
           document.addEventListener('DOMContentLoaded', bindTracking);
         } else {
           bindTracking();
         }
-        // Re-bind on SPA navigation (VitePress uses pushState)
         var observer = new MutationObserver(function() { bindTracking(); });
         observer.observe(document.body, { childList: true, subtree: true });
       })();
@@ -101,72 +68,17 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    nav: siteConfig.nav,
-
-    notFound: {
-      quote: 'The page you are looking for does not exist.',
-      linkLabel: 'Back to Home',
-      linkUrl: '/',
+    logo: '/bbdbuy-logo.png',
+    siteTitle,
+    nav: [],
+    sidebar: false,
+    outline: false,
+    footer: {
+      message: 'Bbdbuy Spreadsheet',
     },
-
-    docFooter: {
-      prev: false,
-      next: false,
-    },
-
-    lastUpdated: false,
-    editLink: undefined,
   },
 
   sitemap: {
-    hostname: seo.hostname,
-    transformItems(items) {
-      return items.filter((item) => !sitemapExcludedPaths.has(item.url))
-    },
+    hostname,
   },
-
-  ignoreDeadLinks: [
-    /^\/blog\//,
-    /^http:\/\/localhost/,
-    /^\/Usfans-/,
-    /^\/is-/,
-  ],
-
-  cleanUrls: 'with-subfolders',
-
-  // Generate canonical URLs for each page
-  transformPageData(pageData) {
-    const canonicalUrl = `${seo.hostname}/${pageData.relativePath.replace(/\.md$/, '').replace(/index$/, '')}`
-    pageData.frontmatter.head = pageData.frontmatter.head || []
-    pageData.frontmatter.head.push(
-      ['link', { rel: 'canonical', href: canonicalUrl }]
-    )
-    return pageData
-  },
-
-  srcExclude: [
-    // Root-level internal documents (should not be indexed)
-    'AI-PROJECT-GUIDE.md',
-    'ARTICLE_PROMPT_GUIDE.md',
-    'BANNED_TERMS.md',
-    'BATCH_MODIFICATION_PLAN.md',
-    'DEPLOYMENT-RECOVERY.md',
-    'EDITORIAL_UNIQUENESS_GUIDE.md',
-    'WEBSITE_POSITIONING.md',
-    'flexible-article-generator.md',
-    'ideas.md',
-    // Blog-level internal documents
-    'blog/bbdbuy-article-prompt.md',
-    'blog/bbdbuy-internal-link-rules.md',
-    'blog/bbdbuy-product-reference.md',
-    'blog/bbdbuy-review-report.md',
-    'blog/bbdbuy-topic-list.md',
-    'blog/flexible-article-generator.md',
-    'blog/topic-matrix.md',
-    'blog/ideas.md',
-    'blog/content-checklist.md',
-    'blog/local-setup.md',
-    'blog/product-workflow.md',
-    'blog/website-structure.md',
-  ],
 })
