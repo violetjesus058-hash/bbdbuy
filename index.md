@@ -5,7 +5,7 @@ title: BBDBuy Spreadsheet – Browse BBDBuy Finds by Category
 <div class="bbdbuy-page">
 <section class="reference-hero">
 <p class="hero-count">BBDBUY SPREADSHEET</p>
-<h1>Explore BBDBuy<br>Finds by Category</h1>
+<h1>Explore BBDBuy<br><span>Finds by Category</span></h1>
 <p class="hero-subtitle">A STRUCTURED DIRECTORY FOR BBDBUY DATA</p>
 <p class="hero-copy">BBDBuy Spreadsheet is an independent product discovery portal built to simplify how you navigate available data. Instead of scrolling through unorganized sheets, you can jump straight into structured product groups. Currently listed data spans roughly 1,199 products and 14,708 style entries across 136 brands, with listed prices ranging from $1.07 to $192.65 in the supplied data snapshot. Select a category below or open the full directory to inspect specific items on the external data platform.</p>
 <a class="primary-cta cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy">Browse All BBDBuy Finds <span>↗</span></a>
@@ -40,6 +40,34 @@ title: BBDBuy Spreadsheet – Browse BBDBuy Finds by Category
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=watches&platform=BBDBuy"><span>06</span>Watches <small>View timepiece entries compiled from available records.</small><b>↗</b></a>
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=lego&platform=BBDBuy"><span>07</span>Lego <small>Check building sets and collectible brick models.</small><b>↗</b></a>
 <a class="category-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&category=long-sleeve&platform=BBDBuy"><span>08</span>Long Sleeve <small>Browse long-sleeve shirts and layering tops.</small><b>↗</b></a>
+</div>
+</section>
+
+<section id="featured-brands" class="brands-section">
+<p class="section-label">FEATURED BRANDS</p>
+<h2>Browse by brand</h2>
+<p class="section-intro">Open a brand-filtered BBDBuy view using the available product data.</p>
+<div class="brand-list">
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Nike">Nike</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=adidas">adidas</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=AMIRI">AMIRI</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Burberry">Burberry</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Polo+Ralph+Lauren">Polo Ralph Lauren</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Corteiz">Corteiz</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Dior">Dior</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Louis+Vuitton">Louis Vuitton</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Jordan">Jordan</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Chrome+Hearts">Chrome Hearts</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Gucci">Gucci</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Moncler">Moncler</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Stone+Island">Stone Island</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Prada">Prada</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Palm+Angels">Palm Angels</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Balenciaga">Balenciaga</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Rolex">Rolex</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Off-White">Off-White</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=A+Bathing+Ape">A Bathing Ape</a>
+<a class="brand-button cta-spreadsheet" href="https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy&brand=Vivienne+Westwood">Vivienne Westwood</a>
 </div>
 </section>
 

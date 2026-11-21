@@ -59,10 +59,14 @@
 .reference-hero h1 {
   margin: 20px 0 18px;
   color: var(--ink);
-  font-size: clamp(4.4rem, 11vw, 8.2rem);
+  font-size: clamp(3.2rem, 7vw, 5.8rem);
   font-weight: 850;
-  letter-spacing: -0.09em;
-  line-height: 0.82;
+  letter-spacing: -0.07em;
+  line-height: 0.94;
+}
+
+.reference-hero h1 span {
+  color: var(--bbdbuy-blue);
 }
 
 .hero-subtitle {
@@ -171,12 +175,12 @@
     padding: 30px 18px 36px;
   }
 
-  .reference-hero {
+.reference-hero {
     padding-top: 10px;
   }
 
   .reference-hero h1 {
-    font-size: clamp(3.5rem, 18vw, 5.8rem);
+    font-size: clamp(3rem, 15vw, 5rem);
   }
 
   .hero-copy {
@@ -327,4 +331,51 @@
     margin-left: 40px;
     margin-top: -4px;
   }
+}
+
+.brands-section {
+  max-width: 720px;
+  margin: 0 auto;
+  border-top: 1px solid var(--line);
+  padding: 48px 0;
+  text-align: center;
+}
+
+.brands-section h2 {
+  margin: 0;
+  color: var(--ink);
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: -0.055em;
+  line-height: 1.05;
+}
+
+.brand-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 24px auto 0;
+}
+
+.brand-button {
+  display: inline-flex;
+  min-height: 38px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink) !important;
+  font-size: 0.84rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: border-color 160ms ease, background 160ms ease, color 160ms ease;
+}
+
+.brand-button:hover {
+  border-color: var(--bbdbuy-blue);
+  background: var(--bbdbuy-blue);
+  color: #fff !important;
 }

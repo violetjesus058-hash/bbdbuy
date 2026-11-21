@@ -76,6 +76,7 @@ export default defineConfig({
       { text: 'Shoes', link: 'https://productsite-8wf.pages.dev/?view=styles&category=shoe&platform=BBDBuy' },
       { text: 'Pants', link: 'https://productsite-8wf.pages.dev/?view=styles&category=pants&platform=BBDBuy' },
       { text: 'Accessories', link: 'https://productsite-8wf.pages.dev/?view=styles&category=ACC&platform=BBDBuy' },
+      { text: 'Brands', link: '/#featured-brands' },
       { text: 'All Finds', link: 'https://productsite-8wf.pages.dev/?view=styles&platform=BBDBuy' },
     ],
     sidebar: false,
